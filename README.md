@@ -70,7 +70,7 @@ J'suis un pauvre fossoyeur
 ## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE GORILLE
 
 \
-Ré et La7 en alternance\
+Ré et La7 en alternance, en barré au refrain\
 \
 C'est à travers de larges grilles, que les femelles du canton,\
 Contemplaient un puissant gorille, sans soucis du qu'en dira-t-on\
