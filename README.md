@@ -6,14 +6,27 @@ Lam          Mi   Lam                       Si7
 Au village, sans prétention, J'ai mauvaise réputation.
 Lam                            Mi   Lam                           Si7  Mi        Lam
 Qu'je m'démène ou qu'je reste coi, Je passe pour un je-ne-sais-quoi !
-
 Fa                                   Mi              Fa                                       Mi Lam Fa Mi
 Je ne fais pourtant de tort à personne, En suivant mon chemin de petit bonhomme. 
 
 Lam                            Mi            Lam                         Si7  Mi        Lam
-Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Lam                            Mi            Lam                         Si7  Mi        LamNon les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Fa                                 Lam              Mi                   LamTout le monde médit de moi, Sauf les muets, ça va de soi.
+Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, 
+Lam                            Mi            Lam                         Si7  Mi        Lam
+Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, 
+Fa                                 Lam              Mi                   Lam
+Tout le monde médit de moi, Sauf les muets, ça va de soi.
 
-Lam                   Mi   Lam                Si7      Mi  LamLe jour du Quatorze Juillet, Je reste dans mon lit douillet. Lam            Mi   Lam                            Si7      Mi  LamLa musique qui marche au pas, Cela ne me regarde pas. Fa                                   Mi              Fa                                 Mi Lam Fa MiJe ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne. Lam                            Mi            Lam                         Si7  Mi        LamMais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Lam                            Mi            Lam                         Si7  Mi        LamNon les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Fa                                        Lam                        Mi                   LamTout le monde me montre du doigt, Sauf les manchots, ça va de soi.
+Lam                   Mi   Lam                Si7      Mi  Lam
+Le jour du Quatorze Juillet, Je reste dans mon lit douillet. 
+Lam            Mi   Lam                            Si7      Mi  Lam
+La musique qui marche au pas, Cela ne me regarde pas. 
+Fa                                   Mi              Fa                                 Mi Lam Fa Mi
+Je ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne. Lam                            Mi   
+
+Lam                         Si7  Mi        Lam
+Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Lam                            Mi            Lam                         Si7  Mi        Lam
+Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Fa                                        Lam                        Mi                   Lam
+Tout le monde me montre du doigt, Sauf les manchots, ça va de soi.
 
 Lam                        Mi   Lam                             Si7      Mi  Lam\
 Quand j'croise un voleur malchanceux, Poursuivi par un cul-terreux,\
