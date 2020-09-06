@@ -1,6 +1,6 @@
-## *1) LA MAUVAISE RÉPUTATION*
+# *1) LA MAUVAISE RÉPUTATION*
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA MAUVAISE RÉPUTATION
+## LA MAUVAISE RÉPUTATION
 
 Lam          Mi   Lam                       Si7      Mi  Lam
 Au village, sans prétention, J'ai mauvaise réputation.
