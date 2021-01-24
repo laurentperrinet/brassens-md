@@ -541,9 +541,9 @@ Ré                                                                             
 Voir le nombril d'la femme d'un flic, N'est certainement pas un spectacle
 Ré                                                                                     La7
 Qui, du point d'vue de l'esthétique, Puisse vous élever au pinacle
-Si7                                                                                          Mim La5+ Ré
+Si7                                                                                          Mim La5 Ré
 Il y eut pourtant, dans l'vieux Paris, Un honnête homme sans malice
-Si7                                                                                      Mim La5+ Ré
+Si7                                                                                      Mim La5 Ré
 Brûlant d'contempler le nombril, D'la femme d'un agent de police
 
 « Je me fais vieux, gémissait-il, Et, durant le cours de ma vie,
@@ -952,7 +952,7 @@ J'aurais gaîment passé dix ans au bagne Sous les verrous... -Le vent qui vient
 « Quand je voyais cette enfant, moi le pâtre De ce canton, Je croyais voir la belle Cléopâtre, Qui, nous dit-on,
 Menait César, empereur d'Allemagne, Par le licou... -Le vent qui vient à travers la montagne Me rendra fou.
 
-La                        La+                  Ré      Mi7            La                          La5+                Ré     Mi7             La
+La                        La+                  Ré      Mi7            La                          La5                Ré     Mi7             La
 « Dansez, chantez, villageois, la nuit tombe. Sabine, un jour, A tout vendu, sa beauté de colombe, Tout son amour,
                       Fa#7                      Sim                    Do#7                    Fa#m                       Mi7                    La   Mi La
 Pour l'anneau d'or du comte de Saldagne, Pour un bijou... -Le vent qui vient à travers la montagne M'a rendu fou.
@@ -1036,38 +1036,38 @@ Leur auraient même coupé les choses, Par bonheur ils n'en avaient pas.
 ## LA CHASSE AUX PAPILLONS
 
 
-La                               La5+      Ré Mi7              La             Ré La Mi7
+La                               La5      Ré Mi7              La             Ré La Mi7
 Un bon petit diable à la fleur de l'âge, La jambe légère et l'œil polisson
-La                                  La5+    Ré     Mi7        La       Fa#7 Sim Mi7 La
+La                                  La5    Ré     Mi7        La       Fa#7 Sim Mi7 La
 Et la bouche pleine de joyeux ramages, Allait à la chasse aux papillons
-La                               La5+      Ré Mi7              La             Ré La Mi7
+La                               La5      Ré Mi7              La             Ré La Mi7
 Comme il atteignait l'orée du village, Filant sa quenouille, il vit Cendrillon
-La                                  La5+    Ré     Mi7                       La Fa#7 Sim Mi7 La
+La                                  La5    Ré     Mi7                       La Fa#7 Sim Mi7 La
 Il lui dit : « Bonjour, que Dieu te ménage, J't'emmène à la chasse aux papillons »
 La7             Ré          La7     Ré    La7              Ré             La7  Ré
 Cendrillon ravie de quitter sa cage, Met sa robe neuve et ses bottillons
 Fa#7                          Sim              Fa#7   Sim    Fa#m          Sol#7             Do#     Mi7
 Et bras d'ssus bras d'ssous vers les frais bocages, Ils vont à la chasse aux papillons
-La                                  La5+      Ré    Mi7              La             Ré La Mi7
+La                                  La5      Ré    Mi7              La             Ré La Mi7
 Ils ne savaient pas que sous les ombrages, Se cachait l'amour et son aiguillon
-La                                  La5+    Ré         Mi7                        La Fa#7 Sim Mi7 La
+La                                  La5    Ré         Mi7                        La Fa#7 Sim Mi7 La
 Et qu'il transperçait les cœurs de leur âge, Les cœurs des chasseurs de papillons
 
-La                                         La5+      Ré Mi7                        La             Ré La Mi7
+La                                         La5      Ré Mi7                        La             Ré La Mi7
 Quand il se fit tendre, elle lui dit : « J'présage, Qu'c'est pas dans les plis de mon cotillon
-La                                  La5+    Ré     Mi7        La       Fa#7 Sim Mi7 La
+La                                  La5    Ré     Mi7        La       Fa#7 Sim Mi7 La
 Ni dans l'échancrure de mon corsage, Qu'on va à la chasse aux papillons »
 La7                    Ré          La7            Ré    La7              Ré             La7  Ré
 Sur sa bouche en feu qui criait : « Sois sage ! » Il posa sa bouche en guise de bâillon
 Fa#7                 Sim              Fa#7   Sim    Fa#m          Sol#7             Do#     Mi7
 Et c'fut l'plus charmant des remue-ménage, Qu'on ait vu d'mémoire de papillon
-La                                          La5+      Ré Mi7              La             Ré La Mi7
+La                                          La5      Ré Mi7              La             Ré La Mi7
 Un volcan dans l'âme, ils r'vinrent au village, En se promettant d'aller des millions
-La                                  La5+    Ré     Mi7        La       Fa#7 Sim Mi7 La
+La                                  La5    Ré     Mi7        La       Fa#7 Sim Mi7 La
 Des milliards de fois, et même davantage, Ensemble à la chasse aux papillons
-La                                              La5+      Ré Mi7              La             Ré La Mi7
+La                                              La5      Ré Mi7              La             Ré La Mi7
 Mais tant qu'ils s'aimeront, tant que les nuages, Porteurs de chagrins, les épargneront
-La                           La5+          Ré    Mi7                     La          Sol#
+La                           La5          Ré    Mi7                     La          Sol#
 Il f'ra bon voler dans les frais bocages, Ils f'ront pas la chasse aux papillons
 Ré                      La  Mi La Mi La
 Pas la chasse aux papillons
@@ -1732,7 +1732,7 @@ Mib7M Mib7M Mib7M  Sib74 Sol7 Dom7 Lab7M Lab67
 Maman, maman, en faisant cette chanson, Maman,
 Labm7 Mib7M Dom7 Sib74 Sol7  
 maman, je r'deviens petit garçon
-Dom7           Sol7                     Dom7             Sol7 Dom7             Sol75+         Lab7M Labm7 Sib7
+Dom7           Sol7                     Dom7             Sol7 Dom7             Sol75         Lab7M Labm7 Sib7
 Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
 Mib7M Mib7M Mib7M  Sib74   Sol7 Dom7 Lab7M Lab67  Labm7 Mib7M Dom7 Sib74 Sol7
 Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
@@ -2665,7 +2665,7 @@ Rém                                                             La7
 Vous avez mis La zizanie Aux noces de Jeannette.
 Sib                          La7                         Rém                  Sol7
 Je vous l'avoue, Tonton, vous vous, Comportâtes comme un
-                                         Do7                             La5+
+                                         Do7                             La5
 Mufle achevé, Rustre fieffé, Un homme du commun.
 
 Quand la fiancée, Les yeux baissés, Des larmes pleins les cils,
@@ -2681,7 +2681,7 @@ Fam                                                           Do7
 S'apprêtait à Dire « Oui da ! », Par-devant l'Éternel,
 Ré                            Do7                 Fam         Sib7
 Voilà me chef, Que, derechef, Vous osâtes porter
-                                           Mib7            Sol5+
+                                           Mib7            Sol5
 Votre fichue, Patte crochue, Sur sa rotondité. Se retournant, Incontinent, Elle moucha le nez
 D'un enfant d'chœur, Qui, par bonheur, Était enchifrené,
 Mais au lieu du « Oui » attendu, De sa pauvre voix lasse,
@@ -2694,7 +2694,7 @@ On s'pass'ra d'vous. Tonton, je vous, Je vous le dit tout net.
 ## LA BALLADE DES CIMETIÈRES
 
 
-La5+ : 003220
+La5 : 003220
 
 Lam                     Fa         Mi      Lam                    Sol7 Do Mi7
 J'ai des tombeaux en abondance, Des sépultures à discrétion,
@@ -2706,7 +2706,7 @@ Lam                           Fa         Mi   Lam
 J'ai des p'tites bosses plein les allées, Et je suis triste, cependant...
 La                Fa#7 Sim       Mi7   La         Fa#7 Sim Mi7
 Car je n'en ai pas, et ça m'agace, Et ça défrise mon blason,
-La      Fa#7 Sim            Mi7      La             La5+          Ré      Lam          Mi7          Lam
+La      Fa#7 Sim            Mi7      La             La5          Ré      Lam          Mi7          Lam
 Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
 
 J'en possède au Père-Lachaise, A Bagneux, à Thiais, à Pantin,
@@ -2937,9 +2937,9 @@ Moi, qui balance entre deux âges, j'leur adresse à tous un message
 Refrain :
 La                                                                Fa#7        Sim
 Le temps ne fait rien à l'affaire, quand on est con on est con
-Sim                                                                             Mi   Mi5+  La
+Sim                                                                             Mi   Mi5  La
 Qu'on ait vingt ans qu'on soit grand père, quand on est con on est con
-La                                                         La7 La5+            Ré
+La                                                         La7 La5            Ré
 Entre nous plus de controverse, cons caducs ou cons débutants
 Ré          Rém6    La              Sim                                  Do#
 Petits cons d'la dernière averse, vieux cons des neiges d'antan
@@ -3238,15 +3238,15 @@ Mon prince, on a les dames du temps jadis qu'on peut...
 ##MARQUISE
 
 
-La5+ : 003221, Mi5+ : 022110
+La5 : 003221, Mi5 : 022110
 
-Intro : La La5+ Ré
+Intro : La La5 Ré
 
-La                                               La5+                Ré
+La                                               La5                Ré
 Marquise, si mon visage, A quelques traits un peu vieux,
-Si7                                 Mi                Mi5+                   La
+Si7                                 Mi                Mi5                   La
 Souvenez-vous qu'à mon âge, Vous ne vaudrez guère mieux.
-La                                               La5+                Ré
+La                                               La5                Ré
 Marquise, si mon visage, A quelques traits un peu vieux,
 Do#7                             Fa#m Si7                  Mi         La
 Souvenez-vous qu'à mon âge, Vous ne vaudrez guère mieux. \
@@ -3263,7 +3263,7 @@ Ré                                                           Do#7           Fa#
 Peut-être que je serai vieille, Répond Marquise, cependant
 Fa#m          Sim  Mi                 La      Fa#m     Sim     Mi          La
 J'ai vingt-six ans, mon vieux Corneille, Et je t'emmerde en attendant.
-La5+           Ré    Do#7            Fa#m                 Si7      Mi       La
+La5           Ré    Do#7            Fa#m                 Si7      Mi       La
 J'ai vingt-six ans, mon vieux Corneille, Et je t'emmerde en attendant.
 
 fin comme intro.
@@ -3927,7 +3927,7 @@ Et ma main vengeresse est retombée, vaincue ! Et le troisième coup ne fut qu'u
 
 Mim                    Si7              Mim        Si7                Mim           Si7           Mim                  La7
 « Cher monsieur, m'ont-ils dit, vous en êtes un autre », Lorsque je refusai de monter dans leur train.
-Rém             La7               Rém           La7            Ré7                                                            Sol7 Sol5+
+Rém             La7               Rém           La7            Ré7                                                            Sol7 Sol5
 Oui, sans doute, mais moi, j'fais pas le bon apôtre, Moi, je n'ai besoin de personne pour en être un.
 Do                                                        Sol7                     Do                Fa        Do
 Le pluriel ne vaut rien à l'homme et sitôt qu'on, Est plus de quatre on est une bande de cons.
@@ -4527,7 +4527,7 @@ Voilà le vent qui s'élève, Et gémit dans le vallon
 Voilà l'errante hirondelle, Qui rase du bout de l'aile
                                    Mim Fa#7                           Sim
 L'eau dormante des marais, Voilà l'enfant des chaumières
-        Mi7 Mi5+        La Fa#m        Sim    Mi7   La
+        Mi7 Mi5        La Fa#m        Sim    Mi7   La
 Qui glane sur les bruyères, Le bois tombé des forêts
 
 C'est la saison où tout tombe, Aux coups redoublés des vents
