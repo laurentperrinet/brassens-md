@@ -384,11 +384,11 @@ l1: Un croquant passant à la ronde trouvant le tableau peu commun, s'en alla le
 
 c1: C                                 Am             C
 l1: Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-c1:                                   A7   D7 / G7          C                               G#7
+c1:                                   A7   D7  G7          C                               G#7
 l1: Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            G7                                C                                   Am              C
 l1: Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-c1:                                            A7    D7 / G7          C                                G#7
+c1:                                            A7    D7  G7          C                                G#7
 l1: Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 c1: G7                                                                  C            Am                                              D7 G7
@@ -402,11 +402,11 @@ l1: Les gendarmes même les gendarmes, qui sont par nature si balots, se laisse 
 
 c1: C                                 Am             C
 l1: Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-c1:                                   A7   D7 / G7          C                               G#7
+c1:                                   A7   D7  G7          C                               G#7
 l1: Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            G7                                C                                   Am              C
 l1: Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-c1:                                            A7    D7 / G7          C                                G#7
+c1:                                            A7    D7  G7          C                                G#7
 l1: Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 c1: G7                                                                                     C            Am                                  D7 G7
@@ -420,13 +420,13 @@ l1: Le temps passa sur les mémoires, on oublia l'événement, seuls les vieux r
 
 c1: C                                 Am             C
 l1: Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-c1:                                   A7   D7 / G7          C                               G#7
+c1:                                   A7   D7  G7          C                               G#7
 l1: Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            G7                                C                                   Am              C
 l1: Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-c1:                                            A7    D7 / G7          C                                G#7
+c1:                                            A7    D7  G7          C                                G#7
 l1: Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
-c1:            C             G#7         C G7 / C
+c1:            C             G#7         C G7  C
 l1: Etaient là là là là là là là là là là là
 
 ## LA CANE DE JEANNE
@@ -1728,17 +1728,17 @@ l1: Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-c1: Eb7M Eb7M Eb7M  Bb7/4 G7 Cm7 Ab7M Ab6/7  
+c1: Eb7M Eb7M Eb7M  Bb74 G7 Cm7 Ab7M Ab67  
 l1: Maman, maman, en faisant cette chanson, Maman,
-c1: Abm7 Eb7M Cm7 Bb7/4 G7  
+c1: Abm7 Eb7M Cm7 Bb74 G7  
 l1: maman, je r'deviens petit garçon
-c1: Cm7           G7                     Cm7             G7 Cm7             G7/5+         Ab7M Abm7 Bb7
+c1: Cm7           G7                     Cm7             G7 Cm7             G75+         Ab7M Abm7 Bb7
 l1: Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
-c1: Eb7M Eb7M Eb7M  Bb7/4   G7 Cm7 Ab7M Ab6/7  Abm7 Eb7M Cm7 Bb7/4 G7
+c1: Eb7M Eb7M Eb7M  Bb74   G7 Cm7 Ab7M Ab67  Abm7 Eb7M Cm7 Bb74 G7
 l1: Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
 c1: Ab7M             Gm7           Fm7               
 l1: Et, sans un mot dire, entendre tes refrains charmants,
-c1: Ab7M Fm7 Fb7M Bb7/4    Eb  
+c1: Ab7M Fm7 Fb7M Bb74    Eb  
 l1: Maman, maman, maman, maman
 
 l1: Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
