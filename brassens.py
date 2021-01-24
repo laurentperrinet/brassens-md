@@ -34,39 +34,40 @@ for i, line in enumerate(lines):
 
 print(f'{chords=}')
 
-lines_tmp = []
-for i, line in enumerate(lines):
-    words = line[:-1].split(' ')
-    threshold = sum([word=='' for word in words])
-    if not threshold>1:
-        line_tmp = f'{threshold:3d}' + '|' + line
-        lines_tmp.append(line_tmp)
-
-write(lines_tmp)
+# lines_tmp = []
+# for i, line in enumerate(lines):
+#     words = line[:-1].split(' ')
+#     threshold = sum([word=='' for word in words])
+#     if not threshold>1:
+#         line_tmp = f'{threshold:3d}' + '|' + line
+#         lines_tmp.append(line_tmp)
+#
+# write(lines_tmp)
 
 # render
 # https://markdown-it-py.readthedocs.io/en/latest/using.html
-# from markdown_it import MarkdownIt
-# from markdown_it.extensions.front_matter import front_matter_plugin
-# from markdown_it.extensions.footnote import footnote_plugin
-#
-# md = (
-#     MarkdownIt()
-#     .use(front_matter_plugin)
-#     .use(footnote_plugin)
-#     .enable('table')
-# )
-# text = ("""
-# ---
-# a: 1
-# ---
-#
-# a | b
-# - | -
-# 1 | 2
-#
-# A footnote [^1]
-#
-# [^1]: some details
-# """)
-# md.render(text)
+from markdown_it import MarkdownIt
+from markdown_it.extensions.front_matter import front_matter_plugin
+from markdown_it.extensions.footnote import footnote_plugin
+
+md = (
+    MarkdownIt()
+    .use(front_matter_plugin)
+    .use(footnote_plugin)
+    .enable('table')
+)
+text = ("""
+---
+a: 1
+---
+
+a | b
+- | -
+1 | 2
+
+A footnote [^1]
+
+[^1]: some details
+""")
+
+write(md.render(text), 'index.html')
