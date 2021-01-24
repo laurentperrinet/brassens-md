@@ -63,7 +63,7 @@ for i, line in enumerate(lines):
         threshold = sum([word=='' for word in words])
         if not threshold>1:
             # line_tmp = f'{threshold:3d}' + '|' + line
-            line_tmp = 'l1: ' + line
+            line_tmp = 'l1: ' + line + '\n'
         else:
             for c in chordsdict.keys():
                 line = line.replace(c, chordsdict[c])
