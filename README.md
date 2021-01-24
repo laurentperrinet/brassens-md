@@ -311,7 +311,7 @@ Il suffit de passer le pont, Laisse-moi tenir ton jupon
 
 Sol                             Sol7                    Do                                     Sol7                      Do
 Hé ! donne moi ta bouche, hé ! ma jolie fraise ! L'aube a mis des fraises plein notre horizon
-                     Sib    La                         Ré7/9      Do                   Sol                      Do
+                     Sib    La                         Ré7      Do                   Sol                      Do
 Garde tes dindons, moi mes porcs, Thérèse, Ne r'pousse pas du pied mes p'tits cochons
 Fa              Do                 Sol7               Do        Fa                  Do                   Ré7       Sol7
 Va, comme hier ! Comme hier ! Comme hier ! Si tu ne m'aimes point, c'est moi qui t'aim'rons
@@ -384,11 +384,11 @@ Un croquant passant à la ronde trouvant le tableau peu commun, s'en alla le dir
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Re7 / Sol7          Do                               Sol#7
+                                  La7   Ré7 / Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Re7 / Sol7          Do                                Sol#7
+                                           La7    Ré7 / Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 Sol7                                                                  Do            Lam                                              Ré7 Sol7
@@ -402,11 +402,11 @@ Les gendarmes même les gendarmes, qui sont par nature si balots, se laisse touc
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Re7 / Sol7          Do                               Sol#7
+                                  La7   Ré7 / Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Re7 / Sol7          Do                                Sol#7
+                                           La7    Ré7 / Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 Sol7                                                                                     Do            Lam                                  Ré7 Sol7
@@ -420,11 +420,11 @@ Le temps passa sur les mémoires, on oublia l'événement, seuls les vieux racon
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Re7 / Sol7          Do                               Sol#7
+                                  La7   Ré7 / Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Re7 / Sol7          Do                                Sol#7
+                                           La7    Ré7 / Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Do             Sol#7         Do Sol7 / Do
 Etaient là là là là là là là là là là là
@@ -1728,17 +1728,17 @@ Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-Mib7/9M Mib7M Mib7/9M  Sib7/4 Sol7 Dom7 Lab7M Lab6/7  
+Mib7M Mib7M Mib7M  Sib7/4 Sol7 Dom7 Lab7M Lab6/7  
 Maman, maman, en faisant cette chanson, Maman,
-Labm7 Mib7/9M Dom7 Sib7/4 Sol7  
+Labm7 Mib7M Dom7 Sib7/4 Sol7  
 maman, je r'deviens petit garçon
 Dom7           Sol7                     Dom7             Sol7 Dom7             Sol7/5+         Lab7M Labm7 Sib7
 Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
-Mib7/9M Mib7M Mib7/9M  Sib7/4   Sol7 Dom7 Lab7M Lab6/7  Labm7 Mib7/9M Dom7 Sib7/4 Sol7
+Mib7M Mib7M Mib7M  Sib7/4   Sol7 Dom7 Lab7M Lab6/7  Labm7 Mib7M Dom7 Sib7/4 Sol7
 Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
 Lab7M             Solm7           Fam7               
 Et, sans un mot dire, entendre tes refrains charmants,
-Lab7M Fam7/9 Fab7M Sib7/4    Mib  
+Lab7M Fam7 Fab7M Sib7/4    Mib  
 Maman, maman, maman, maman
 
 Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
@@ -3832,9 +3832,9 @@ Qui fait du pédalo sur la plage en rêvant, Qui passe sa mort en vacances.
 
 Sol                                                Mi7
 C'était tremblant, c'était troublant, C'était vêtu d'un drap tout blanc,
-       Lam   Re7                  Sol               Do               Sol
+       Lam   Ré7                  Sol               Do               Sol
 Ça présentait tous les symptômes, Tous les dehors de la vision,
-      Si7              Mim    Do Sol Mim Lam Re7 Sol
+      Si7              Mim    Do Sol Mim Lam Ré7 Sol
 Les faux airs de l'apparition, En un mot, c'était un fantôme !
 
 A sa manière d'avancer, A sa façon de balancer
@@ -4346,7 +4346,7 @@ Fa                    Do7         Fa7       Sib   Sibm                 Fa       
 Et le dernier concert de l'ancêtre déçu, Ce fut un pot-pourri de cantiques, peuchère !
 Do                                                           Do7                                                    Fa
 Quand nous serons ancêtres, Du côté de Bicêtre, Pas de musique d'orgue, oh ! non,
-                          Mim     Rém                   La7      Fa                                        Mi7 La7 Re7 Sol7 Do
+                          Mim     Rém                   La7      Fa                                        Mi7 La7 Ré7 Sol7 Do
 Pas de chants liturgiques, Pour qui avale sa chique, Mais des guitares, cré nom de nom ! (bis)
 
 La7                                                     Solm                        La7
@@ -4364,7 +4364,7 @@ Fa                   Do             Fa7    Sib  Sibm               Fa           
 Et l' coup de l'étrier de l'ancêtre déçu, Ce fut un grand verre d'eau bénite, peuchère !
 Do                                                           Do7                                                   Fa
 Quand nous serons ancêtres, Du côté de Bicêtre, Ne nous faites pas boire, oh ! non,
-                         Mim    Rém             La7    Fa                                        Mi7 La7 Re7 Sol7 Do
+                         Mim    Rém             La7    Fa                                        Mi7 La7 Ré7 Sol7 Do
 De ces eaux minérales, Bénites ou lustrales, Mais du bon vin, cré nom de nom ! (bis)
 
 La7                                                  Solm                         La7
@@ -4381,7 +4381,7 @@ Fa                    Do7            Fa7  Sib Sibm      Fa                      
 Et le dernier froufrou de l'ancêtre déçu, Ce fut celui d'une robe de sœur, peuchère !
 Do                                                            Do7                                                Fa
 Quand nous serons ancêtres, Du côte de Bicêtre, Pas d'enfants de Marie, oh ! non,
-                                Mim    Rém                     La7    Fa                                        Mi7 La7 Re7 Sol7 Do
+                                Mim    Rém                     La7    Fa                                        Mi7 La7 Ré7 Sol7 Do
 Remplacez-nous les nonnes, Par des belles mignonnes, Et qui fument, cré nom de nom ! (bis)
 
 ## RIEN A JETER
