@@ -7,25 +7,29 @@ Au village, sans prétention, J'ai mauvaise réputation.
 Lam                            Mi   Lam                           Si7  Mi        Lam
 Qu'je m'démène ou qu'je reste coi, Je passe pour un je-ne-sais-quoi !
 Fa                                   Mi              Fa                                       Mi Lam Fa Mi
-Je ne fais pourtant de tort à personne, En suivant mon chemin de petit bonhomme. 
+Je ne fais pourtant de tort à personne, En suivant mon chemin de petit bonhomme.
 
 Lam                            Mi            Lam                         Si7  Mi        Lam
 Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, 
 Lam                            Mi            Lam                         Si7  Mi        Lam
-Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, 
+Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux,
 Fa                                 Lam              Mi                   Lam
 Tout le monde médit de moi, Sauf les muets, ça va de soi.
 
 Lam                   Mi   Lam                Si7      Mi  Lam
-Le jour du Quatorze Juillet, Je reste dans mon lit douillet. 
+Le jour du Quatorze Juillet, Je reste dans mon lit douillet.
 Lam            Mi   Lam                            Si7      Mi  Lam
-La musique qui marche au pas, Cela ne me regarde pas. 
+La musique qui marche au pas, Cela ne me regarde pas.
 Fa                                   Mi              Fa                                 Mi Lam Fa Mi
-Je ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne. Lam                            Mi   
+Je ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne. 
+
+Lam                            Mi   
 
 Lam                         Si7  Mi        Lam
-Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Lam                            Mi            Lam                         Si7  Mi        Lam
-Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Fa                                        Lam                        Mi                   Lam
+Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, 
+Lam                            Mi            Lam                         Si7  Mi        Lam
+Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, 
+Fa                                        Lam                        Mi                   Lam
 Tout le monde me montre du doigt, Sauf les manchots, ça va de soi.
 
 Lam                        Mi   Lam                             Si7      Mi  Lam
@@ -1724,14 +1728,18 @@ Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-Mib7/9M Mib7M Mib7/9M  Sib7/4 Sol7 Dom7 Lab7M Lab6/7  Labm7 Mib7/9M Dom7 Sib7/4 Sol7
-Maman, maman, en faisant cette chanson, Maman,           maman,             je r'deviens petit garçon
+Mib7/9M Mib7M Mib7/9M  Sib7/4 Sol7 Dom7 Lab7M Lab6/7 
+Maman, maman, en faisant cette chanson, Maman,
+Labm7 Mib7/9M Dom7 Sib7/4 Sol7
+maman, je r'deviens petit garçon
 Dom7           Sol7                     Dom7             Sol7 Dom7             Sol7/5+         Lab7M Labm7 Sib7
 Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
 Mib7/9M Mib7M Mib7/9M  Sib7/4   Sol7 Dom7 Lab7M Lab6/7  Labm7 Mib7/9M Dom7 Sib7/4 Sol7
-Maman, maman, je préfère à mes jeux fous, Maman,          maman,             demeurer sur tes genoux
-Lab7M             Solm7           Fam7                Lab7M Fam7/9 Fab7M Sib7/4    Mib
-Et, sans un mot dire, entendre tes refrains charmants, Maman, maman, maman, maman
+Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
+Lab7M             Solm7           Fam7               
+Et, sans un mot dire, entendre tes refrains charmants,
+Lab7M Fam7/9 Fab7M Sib7/4    Mib
+Maman, maman, maman, maman
 
 Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
 Et je t'entends sous l'orage, User tout ton humour, Pour redonner du courage, A nos cœurs lourds
@@ -1778,22 +1786,22 @@ Les gens, par milliers, Courront y noyer, Leur peine ...
 ## PHILISTINS
 
 
-Sim              Mim             Sim               Do#7 Fa#7 Sim La Sol Fa#
-Philistins, épiciers, Tandis que vous caressiez,     Vos femmes
-           Sim            Mim             Sim               Do#7 Fa#7 Sim
-En songeant aux petits, Que vos grossiers appétits,         Engendrent
+Sim              Mim             Sim             Do#7 Fa#7 Sim La Sol Fa#
+Philistins, épiciers, Tandis que vous caressiez, Vos femmes
+           Sim            Mim             Sim       Do#7 Fa#7 Sim
+En songeant aux petits, Que vos grossiers appétits, Engendrent
                Mim           La7              Ré               Sim        Do#7  Fa#7
 Vous pensiez : « Ils seront, Menton rasé, ventre rond, Notaires »
                 Mim           La               Ré                Sim        Do#7  Fa#7
 Mais pour bien vous punir, Un jour vous voyez venir, Sur terre
-           Sim             Mim          Sim                Do#7 Fa#7 Sim
-Des enfants non voulus, Qui deviennent chevelus,          Poètes... 
+           Sim             Mim          Sim      Do#7 Fa#7 Sim
+Des enfants non voulus, Qui deviennent chevelus, Poètes... 
                Mim           La7              Ré               Sim        Do#7  Fa#7
 Vous pensiez : « Ils seront, Menton rasé, ventre rond, Notaires »
                 Mim           La7              Ré                Sim        Do#7  Fa#7
 Mais pour bien vous punir, Un jour vous voyez venir, Sur terre
-           Sim             Mim          Sim                Do#7 Fa#7 Sim Fa#7 Sim
-Des enfants non voulus, Qui deviennent chevelus,          Poètes...
+           Sim             Mim          Sim      Do#7 Fa#7 Sim Fa#7 Sim
+Des enfants non voulus, Qui deviennent chevelus, Poètes...
 
 ## LE VIEUX LÉON
 
@@ -2216,7 +2224,7 @@ Il a mis du pain sur ta planche, Il a mis les mains sur tes hanches.
 
 Il t'a prom'née dans un landau, Il t'a prom'née dans un landau, 
 En route pour la vie d'château, En route pour la vie d'château, 
-La belle vie dorée sur tranche, Il te l'offrit sur un plateau.     
+La belle vie dorée sur tranche, Il te l'offrit sur un plateau.
 Il a mis du grain dans ta grange, Il a mis les mains sur tes hanches.
 
 Toi qui n'avais rien sur le dos, Toi qui n'avais rien sur le dos, 
@@ -2820,12 +2828,13 @@ Mais elle me répondit, le regard en dessous, « C'est vous que je préfère
 J'suis pas bien grosse, fit-elle, d'une voix qui se noue, Mais ce n'est pas ma faute »
 Alors, moi, tout ému, j'la pris sur mes genoux, Pour lui compter les côtes
 « Toi qu'j'ai payé cent sous, dis-moi quel est ton nom, Ton p'tit nom de baptême ?
-\- Je m'appelle Ninette. - Eh bien, pauvre Ninon, Console-toi, je t'aime »
+- Je m'appelle Ninette. - Eh bien, pauvre Ninon, Console-toi, je t'aime »
 
 Ré                                     Mim                       Ré                 Mi7 La7
 Et ce brave sac d'os dont j'n'avais pas voulu, Même pour une thune
       Ré                                Mim                             Ré            Mi7 La7 Ré
-M'est entré dans le cœur et n'en sortirait plus, Pour toute une fortune                                                                                                                  Ré     
+M'est entré dans le cœur et n'en sortirait plus, Pour toute une fortune
+                                                                                                                  Ré     
                                   Mim                            Ré                       Mi7 La7
 Du temps que je vivais dans le troisième dessous, Ivrogne, immonde, infâme
       Ré                                        Mim                                  Ré                 Mi7 La7 Ré
@@ -4178,12 +4187,12 @@ Retombe lourdement dans ma bouche pâteuse. Ça n'fait rien, nous vivons un temp
 ## LE MOYENÂGEUX
 
 
-Fa#m       Si7            Mi                               Fa#m Si7   Mi
-Le seul reproche, au demeurant, Qu'aient pu mé-     riter mes parents,
+Fa#m       Si7            Mi                   Fa#m Si7   Mi
+Le seul reproche, au demeurant, Qu'aient pu mériter mes parents,
              Mim La7    Ré                      Mi      Ré             Mi    Do#7
 C'est d'avoir pas joué plus tôt, Le jeu de la bête à deux dos.
-         Fa#m Si7   Mi                       Fa#m Si7     Mi
-Je suis né, même pas bâtard, Avec cinq    siècles de retard.
+         Fa#m Si7   Mi                 Fa#m Si7     Mi
+Je suis né, même pas bâtard, Avec cinq siècles de retard.
          Mim La7        Ré                     Mi        Ré        Mi    Do#7
 Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
 
@@ -4455,7 +4464,7 @@ Des assoiffés d'azur, Des poètes des fous
 Regardez les vieux coqs, Jeune Oie édifiante
 Rien de vous ne pourra, monter aussi haut qu'eux
 Et le peu qui viendra, D'eux à vous c'est leur fiente,
-Les bourgeois sont troublés, De voir passer les gueux    (couplet bis)
+Les bourgeois sont troublés, De voir passer les gueux (couplet bis)
 
 ## LA RELIGIEUSE
 
