@@ -28,10 +28,10 @@ Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Lam 
 Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, Fa                                        Lam                        Mi                   Lam
 Tout le monde me montre du doigt, Sauf les manchots, ça va de soi.
 
-Lam                        Mi   Lam                             Si7      Mi  Lam\
-Quand j'croise un voleur malchanceux, Poursuivi par un cul-terreux,\
-Lam                      Mi        Lam                       Si7      Mi  Lam\
-J'lance la patte et pourquoi le taire, Le cul-terreux se r'trouve par terre \
+Lam                        Mi   Lam                             Si7      Mi  Lam
+Quand j'croise un voleur malchanceux, Poursuivi par un cul-terreux,
+Lam                      Mi        Lam                       Si7      Mi  Lam
+J'lance la patte et pourquoi le taire, Le cul-terreux se r'trouve par terre 
 Fa                                   Mi              Fa                                Mi Lam Fa Mi\
 Je ne fais pourtant de tort à personne, En laissant courir les voleurs de pommes. \
 Lam                            Mi            Lam                         Si7  Mi        Lam\
@@ -54,7 +54,7 @@ Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux, \
 Fa                                           Lam                      Mi                   Lam\
 Tout l'monde viendra me voir pendu, Sauf les aveugles, bien entendu.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE FOSSOYEUR
+## LE FOSSOYEUR
 
 \
 La                     Fa#m La            Ré      Mi        La               Fa#m          Si7\
@@ -80,7 +80,7 @@ Ni vu ni connu, brave mort adieu ! Si du fond d'la terre on voit l'Bon Dieu \
 Dis-lui l'mal que m'a coûté, La dernière pelleté\
 J'suis un pauvre fossoyeur
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE GORILLE
+## LE GORILLE
 
 \
 Ré et La7 en alternance, en barré au refrain\
@@ -139,7 +139,7 @@ Car le juge au moment suprême, Criait « Maman », pleurait beaucoup,\
 Comme l'homme auquel le jour même, Il avait fait trancher le coup\
 Gare au goriiiiiiiiiiille
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE PETIT CHEVAL
+## LE PETIT CHEVAL
 
 \
 La                                Ré        La                                       Fa#m Mi \
@@ -169,7 +169,7 @@ Il est mort sans voir le beau temps, Qu'il avait donc du courage \
 Il est mort sans voir le printemps, Ni derrière, ni derrière \
 Il est mort sans voir le beau temps, Ni derrière ni devant
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE PARAPLUIE
+## LE PARAPLUIE
 
 \
                Sol                                              Mi7              Lam \
@@ -206,7 +206,7 @@ Et je l'ai vue toute petite, Partir gaiement vers mon oubli
 Un p'tit coin d'parapluie, Contre un coin d'paradis, Elle avait quelque chose d'un ange \
 Un p'tit coin d'paradis, Contre un coin d'parapluie, Je n'perdais pas au change, pardi
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) BALLADE DES DAMES DU TEMPS DE JADIS
+## BALLADE DES DAMES DU TEMPS DE JADIS
 
 \
 La                                                      Mi7                La\
@@ -236,7 +236,7 @@ Prince, n'enquerez de sepmaine, Où elles sont, né de cest an,\
 Que ce reffrain ne vous remaine : Mais où sont les neiges d'antan ?\
 Que ce reffrain ne vous remaine : Mais où sont les neiges d'antan ?
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA MARINE
+## LA MARINE
 
 \
 Rém                                Do               Sib     La              Rém\
@@ -268,7 +268,7 @@ Et l'bourrer de tous nos péchés, Ça n'sera pas ça ; et pourtant\
 Toutes les joies, tous les soucis, Des amours qui durent toujours !\
 On les r'trouve en raccourci, Dans nos p'tits amours d'un jour...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) IL SUFFIT DE PASSER LE PONT
+## IL SUFFIT DE PASSER LE PONT
 
 \
 Sol                         Mim           Lam      Ré7       Sol\
@@ -303,7 +303,7 @@ Et tant mieux si c'est un péché, Nous irons en enfer ensemble !\
 Il suffit de passer le pont, Laisse-moi tenir ton jupon\
 Il suffit de passer le pont, Laisse-moi tenir ton jupon
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) COMME HIER
+## COMME HIER
 
 \
 Sol                             Sol7                    Do                                     Sol7                      Do\
@@ -325,7 +325,7 @@ Quand nous nous fâchons, hé ! Ma jolie fraise, Ne r'pousse pas du pied mes p't
 Va, comme hier ! Comme hier ! Comme hier ! Si tu ne m'aimes point, c'est moi qui t'aim'rons\
 L'un tient le couteau, l'autre la cuiller, La vie, c'est toujours la même chanson
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES AMOUREUX DES BANCS PUBLICS
+## LES AMOUREUX DES BANCS PUBLICS
 
 \
 Sim                                                                          Fa#7 \
@@ -367,7 +367,7 @@ Qu'ils ont vécu le meilleur morceau de leur amour
 
 Refrain x 2
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) BRAVE MARGOT
+## BRAVE MARGOT
 
 \
           Do                  Sol7                                               Do            Lam                                  Ré7 Sol7 \
@@ -426,7 +426,7 @@ Qu'tous les gars qu'tous les gars du village, étaient là là là là là là l
            Do             Sol#7         Do Sol7 / Do \
 Etaient là là là là là là là là là là là
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA CANE DE JEANNE
+## LA CANE DE JEANNE
 
 \
 Mi7 La Fa#m Sim Mi7   La          Fa#m  Sim \
@@ -454,7 +454,7 @@ Tous, toutes, Sans doute, Garderons longtemps le,\
          Mi7       La Fa#m  Sim Mi7     La    Ré La\
 Souvenir de la cane, De Jeanne, Morbleu
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) J'AI RENDEZ-VOUS AVEC VOUS
+## J'AI RENDEZ-VOUS AVEC VOUS
 
 \
 La                 Mi7    La Mi7  La                   Mi7               La\
@@ -481,7 +481,7 @@ Garde son or, or, de son or, moi j'm'en fous, J'ai rendez-vous avec vous \
 La fortune que je préfère, C'est votre cœur d'amadou \
 Tout le restant m'indiffère, J'ai rendez-vous avec vous !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE VENT
+## LE VENT
 
 \
               Lam                        Fa                       Mi7                                                 Lam \
@@ -509,7 +509,7 @@ Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent fripon, Prudenc
               Lam                        Fa                       Mi7                                                 Lam \
 Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent maraud, Prudent, prends garde à ton chapeau
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) IL N'Y A PAS D'AMOUR HEUREUX
+## IL N'Y A PAS D'AMOUR HEUREUX
 
 \
 Lam                                                       Rém                           Mi7                               Lam\
@@ -531,7 +531,7 @@ Le temps d'apprendre à vivre il est déjà trop tard, Que pleurent dans la nuit
 Ce qu'il faut de malheur pour la moindre chanson. Ce qu'il faut de regrets pour payer un frisson\
 Ce qu'il faut de sanglots pour un air de guitare. Il n'y a pas d'amour heureux
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE NOMBRIL DES FEMMES D'AGENTS
+## LE NOMBRIL DES FEMMES D'AGENTS
 
 \
 Ré                                                                                               La7\
@@ -560,7 +560,7 @@ Et comme il atteignait le but, De cinquante ans de convoitise,\
 La mort, la mort, la mort le prit, Sur l'abdomen de sa complice\
 Il n'a jamais vu le nombril, D'la femme d'un agent de police.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) PAUVRE MARTIN
+## PAUVRE MARTIN
 
 \
 Lam\
@@ -598,7 +598,7 @@ Et s'y étendit sans rien dire, Pour ne pas déranger les gens ...\
 Lam           Rém Mi7        Lam                  Rém    Mi7        Lam\
 Pauvre Martin, pauvre misère,  Dors sous la terre, dors sous le temps !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA PREMIÈRE FILLE
+## LA PREMIÈRE FILLE
 
 \
 Ré                                             Fa#                               Sim\
@@ -631,7 +631,7 @@ On a beau faire le brave, Quand elle s'est mise nue, Mon cœur t'en souviens-tu,
 Bien d'autres sans doutes, Depuis, sont venues, Oui, mais entre toutes, Celles qu'on a connues,\
 Elle est la dernière, Que l'on oubliera, La première fille, Qu'on a pris dans ses bras.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) JE SUIS UN VOYOU
+## JE SUIS UN VOYOU
 
 \
 La      La7                  Ré              Mi7      La                  La7                Ré          Mi7    La\
@@ -675,7 +675,7 @@ Et, moi, j'ai tété leur mère, Longtemps avant eux... Le Bon Dieu me le pardon
              La     Fa#m     Sim                  Mi7      La             Fa#m                Sim             Mi7   La\
 Qu'il me le pardonne ou non, D'ailleurs, je m'en fous, J'ai déjà mon âme en peine : Je suis un voyou.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA MAUVAISE HERBE
+## LA MAUVAISE HERBE
 
 \
 Intro : Ré Sim Mim La7 Ré Sim Mim La7
@@ -728,7 +728,7 @@ La la la la la la la la la la la la la la la la la
 Et je m'demande pourquoi bon Dieu, Ça vous dérange que j'vive un peu.\
 Et je m'demande pourquoi mon Dieu, Ça vous dérange que j'vive un peu.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE MAUVAIS SUJET REPENTI
+## LE MAUVAIS SUJET REPENTI
 
 \
 La                                                                                         Do#m             Sol#                    Do#m\
@@ -771,7 +771,7 @@ Sitôt privée de ma tutelle, Ma pauvre amie, Courut essuyer du bordel, Les infa
            Si7                                                        Do#m                       Ré                                   La Mi7 La\
 Paraît qu'elle s'vend même à des flics, Quelle décadence, Y'a plus d'moralité publique, Dans notre France
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) P... DE TOI
+## P... DE TOI
 
 \
 La                Mi        La             Mi             Ré              Mi       Ré                    Mi \
@@ -813,7 +813,7 @@ J'suis r'monté dans la lune en emportant mes cornes, Mes chansons, et mes fleur
 
 Refrain
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) CHANSON POUR L'AUVERGNAT
+## CHANSON POUR L'AUVERGNAT
 
 \
  Sim                Fa#7                                          Sim \
@@ -851,7 +851,7 @@ Et dans mon âme il brûle encore, A la manière d'un grand soleil \
 Toi l'étranger quand tu mourras, Quand le croque-mort t'emportera \
 Qu'il te conduise à travers ciel, Au père éternel
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES SABOTS D'HÉLÈNE
+## LES SABOTS D'HÉLÈNE
 
 \
 Do                 Rém    Sol7               Do\
@@ -897,7 +897,7 @@ Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
 
 ## *2) AUPRES DE MON ARBRE*
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) UNE JOLIE FLEUR
+## UNE JOLIE FLEUR
 
 \
 Ré                            La7                                                                         Ré\
@@ -926,7 +926,7 @@ D'avoir mis mon cœur à feu et à sang, Pour qu'il ne puisse plus servir à per
 Une jolie fleur dans une peau d'vache, Une jolie vache déguisée en fleur \
 Qui fait la belle et qui vous attache, Puis, qui vous mène par le bout du cœur
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) GASTIBELZA "L'HOMME A LA CARABINE"
+## GASTIBELZA "L'HOMME A LA CARABINE"
 
 \
 La                                        Ré           Mi7    La                                                  Ré              Mi7     La \
@@ -954,7 +954,7 @@ La                        La+              
                       Fa#7                      Sim                    Do#7                    Fa#m                       Mi7                    La   Mi La \
 Pour l'anneau d'or du comte de Saldagne, Pour un bijou... -Le vent qui vient à travers la montagne M'a rendu fou.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA PRIÈRE
+## LA PRIÈRE
 
 \
 Lam                                                     Rém                              Mi7                           Lam\
@@ -992,7 +992,7 @@ Par l'herbe qui a soif et recueille l'ondée, Par le baiser perdu par l'amour re
                        Do                           Mi7                            Lam Lam7 Lam\
 Et par le mendiant retrouvant sa monnaie, Je vous salue, Marie.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) HÉCATOMBE
+## HÉCATOMBE
 
 \
  Do                                                      Do7 \
@@ -1030,7 +1030,7 @@ Ces furies à peine si j'ose, Le dire tellement c'est bas \
 Leur auraient même coupé les choses, Par bonheur ils n'en avaient pas \
 Leur auraient même coupé les choses, Par bonheur ils n'en avaient pas.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA CHASSE AUX PAPILLONS
+## LA CHASSE AUX PAPILLONS
 
 \
 La                               La5+      Ré Mi7              La             Ré La Mi7 \
@@ -1069,7 +1069,7 @@ Il f'ra bon voler dans les frais bocages, Ils f'ront pas la chasse aux papillons
 Ré                      La  Mi La Mi La \
 Pas la chasse aux papillons
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) CORNE D'AUROCHS
+## CORNE D'AUROCHS
 
 \
 La                                              Ré        La                                                       Fa#m    Sim  Mi La \
@@ -1122,7 +1122,7 @@ L'Etat lui fit des funérailles nationales, Corne d'Aurochs\
 Alors sa veuve en gémissant, au gué, au gué, Coucha-z-avec son remplaçant, au gué, au gué\
 Alors sa veuve en gémissant, au gué, au gué, Coucha-z-avec son remplaçant, au gué, au gué
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) MARINETTE
+## MARINETTE
 
 \
 Intro : Ré Ré#dim Mim7 La7 (2 fois) Ré Ré#dim Mim7\
@@ -1148,7 +1148,7 @@ Avec mon revolver, j'avais l'air d'un con, ma mère, Avec mon revolver, j'avais 
 Quand j'ai couru lugubre à l'enterrement de Marinette, La belle, la traîtresse était déjà ressuscitée \
 Avec ma p'tite couronne, j'avais l'air d'un con, ma mère, Avec ma p'tite couronne, j'avais l'air d'un con
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA LÉGENDE DE LA NONNE
+## LA LÉGENDE DE LA NONNE
 
 \
 Sol                                Do Sol                       Ré        Ré7 Sol \
@@ -1200,7 +1200,7 @@ Qu'afin de préserver du vice, Les vierges qui font leur salut \
 Les prieurs la racontassent, Dans tous les couvents réguliers \
 Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) COLOMBINE
+## COLOMBINE
 
 \
 Si                            Mi              Fa#7           Si           Do#7 Fa#7\
@@ -1236,7 +1236,7 @@ L'implacable enfant, Preste et relevant, Ses jupes,\
 Si                     Mi                 Fa#7    Si            Do#7 Fa#7 Si \
 La rose au chapeau, Conduit son troupeau, De dupes !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) AUPRÈS DE MON ARBRE
+## AUPRÈS DE MON ARBRE
 
 \
 Fa                        Ré7   Sol7              Do7 \
@@ -1297,7 +1297,7 @@ Y a cent sept ans qui dit mieux, Qu'j'ai pas vu la lune
 Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre \
 Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE TESTAMENT
+## LE TESTAMENT
 
 \
 Do                                          Fa                   Sol7                Do\
@@ -1336,7 +1336,7 @@ On a marqué dessus ma porte : « Fermé pour cause d'enterrement »\
 J'ai quitté la vie sans rancune, J'aurai plus jamais mal aux dents\
 Me v'là dans la fosse commune, La fosse commune du temps. (bis)
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) JE ME SUIS FAIT TOUT PETIT
+## JE ME SUIS FAIT TOUT PETIT
 
 \
 Lam                                      Rém6 Mi7          Lam\
@@ -1373,7 +1373,7 @@ Qu'on se pende ici, qu'on se pende ailleurs, S'il faut se pendre \
 Je m'suis fait tout p'tit devant une poupée, Qui ferme les yeux quand on la couche \
 Je m'suis fait tout p'tit devant une poupée, Qui fait Maman quand on la touche
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES CROQUANTS
+## LES CROQUANTS
 
 \
              Mim                             Ré                              Rém                               Do \
@@ -1421,7 +1421,7 @@ Qu'une fille, une fille belle comme ça, S'abandonne, s'abandonne \
         Do#m         Si7 Do#7             Fa#7        Si7           Mi \
 Au premier ostrogoth venu, Les croquants, ça tombe des nues
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) L'AMANDIER
+## L'AMANDIER
 
 \
 Sim                   La7   Ré   Sol       Ré\
@@ -1457,7 +1457,7 @@ Et la fête dura tant, Qu'le beau temps...\
 Mais vint l'automne, et la foudre, Et la pluie, et les autans\
 Ont changé mon arbre en poudre... Et mon amour en même temps !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) ONCLE ARCHIBALD
+## ONCLE ARCHIBALD
 
 \
 Do                                                                                                      Fa Sol7 Do \
@@ -1495,7 +1495,7 @@ Et les voilà, bras d'ssus, bras d'ssous, Les voilà partis je n'sais où, Faire
 O vous, les arracheurs de dents, Tous les cafards, les charlatans, Les prophètes \
 Comptez plus sur oncle Archibald, Pour payer les violons du bal, A vos fêtes, A vos fêtes
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA MARCHE NUPTIALE
+## LA MARCHE NUPTIALE
 
 \
   Fa#m Mi    La    Fa#m Ré Mi7 La  Fa#m     Ré         Mi7              La\
@@ -1522,7 +1522,7 @@ Tous les garçons d'honneur, montrant le poing aux nues, Criaient : « Par Jupit
                             Do#7                             Ré7                     Sim       Do#7      Ré Mi Fa#\
 Par les hommes décriés, par les dieux contrariés, La noce continue et Vive la mariée !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES LILAS
+## LES LILAS
 
 \
 Ré                                                 Sim7      Mi7    La7 \
@@ -1568,7 +1568,7 @@ Quand je vais chez la fleuriste, Je n'achète que des lilas\
 Quand je vais chez la fleuriste, Je n'achète que des lilas\
 Si ma chanson chante triste, C'est que l'amour n'est plus là
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) AU BOIS DE MON COEUR
+## AU BOIS DE MON COEUR
 
 \
 Lam         Ré Fa7 Mi7       Ré7              Do      Mi7\
@@ -1598,7 +1598,7 @@ Fidèlement, Ils suivent mon enterrement, Mon enterrement.
 ...des petites fleurs...\
 Au bois d'mon cœur...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) GRAND-PÈRE
+## GRAND-PÈRE
 
 \
 Sim                        Mim            La7                     Ré \
@@ -1672,7 +1672,7 @@ Ah ! c'est pas joli, Ah ! c'est pas poli, A une fesse qui dit merde à l'autre
 Bon papa, Ne t'en fais pas, Nous en viendrons \
 À bout de tous ces empêcheurs d'enterrer en rond. (Bis)
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) CELUI QUI A MAL TOURNÉ
+## CELUI QUI A MAL TOURNÉ
 
 \
 Lam               Sol               Do Mi Lam       Fa7         Si7             Mi7 \
@@ -1722,7 +1722,7 @@ Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 
 ## *3) LE PORNOGRAPHE*
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) MAMAN, PAPA
+## MAMAN, PAPA
 
 \
 Mib7/9M Mib7M Mib7/9M  Sib7/4 Sol7 Dom7 Lab7M Lab6/7  Labm7 Mib7/9M Dom7 Sib7/4 Sol7\
@@ -1744,7 +1744,7 @@ Et, grâce à cet artifice, Soudain je comprends, Le prix de vos sacrifices, Mes
 Maman, papa, toujours je regretterai, Maman, papa, de vous avoir fait pleurer\
 Au temps où nos cœurs ne se comprenaient encor pas, Maman, papa, maman, papa
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE VIN
+## LE VIN
 
 \
 Sim                                                           Do Fa#7 \
@@ -1776,7 +1776,7 @@ Qu'elles donnent du vin, J'irai traire enfin, Les vaches ...\
 Que vienne le temps, Du vin coulant dans, La Seine !\
 Les gens, par milliers, Courront y noyer, Leur peine ...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) PHILISTINS
+## PHILISTINS
 
 \
 Sim              Mim             Sim               Do#7 Fa#7 Sim La Sol Fa#\
@@ -1796,7 +1796,7 @@ Mais pour bien vous punir, Un jour vous voyez venir, Sur terre\
            Sim             Mim          Sim                Do#7 Fa#7 Sim Fa#7 Sim\
 Des enfants non voulus, Qui deviennent chevelus,          Poètes...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE VIEUX LÉON
+## LE VIEUX LÉON
 
 \
                     Sim                         Sol     La7            Ré \
@@ -1867,9 +1867,9 @@ Et si l'bon Dieu, Aime tant soit peu, L'accordéon \
 La7           Ré Sol         Do         Fa#7        Sim \
 Au firmament, Tu t'plais sûr'ment, Mon vieux Léon
 
-## 
+##
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA RONDE DES JURONS
+## LA RONDE DES JURONS
 
 \
    Sim    Fa#7 Sim   Fa#7 Sim                                                    La7\
@@ -1912,7 +1912,7 @@ Les saperlottes, les cré nom de nom, Les pestes, et pouah, diantre, fichtre et 
 Tous les Bon Dieu, Tous les vertudieux, Tonnerre de Brest et saperlipopette\
 Ainsi, pardieu, que les jarnidieux, Et les pasquedieux
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) A L'OMBRE DU COEUR DE MA MIE
+## A L'OMBRE DU COEUR DE MA MIE
 
 \
 Sim                                  Mim                Sim        Fa#7  Sim \
@@ -1942,7 +1942,7 @@ Et c'est depuis ce temps, ma sœur, Et c'est depuis ce temps, ma sœur,\
 Que je suis devenu chasseur, Que je suis devenu chasseur\
 Que mon arbalète à la main, Je cours les bois et les chemins
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE PORNOGRAPHE
+## LE PORNOGRAPHE
 
 \
 Lam                                          Si7                    Mi7 \
@@ -2009,7 +2009,7 @@ Admettre en sa Jérusalem, A l'heure blême
 Le pornographe, Du phonographe \
 Le polisson, De la chanson
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA FEMME D'HECTOR
+## LA FEMME D'HECTOR
 
 \
 Intro : Ré La7 Ré La7\
@@ -2096,7 +2096,7 @@ Ni pour la femme d'Honoré, La femme de Désiré\
 La femme de Théophile, Encore moins pour la femme de Nestor\
 Mais pour la femme d'Hector.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) BONHOMME
+## BONHOMME
 
 \
 Do             Fa         Do             Fa     Do       Sol7\
@@ -2122,7 +2122,7 @@ Ni cette autre et sombre voix, Montant du plus profond d'elle\
 Lui rappeler que, parfois, Il fut infidèle\
 Car Bonhomme, il va mourir, De mort naturelle
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE COCU
+## LE COCU
 
 \
 Fa                  Mi           Fa               Mi        Rém            Lam               Fa                 Mi  Fa Mi\
@@ -2168,7 +2168,7 @@ Bien content qu'en partant ces mufles ne s'égarent, Pas à mettre le comble à 
 En sifflotant « Il est cocu, le chef de gare... », Parc'que, le chef de gare, c'est mon meilleur ami\
 Parc'que, le chef de gare, c'est mon meilleur ami
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) COMME UNE SOEUR
+## COMME UNE SOEUR
 
 \
 Sim                Mim La7    Ré    Fa#7 Sim                     Mim  La7    Ré       Fa#7 Sim\
@@ -2203,7 +2203,7 @@ Que la faucheuse vienne cou - per l'herbe aux pieds de ce grigou, de ce grigou.
 Quand elle sera veuve éplorée, veuve éplorée, Après l'avoir bien enterré, bien enterré,\
 J'ai l'espérance qu'elle viendra, Faire sa niche entre mes bras, entre mes bras.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE PÈRE NOËL ET LA PETITE FILLE
+## LE PÈRE NOËL ET LA PETITE FILLE
 
 \
 Lam               Sol7   Do               Si7             Mi \
@@ -2235,7 +2235,7 @@ Sur tes misères de tantôt, Sur tes misères de tantôt, \
 Et qu'au-dehors il pleuve, il vente, Le mauvais temps n'est plus ton lot, \
 Le joli temps des coudées franches... On a mis les mains sur tes hanches.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES FUNÉRAILLES D'ANTAN
+## LES FUNÉRAILLES D'ANTAN
 
 \
 Fa                                                                        Do7\
@@ -2324,7 +2324,7 @@ Où, quitte à tout dépenser jusqu'au dernier écu\
 Les gens avaient à cœur d'mourir plus haut qu'leur cul\
 Les gens avaient à cœur de mourir plus haut qu'leur cul
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE BISTROT
+## LE BISTROT
 
 \
 Rém                        Do                     Sib        La7 \
@@ -2368,7 +2368,7 @@ Qui fera dans l'dos, Des cornes à ce gros, Dégueulasse.
 Dans un coin pourri, Du pauvre Paris, Sur une place, \
 Une espèce de fée, D'un vieux bouge, a fait, Un palace.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) EMBRASSE LES TOUS
+## EMBRASSE LES TOUS
 
 \
 Rém                                                                         Sib\
@@ -2427,7 +2427,7 @@ Les filles quand ça dit « Je t'aime », C'est comme un second baptême, \
 Rém                                   Sol7                      Solm7 Do7 Fa\
 Ça leur donne un cœur tout neuf, Comme au sortir de son œuf.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) PÉNÉLOPE
+## PÉNÉLOPE
 
 \
 Do                   Lam Fa                Sol7\
@@ -2479,7 +2479,7 @@ C'est la face cachée de la lune de miel\
 Et la rançon de Pénélope...\
 Et la rançon de Pénélope.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) L'ORAGE
+## L'ORAGE
 
 \
 (Lam)   Rém                                                                     Sol7 \
@@ -2517,7 +2517,7 @@ Dieu fasse que ma complainte aille, tambour battant, Lui parler de la pluie, lui
 Auxquels on a t'nu tête ensemble, Lui conter qu'un certain coup de foudre assassin \
 Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui ressemble
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm)LE MÉCRÉANT
+##LE MÉCRÉANT
 
 \
 Ré                             Sol       Mim    La7 Ré     Fa#7       Sim       Sol         La7         Ré\
@@ -2573,7 +2573,7 @@ Je n'ai jamais tué, jamais violé non plus, Y'a déjà quelques temps que je ne
 Ré                             Sol       Mim    La7 Ré     Fa#7       Sim       Sol         La7         Ré\
 Si l'Éternel existe, en fin de compte il voit, Qu'je m'conduis guère plus mal que si j'avais la foi.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE VERGER DU ROI LOUIS
+## LE VERGER DU ROI LOUIS
 
 \
 Mim               Ré          Mim                  Ré        Mim \
@@ -2600,7 +2600,7 @@ Prince, il est un bois que décore, Un tas de pendus enfouis\
          Ré            Do       Ré      Sim          Mim   Ré    Mim  Ré Mim \
 Dans le doux feuillage sonore. C'est le verger du roi Louis !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA TRAÎTRESSE
+## LA TRAÎTRESSE
 
 \
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7\
@@ -2647,7 +2647,7 @@ Ma maîtresse, la traîtresse !
 
 *4) LES COPAINS D'ABORD*
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) TONTON NESTOR
+## TONTON NESTOR
 
 \
 Fa                                                                         Do# \
@@ -2682,7 +2682,7 @@ Aussi, ma foi, La prochaine fois, Qu'on mariera Jeannette,\
                                                                                            Lab\
 On s'pass'ra d'vous. Tonton, je vous, Je vous le dit tout net.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA BALLADE DES CIMETIÈRES
+## LA BALLADE DES CIMETIÈRES
 
 \
 La5+ : 003220
@@ -2728,7 +2728,7 @@ Et Dieu fit signe à la camarde, De l'expédier rue Froidevaux... \
 Mais les croque-morts, qui étaient de Chartres, Funeste erreur de livraison, \
 Menèrent sa dépouille à Montmartre, De l'autre côté de sa maison, De l'autre côté de sa maison.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) L'ENTERREMENT DE VERLAINE
+## L'ENTERREMENT DE VERLAINE
 
 \
 Le revois-tu mon âme, ce Boul' Mich' d'autrefois\
@@ -2751,7 +2751,7 @@ Ah ! Folle d'une espérance désespérée\
 Montesquiou-Fezensac et Bibi-la-Purée\
 Vos deux gardes du corps, entre tous moi dernier.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) GERMAINE TOURANGELLE
+## GERMAINE TOURANGELLE
 
 \
 Cette gerbe est pour vous, Manon des jours heureux,\
@@ -2771,7 +2771,7 @@ Germaine Tourangelle, Ô vous la plus jolie.
 
 Le fluide arc-en-ciel s'égrenant sur mon cœur.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE TEMPS PASSÉ
+## LE TEMPS PASSÉ
 
 \
 Fa#7                                Si     Mi7                                             La\
@@ -2801,7 +2801,7 @@ Cependant, nous pleurons sa perte, Elle est morte, elle est embaumée !\
 Il est toujours joli, le temps passé, Une fois qu'ils ont cassé leur pipe\
 On pardonne à tous ceux qui nous ont offensés : Les morts sont tous des braves types
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA FILLE À CENT SOUS
+## LA FILLE À CENT SOUS
 
 \
 Ré                                       Mim                          Ré                          Mi7 La7\
@@ -2831,7 +2831,7 @@ Du temps que je vivais dans le troisième dessous, Ivrogne, immonde, infâme\
       Ré                                        Mim                                  Ré                 Mi7 La7 Ré\
 Un plus soûlaud que moi, contre une pièce de cent sous, M'avait vendu sa femme
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) DANS L'EAU DE LA CLAIRE FONTAINE
+## DANS L'EAU DE LA CLAIRE FONTAINE
 
 \
 Do                                 Mi7   Lam                         Do7 \
@@ -2856,7 +2856,7 @@ Elle s'alla baigner toute nue, En priant Dieu qu'il fit du vent\
 Sol7           Do\
 Qu'il fit du vent...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) JE REJOINDRAI MA BELLE
+## JE REJOINDRAI MA BELLE
 
 \
 Lam                Si7 Mi7 La7               Rém Sol7                     Do            Rém             Mi7 \
@@ -2891,7 +2891,7 @@ Si c'est mon triste lot, De faire un trou dans l'eau, Racontez à la belle, Que 
 Lam                Si7 Mi7 La7                             Rém Sol7                   Do Mi7 Lam \
 Et qu'elle daigne à son tour, Attendre quelques jours, Pour filer de nouvelles amours.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) SI LE BON DIEU L'AVAIT VOULU
+## SI LE BON DIEU L'AVAIT VOULU
 
 \
 Lam                Sol7       Do            Lam    Sol7  Do             Fa      Mi7     Lam           Mi7                     Lam\
@@ -2909,7 +2909,7 @@ Mais le Bon Dieu n'a pas voulu, Que je connaisse leur amour, Je t'ai connue, tu 
                      Sol7       Do                  Lam         Sol7  Do           Fa          Mi7     Lam                 Mi7                         Lam Mi7 Lam\
 Las ! Que fussé-je devenu, Sans toi la nuit, sans toi le jour, Je t'ai connue, tu m'as connu, Gloire à Dieu au plus haut des nues !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE TEMPS NE FAIT RIEN A L'AFFAIRE
+## LE TEMPS NE FAIT RIEN A L'AFFAIRE
 
 \
 Lam                     Sol                               Fa    Mi     Lam \
@@ -2948,7 +2948,7 @@ Méditez l'impartial message, d'un qui balance entre deux âges
 
 Refrain
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA COMPLAINTE DES FILLES DE JOIE
+## LA COMPLAINTE DES FILLES DE JOIE
 
 \
 Sim                                                        Sol                  Fa#\
@@ -2992,7 +2992,7 @@ Il s'en fallait de peu, mon cher, Que cette putain ne fût ta mère\
 Cette putain dont tu rigoles, Parole, parole\
 Cette putain dont tu rigoles
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES TROMPETTES DE LA RENOMMÉE
+## LES TROMPETTES DE LA RENOMMÉE
 
 \
    Lam                         Si7         Mim     La7                Rém Sol7               Do \
@@ -3048,7 +3048,7 @@ Si le public en veut, je les sors dare-dare, S'il n'en veut pas, je les remets d
 Refusant d'acquitter la rançon de la gloire, Sur mon brin de laurier je m'endors comme un loir \
 Trompettes de la Renommée, Vous êtes bien mal embouchées
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA GUERRE DE 14-18
+## LA GUERRE DE 14-18
 
 \
 Ré \
@@ -3092,7 +3092,7 @@ En attendant je persévère, A dire que ma guerre favorite\
 Celle, mon colon, que j'voudrais faire, C'est la guerre de quatorze-dix-huit,\
 Celle, mon colon, que j'voudrais faire, C'est la guerre de quatorze-dix-huit
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA MARGUERITE
+## LA MARGUERITE
 
 \
 La                              Mi7     La \
@@ -3136,7 +3136,7 @@ La petite, Marguerite, Ah ! ça mais...\
 Que personne, Ne soupçonne, Puis jamais,\
 La petite, Marguerite, Ah ! ça mais...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) JEANNE
+## JEANNE
 
 \
 Sim   Mim        Fa#7 Mim                          Fa#                 Mim         Fa#\
@@ -3181,7 +3181,7 @@ Mais Jeanne, la Jeanne, Ne s'en soucie pas plus que de colin-tampon\
      Sim                   La             Sol                Fa#7                     Do#7 Fa#7 Mim Sim\
 Quand tous les enfants de la terre, De la mer et du ciel sont à elle.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES AMOURS D'ANTAN
+## LES AMOURS D'ANTAN
 
 \
 Ré                                                         Do#m \
@@ -3222,7 +3222,7 @@ Des Manon, des Mimi, des Suzon, des Lisette,\
 Margot la blanche caille, et Fanchon, la cousette,\
 Mon prince, on a les dames du temps jadis qu'on peut...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm)MARQUISE
+##MARQUISE
 
 \
 La5+ : 003221, Mi5+ : 022110
@@ -3255,7 +3255,7 @@ J'ai vingt-six ans, mon vieux Corneille, Et je t'emmerde en attendant.
 
 fin comme intro.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) L'ASSASSINAT
+## L'ASSASSINAT
 
 \
 Sim              Mim   Fa#7 Sim            La7       Ré\
@@ -3305,7 +3305,7 @@ C'est pas seulement à Paris, Que le crime fleurit\
 Nous, au village, aussi, l'on a, De beaux assassinats\
 Nous, au village, aussi, l'on a, De beaux assassinats
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES COPAINS D'ABORD
+## LES COPAINS D'ABORD
 
 \
 Do\
@@ -3347,7 +3347,7 @@ Qui n'ait jamais viré de bord, Mais viré de bord\
 Naviguait en père peinard, Sur la grand-mare des canards\
 Et s'appelait les copains d'abord, Les copains d'abord
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES QUAT'ZARTS
+## LES QUAT'ZARTS
 
 \
 Rém                                                         Sol7                    Do     La7              Rém\
@@ -3389,7 +3389,7 @@ Adieu les faux tibias, les crânes de carton, Plus de marche funèbre, au son de
 Au grand bal des quat'zarts, nous n'irons plus danser, Les vrais enterrements viennent de commencer\
 Nous n'irons plus danser au grand bal des quat'zarts, Viens pépère on va se ranger des corbillards. (bis)
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE PETIT JOUEUR DE FLÛTEAU
+## LE PETIT JOUEUR DE FLÛTEAU
 
 \
 Ré   Sim    La7         Ré       Sim           La7           Ré\
@@ -3435,7 +3435,7 @@ Et Dieu reconnaisse pour sien, Le brave petit musicien !
 
 ## *5) SUPPLIQUE POUR ETRE ENTERRE SUR LA PLAGE DE SETE*
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES DEUX ONCLES
+## LES DEUX ONCLES
 
 \
 Mim         Ré                 Mim                Ré  Mim          Ré                           La7              Ré\
@@ -3457,7 +3457,7 @@ Ainsi, chanteriez-vous tous les deux en suivant, Malbrough qui va-t-en guerre au
 Quand vous rencontrerez mes deux oncles, là-bas, Offrez-leur de ma part ces « Ne m'oubliez pas » Ces deux myosotis fleuris dans mon jardin, Un p'tit « forget me not » pour mon oncle Martin\
 « Un p'tit vergiss mein nicht » pour mon oncle Gaston, Pauvre ami des Tommies, pauvre ami des Teutons...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE VINGT-DEUX SEPTEMBRE
+## LE VINGT-DEUX SEPTEMBRE
 
 \
 Ré                                                                Fa#7 Sim                                         Fa#7 \
@@ -3486,7 +3486,7 @@ A peine y pourrait-on rôtir quatre châtaignes : Le vingt-e-deux septembre, auj
                                                   Mi7 La\
 Et c'est triste de n'être plus triste sans vous
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA TONDUE
+## LA TONDUE
 
 \
 Sol7 Do                                    Sol7  Do                    Sol7   Do Sol7\
@@ -3521,7 +3521,7 @@ J'ai pas la Croix d'honneur, j'ai pas la croix de guerre, J'ai pas la croix de g
 Et je n'en souffre pas avec trop de rigueur, Avec trop de rigueur\
 J'ai ma rosette à moi : c'est un accroche-cœur, C'est un accroche-cœur.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) VENUS CALLIPYGE
+## VENUS CALLIPYGE
 
 \
 Fa                                  Fa7                 Sib   Solm7       Do7   Fa    Rém Solm Do7 Fa \
@@ -3567,7 +3567,7 @@ Voir votre académie, madame, et puis mourir
 Que jamais l'art abstrait, qui sévit maintenant, N'enlève à vos attraits ce volume étonnant\
 Au temps où les faux culs sont la majorité, Gloire à celui qui dit toute la vérité
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE MOUTON DE PANURGE
+## LE MOUTON DE PANURGE
 
 \
       Sim                     Mi   Fa#7                 Sim      Fa#7            Sim La7\
@@ -3605,7 +3605,7 @@ On n'verra plus qu'elle en gondole, Elle ira jouer, à son tour\
 Les Vénus de la vieille école, Celles qui font l'amour par amour\
 Les Vénus de la vieille école, Celles qui font l'amour par amour
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA ROUTE AUX QUATRE CHANSONS
+## LA ROUTE AUX QUATRE CHANSONS
 
 \
 La                     Mi7                La                Mi7 \
@@ -3652,7 +3652,7 @@ La peine était profonde, L'chagrin lâchait la bonde. \
 Hélas ! du jardin de mon père, La colombe s'est fait la paire... \
 Par bonheur, par consolation, Me sont restées les quatre chansons.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) SATURNE
+## SATURNE
 
 \
         Si7                    Mim          Ré7                        Sol\
@@ -3682,7 +3682,7 @@ Je sais par cœur toutes tes grâces, Et pour me les faire oublier,\
 Il faudra que Saturne en fasse, Des tours d'horloge, de sablier !\
 Et la petite pisseuse d'en face, Peut bien aller se rhabiller.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE GRAND PAN
+## LE GRAND PAN
 
 \
 Sim                                                 Do\
@@ -3755,7 +3755,7 @@ Un beau jour on va voir le Christ, Descendre du calvaire en disant dans sa lippe
 Sim                                                Fa#7                                Sol                        La                   Sim\
 « Merde je ne joue plus pour tous ces pauvres types ». J'ai bien peur que la fin du monde soit bien triste.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) SUPPLIQUE POUR ÊTRE ENTERRÉ SUR LA PLAGE DE SÈTE
+## SUPPLIQUE POUR ÊTRE ENTERRÉ SUR LA PLAGE DE SÈTE
 
 \
 Sim                                                         Fa#7\
@@ -3814,7 +3814,7 @@ Pauvres cendres de conséquence ! Vous envierez un peu l'éternel estivant,\
 Sim                                                                Sol        Fa#7      Sol La Si\
 Qui fait du pédalo sur la plage en rêvant, Qui passe sa mort en vacances.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE FANTÔME
+## LE FANTÔME
 
 \
 Sol                                                Mi7 \
@@ -3867,7 +3867,7 @@ C'était mon père criant : « Debout ! Vains dieux, tu vas manquer la messe ! �
 Mais, foin des délices de Capoue ! \
 C'était mon père criant : « Debout ! Vains dieux, tu vas manquer la messe ! »
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA FESSÉE
+## LA FESSÉE
 
 \
 Lam                                                      Rém    Lam                     Fa                               Si7 Mi \
@@ -3909,7 +3909,7 @@ Quand je levai la main pour la deuxième fois, Le cœur n'y était plus, j'avais
 Surtout qu'elle s'était enquise, la bougresse : « Avez-vous remarqué que j'avais un beau cul ? » \
 Et ma main vengeresse est retombée, vaincue ! Et le troisième coup ne fut qu'une caresse...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE PLURIEL
+## LE PLURIEL
 
 \
 Mim                    Si7              Mim        Si7                Mim           Si7           Mim                  La7 \
@@ -3938,7 +3938,7 @@ Je ne veux pas qu'on m'aide à descendre à la tombe, Je partage n'importe quoi,
 Le pluriel ne vaut rien à l'homme et sitôt qu'on, Est plus de quatre on est une bande de cons.\
 Bande à part, sacrebleu ! c'est ma règle et j'y tiens. Au faisceau des tibias on n'verra pas les miens.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES QUATRE BACHELIERS
+## LES QUATRE BACHELIERS
 
 \
 La                     Fa#m     Sim  Ré Fa#m   Sim7 Mi7 La                    Fa#m  Sim Fa#m Mi7 La Sol7\
@@ -3970,7 +3970,7 @@ A de la chance quand il a, Sans vergogne, Un père de ce tonneau-là, Ce tonneau
 Et si les chrétiens du pays, Sans vergogne, Jugent que cet homme a failli, Homme a failli.\
 Ça laisse à penser que, pour eux, Sans vergogne, L'Évangile, c'est de l'hébreu, C'est de l'hébreu.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE BULLETIN DE SANTÉ
+## LE BULLETIN DE SANTÉ
 
 \
 La                                                              Do#  Ré                                          Do# \
@@ -4022,7 +4022,7 @@ Comme un bouc, un bélier, une bête, une brute, Je suis hanté : le rut, le rut
 
 *6) LA NON-DEMANDE EN MARIAGE*
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA NON-DEMANDE EN MARIAGE
+## LA NON-DEMANDE EN MARIAGE
 
 \
 Mim                                        Sim                                        Fa#m           Sim\
@@ -4059,7 +4059,7 @@ Qu'en éternelle fiancée, A la dame de mes pensées, Toujours je pense\
 J'ai l'honneur de, Ne pas te de-mander ta main,\
 Ne gravons pas, Nos noms au bas, D'un parchemin
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE GRAND CHÊNE
+## LE GRAND CHÊNE
 
 \
        Do        Lam             Rém        Sol7 Do               Lam                Rém    Sol7 \
@@ -4109,7 +4109,7 @@ Qu'est-c'qu'il en sait, le bougre, et qui donc lui a dit, Qu'y a pas de chêne e
 Lam Rém Sol7 Do Sol7 Do \
 Qu'y a pas de chêne en paradis ?
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) CONCURRENCE DÉLOYALE
+## CONCURRENCE DÉLOYALE
 
 \
       Lam                               Rém                                                                       Lam Do Ré Mi7\
@@ -4141,7 +4141,7 @@ Que des créatures se font cul-, buter à l'œil et sans calcul. Ah ! Les salope
 Elles ôtent le bonhomme de dessus, La brave horizontale déçue, Elles prennent sa place.\
 De la bouche au pauvre tapin, Elles retirent le morceau de pain, C'est dégueulasse.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) L'ÉPAVE
+## L'ÉPAVE
 
 \
 La\
@@ -4175,7 +4175,7 @@ Et depuis ce jour-là, moi, le fier, le bravache, Moi, dont le cri de guerre fut
 Plus une seule fois je n'ai pu le brailler. J'essaye bien encor, mais ma langue honteuse\
 Retombe lourdement dans ma bouche pâteuse. Ça n'fait rien, nous vivons un temps bien singulier...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LE MOYENÂGEUX
+## LE MOYENÂGEUX
 
 \
 Fa#m       Si7            Mi                               Fa#m Si7   Mi\
@@ -4225,7 +4225,7 @@ Et que j'emporte entre les dents, Un flocon des neiges d'antan...
 Ma dernière parole soit, Quelques vers de Maître François...\
 Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) MISOGYNIE A PART
+## MISOGYNIE A PART
 
 \
 Sol \
@@ -4262,7 +4262,7 @@ Elle m'emmerde, elle m'emmerde, j'admets que ce Claudel, Soit un homme de génie
 Mais qu'on aille chercher dedans son œuvre pie, Un aphrodisiaque, non, ça, c'est d'l'utopie, \
 Elle m'emmerde, vous dis-je
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) BÉCASSINE
+## BÉCASSINE
 
 \
 Sim                         Fa#m Sim                    La7             Ré   Fa#7\
@@ -4310,7 +4310,7 @@ C'est une sorte de manant, Un amoureux du tout-venant\
 Qui pourra chanter la chanson, Du temps des cerises en toute saison\
 Et jusqu'à l'heure du trépas, Si le diable s'en mêle pas.
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) L'ANCÊTRE
+## L'ANCÊTRE
 
 \
 Do                     Sol7       Do7       Fa   Fam                       Lam            Ré7          Sol7 \
@@ -4371,7 +4371,7 @@ Quand nous serons ancêtres, Du côte de Bicêtre, Pas d'enfants de Marie, oh ! 
                                 Mim    Rém                     La7    Fa                                        Mi7 La7 Re7 Sol7 Do \
 Remplacez-nous les nonnes, Par des belles mignonnes, Et qui fument, cré nom de nom ! (bis)
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) RIEN A JETER
+## RIEN A JETER
 
 \
 Mim                           La7           Ré           Mi7 La7 Mim          La7      Ré                         Mi7    La7 \
@@ -4400,7 +4400,7 @@ Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout empo
 Elle est quelque peu fière, Et chatouilleuse assez, Et l'on doit tout entière, La prendre ou la laisser. \
 Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
 
-# [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LES OISEAUX DE PASSAGE
+# LES OISEAUX DE PASSAGE
 
 \
 Rém                                                               Do\
@@ -4457,7 +4457,7 @@ Rien de vous ne pourra, monter aussi haut qu'eux\
 Et le peu qui viendra, D'eux à vous c'est leur fiente,\
 Les bourgeois sont troublés, De voir passer les gueux    (couplet bis)
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA RELIGIEUSE
+## LA RELIGIEUSE
 
 \
 Lam       Rém                     Lam                                Rém                        Lam\
@@ -4503,7 +4503,7 @@ Pas de troubles penchants dans ce cœur rigoriste, Sous cet austère habit pas d
 On ne verra jamais la corne au front du Christ, Le veinard sur sa croix peut s'endormir en paix,\
 Et les enfants de chœur se masturber, tout tristes...
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) PENSÉE DES MORTS
+## PENSÉE DES MORTS
 
 \
 La          Fa#m Mi7  La                        Fa#m7 Mi7 La\
@@ -4553,7 +4553,7 @@ Voilà l'errante hirondelle, Qui rase du bout de l'aile\
 L'eau dormante des marais, Voilà l'enfant des chaumières\
 Qui glane sur les bruyères, Le bois tombé des forêts
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) LA ROSE, LA BOUTEILLE ET LA POIGNÉE DE MAIN
+## LA ROSE, LA BOUTEILLE ET LA POIGNÉE DE MAIN
 
 \
 Fa                     Mi7             La7                 Ré            Rém7        Sol7                Do \
@@ -4606,7 +4606,7 @@ Serrer la main des inconnus. On est tombé bien bas, bien bas...\
 Et la pauvre poignée de main, Victime d'un sort inhumain,\
 Alla terminer sa carrière, A la fourrière !
 
-## [![](http://clarckgaybeul.free.fr/Brassens.jpg)](http://clarckgaybeul.free.fr/brassens.htm) SALE PETIT BONHOMME
+## SALE PETIT BONHOMME
 
 \
 Sim                                                          Mi7\
