@@ -7,7 +7,7 @@ with open('README.md','r') as f:
         lines.append(line)
 
 # WRITE
-def write(lines, fname='tmp.md'):
+def write(lines, fname='brassens_mm.md'):
     with open(fname,'w') as f:
         for line in lines:
             f.write(line)
