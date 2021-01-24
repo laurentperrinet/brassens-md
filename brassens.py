@@ -56,18 +56,23 @@ md = (
     .use(footnote_plugin)
     .enable('table')
 )
-text = ("""
----
-a: 1
----
+# text = ("""
+# ---
+# a: 1
+# ---
+#
+# a | b
+# - | -
+# 1 | 2
+#
+# A footnote [^1]
+#
+# [^1]: some details
+# """)
+#
+# write(md.render(text), 'index.html')
 
-a | b
-- | -
-1 | 2
-
-A footnote [^1]
-
-[^1]: some details
-""")
-
+text = ''
+for line in lines:
+    text += line
 write(md.render(text), 'index.html')
