@@ -1094,7 +1094,7 @@ l1: Sur l'aspect fugitif des choses de se monde, Corne d'Aurochs
 l1: C'étaient hélas pour s'assurer, au gué, au gué, Qu' le vent n'l'avait pas décoiffé, au gué, au gué
 l1: C'étaient hélas pour s'assurer, au gué, au gué, Qu' le vent n'l'avait pas décoiffé, au gué, au gué
 
-c1: A#7dim E7                       A                                     A#7dim E7
+c1: A#dim E7                       A                                     A#dim E7
 l1: Il proclamait à son de trompe à tous les carrefours : « Il n'y a qu'les imbéciles qui sachent bien faire l'amour
 c1:      A                                   E7
 l1: La virtuosité c'est une affaire de balourds ! », Corne d'Aurochs
