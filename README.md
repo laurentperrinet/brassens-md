@@ -384,11 +384,11 @@ Un croquant passant à la ronde trouvant le tableau peu commun, s'en alla le dir
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Ré7 / Sol7          Do                               Sol#7
+                                  La7   Ré7  Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Ré7 / Sol7          Do                                Sol#7
+                                           La7    Ré7  Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 Sol7                                                                  Do            Lam                                              Ré7 Sol7
@@ -402,11 +402,11 @@ Les gendarmes même les gendarmes, qui sont par nature si balots, se laisse touc
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Ré7 / Sol7          Do                               Sol#7
+                                  La7   Ré7  Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Ré7 / Sol7          Do                                Sol#7
+                                           La7    Ré7  Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 Sol7                                                                                     Do            Lam                                  Ré7 Sol7
@@ -420,13 +420,13 @@ Le temps passa sur les mémoires, on oublia l'événement, seuls les vieux racon
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Ré7 / Sol7          Do                               Sol#7
+                                  La7   Ré7  Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Ré7 / Sol7          Do                                Sol#7
+                                           La7    Ré7  Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
-           Do             Sol#7         Do Sol7 / Do
+           Do             Sol#7         Do Sol7  Do
 Etaient là là là là là là là là là là là
 
 ## LA CANE DE JEANNE
@@ -1094,7 +1094,7 @@ Sur l'aspect fugitif des choses de se monde, Corne d'Aurochs
 C'étaient hélas pour s'assurer, au gué, au gué, Qu' le vent n'l'avait pas décoiffé, au gué, au gué
 C'étaient hélas pour s'assurer, au gué, au gué, Qu' le vent n'l'avait pas décoiffé, au gué, au gué
 
-La#7dim Mi7                       La                                     La#7dim Mi7
+La#dim Mi7                       La                                     La#dim Mi7
 Il proclamait à son de trompe à tous les carrefours : « Il n'y a qu'les imbéciles qui sachent bien faire l'amour
      La                                   Mi7
 La virtuosité c'est une affaire de balourds ! », Corne d'Aurochs
@@ -1728,17 +1728,17 @@ Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-Mib7M Mib7M Mib7M  Sib7/4 Sol7 Dom7 Lab7M Lab6/7  
+Mib7M Mib7M Mib7M  Sib74 Sol7 Dom7 Lab7M Lab67  
 Maman, maman, en faisant cette chanson, Maman,
-Labm7 Mib7M Dom7 Sib7/4 Sol7  
+Labm7 Mib7M Dom7 Sib74 Sol7  
 maman, je r'deviens petit garçon
-Dom7           Sol7                     Dom7             Sol7 Dom7             Sol7/5+         Lab7M Labm7 Sib7
+Dom7           Sol7                     Dom7             Sol7 Dom7             Sol75+         Lab7M Labm7 Sib7
 Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
-Mib7M Mib7M Mib7M  Sib7/4   Sol7 Dom7 Lab7M Lab6/7  Labm7 Mib7M Dom7 Sib7/4 Sol7
+Mib7M Mib7M Mib7M  Sib74   Sol7 Dom7 Lab7M Lab67  Labm7 Mib7M Dom7 Sib74 Sol7
 Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
 Lab7M             Solm7           Fam7               
 Et, sans un mot dire, entendre tes refrains charmants,
-Lab7M Fam7 Fab7M Sib7/4    Mib  
+Lab7M Fam7 Fab7M Sib74    Mib  
 Maman, maman, maman, maman
 
 Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
