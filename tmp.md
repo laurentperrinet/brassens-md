@@ -952,7 +952,7 @@ l1: J'aurais gaîment passé dix ans au bagne Sous les verrous... -Le vent qui v
 l1: « Quand je voyais cette enfant, moi le pâtre De ce canton, Je croyais voir la belle Cléopâtre, Qui, nous dit-on,
 l1: Menait César, empereur d'Allemagne, Par le licou... -Le vent qui vient à travers la montagne Me rendra fou.
 
-c1: A                        A+                  D      E7            A                          A5                D     E7             A
+c1: A                        A5                  D      E7            A                          A5                D     E7             A
 l1: « Dansez, chantez, villageois, la nuit tombe. Sabine, un jour, A tout vendu, sa beauté de colombe, Tout son amour,
 c1:                       F#7                      Bm                    C#7                    F#m                       E7                    A   E A
 l1: Pour l'anneau d'or du comte de Saldagne, Pour un bijou... -Le vent qui vient à travers la montagne M'a rendu fou.
