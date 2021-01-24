@@ -82,7 +82,6 @@ J'suis un pauvre fossoyeur
 
 ## LE GORILLE
 
-
 Ré et La7 en alternance, en barré au refrain
 
 C'est à travers de larges grilles, que les femelles du canton,
@@ -2608,7 +2607,7 @@ J'en appelle à la mort, je l'attends sans frayeur, Je n'tiens plus à la vie, j
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 Qui aurait une tombe à vendre à n'importe quel prix, J'ai surpris ma maîtresse au bras de son mari
 Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
-Ma maîtresse,           la traîtresse !
+Ma maîtresse, la traîtresse !
 
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7
 J'croyais  tenir l'amour, au bout de mon harpon, Mon p'tit drapeau flottait au cœur d'madame Dupont,
@@ -2826,7 +2825,8 @@ Alors, moi, tout ému, j'la pris sur mes genoux, Pour lui compter les côtes
 Ré                                     Mim                       Ré                 Mi7 La7
 Et ce brave sac d'os dont j'n'avais pas voulu, Même pour une thune
       Ré                                Mim                             Ré            Mi7 La7 Ré
-M'est entré dans le cœur et n'en sortirait plus, Pour toute une fortune                                                                                                                  Ré                                       Mim                            Ré                       Mi7 La7
+M'est entré dans le cœur et n'en sortirait plus, Pour toute une fortune                                                                                                                  Ré     
+                                  Mim                            Ré                       Mi7 La7
 Du temps que je vivais dans le troisième dessous, Ivrogne, immonde, infâme
       Ré                                        Mim                                  Ré                 Mi7 La7 Ré
 Un plus soûlaud que moi, contre une pièce de cent sous, M'avait vendu sa femme
@@ -3941,10 +3941,10 @@ Bande à part, sacrebleu ! c'est ma règle et j'y tiens. Au faisceau des tibias 
 ## LES QUATRE BACHELIERS
 
 
-La                     Fa#m     Sim  Ré Fa#m   Sim7 Mi7 La                    Fa#m  Sim Fa#m Mi7 La Sol7
-Nous étions quatre bacheliers, Sans      vergogne,    La vraie crème des écoliers, Des écoliers.
+La                  Fa#m     Sim  Ré Fa#m   Sim7 Mi7 La                    Fa#m  Sim Fa#m Mi7 La Sol7
+Nous étions quatre bacheliers, Sans vergogne, La vraie crème des écoliers, Des écoliers.
 Do                  Lam       Rém  Fa Lam   Rém7 Sol7 Do                       Lam      Rém Lam Sol7   Do  Mi7
-Pour offrir aux filles des fleurs, Sans  vergogne,        Nous nous fîmes un peu voleurs, Un peu voleurs.
+Pour offrir aux filles des fleurs, Sans  vergogne, Nous nous fîmes un peu voleurs, Un peu voleurs.
 
 Les sycophantes du pays, Sans vergogne, Aux gendarmes nous ont trahis, Nous ont trahis.
 Et l'on vit quatre bacheliers, Sans vergogne, Qu'on emmène, les mains liées, Les mains liées.
@@ -3974,7 +3974,7 @@ Et si les chrétiens du pays, Sans vergogne, Jugent que cet homme a failli, Homm
 
 
 La                                                              Do#  Ré                                          Do# 
-J'ai perdu mes bajoues,  j'ai perdu ma bedaine, Et, ce, d'une façon si nette, si soudaine, 
+J'ai perdu mes bajoues, j'ai perdu ma bedaine, Et, ce, d'une façon si nette, si soudaine, 
          Fa#m                           Ré                        Si7                   Mi7                     La 
 Qu'on me suppose un mal qui ne pardonne pas, Qui se rit d'Esculape et le laisse baba.
 
