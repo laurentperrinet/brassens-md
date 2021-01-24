@@ -2528,6 +2528,7 @@ Auxquels on a t'nu tête ensemble, Lui conter qu'un certain coup de foudre assas
 Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui ressemble
 
 ##LE MÉCRÉANT
+
 ---
 youTubeId: LWSEdlL8qIM
 ---
@@ -2657,7 +2658,7 @@ J'ai surpris ma maîtresse, équivoque, ambiguë, En train d'intervertir l'ordre
 Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
 Ma maîtresse, la traîtresse !
 
-*4) LES COPAINS D'ABORD*
+# *4) LES COPAINS D'ABORD*
 
 ## TONTON NESTOR
 
@@ -3238,7 +3239,7 @@ Des Manon, des Mimi, des Suzon, des Lisette,
 Margot la blanche caille, et Fanchon, la cousette,
 Mon prince, on a les dames du temps jadis qu'on peut...
 
-##MARQUISE
+## MARQUISE
 
 
 La5 : 003221, Mi5 : 022110

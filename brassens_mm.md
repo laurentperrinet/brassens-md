@@ -4475,6 +4475,8 @@ l1: Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui r
 
 ---
 ##LE MÉCRÉANT
+
+---
 l1: ---
 
 l1: youTubeId: LWSEdlL8qIM
@@ -4686,8 +4688,7 @@ l1: Ma maîtresse, la traîtresse !
 
 
 ---
-l1: *4) LES COPAINS D'ABORD*
-
+# *4) LES COPAINS D'ABORD*
 
 ---
 ## TONTON NESTOR
@@ -5721,7 +5722,7 @@ l1: Mon prince, on a les dames du temps jadis qu'on peut...
 
 
 ---
-##MARQUISE
+## MARQUISE
 
 ---
 
