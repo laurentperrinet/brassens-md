@@ -56,8 +56,10 @@ print(f'{chordsdict=}')
 
 lines_tmp = []
 for i, line in enumerate(lines):
-    if line[0]=='#' or line=='\n':
+    if line[0]=='#' :
         line_tmp = line
+    elif line=='\n':
+        line_tmp = line + '\n'
     else:
         words = line[:-1].split(' ')
         threshold = sum([word=='' for word in words])
