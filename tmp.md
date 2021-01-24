@@ -311,7 +311,7 @@ l1: Il suffit de passer le pont, Laisse-moi tenir ton jupon
 
 c1: G                             G7                    C                                     G7                      C
 l1: Hé ! donne moi ta bouche, hé ! ma jolie fraise ! L'aube a mis des fraises plein notre horizon
-c1:                      Bb    A                         D7/9      C                   G                      C
+c1:                      Bb    A                         D7      C                   G                      C
 l1: Garde tes dindons, moi mes porcs, Thérèse, Ne r'pousse pas du pied mes p'tits cochons
 c1: F              C                 G7               C        F                  C                   D7       G7
 l1: Va, comme hier ! Comme hier ! Comme hier ! Si tu ne m'aimes point, c'est moi qui t'aim'rons
@@ -1728,17 +1728,17 @@ l1: Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-c1: Eb7/9M Eb7M Eb7/9M  Bb7/4 G7 Cm7 Ab7M Ab6/7  
+c1: Eb7M Eb7M Eb7M  Bb7/4 G7 Cm7 Ab7M Ab6/7  
 l1: Maman, maman, en faisant cette chanson, Maman,
-c1: Abm7 Eb7/9M Cm7 Bb7/4 G7  
+c1: Abm7 Eb7M Cm7 Bb7/4 G7  
 l1: maman, je r'deviens petit garçon
 c1: Cm7           G7                     Cm7             G7 Cm7             G7/5+         Ab7M Abm7 Bb7
 l1: Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
-c1: Eb7/9M Eb7M Eb7/9M  Bb7/4   G7 Cm7 Ab7M Ab6/7  Abm7 Eb7/9M Cm7 Bb7/4 G7
+c1: Eb7M Eb7M Eb7M  Bb7/4   G7 Cm7 Ab7M Ab6/7  Abm7 Eb7M Cm7 Bb7/4 G7
 l1: Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
 c1: Ab7M             Gm7           Fm7               
 l1: Et, sans un mot dire, entendre tes refrains charmants,
-c1: Ab7M Fm7/9 Fb7M Bb7/4    Eb  
+c1: Ab7M Fm7 Fb7M Bb7/4    Eb  
 l1: Maman, maman, maman, maman
 
 l1: Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
