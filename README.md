@@ -384,11 +384,11 @@ Un croquant passant à la ronde trouvant le tableau peu commun, s'en alla le dir
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Re7/Sol7          Do                               Sol#7
+                                  La7   Re7 / Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Re7/Sol7          Do                                Sol#7
+                                           La7    Re7 / Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 Sol7                                                                  Do            Lam                                              Ré7 Sol7
@@ -402,11 +402,11 @@ Les gendarmes même les gendarmes, qui sont par nature si balots, se laisse touc
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Re7/Sol7          Do                               Sol#7
+                                  La7   Re7 / Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Re7/Sol7          Do                                Sol#7
+                                           La7    Re7 / Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 Sol7                                                                                     Do            Lam                                  Ré7 Sol7
@@ -420,11 +420,11 @@ Le temps passa sur les mémoires, on oublia l'événement, seuls les vieux racon
 
 Do                                 Lam             Do
 Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-                                  La7   Re7/Sol7          Do                               Sol#7
+                                  La7   Re7 / Sol7          Do                               Sol#7
 Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Sol7                                Do                                   Lam              Do
 Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-                                           La7    Re7/Sol7          Do                                Sol#7
+                                           La7    Re7 / Sol7          Do                                Sol#7
 Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
            Do             Sol#7         Do Sol7 / Do
 Etaient là là là là là là là là là là là
@@ -685,7 +685,7 @@ Intro : Ré Sim Mim La7 Ré Sim Mim La7
 
 Ré       Mim La7     Ré   Sim                  Mim       La7      Ré
 Quand jour de gloire est arrivé, Comme tous les autres étaient crevés,
-Ré7            Sol     Fa#   Sim                         Mi7 La7                      Ré Do Sib Do (4 fois)
+Ré7            Sol     Fa#   Sim                         Mi7 La7                      Ré Do Sib Do
 Moi seul connu le déshonneur, De n'pas être mort au champ d'honneur.
 
 Rém                                                               La7
@@ -697,7 +697,7 @@ La mort faucha les autres, braves gens, braves gens,
                                                                            Rém
 Et me fit grâce à moi, c'est immoral et c'est comme ça !
 
-Solm              Do7-Fa Solm6    La7-Rém
+Solm              Do7 Fa Solm6    La7 Rém
 La la la la la la la la la la la la la la la la la
 
 Solm                   La7                       Rém

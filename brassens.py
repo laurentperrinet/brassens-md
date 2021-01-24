@@ -21,18 +21,38 @@ write(lines)
 #
 # write(lines, 'README.md')
 
-chords = []
+accords = []
 lines_tmp = []
 for i, line in enumerate(lines):
     words = line[:-1].split(' ')
     threshold = sum([word=='' for word in words])
     if threshold>1:
         for word in words:
-            if (not word in chords) :
+            if (not word in accords) :
                 if word!='':
-                    chords.append(word)
+                    accords.append(word)
 
-print(f'{chords=}')
+# print(f'{accords=}')
+
+notesdict = {'Do':'C',
+        'Ré':'D',
+        'Mi':'E',
+        'Fa':'F',
+        'Sol':'G',
+        'La':'A',
+        'Si':'B',
+        }
+
+# chords = []
+chordsdict = {}
+for accord in accords:
+    chord = accord
+    for note in notesdict.keys():
+        chord = chord.replace(note, notesdict[note])
+    # chords.append(chord)
+    chordsdict[accord] = chord
+# print(f'{chords=}')
+print(f'{chordsdict=}')
 
 lines_tmp = []
 for i, line in enumerate(lines):
@@ -43,9 +63,12 @@ for i, line in enumerate(lines):
         threshold = sum([word=='' for word in words])
         if not threshold>1:
             # line_tmp = f'{threshold:3d}' + '|' + line
-            line_tmp = 'c1: ' + line
-        else:
             line_tmp = 'l1: ' + line
+        else:
+            for c in chordsdict.keys():
+                line = line.replace(c, chordsdict[c])
+
+            line_tmp = 'c1: ' + line
     lines_tmp.append(line_tmp)
 
 write(lines_tmp)
