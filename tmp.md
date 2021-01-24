@@ -1732,7 +1732,7 @@ c1: Ebmaj7 Ebmaj7 Ebmaj7  Bb7sus4 G7 Cm7 Abmaj7 Ab6/9
 l1: Maman, maman, en faisant cette chanson, Maman,
 c1: Abm7 Ebmaj7 Cm7 Bb7sus4 G7  
 l1: maman, je r'deviens petit garçon
-c1: Cm7           G7                     Cm7             G7 Cm7             G75         Abmaj7 Abm7 Bb7
+c1: Cm7           G7                     Cm7             G7 Cm7             G7aug5         Abmaj7 Abm7 Bb7
 l1: Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
 c1: Ebmaj7 Ebmaj7 Ebmaj7  Bb7sus4   G7 Cm7 Abmaj7 Ab6/9  Abm7 Ebmaj7 Cm7 Bb7sus4 G7
 l1: Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
