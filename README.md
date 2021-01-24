@@ -1728,17 +1728,17 @@ Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-Mib7maj Mib7maj Mib7maj  Sib74 Sol7 Dom7 Lab7maj Lab67  
+Mibmaj7 Mibmaj7 Mibmaj7  Sib74 Sol7 Dom7 Labmaj7 Lab67  
 Maman, maman, en faisant cette chanson, Maman,
-Labm7 Mib7maj Dom7 Sib74 Sol7  
+Labm7 Mibmaj7 Dom7 Sib74 Sol7  
 maman, je r'deviens petit garçon
-Dom7           Sol7                     Dom7             Sol7 Dom7             Sol75         Lab7maj Labm7 Sib7
+Dom7           Sol7                     Dom7             Sol7 Dom7             Sol75         Labmaj7 Labm7 Sib7
 Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
-Mib7maj Mib7maj Mib7maj  Sib74   Sol7 Dom7 Lab7maj Lab67  Labm7 Mib7maj Dom7 Sib74 Sol7
+Mibmaj7 Mibmaj7 Mibmaj7  Sib74   Sol7 Dom7 Labmaj7 Lab67  Labm7 Mibmaj7 Dom7 Sib74 Sol7
 Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
-Lab7maj             Solm7           Fam7               
+Labmaj7             Solm7           Fam7               
 Et, sans un mot dire, entendre tes refrains charmants,
-Lab7maj Fam7 Fab7maj Sib74    Mib  
+Labmaj7 Fam7 Fabmaj7 Sib74    Mib  
 Maman, maman, maman, maman
 
 Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
