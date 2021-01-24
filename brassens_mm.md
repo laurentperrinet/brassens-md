@@ -94,8 +94,6 @@ l1: Tout l'monde viendra me voir pendu, Sauf les aveugles, bien entendu.
 ## LE FOSSOYEUR
 
 ---
-
----
 c1: A                     F#m A            D      E        A               F#m          B7
 l1: Dieu sait qu'je n'ai pas le fond méchant, Je ne souhaite jamais la mort des gens
 
@@ -421,7 +419,7 @@ l1: Où sont-ils, Vierge souveraine ? Mais où sont les neiges d'antan ?
 
 
 ---
-l1: Prince, n'enquerez de sepmaine, Où elles sont, né de cest an,
+l1: Prince, n'enquerez de semaine, Où elles sont, né de cest an,
 
 l1: Que ce reffrain ne vous remaine : Mais où sont les neiges d'antan ?
 
@@ -1581,8 +1579,12 @@ l1: Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
 
 ---
 ## UNE JOLIE FLEUR
+l1: ---
 
----
+l1: youTubeId: 3DlUIdj4FqRjs
+
+l1: ---
+
 
 ---
 c1: D                            A7                                                                         D
@@ -2508,10 +2510,10 @@ l1: J'avais l'plus bel amandier, Du quartier,
 c1:            Bm         A7   D   G       D
 l1: J'avais l'plus bel amandier, Du quartier,
 
-c1:                       A7     D                 G                      C
+c1:               A7      D            G            C
 l1: Et, pour la bouche gourmande, Des filles du monde entier,
 
-c1:             F7               Bb                            F#7  Bm
+c1:           F7          Bb               F#7      Bm
 l1: J'faisais pousser des amandes : Le beau, le joli métier !
 
 
@@ -4473,8 +4475,12 @@ l1: Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui r
 
 ---
 ##LE MÉCRÉANT
+l1: ---
 
----
+l1: youTubeId: LWSEdlL8qIM
+
+l1: ---
+
 
 ---
 c1: D                             G       Em    A7 D     F#7       Bm       G         A7         D
@@ -5872,10 +5878,7 @@ l1: Nous, au village, aussi, l'on a, De beaux assassinats
 ## LES COPAINS D'ABORD
 
 ---
-
----
-l1: Do
-
+c1: C   
 l1: Non ce n'était pas le radeau, De la méduse ce bateau,
 
 c1:                    D

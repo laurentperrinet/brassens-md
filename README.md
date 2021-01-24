@@ -60,7 +60,6 @@ Tout l'monde viendra me voir pendu, Sauf les aveugles, bien entendu.
 
 ## LE FOSSOYEUR
 
-
 La                     Fa#m La            Ré      Mi        La               Fa#m          Si7
 Dieu sait qu'je n'ai pas le fond méchant, Je ne souhaite jamais la mort des gens
 Mi        La                 La7                         Ré                 Do#7
@@ -235,7 +234,7 @@ Et Jehanne, la bonne Lorraine, Qu'Anglois brulèrent à Rouan;
 Où sont-ils, Vierge souveraine ? Mais où sont les neiges d'antan ?
 Où sont-ils, Vierge souveraine ? Mais où sont les neiges d'antan ?
 
-Prince, n'enquerez de sepmaine, Où elles sont, né de cest an,
+Prince, n'enquerez de semaine, Où elles sont, né de cest an,
 Que ce reffrain ne vous remaine : Mais où sont les neiges d'antan ?
 Que ce reffrain ne vous remaine : Mais où sont les neiges d'antan ?
 
@@ -901,7 +900,9 @@ Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
 ## *2) AUPRES DE MON ARBRE*
 
 ## UNE JOLIE FLEUR
-
+---
+youTubeId: 3DlUIdj4FqRjs
+---
 
 Ré                            La7                                                                         Ré
 Jamais sur terre il n'y eut d'amoureux, Plus aveugles que moi dans tous les âges
@@ -1431,9 +1432,9 @@ Sim                   La7   Ré   Sol       Ré
 J'avais l'plus bel amandier, Du quartier,
            Sim         La7   Ré   Sol       Ré
 J'avais l'plus bel amandier, Du quartier,
-                      La7     Ré                 Sol                      Do
+              La7      Ré            Sol            Do
 Et, pour la bouche gourmande, Des filles du monde entier,
-            Fa7               Sib                            Fa#7  Sim
+          Fa7          Sib               Fa#7      Sim
 J'faisais pousser des amandes : Le beau, le joli métier !
 
 Un écureuil en jupon, Dans un bond,
@@ -2527,7 +2528,9 @@ Auxquels on a t'nu tête ensemble, Lui conter qu'un certain coup de foudre assas
 Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui ressemble
 
 ##LE MÉCRÉANT
-
+---
+youTubeId: LWSEdlL8qIM
+---
 
 Ré                             Sol       Mim    La7 Ré     Fa#7       Sim       Sol         La7         Ré
 Est-il en notre temps, rien de plus odieux, De plus désespérant que de n'pas croire en Dieu
@@ -3320,8 +3323,7 @@ Nous, au village, aussi, l'on a, De beaux assassinats
 
 ## LES COPAINS D'ABORD
 
-
-Do
+Do   
 Non ce n'était pas le radeau, De la méduse ce bateau,
                    Ré
 Qu'on se le dise au fond des ports, Dise au fond des ports
