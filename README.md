@@ -2040,7 +2040,7 @@ Sol              La7              Ré               Si7      Mim
 C'est pas la femme d'Honoré, Ni celle de Désiré
 Fa#7                  Sim   Mim     Fa#7         Sim
 Ni celle de Théophile, Encore moins la femme de Nestor
-         Fa#7  Sim                      La7 (sauf à la fin)
+         Fa#7  Sim                      La7
 Non, c'est la femme d'Hector.
 
 Comme nous dansons devant, Le buffet bien souvent
@@ -2101,6 +2101,7 @@ Pour la femme de Pamphile, Ni pour la femme de Firmin
 Pour la femme de Germain, Pour celle de Benjamin
 Ni pour la femme d'Honoré, La femme de Désiré
 La femme de Théophile, Encore moins pour la femme de Nestor
+Fa#7  Sim   
 Mais pour la femme d'Hector.
 
 ## BONHOMME
@@ -2488,8 +2489,9 @@ Et la rançon de Pénélope.
 
 ## L'ORAGE
 
+Lam    
 
-(Lam)   Rém                                                                     Sol7
+       Rém                                                                     Sol7
 Parlez-moi de la pluie et non pas du beau temps, Le beau temps me dégoûte, me fait grincer les dents
 Do                                                 Mi
 Le bel azur me met en rage, Car le plus bel amour qui m'fut donné sur terre
@@ -2941,7 +2943,7 @@ La                                                         La7 La5+            R
 Entre nous plus de controverse, cons caducs ou cons débutants
 Ré          Rém6    La              Sim                                  Do#
 Petits cons d'la dernière averse, vieux cons des neiges d'antan
-Ré           Rém6   La     Fa#7 Sim                 Mi7           Lam (La Mi7 La à la fin)
+Ré           Rém6   La     Fa#7 Sim                 Mi7           Lam
 Petits cons d'la dernière averse, vieux cons des neiges d'antan
 
 Lam                      Sol                        Fa      Mi           Lam
@@ -2955,7 +2957,9 @@ Qui, confessez-le, prenez les p'tits bleus pour des cons
 La7                          Rém                      Sol7                 Do Rém6 Mi
 Méditez l'impartial message, d'un qui balance entre deux âges
 
-Refrain
+Refrain avec La Mi7 La à la fin
+
+
 
 ## LA COMPLAINTE DES FILLES DE JOIE
 
@@ -3923,7 +3927,7 @@ Et ma main vengeresse est retombée, vaincue ! Et le troisième coup ne fut qu'u
 
 Mim                    Si7              Mim        Si7                Mim           Si7           Mim                  La7
 « Cher monsieur, m'ont-ils dit, vous en êtes un autre », Lorsque je refusai de monter dans leur train.
-Rém             La7               Rém           La7            Ré7                                                            Sol7 (Sol5+)
+Rém             La7               Rém           La7            Ré7                                                            Sol7 Sol5+
 Oui, sans doute, mais moi, j'fais pas le bon apôtre, Moi, je n'ai besoin de personne pour en être un.
 Do                                                        Sol7                     Do                Fa        Do
 Le pluriel ne vaut rien à l'homme et sitôt qu'on, Est plus de quatre on est une bande de cons.
@@ -4329,11 +4333,11 @@ Et quand le bruit courut qu'ses jours étaient comptés, On s'en fut à l'hospic
 
 La7                                                          Solm                         La7
 On avait apporté les guitares avec nous, Car devant la musique, il tombait à genoux,
-             Ré7                                       Lam                                     Sol7       Do (bis)
+             Ré7                                       Lam                                     Sol7       Do
 Excepté toutefois les marches militaires, Qu'il écoutait en se tapant le cul par terre (bis)
            La7                                                      Solm                               La7
 Émules de Django, disciples de Crolla, Toute la fine fleur des cordes était là
-               Ré7                                           Lam                                Sol7        Do (bis)
+               Ré7                                           Lam                                Sol7        Do
 Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime audition (bis)
 
 Fa                    Do7         Fa7        Sib     Sibm        Rém    Sol7      Do7
