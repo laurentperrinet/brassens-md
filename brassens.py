@@ -15,13 +15,25 @@ def write(lines, fname='tmp.md'):
 write(lines)
 
 # Transformations
-# 1/ remove special character
-for i, line in enumerate(lines):
-    lines[i] = line.replace(u'\xa0', u' ')
-
-write(lines, 'README.md')
+# # 1/ remove special character
+# for i, line in enumerate(lines):
+#     lines[i] = line.replace(u'\xa0', u' ')
+#
+# write(lines, 'README.md')
 
 chords = []
+lines_tmp = []
+for i, line in enumerate(lines):
+    words = line[:-1].split(' ')
+    threshold = sum([word=='' for word in words])
+    if threshold>1:
+        for word in words:
+            if (not word in chords) :
+                if word!='':
+                    chords.append(word)
+
+print(f'{chords=}')
+
 lines_tmp = []
 for i, line in enumerate(lines):
     words = line[:-1].split(' ')
