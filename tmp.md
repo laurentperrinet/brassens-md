@@ -384,11 +384,11 @@ l1: Un croquant passant à la ronde trouvant le tableau peu commun, s'en alla le
 
 c1: C                                 Am             C
 l1: Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-c1:                                   A7   Re7 / G7          C                               G#7
+c1:                                   A7   D7 / G7          C                               G#7
 l1: Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            G7                                C                                   Am              C
 l1: Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-c1:                                            A7    Re7 / G7          C                                G#7
+c1:                                            A7    D7 / G7          C                                G#7
 l1: Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 c1: G7                                                                  C            Am                                              D7 G7
@@ -402,11 +402,11 @@ l1: Les gendarmes même les gendarmes, qui sont par nature si balots, se laisse 
 
 c1: C                                 Am             C
 l1: Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-c1:                                   A7   Re7 / G7          C                               G#7
+c1:                                   A7   D7 / G7          C                               G#7
 l1: Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            G7                                C                                   Am              C
 l1: Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-c1:                                            A7    Re7 / G7          C                                G#7
+c1:                                            A7    D7 / G7          C                                G#7
 l1: Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 
 c1: G7                                                                                     C            Am                                  D7 G7
@@ -420,11 +420,11 @@ l1: Le temps passa sur les mémoires, on oublia l'événement, seuls les vieux r
 
 c1: C                                 Am             C
 l1: Quand Margot dégrafait son corsage, pour donner la gougoutte à son chat
-c1:                                   A7   Re7 / G7          C                               G#7
+c1:                                   A7   D7 / G7          C                               G#7
 l1: Tous les gars tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            G7                                C                                   Am              C
 l1: Et Margot qu'était simple et très sage, présumait qu'c'était pour voir son chat
-c1:                                            A7    Re7 / G7          C                                G#7
+c1:                                            A7    D7 / G7          C                                G#7
 l1: Qu'tous les gars qu'tous les gars du village, étaient là là là là là là là, étaient là là là là là là
 c1:            C             G#7         C G7 / C
 l1: Etaient là là là là là là là là là là là
@@ -3832,9 +3832,9 @@ l1: Qui fait du pédalo sur la plage en rêvant, Qui passe sa mort en vacances.
 
 c1: G                                                E7
 l1: C'était tremblant, c'était troublant, C'était vêtu d'un drap tout blanc,
-c1:        Am   Re7                  G               C               G
+c1:        Am   D7                  G               C               G
 l1: Ça présentait tous les symptômes, Tous les dehors de la vision,
-c1:       B7              Em    C G Em Am Re7 G
+c1:       B7              Em    C G Em Am D7 G
 l1: Les faux airs de l'apparition, En un mot, c'était un fantôme !
 
 l1: A sa manière d'avancer, A sa façon de balancer
@@ -4346,7 +4346,7 @@ c1: F                    C7         F7       Bb   Bbm                 F         
 l1: Et le dernier concert de l'ancêtre déçu, Ce fut un pot-pourri de cantiques, peuchère !
 c1: C                                                           C7                                                    F
 l1: Quand nous serons ancêtres, Du côté de Bicêtre, Pas de musique d'orgue, oh ! non,
-c1:                           Em     Dm                   A7      F                                        E7 A7 Re7 G7 C
+c1:                           Em     Dm                   A7      F                                        E7 A7 D7 G7 C
 l1: Pas de chants liturgiques, Pour qui avale sa chique, Mais des guitares, cré nom de nom ! (bis)
 
 c1: A7                                                     Gm                        A7
@@ -4364,7 +4364,7 @@ c1: F                   C             F7    Bb  Bbm               F             
 l1: Et l' coup de l'étrier de l'ancêtre déçu, Ce fut un grand verre d'eau bénite, peuchère !
 c1: C                                                           C7                                                   F
 l1: Quand nous serons ancêtres, Du côté de Bicêtre, Ne nous faites pas boire, oh ! non,
-c1:                          Em    Dm             A7    F                                        E7 A7 Re7 G7 C
+c1:                          Em    Dm             A7    F                                        E7 A7 D7 G7 C
 l1: De ces eaux minérales, Bénites ou lustrales, Mais du bon vin, cré nom de nom ! (bis)
 
 c1: A7                                                  Gm                         A7
@@ -4381,7 +4381,7 @@ c1: F                    C7            F7  Bb Bbm      F                      G7
 l1: Et le dernier froufrou de l'ancêtre déçu, Ce fut celui d'une robe de sœur, peuchère !
 c1: C                                                            C7                                                F
 l1: Quand nous serons ancêtres, Du côte de Bicêtre, Pas d'enfants de Marie, oh ! non,
-c1:                                 Em    Dm                     A7    F                                        E7 A7 Re7 G7 C
+c1:                                 Em    Dm                     A7    F                                        E7 A7 D7 G7 C
 l1: Remplacez-nous les nonnes, Par des belles mignonnes, Et qui fument, cré nom de nom ! (bis)
 
 ## RIEN A JETER
