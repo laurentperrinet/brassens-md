@@ -12,7 +12,9 @@ def write(lines, fname='brassens_mm.md'):
         for line in lines:
             f.write(line)
 
-write(lines)
+print(len(lines))
+# for testing
+# write(lines)
 
 # Transformations
 # # 1/ remove special character
@@ -20,6 +22,7 @@ write(lines)
 #     lines[i] = line.replace(u'\xa0', u' ')
 #
 # write(lines, 'README.md')
+
 
 accords = []
 lines_tmp = []
@@ -29,11 +32,12 @@ for i, line in enumerate(lines):
     if threshold>1:
         for word in words:
             if (not word in accords) :
-                if word!='':
+                if word !='':
                     accords.append(word)
 
-# print(f'{accords=}')
+print(f'{accords=}')
 
+# converting to english chords
 notesdict = {'Do':'C',
         'Ré':'D',
         'Mi':'E',
@@ -42,21 +46,24 @@ notesdict = {'Do':'C',
         'La':'A',
         'Si':'B',
         }
-
 # chords = []
 chordsdict = {}
 for accord in accords:
     chord = accord
     for note in notesdict.keys():
-        chord = chord.replace(note, notesdict[note])
-    # chords.append(chord)
-    chordsdict[accord] = chord
+        if note in chord:
+            chord = chord.replace(note, notesdict[note])
+            extra_space = len(note) - len(notesdict[note])
+            if extra_space>0:
+                chord += ' '*extra_space
+            # chords.append(chord)
+            chordsdict[accord] = chord
 # print(f'{chords=}')
 print(f'{chordsdict=}')
 
 lines_tmp = []
 for i, line in enumerate(lines):
-    if line[0]=='#' :
+    if line[0]=='#' : # a header
         line_tmp = line
     elif line=='\n':
         line_tmp = line + '---\n'
@@ -67,11 +74,29 @@ for i, line in enumerate(lines):
             # line_tmp = f'{threshold:3d}' + '|' + line
             line_tmp = 'l1: ' + line + '\n'
         else:
-            for c in chordsdict.keys():
-                line = line.replace(c, chordsdict[c])
-
-            line_tmp = 'c1: ' + line
+            words_tmp = []
+            for word in words:
+                for accord in chordsdict.keys():
+                    if word == accord:
+                        word = chordsdict[accord]
+                    #    line = line.replace(accord, chordsdict[accord])
+                words_tmp.append(word)
+            line = ''
+            for word in words_tmp: line += word + ' '
+            line_tmp = 'c1: ' + line  + '\n'
+            #print(line_tmp)
     lines_tmp.append(line_tmp)
+
+if False:
+    line = lines[4]
+    print(line)
+    words = line[:-1].split(' ')
+    print(words)
+    for c in chordsdict.keys():
+        line = line.replace(c, chordsdict[c])
+    print(line)
+
+    print(len(lines_tmp))
 
 write(lines_tmp)
 
