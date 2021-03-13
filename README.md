@@ -144,7 +144,7 @@ Gare au goriiiiiiiiiiille
 ## LE PETIT CHEVAL
 
 
-La                                Ré        La                                       Fa#m Mi
+La                      Ré      La                                       Fa#m Mi
 Le petit cheval dans le mauvais temps, Qu'il avait donc du courage
 La                   Ré        La                                       Fa#m Mi
 C'était un petit cheval blanc, Tous derrière, tous derrière,
@@ -897,7 +897,7 @@ Et j'ai vu ma peine, bien récompensée
 Car dans le cœur, de la pauvre Hélène, Qui avait jamais chanté,
 Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
 
-## *2) AUPRES DE MON ARBRE*
+# *2) AUPRES DE MON ARBRE*
 
 ## UNE JOLIE FLEUR
 ---
@@ -1724,7 +1724,7 @@ Lors, j'ai vu qu'il restait encor, Du monde et du beau monde sur terre
 Lam        Ré7         Sol7     Do         Lam            Fa7 Mi7 Lam
 Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 
-## *3) LE PORNOGRAPHE*
+# *3) LE PORNOGRAPHE*
 
 ## MAMAN, PAPA
 
@@ -3449,7 +3449,7 @@ Vers son clocher, sa chaumine, Ses parents et sa promise
 Nul ne dise dans le pays, Le joueur de flûte a trahi
 Et Dieu reconnaisse pour sien, Le brave petit musicien !
 
-## *5) SUPPLIQUE POUR ETRE ENTERRE SUR LA PLAGE DE SETE*
+# *5) SUPPLIQUE POUR ETRE ENTERRE SUR LA PLAGE DE SETE*
 
 ## LES DEUX ONCLES
 
