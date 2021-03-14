@@ -634,48 +634,51 @@ Bien d'autres sans doutes, Depuis, sont venues, Oui, mais entre toutes, Celles q
 Elle est la dernière, Que l'on oubliera, La première fille, Qu'on a pris dans ses bras.
 
 ## JE SUIS UN VOYOU
-
-
-La      La7                  Ré              Mi7      La                  La7                Ré          Mi7    La
+La        La7         Ré      Mi7         La            La7           Ré       Mi7     La
 Ci-gît au fond de mon cœur une histoire ancienne, Un fantôme, un souvenir d'une que j'aimais...
-               La7                       Ré              Mi7     La                       La7               Ré     Mi7           La
+          La7                Ré         Mi7       La               La7          Ré   Mi7           La
 Le temps, à grands coups de faux, peut faire des siennes, Mon bel amour dure encore, et c'est à jamais...
-
-La                         Sim             Mi7        La            Fa#m         Sim    Mi7             La
+---
+La                Sim            Mi7     La        Fa#m         Sim    Mi7         La
 J'ai perdu la tramontane En trouvant Margot, Princesse vêtue de laine, Déesse en sabots...
-         Fa#m                  Sim                Mi7          La                Fa#m                Sim                Mi7           La
+         Fa#m              Sim           Mi7        La            Fa#m             Sim            Mi7         La
 Si les fleurs, le long des routes, S'mettaient à marcher, C'est à la Margot, sans doute, Qu'elles feraient songer...
+---
           Fa#m    Sim     Do#m     Fa#m Sim Do#m        Fa#m     Sim     Do#m         Fa#m Si7 Mi
 J'lui ai dit: « De la Madone, Tu es le portrait ! » Le Bon Dieu me le pardonne, C'était un peu vrai...
-             La     Fa#m     Sim                  Mi7      La             Fa#m                Sim    Mi7            La
+             La     Fa#m     Sim         Mi7     La           Fa#m           Sim    Mi7          La
 Qu'il me le pardonne ou non, D'ailleurs, je m'en fous, J'ai déjà mon âme en peine : Je suis un voyou.
-
-La                            Sim                   Mi7    La            Fa#m              Sim      Mi7                  La
+---
+La                     Sim        Mi7         La     Fa#m              Sim      Mi7              La
 La mignonne allait aux vêpres, Se mettre à genoux, Alors j'ai mordu ses lèvres, Pour savoir leur goût...
-            Fa#m                 Sim                       Mi7   La                Fa#m            Sim                   Mi7           La
+         Fa#m      Sim             Mi7                 La             Fa#m          Sim           Mi7              La
 Elle m'a dit, d'un ton sévère : « Qu'est-ce que tu fais là ? » Mais elle m'a laissé faire, Les filles, c'est comme ça...
-          Fa#m    Sim     Do#m     Fa#m Sim Do#m        Fa#m     Sim     Do#m         Fa#m Si7 Mi
+---
+          Fa#m    Sim     Do#m     Fa#m Sim    Do#m        Fa#m    Sim     Do#m    Fa#m Si7    Mi
 J'lui ai dit: « Par la Madone, Reste auprès de moi ! » Le Bon Dieu me le pardonne, Mais chacun pour soi...
-             La     Fa#m     Sim                  Mi7      La             Fa#m                Sim    Mi7             La
+             La     Fa#m     Sim         Mi7     La           Fa#m           Sim    Mi7          La
 Qu'il me le pardonne ou non, D'ailleurs, je m'en fous, J'ai déjà mon âme en peine : Je suis un voyou.
-
-La                     Sim                   Mi7        La              Fa#m                    Sim   Mi7                 La
+---
+La                Sim               Mi7      La             Fa#m             Sim   Mi7            La
 C'était une fille sage, A « bouche, que veux-tu ? » J'ai croqué dans son corsage, Les fruits défendus...
-            Fa#m             Sim                         Mi7   La                Fa#m            Sim                  Mi7           La
+         Fa#m           Sim                    Mi7     La               Fa#m       Sim         Mi7                La
 Elle m'a dit d'un ton sévère : « Qu'est-ce que tu fais là ? » Mais elle m'a laissé faire, Les filles, c'est comme ça...
-          Fa#m    Sim     Do#m     Fa#m Sim Do#m        Fa#m     Sim     Do#m         Fa#m Si7 Mi
+---
+      Fa#m    Sim     Do#m     Fa#m Sim Do#m        Fa#m     Sim     Do#m         Fa#m Si7 Mi
 Puis, j'ai déchiré sa robe, Sans l'avoir voulu... Le Bon Dieu me le pardonne, Je n'y tenais plus !
-             La     Fa#m     Sim                  Mi7      La             Fa#m                Sim    Mi7              La
+             La     Fa#m     Sim         Mi7     La           Fa#m           Sim    Mi7          La
 Qu'il me le pardonne ou non, D'ailleurs, je m'en fous, J'ai déjà mon âme en peine : Je suis un voyou.
-
+---
 La                         Sim             Mi7        La            Fa#m                Sim    Mi7          La
 J'ai perdu la tramontane, En perdant Margot, Qui épousa, contre son âme, Un triste bigot...
        Fa#m               Sim               Mi7   La         Fa#m                  Sim                Mi7           La
 Elle doit avoir à l'heure, A l'heure qu'il est, Deux ou trois marmots qui pleurent, Pour avoir leur lait...
+---
           Fa#m    Sim     Do#m     Fa#m Sim Do#m        Fa#m     Sim     Do#m         Fa#m Si7 Mi
 Et, moi, j'ai tété leur mère, Longtemps avant eux... Le Bon Dieu me le pardonne, J'étais amoureux !
-             La     Fa#m     Sim                  Mi7      La             Fa#m                Sim             Mi7   La
+             La     Fa#m     Sim         Mi7     La           Fa#m           Sim    Mi7          La
 Qu'il me le pardonne ou non, D'ailleurs, je m'en fous, J'ai déjà mon âme en peine : Je suis un voyou.
+---
 
 ## LA MAUVAISE HERBE
 
