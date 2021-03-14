@@ -2,7 +2,7 @@
 
 # READ
 lines = []
-with open('README.md','r') as f:
+with open('brassens.txt','r') as f:
     for line in f:
         lines.append(line)
 
