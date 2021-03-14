@@ -7,7 +7,7 @@ format:
 	python3 brassens.py
 
 compile: format
-	musicmd brassens_mm.md -o index.html
+	musicmd albums/brassens_1.md -o albums/brassens_1.html
 
 publish: compile
 	git commit -am'update' ; git push

@@ -7,16 +7,17 @@ with open('README.md','r') as f:
         lines.append(line)
 
 # WRITE
-def write(lines, fname='brassens_mm.md'):
+def write(lines, fname='index.md'):
     with open(fname,'w') as f:
         for line in lines:
             f.write(line)
 
-print(len(lines))
+# print(len(lines))
 # for testing
 # write(lines)
 
 # Transformations
+
 # # 1/ remove special character
 # for i, line in enumerate(lines):
 #     lines[i] = line.replace(u'\xa0', u' ')
@@ -61,18 +62,41 @@ for accord in accords:
 # print(f'{chords=}')
 print(f'{chordsdict=}')
 
+import os
+os.makedirs('albums', exist_ok=True)
+
+album_count = 0 # Album counter
+
+lines_index = ["""
+
+# Anthologie Georges Brassens
+
+"""]
 lines_tmp = []
 for i, line in enumerate(lines):
     if line[0]=='#' : # a header
+        if line[:2]=='# ' : # un nouvel album
+            if len(lines_tmp) > 0 :
+                # on sauve l'album précédemment écrit
+                album_name = f'albums/brassens_{album_count}.md' # albums/brassens_1.md
+                album_name_html = f'albums/brassens_{album_count}.html' # albums/brassens_1.html
+                write(lines_tmp, fname=album_name)
+                lines_index.append(f' * [{line[2:-1]}]({album_name_html}) \n')
+
+            # on recommence à collecter un nouvel album
+            lines_tmp = []
+            album_count += 1
         line_tmp = line
     elif line=='\n':
-        line_tmp = line + '---\n'
+        line_tmp = line #+ '\n'
     else:
         words = line[:-1].split(' ')
         threshold = sum([word=='' for word in words])
         if not threshold>1:
-            # line_tmp = f'{threshold:3d}' + '|' + line
-            line_tmp = 'l1: ' + line + '\n'
+            if ' *' in line or '---' in line or 'youTubeId' in line :
+                line_tmp = line + '\n'
+            else:
+                line_tmp = 'l1: ' + line + '\n'
         else:
             words_tmp = []
             for word in words:
@@ -87,49 +111,4 @@ for i, line in enumerate(lines):
             #print(line_tmp)
     lines_tmp.append(line_tmp)
 
-if False:
-    line = lines[4]
-    print(line)
-    words = line[:-1].split(' ')
-    print(words)
-    for c in chordsdict.keys():
-        line = line.replace(c, chordsdict[c])
-    print(line)
-
-    print(len(lines_tmp))
-
-write(lines_tmp)
-
-if False:
-    # render
-    # https://markdown-it-py.readthedocs.io/en/latest/using.html
-    from markdown_it import MarkdownIt
-    from markdown_it.extensions.front_matter import front_matter_plugin
-    from markdown_it.extensions.footnote import footnote_plugin
-
-    md = (
-        MarkdownIt()
-        .use(front_matter_plugin)
-        .use(footnote_plugin)
-        .enable('table')
-    )
-    # text = ("""
-    # ---
-    # a: 1
-    # ---
-    #
-    # a | b
-    # - | -
-    # 1 | 2
-    #
-    # A footnote [^1]
-    #
-    # [^1]: some details
-    # """)
-    #
-    # write(md.render(text), 'index.html')
-
-    text = ''
-    for line in lines:
-        text += line
-    write(md.render(text), 'index.html')
+write(lines_index, fname='index.md')
