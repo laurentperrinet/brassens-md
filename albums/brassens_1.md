@@ -998,7 +998,7 @@ c1:          F#m               Bm            E7         A             F#m       
 l1: Si les fleurs, le long des routes, S'mettaient à marcher, C'est à la Margot, sans doute, Qu'elles feraient songer...
 
 ---
-c1:           F#m     Bm      C#m      F#m  Bm  C#m         F#m      Bm      C#m          F#m  B7  E  
+c1:           F#m     G#7     C#m      F#m  G#7   C#m         F#m      G#7     C#m          F#m  B7  E  
 l1: J'lui ai dit: « De la Madone, Tu es le portrait ! » Le Bon Dieu me le pardonne, C'était un peu vrai...
 
 c1:              A      F#m      Bm          E7      A            F#m            Bm     E7           A  
@@ -1012,7 +1012,7 @@ c1:          F#m       Bm              E7                  A              F#m   
 l1: Elle m'a dit, d'un ton sévère : « Qu'est-ce que tu fais là ? » Mais elle m'a laissé faire, Les filles, c'est comme ça...
 
 ---
-c1:           F#m     Bm      C#m      F#m  Bm     C#m         F#m     Bm      C#m     F#m  B7     E  
+c1:           F#m     G#7     C#m      F#m  G#7    C#m         F#m     G#7     C#m     F#m  B7     E  
 l1: J'lui ai dit: « Par la Madone, Reste auprès de moi ! » Le Bon Dieu me le pardonne, Mais chacun pour soi...
 
 c1:              A      F#m      Bm          E7      A            F#m            Bm     E7           A  
@@ -1026,7 +1026,7 @@ c1:          F#m            Bm                     E7      A                F#m 
 l1: Elle m'a dit d'un ton sévère : « Qu'est-ce que tu fais là ? » Mais elle m'a laissé faire, Les filles, c'est comme ça...
 
 ---
-c1:       F#m     Bm      C#m      F#m  Bm  C#m         F#m      Bm      C#m          F#m  B7  E  
+c1:       F#m     G#7     C#m      F#m  Bm  C#m         F#m      G#7     C#m          F#m  B7  E  
 l1: Puis, j'ai déchiré sa robe, Sans l'avoir voulu... Le Bon Dieu me le pardonne, Je n'y tenais plus !
 
 c1:              A      F#m      Bm          E7      A            F#m            Bm     E7           A  
@@ -1040,7 +1040,7 @@ c1:        F#m           Bm        E7          A            F#m                B
 l1: Elle doit avoir à l'heure, A l'heure qu'il est, Deux ou trois marmots qui pleurent, Pour avoir leur lait...
 
 ---
-c1:           F#m   Bm      C#m      F#m    Bm    C#m           F#m      Bm    C#m          F#m  B7  E  
+c1:           F#m   G#7     C#m      F#m    G#7   C#m           F#m      G#7   C#m          F#m  B7  E  
 l1: Et, moi, j'ai tété leur mère, Longtemps avant eux... Le Bon Dieu me le pardonne, J'étais amoureux !
 
 c1:              A      F#m      Bm          E7      A            F#m            Bm     E7           A  
