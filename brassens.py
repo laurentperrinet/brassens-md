@@ -81,8 +81,9 @@ for i, line in enumerate(lines):
                 album_name = f'albums/brassens_{album_count}.md' # albums/brassens_1.md
                 album_name_html = f'albums/brassens_{album_count}.html' # albums/brassens_1.html
                 write(lines_tmp, fname=album_name)
-                lines_index.append(f' * [{line[2:-1]}]({album_name_html}) \n')
+                lines_index.append(f' * [{album_title}]({album_name_html}) \n')
 
+            album_title = line[2:-1]
             # on recommence à collecter un nouvel album
             lines_tmp = []
             album_count += 1
