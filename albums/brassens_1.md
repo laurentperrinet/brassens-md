@@ -1277,6 +1277,7 @@ c1: F#7                Bm              G           C#7          F#7
 l1: Et dans mon âme il brûle encore, A la manière d'un feu de joie
 
 
+---
 
 c1: Bm                           F#7                           Bm  
 l1: Toi l'Auvergnat quand tu mourras, Quand le croque-mort t'emportera
@@ -1285,7 +1286,7 @@ c1: Bm                  E7      A     G   F#7      Bm
 l1: Qu'il te conduise à travers ciel, Au  père éternel
 
 
-
+---
 l1: Elle est à toi cette chanson, Toi l'hôtesse qui sans façon
 
 l1: M'as donné quatre bouts de pain, Quand dans ma vie il faisait faim
@@ -1302,8 +1303,7 @@ l1: Toi l'hôtesse quand tu mourras, Quand le croque-mort t'emportera
 
 l1: Qu'il te conduise à travers ciel, Au père éternel
 
-
-
+---
 l1: Elle est à toi cette chanson, Toi l'étranger qui sans façon
 
 l1: D'un air malheureux m'as souri, Lorsque les gendarmes m'ont pris
