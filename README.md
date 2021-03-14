@@ -826,7 +826,7 @@ youTubeId: rrZPVQN8QDY
 
 Sim                      Fa#7                     Sim
 Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
-Sim                        Fa#7        Sim          La7        Ré        Fa#7
+Sim                        Fa#7        Sim          La7        Ré        Fa#
 M'as donné quatre bouts de bois, Quand dans ma vie il faisait froid
 Sim                       Fa#7                     Sim
 Toi qui m'as donné du feu quand, Les croquantes et les croquants

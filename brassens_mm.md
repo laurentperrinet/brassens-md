@@ -1446,7 +1446,7 @@ l1: ---
 c1: Bm                       F#7                      Bm  
 l1: Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
 
-c1: Bm                         F#7         Bm           A7         D         F#7  
+c1: Bm                         F#7         Bm           A7         D         F#  
 l1: M'as donné quatre bouts de bois, Quand dans ma vie il faisait froid
 
 c1: Bm                        F#7                      Bm  
