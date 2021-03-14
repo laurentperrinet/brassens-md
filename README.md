@@ -818,22 +818,23 @@ Refrain
 ## CHANSON POUR L'AUVERGNAT
 
 
- Sim                Fa#7                                          Sim
+Sim               Fa#7        Fa#7                Sim
 Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
-                             Fa#7                          Sim           La7       Ré       Fa#7
+Sim               Fa#7           Sol           La7            Ré        Fa#7
 M'as donné quatre bouts de bois, Quand dans ma vie il faisait froid
-Sim                        Fa#7                                         Sim
+Sim                Fa#7          Fa#7              Sim
 Toi qui m'as donné du feu quand, Les croquantes et les croquants
-Sim                          Fa#7               Sim             La7           Ré
+Sim                 Fa#7           Sol           La7         Ré
 Tous les gens bien intentionnés, M'avaient fermé la porte au nez
-Ré            Sol  La7            Ré    Sim         Mim Fa#7       Sim
+Ré         Sol  La7          Ré    Sim        Mim  Fa#7       Sim
 Ce n'était rien qu'un feu de bois, Mais il m'avait chauffé le corps
-Fa#7                       Sim                 Sol                            Fa#7
+Fa#7                       Sim                  Sol        Sol7
 Et dans mon âme il brûle encore, A la manière d'un feu de joie
-Sim                            Fa#7                                                    Sim
+
+Sim                   Fa#7        Fa#7                     Sim
 Toi l'Auvergnat quand tu mourras, Quand le croque-mort t'emportera
-                          Mi7        La Fa#7 Sim
-Qu'il te conduise à travers ciel, Au père éternel
+Sim               Mi7       La    Sol Fa#7 Sim
+Qu'il te conduise à travers ciel, Au  père éternel
 
 Elle est à toi cette chanson, Toi l'hôtesse qui sans façon
 M'as donné quatre bouts de pain, Quand dans ma vie il faisait faim
