@@ -1,4 +1,4 @@
-# *1) LA MAUVAISE RÉPUTATION*
+# 1) LA MAUVAISE RÉPUTATION
 
 ## LA MAUVAISE RÉPUTATION
 
@@ -904,7 +904,7 @@ Et j'ai vu ma peine, bien récompensée
 Car dans le cœur, de la pauvre Hélène, Qui avait jamais chanté,
 Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
 
-# *2) AUPRES DE MON ARBRE*
+# 2) AUPRES DE MON ARBRE
 
 ## UNE JOLIE FLEUR
 ---
@@ -1731,7 +1731,7 @@ Lors, j'ai vu qu'il restait encor, Du monde et du beau monde sur terre
 Lam        Ré7         Sol7     Do         Lam            Fa7 Mi7 Lam
 Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 
-# *3) LE PORNOGRAPHE*
+# 3) LE PORNOGRAPHE
 
 ## MAMAN, PAPA
 
@@ -2665,7 +2665,7 @@ J'ai surpris ma maîtresse, équivoque, ambiguë, En train d'intervertir l'ordre
 Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
 Ma maîtresse, la traîtresse !
 
-# *4) LES COPAINS D'ABORD*
+# 4) LES COPAINS D'ABORD
 
 ## TONTON NESTOR
 
@@ -3456,7 +3456,7 @@ Vers son clocher, sa chaumine, Ses parents et sa promise
 Nul ne dise dans le pays, Le joueur de flûte a trahi
 Et Dieu reconnaisse pour sien, Le brave petit musicien !
 
-# *5) SUPPLIQUE POUR ETRE ENTERRE SUR LA PLAGE DE SETE*
+# 5) SUPPLIQUE POUR ETRE ENTERRE SUR LA PLAGE DE SETE
 
 ## LES DEUX ONCLES
 
@@ -4043,7 +4043,7 @@ Mais je n'ai pas encor, non, non, non, trois fois non, Ce mal mystérieux dont o
 Si j'ai trahi les gros, les joufflus, les obèses, C'est que je baise, que je baise, que je baise
 Comme un bouc, un bélier, une bête, une brute, Je suis hanté : le rut, le rut, le rut, le rut !
 
-*6) LA NON-DEMANDE EN MARIAGE*
+# 6) LA NON-DEMANDE EN MARIAGE
 
 ## LA NON-DEMANDE EN MARIAGE
 

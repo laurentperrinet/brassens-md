@@ -1,4 +1,4 @@
-default: compile
+default: publish
 
 install:
 	npm i -g markdown-it-music

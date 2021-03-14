@@ -1,4 +1,611 @@
-# LES OISEAUX DE PASSAGE
+# 6) LA NON-DEMANDE EN MARIAGE
+
+## LA NON-DEMANDE EN MARIAGE
+
+
+c1: Em                                         Bm                                         F#m            Bm  
+l1: Ma mie, de grâce, ne mettons, Pas sous la gorge à Cupidon, Sa propre flèche
+
+c1: Em                                        Bm                                         F#m          Bm  
+l1: Tant d'amoureux l'ont essayé, Qui, de leur bonheur, ont payé, Ce sacrilège...
+
+c1:                      Em              A7        D       F#7  
+l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+
+c1: Bm                            F#m                                Bm  
+l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+l1: Laissons le champs libre à l'oiseau, Nous serons tous les deux priso- nniers sur parole
+
+l1: Au diable les maîtresses queux, Qui attachent les cœurs aux queues, Des casseroles !
+
+l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+
+l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+l1: Vénus se fait vieille souvent, Elle perd son latin devant, La lèchefrite
+
+l1: A aucun prix, moi je ne veux, Effeuiller dans le pot-au-feu, La marguerite
+
+l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+
+l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+l1: On leur ôte bien des attraits, En dévoilant trop les secrets, De Mélusine
+
+l1: L'encre des billets doux pâlit, Vite entre les feuillets des li- vres de cuisine.
+
+l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+
+l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+l1: Il peut sembler de tout repos, De mettre à l'ombre, au fond d'un pot, De confiture
+
+l1: La jolie pomme défendue, Mais elle est cuite, elle a perdu, Son goût « nature »
+
+l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+
+l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+l1: De servante n'ai pas besoin, Et du ménage et de ses soins, Je te dispense
+
+l1: Qu'en éternelle fiancée, A la dame de mes pensées, Toujours je pense
+
+l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+
+l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+## LE GRAND CHÊNE
+
+
+c1:        C         Am              Dm         G7   C                Am                 Dm     G7   
+l1: Il vivait en dehors des chemins forestiers, Ce n'était nullement un arbre de métier,
+
+c1:        C            C7       F                   E7  Am                 Dm       G7    C  
+l1: Il n'avait jamais vu l'ombre d'un bûcheron, Ce grand chêne fier sur son tronc.
+
+
+l1: Il eût connu des jours filés d'or et de soie, Sans ses proches voisins, les pires gens qui soient ;
+
+l1: Des roseaux mal pensant, pas même des bambous, S'amusant à le mettre à bout.
+
+
+l1: Du matin jusqu'au soir ces petit rejetons, Tout juste canne à pêche, à peine mirlitons,
+
+l1: Lui tournant tout autour chantaient, in extenso, L'histoire du chêne et du roseau.
+
+
+l1: Et, bien qu'il fût en bois, les chênes, c'est courant, La fable ne le laissait pas indifférent.
+
+l1: Il advint que lassé d'être en but aux lazzi, Il se résolut à l'exil.
+
+
+l1: A grand-peine il sortit ses grands pieds de son trou, Et partit sans se retourner ni peu ni prou.
+
+l1: Mais, moi qui l'ai connu, je sais bien qu'il souffrit, De quitter l'ingrate patrie
+
+
+l1: A l'orée des forêts, le chêne ténébreux, A lié connaissance avec deux amoureux.
+
+l1: « Grand chêne, laisse-nous sur toi graver nos noms... » Le grand chêne n'a pas dit non.
+
+
+l1: Quand ils eurent épuisé leur grand sac de baisers, Quand, de tant s'embrasser, leurs becs furent usés,
+
+l1: Ils ouïrent alors, en retenant des pleurs, Le chêne contant ses malheurs.
+
+
+l1: « Grand chêne, viens chez nous, tu trouveras la paix, Nos roseaux savent vivre et n'ont aucun toupet,
+
+l1: Tu feras dans nos murs un aimable séjour, Arrosé quatre fois par jour. »
+
+
+l1: Cela dit, tous les trois se mirent en chemin, Chaque amoureux tenant une racine en main.
+
+l1: Comme il semblait content ! Comme il semblait heureux, Le chêne entre ses amoureux.
+
+
+l1: Au pied de leur chaumière ils le firent planter. Ce fut alors qu'il commença de déchanter
+
+l1: Car, en fait d'arrosage, il n'eut rien que la pluie, Des chiens levant la patte sur lui.
+
+
+l1: On a pris tous ses glands pour nourrir les cochons, Avec sa belle écorce on a fait des bouchons,
+
+l1: Chaque fois qu'un arrêt de mort était rendu, C'est lui qui héritait du pendu.
+
+
+l1: Puis ces mauvaises gens, vandales accomplis, Le coupèrent en quatre et s'en firent un lit.
+
+l1: Et l'horrible mégère ayant des tas d'amants, Il vieillit prématurément.
+
+
+l1: Un triste jour, enfin, ce couple sans aveu, Le passa par la hache et le mit dans le feu.
+
+l1: Comme du bois de caisse, amère destinée, Il périt dans la cheminée.
+
+
+l1: Le curé de chez nous, petit saint besogneux, Doute que sa fumée s'élève jusqu'à Dieu.
+
+c1:                                                                                                                          E  
+l1: Qu'est-c'qu'il en sait, le bougre, et qui donc lui a dit, Qu'y a pas de chêne en paradis ?
+
+l1: Lam Rém Sol7 Do Sol7 Do
+
+l1: Qu'y a pas de chêne en paradis ?
+
+
+## CONCURRENCE DÉLOYALE
+
+
+c1:       Am                                Dm                                                                        Am  C  D  E7  
+l1: Il y a péril en la demeure, Depuis que les femmes de bonnes mœurs, Ces trouble-fête,
+
+c1:      Am                                       D                 Dm    E7  Dm        F  E7  Am  
+l1: Jalouses de Manon Lescaut, Viennent débiter leurs gigots, A la sauvette.
+
+
+l1: Elles ôtent le bonhomme de dessus, La brave horizontale déçue, Elles prennent sa place.
+
+l1: De la bouche au pauvre tapin, Elles retirent le morceau de pain, C'est dégueulasse.
+
+
+l1: En vérité, je vous le dis, Il y en a plus qu'en Normandie, Il y a de pommes.
+
+l1: Sainte-Mad'leine, protégez-nous, Le métier de femme ne nou-, Rrit plus son homme.
+
+
+l1: Y a ces gamines de malheur, Ces gosses qui, tout en suçant leur, Pouce de fillette,
+
+l1: Se livrent au détournement, De majeur et, vénalement, Troussent leur layette.
+
+
+l1: Y a ces rombières de qualité, Ces punaises de salon de thé, Qui se prosternent,
+
+l1: Qui, pour redorer leur blason, Viennent accrocher leur vison, A la lanterne.
+
+
+l1: Y a ces p'tites bourgeoises faux culs, Qui, d'accord avec leur cocu, Clerc de notaire,
+
+l1: Au prix de gros vendent leur corps, Leurs charmes qui fleurent encor, La pomme de terre.
+
+
+l1: Lors, délaissant la fille de joie, Le client peut faire son choix, Tout à sa guise,
+
+l1: Et se payer beaucoup moins cher, Des collégiennes, des ménagères, Et des marquises.
+
+
+l1: Ajoutez à ça qu'aujourd'hui, La manie de l'acte gratuit, Se développe,
+
+l1: Que des créatures se font cul-, buter à l'œil et sans calcul. Ah ! Les salopes !
+
+
+l1: Elles ôtent le bonhomme de dessus, La brave horizontale déçue, Elles prennent sa place.
+
+l1: De la bouche au pauvre tapin, Elles retirent le morceau de pain, C'est dégueulasse.
+
+
+## L'ÉPAVE
+
+
+l1: La
+
+l1: J'en appelle à Bacchus ! A Bacchus j'en appelle ! Le tavernier du coin vient d'me la bailler belle.
+
+c1:       A7                                                                  D                                                   G#7   
+l1: De son établiss'ment j'étais l'meilleur pilier. Quand j'eus bu tous mes sous, il me mit à la porte
+
+c1:       C#m                                                F#7                      B7                     E7                  A  
+l1: En disant : « Les poivrots, le diable les emporte ! ». Ça n'fait rien, il y a des bistrots bien singuliers...
+
+
+l1: Un certain va-nu-pieds qui passe et me trouve ivre, Mort, croyant tout de bon que j'ai cessé de vivre
+
+l1: Vous auriez fait pareil, s'en prit à mes souliers. Pauvre homme ! Vu l'état piteux de mes godasses,
+
+l1: Je doute qu'il trouve avec son chemin de Damas. Ça n'fait rien, il y a des passants bien singuliers...
+
+
+l1: Un étudiant miteux s'en prit à ma liquette, Qui, à la faveur d'la nuit lui avait paru coquette,
+
+l1: Mais en plein jour ses yeux ont dû se dessiller. Je l'plains de tout mon coeur, pauvre enfant, s'il l'a mise,
+
+l1: Vu que, d'un homme heureux, c'était loin d'être la ch'mise. Ça n'fait rien, y a des étudiants bien singuliers...
+
+
+l1: La femme d'un ouvrier s'en prit à ma culotte. « Pas ça, madame, pas ça, mille et un coups de bottes
+
+l1: Ont tant usé le fond que, si vous essayiez, D'la mettre à votre mari, bientôt, je vous en fiche
+
+l1: Mon billet, il aurait du verglas sur les miches ». Ça n'fait rien, il y a des ménages bien singuliers...
+
+
+l1: Et j'étais là, tout nu, sur le bord du trottoire, Exhibant, malgré moi, mes humbles génitoires.
+
+l1: Une petite vertu rentrant de travailler, Elle qui, chaque soir, en voyait une douzaine,
+
+l1: Courut dire aux agents : « J'ai vu que'qu'chose d'obscène ! ». Ça n'fait rien, il y a des tapins bien singuliers...
+
+
+l1: Le r'présentant d'la loi vint, d'un pas débonnaire. Sitôt qu'il m'aperçut il s'écria : « Tonnerre !
+
+l1: On est en plein hiver et si vous vous geliez ! », Et de peur que j'n'attrape une fluxion d'poitrine,
+
+l1: Le bougre, il me couvrit avec sa pèlerine. Ça n'fait rien, il y a des flics bien singuliers...
+
+
+l1: Et depuis ce jour-là, moi, le fier, le bravache, Moi, dont le cri de guerre fut toujours « Mort aux vaches ! »
+
+l1: Plus une seule fois je n'ai pu le brailler. J'essaye bien encor, mais ma langue honteuse
+
+l1: Retombe lourdement dans ma bouche pâteuse. Ça n'fait rien, nous vivons un temps bien singulier...
+
+
+## LE MOYENÂGEUX
+
+
+c1: F#m        B7             E                    F#m  B7    E  
+l1: Le seul reproche, au demeurant, Qu'aient pu mériter mes parents,
+
+c1:              Em  A7     D                       E       D              E     C#7  
+l1: C'est d'avoir pas joué plus tôt, Le jeu de la bête à deux dos.
+
+c1:          F#m  B7    E                  F#m  B7      E  
+l1: Je suis né, même pas bâtard, Avec cinq siècles de retard.
+
+c1:          Em  A7         D                      E         D         E     C#7  
+l1: Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
+
+
+l1: Ah ! que n'ai-je vécu, bon sang ! Entre quatorze et quinze cent.
+
+l1: J'aurais retrouvé mes copains, Au Trou de la pomme de pin,
+
+l1: Tous les beaux parleurs de jargon, Tous les promis de Montfaucon,
+
+l1: Les plus illustres seigneuries, Du royaume de truanderie.
+
+
+l1: Après une franche repue, J'eusse aimé, toute honte bue,
+
+l1: Aller courir le cotillon, Sur les pas de François Villon,
+
+l1: Troussant la gueuse et la forçant, Au cimetière des Innocents,
+
+l1: Mes amours de ce siècle-ci, N'en aient aucune jalousie...
+
+
+l1: J'eusse aimé le corps féminin, Des nonnettes et des nonnains
+
+l1: Qui, dans ces jolis temps bénis, Ne disaient pas toujours « nenni »,
+
+l1: Qui faisaient le mur du couvent, Qui, Dieu leur pardonne ! souvent,
+
+l1: Comptaient les baisers, s'il vous plaît, Avec des grains de chapelet.
+
+
+l1: Ces p'tit's sœurs, trouvant qu'à leur goût, Quatre Évangiles c'est pas beaucoup,
+
+l1: Sacrifiaient à un de plus : L'évangile selon Vénus.
+
+l1: Témoin : l'abbesse de Pourras, Qui fut, qui reste et restera
+
+l1: La plus glorieuse putain, De moine du quartier Latin.
+
+
+l1: A la fin, les anges du guet, M'auraient conduit sur le gibet.
+
+l1: Je serais mort, jambes en l'air, Sur la veuve patibulaire,
+
+l1: En arrosant la mandragore, L'herbe aux pendus qui revigore,
+
+l1: En bénissant avec les pieds, Les ribaudes apitoyées.
+
+
+l1: Hélas ! tout ça, c'est des chansons. Il faut se faire une raison.
+
+l1: Les choux-fleurs poussent à présent, Sur le charnier des Innocents.
+
+l1: Le Trou de la pomme de pin, N'est plus qu'un bar américain.
+
+l1: Y a quelque chose de pourri, Au royaume de truanderie.
+
+
+l1: Je mourrai pas à Montfaucon, Mais dans un lit, comme un vrai con,
+
+l1: Je mourrai, pas même pendard, Avec cinq siècles de retard.
+
+l1: Ma dernière parole soit, Quelques vers de Maître François,
+
+l1: Et que j'emporte entre les dents, Un flocon des neiges d'antan...
+
+
+l1: Ma dernière parole soit, Quelques vers de Maître François...
+
+l1: Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
+
+
+## MISOGYNIE A PART
+
+
+l1: Sol
+
+c1:         D7                                                     E                                                                       A7         D  
+l1: Misogynie à part, le sage avait raison, Il y a les emmerdantes, on en trouve à foison, En foule elles se pressent
+
+c1:         D7                                                                   E                                                       A7              D7  G   
+l1: Il y a les emmerdeuses, un peu plus raffinées, Et puis, très nettement au-dessus du panier, Y'a les emmerderesses
+
+
+l1: La mienne, à elle seule, sur toutes surenchérit, Elle relève à la fois des trois catégories, Véritable prodige
+
+l1: Emmerdante, emmerdeuse, emmerderesse itou, Elle passe, elle dépasse, elle surpasse tout,
+
+l1: Elle m'emmerde, vous dis-je
+
+
+l1: Mon Dieu, pardonnez-moi ces propos bien amers, Elle m'emmerde, elle m'emmerde, elle m'emmerde, elle m'emmerde, elle abuse, elle attige
+
+l1: Elle m'emmerde et j'regrette mes belles amours avec, La p'tite enfant d'Marie que m'a soufflée l'évêque,
+
+l1: Elle m'emmerde, vous dis-je
+
+
+l1: Elle m'emmerde, elle m'emmerde, et m'oblige à me cu- rer les ongles avant de confirmer son cul, Or, c'est pas callipyge
+
+l1: Et la charité seule pousse ma main résignée, Vers ce cul rabat-joie, conique, renfrogné,
+
+l1: Elle m'emmerde, vous dis-je
+
+
+l1: Elle m'emmerde, elle m'emmerde, je le répète et quand, Elle me tape sur le ventre, elle garde ses gants, Et ça me désoblige
+
+l1: Outre que ça dénote un grand manque de tact, Ça n'favorise pas tellement le contact,
+
+l1: Elle m'emmerde, vous dis-je
+
+
+l1: Elle m'emmerde, elle m'emmerde , quand je tombe à genoux, Pour certaines dévotions qui sont bien de chez nous Et qui donnent le vertige
+
+l1: Croyant l'heure venue de chanter le credo, Elle m'ouvre tout grand son missel sur le dos
+
+l1: Elle m'emmerde, vous dis-je
+
+
+l1: Elle m'emmerde, elle m'emmerde, à la fornication, Elle s'emmerde, elle s'emmerde avec ostentation Elle s'emmerde, vous dis-je
+
+l1: Au lieu de s'écrier: « Encor ! Hardi ! Hardi ! », Elle déclame du Claudel, du Claudel, j'ai bien dit
+
+l1: Alors ça, ça me fige
+
+
+l1: Elle m'emmerde, elle m'emmerde, j'admets que ce Claudel, Soit un homme de génie, un poète immortel, J'reconnais son prestige
+
+l1: Mais qu'on aille chercher dedans son œuvre pie, Un aphrodisiaque, non, ça, c'est d'l'utopie,
+
+l1: Elle m'emmerde, vous dis-je
+
+
+## BÉCASSINE
+
+
+c1: Bm                          F#m  Bm                     A7              D    F#7  
+l1: Un champ de blé prenait racine, Sous la coiffe de Bécassine,
+
+c1: Bm                                F#m  Bm                 A7                     D     B7  
+l1: Ceux qui cherchaient la toison d'or, Ailleurs avaient bigrement tort.
+
+c1:                                                                                                  Em  
+l1: Tous les seigneurs du voisinage, Les gros bonnets, grands personnages,
+
+c1:     A7                                   D    Bm         G               E  
+l1: Rêvaient de joindre à leur blason, Une boucle de sa toison.
+
+c1: F#7             Bm      A7      D                   F#m            Bm    F#m  
+l1: Un champ de blé prenait racine, Sous la coiffe de Bécassine.
+
+
+l1: C'est une espèce de robin, N'ayant pas l'ombre d'un lopin,
+
+l1: Qu'elle laissa pendre, vainqueur, Au bout de ses accroche-cœurs.
+
+l1: C'est une sorte de manant, Un amoureux du tout-venant
+
+l1: Qui pourra chanter la chanson, Des blés d'or en toute saison
+
+l1: Et jusqu'à l'heure du trépas, Si le diable s'en mêle pas.
+
+
+l1: Au fond des yeux de Bécassine, Deux pervenches prenaient racine,
+
+l1: Si belles que Sémiramis, Ne s'en est jamais bien remise.
+
+l1: Et les grands noms à majuscules, Les Cupidons à particules
+
+l1: Auraient cédé tous leurs acquêts, En échange de ce bouquet.
+
+l1: Au fond des yeux de Bécassine, Deux pervenches prenaient racine.
+
+
+l1: C'est une espèce de gredin, N'ayant pas l'ombre d'un jardin,
+
+l1: Un soupirant de rien du tout, Qui lui fit faire les yeux doux.
+
+l1: C'est une sorte de manant, Un amoureux du tout-venant
+
+l1: Qui pourra chanter la chanson, Des fleurs bleues en toute saison
+
+l1: Et jusqu'à l'heure du trépas, Si le diable s'en mêle pas.
+
+
+l1: A sa bouche, deux belles guignes, Deux cerises tout à fait dignes,
+
+l1: Tout à fait dignes du panier, De madame de Sévigné.
+
+l1: Les hobereaux, les gentillâtres, Tombés tous fous d'elle, idolâtres,
+
+l1: Auraient bien mis leur bourse à plat, Pour s'offrir ces deux guignes-là,
+
+l1: Tout à fait dignes du panier, De madame de Sévigné.
+
+
+l1: C'est une espèce d'étranger, N'ayant pas l'ombre d'un verger,
+
+l1: Qui fit s'ouvrir, qui étrenna, Ses jolies lèvres incarnat.
+
+l1: C'est une sorte de manant, Un amoureux du tout-venant
+
+l1: Qui pourra chanter la chanson, Du temps des cerises en toute saison
+
+l1: Et jusqu'à l'heure du trépas, Si le diable s'en mêle pas.
+
+
+l1: C'est une sorte de manant, Un amoureux du tout-venant
+
+l1: Qui pourra chanter la chanson, Du temps des cerises en toute saison
+
+l1: Et jusqu'à l'heure du trépas, Si le diable s'en mêle pas.
+
+
+## L'ANCÊTRE
+
+
+c1: C                      G7         C7        F    Fm                        Am             D7           G7   
+l1: Notre voisin l'ancêtre était un fier galant, Qui n'emmerdait personne avec sa barbe blanche,
+
+c1: C                         G7                      C7         F       Fm            Am                   D7  G7   C  
+l1: Et quand le bruit courut qu'ses jours étaient comptés, On s'en fut à l'hospice afin de l'assister.
+
+
+c1: A7                                                           Gm                           A7  
+l1: On avait apporté les guitares avec nous, Car devant la musique, il tombait à genoux,
+
+c1:              D7                                        Am                                      G7         C  
+l1: Excepté toutefois les marches militaires, Qu'il écoutait en se tapant le cul par terre (bis)
+
+c1:            A7                                                       Gm                                 A7  
+l1: Émules de Django, disciples de Crolla, Toute la fine fleur des cordes était là
+
+c1:                D7                                            Am                                 G7          C  
+l1: Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime audition (bis)
+
+
+c1: F                     C7          F7         Bb      Bbm         Dm     G7        C7  
+l1: Hélas ! les carabins ne les ont pas reçus, Les guitares sont restées à la porte cochère,
+
+c1: F                     C7          F7        Bb    Bbm                  F                        G7   C7  F  G7   
+l1: Et le dernier concert de l'ancêtre déçu, Ce fut un pot-pourri de cantiques, peuchère !
+
+c1: C                                                            C7                                                     F  
+l1: Quand nous serons ancêtres, Du côté de Bicêtre, Pas de musique d'orgue, oh ! non,
+
+c1:                           Em      Dm                    A7       F                                         E7  A7  D7  G7   C  
+l1: Pas de chants liturgiques, Pour qui avale sa chique, Mais des guitares, cré nom de nom ! (bis)
+
+
+c1: A7                                                      Gm                          A7  
+l1: On avait apporté quelques litres aussi, Car le bonhomme avait la fièvre de Bercy
+
+c1:                 D7                                         Am                              G7          C  
+l1: Et les soirs de nouba, parole de tavernier, A rouler sous la table il était le dernier (bis)
+
+c1:                  A7                                                             Gm                             A7  
+l1: Saumur, Entre-deux-mers, Beaujolais, Marsala, Toute la fine fleur de la vigne était là
+
+c1:                 D7                                           Am                                G7         C  
+l1: Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime libation (bis)
+
+
+c1: F                    C7            F7         Bb       Bbm             Dm          G7       C7  
+l1: Hélas ! les carabins ne les ont pas reçus, Les litres sont restés à la porte cochère,
+
+c1: F                    C              F7     Bb   Bbm                F                              G7   C7  F  G7   
+l1: Et l' coup de l'étrier de l'ancêtre déçu, Ce fut un grand verre d'eau bénite, peuchère !
+
+c1: C                                                            C7                                                    F  
+l1: Quand nous serons ancêtres, Du côté de Bicêtre, Ne nous faites pas boire, oh ! non,
+
+c1:                          Em     Dm              A7     F                                         E7  A7  D7  G7   C  
+l1: De ces eaux minérales, Bénites ou lustrales, Mais du bon vin, cré nom de nom ! (bis)
+
+
+c1: A7                                                   Gm                           A7  
+l1: On avait emmené les belles du quartier, Car l'ancêtre courait la gueuse volontier.
+
+c1:                   D7                                             Am                                      G7             C  
+l1: De sa main toujours leste et digne cependant, Il troussait les jupons par n'importe quel temps (bis).
+
+c1:                 A7                                                  Gm                                 A7  
+l1: Depuis Manon Lescaut jusques à Dalila, Toute la fine fleur du beau sexe était là
+
+c1:                D7                                            Am                                 G7          C  
+l1: Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime érection (bis).
+
+c1: F                 C7              F7            Bb  Bbm                   Dm            G7   C7  
+l1: Hélas ! les carabins ne les ont pas reçues, Les belles sont restées à la porte cochère,
+
+c1: F                     C7             F7   Bb  Bbm       F                       G7   C7  F  G7   
+l1: Et le dernier froufrou de l'ancêtre déçu, Ce fut celui d'une robe de sœur, peuchère !
+
+c1: C                                                             C7                                                 F  
+l1: Quand nous serons ancêtres, Du côte de Bicêtre, Pas d'enfants de Marie, oh ! non,
+
+c1:                                 Em     Dm                      A7     F                                         E7  A7  D7  G7   C  
+l1: Remplacez-nous les nonnes, Par des belles mignonnes, Et qui fument, cré nom de nom ! (bis)
+
+
+## RIEN A JETER
+
+
+c1: Em                            A7            D            E7  A7  Em           A7       D                          E7     A7  
+l1: Sans ces cheveux qui volent, J'aurais, dorénavant, Des difficultés folles, A voir d'où vient le vent.
+
+c1: D                          F#7            G    F#7  Bm                            E7  A7  D    B7  
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: Je me demande comme, Subsister sans ses joues ,M'offrant deux belles pommes, Nouvelles chaque jour.
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: Sans sa gorge, ma tête, Dépourvue de coussin, Reposerait par terre, Et rien n'est plus malsain.
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: Sans ses hanches solides, Comment faire, demain, Si je perds l'équilibre, Pour accrocher mes mains ?
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: Elle a mille autre choses, Précieuses encore, Mais en spectacle, j'ose, Pas donner tout son corps.
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: Des charmes de ma mie, J'en passe et des meilleurs. Vos cours d'anatomie, Allez les prendre ailleurs.
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: D'ailleurs, c'est sa faiblesse, Elle tient à ses os, Et jamais ne se laisse-rait couper en morceaux.
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+l1: Elle est quelque peu fière, Et chatouilleuse assez, Et l'on doit tout entière, La prendre ou la laisser.
+
+l1: Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+
+
+## LES OISEAUX DE PASSAGE
 
 
 c1: Dm                                                                C  
