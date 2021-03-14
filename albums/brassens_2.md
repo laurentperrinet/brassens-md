@@ -2,11 +2,8 @@
 
 ## UNE JOLIE FLEUR
 ---
-
 youTubeId: 3DlUIdj4FqRjs
-
 ---
-
 
 c1: D                             A7                                                                          D  
 l1: Jamais sur terre il n'y eut d'amoureux, Plus aveugles que moi dans tous les âges
@@ -315,7 +312,8 @@ c1: F         C                                       Am    Dm  G7   C
 l1: Et bientôt petit à petit, au gué, au gué, On a tout su, tout su de lui, au gué, au gué
 
 
-c1: G7     
+l1: Sol7
+
 l1: On a su qu'il était enfant de la Patrie, Qu'il était incapable de risquer sa vie
 
 

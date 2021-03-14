@@ -32,7 +32,7 @@ c1: F                                    E               F                      
 l1: Je ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne.
 
 
-c1: Am                             E     
+c1: Am                             E  
 
 c1: Am                          B7   E         Am  
 l1: Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux,
@@ -1252,16 +1252,11 @@ l1: Refrain
 ## CHANSON POUR L'AUVERGNAT
 
  * https://www.youtube.com/watch?v=rrZPVQN8QDY
-
  * valse
 
-
 ---
-
 youTubeId: rrZPVQN8QDY
-
 ---
-
 
 c1: Bm                       F#7                      Bm  
 l1: Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon

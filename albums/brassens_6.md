@@ -964,10 +964,12 @@ l1: Plus de bandeau sur l'œil et d'un huissier modèle,
 c1: Bm         G                   Em  F#7  
 l1: Arborait les sombres habits
 
-c1: Bm    
+l1: Sim
+
 l1: Dès qu'il avait connu le krach, la banqueroute,
 
-c1: E7   A    
+l1: Mi7  La
+
 l1: De nos affaires de cœur, il s'était mis en route
 
 c1: G              F#7                   Bm  

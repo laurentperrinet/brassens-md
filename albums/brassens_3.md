@@ -3,10 +3,12 @@
 ## MAMAN, PAPA
 
 
-c1: Ebmaj7  Ebmaj7  Ebmaj7   Bb7sus4  G7   Cm7  Abmaj7  Ab6/9    
+l1: Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4 Sol7 Dom7 Labmaj7 Lab6/9
+
 l1: Maman, maman, en faisant cette chanson, Maman,
 
-c1: Abm7  Ebmaj7  Cm7  Bb7sus4  G7     
+l1: Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7
+
 l1: maman, je r'deviens petit garçon
 
 c1: Cm7            G7                       Cm7              G7   Cm7              G7aug5           Abmaj7  Abm7  Bb7  
@@ -15,10 +17,10 @@ l1: Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meill
 c1: Ebmaj7  Ebmaj7  Ebmaj7   Bb7sus4    G7   Cm7  Abmaj7  Ab6/9   Abm7  Ebmaj7  Cm7  Bb7sus4  G7   
 l1: Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
 
-c1: Abmaj7              Gm7             Fm7                 
+c1: Abmaj7              Gm7             Fm7  
 l1: Et, sans un mot dire, entendre tes refrains charmants,
 
-c1: Abmaj7  Fm7  Fbmaj7  Bb7sus4     Eb    
+c1: Abmaj7  Fm7  Fbmaj7  Bb7sus4     Eb  
 l1: Maman, maman, maman, maman
 
 
@@ -594,7 +596,8 @@ l1: Ni pour la femme d'Honoré, La femme de Désiré
 
 l1: La femme de Théophile, Encore moins pour la femme de Nestor
 
-c1: F#7   Bm     
+l1: Fa#7  Sim
+
 l1: Mais pour la femme d'Hector.
 
 
@@ -856,7 +859,8 @@ l1: Des tas d'enterrements vous passent sous le nez
 c1: C                                           Dm7  G7   
 l1: Mais où sont les funérailles d'antan ?
 
-c1: C    
+l1: Do
+
 l1: Les petits corbillards, corbillards, corbillards, corbillards
 
 c1:                        E7  
@@ -1216,7 +1220,8 @@ l1: Et la rançon de Pénélope.
 
 ## L'ORAGE
 
-c1: Am      
+l1: Lam
+
 
 c1:        Dm                                                                      G7   
 l1: Parlez-moi de la pluie et non pas du beau temps, Le beau temps me dégoûte, me fait grincer les dents
@@ -1280,11 +1285,8 @@ l1: Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui r
 ## LE MÉCRÉANT
 
 ---
-
 youTubeId: LWSEdlL8qIM
-
 ---
-
 
 c1: D                              G         Em     A7  D      F#7        Bm        G           A7          D  
 l1: Est-il en notre temps, rien de plus odieux, De plus désespérant que de n'pas croire en Dieu
@@ -1410,7 +1412,7 @@ l1: J'en appelle à la mort, je l'attends sans frayeur, Je n'tiens plus à la vi
 c1:           Em           A7        D            G7            C              F#7           Bm                C#7   F#7  Bm  
 l1: Qui aurait une tombe à vendre à n'importe quel prix, J'ai surpris ma maîtresse au bras de son mari
 
-c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm    
+c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm  
 l1: Ma maîtresse, la traîtresse !
 
 
@@ -1420,7 +1422,7 @@ l1: J'croyais  tenir l'amour, au bout de mon harpon, Mon p'tit drapeau flottait 
 c1:           Em           A7        D            G7            C              F#7           Bm                C#7   F#7  Bm  
 l1: Mais tout est consommé : hier soir au coin d'un bois, j'ai surpris ma maîtresse avec son mari, pouah !
 
-c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm    
+c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm  
 l1: Ma maîtresse, la traîtresse !
 
 
@@ -1430,7 +1432,7 @@ l1: Trouverais-je les noms, trouverais-je les mots, Pour noter d'infamie cet enf
 c1:           Em           A7        D            G7            C              F#7           Bm                C#7   F#7  Bm  
 l1: Qui a choisit son époux pour tromper son amant, Qui a conduit l'adultère à son point culminant ?
 
-c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm    
+c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm  
 l1: Ma maîtresse, la traîtresse !
 
 
@@ -1440,7 +1442,7 @@ l1: Où donc avais-je les yeux ? Quoi donc avais-je dedans ? Pour pas m'être ap
 c1:           Em           A7        D            G7            C              F#7           Bm                C#7   F#7  Bm  
 l1: Que quand elle m'embrassait, elle semblait moins goulue, Et faisait des enfants qui n'me ressemblaient plus
 
-c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm    
+c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm  
 l1: Ma maîtresse, la traîtresse !
 
 
@@ -1450,7 +1452,7 @@ l1: Et pour bien m'enfoncer la corne dans le cœur, Par un raffinement satanique
 c1:           Em           A7        D            G7            C              F#7           Bm                C#7   F#7  Bm  
 l1: La perfide, à voix haute, a dit à mon endroit : « Le plus cornard des deux n'est point celui qu'on croit »
 
-c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm    
+c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm  
 l1: Ma maîtresse, la traîtresse !
 
 
@@ -1460,7 +1462,7 @@ l1: J'ai surpris les Dupont, ce couple de marauds, En train d'recommencer leur h
 c1:           Em           A7        D            G7            C              F#7           Bm                C#7   F#7  Bm  
 l1: J'ai surpris ma maîtresse, équivoque, ambiguë, En train d'intervertir l'ordre de ses cocus.
 
-c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm    
+c1: B7      E6  F#7  B  G#7   C#7  F#7  Bm  
 l1: Ma maîtresse, la traîtresse !
 
 

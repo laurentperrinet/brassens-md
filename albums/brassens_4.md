@@ -291,7 +291,7 @@ l1: Et ce brave sac d'os dont j'n'avais pas voulu, Même pour une thune
 c1:       D                                 Em                              D             E7  A7  D  
 l1: M'est entré dans le cœur et n'en sortirait plus, Pour toute une fortune
 
-c1:                                                                                                                   D       
+c1:                                                                                                                   D  
 c1:                                   Em                             D                        E7  A7  
 l1: Du temps que je vivais dans le troisième dessous, Ivrogne, immonde, infâme
 
@@ -643,7 +643,7 @@ l1: Ré
 
 l1: Depuis que l'homme écrit l'Histoire, Depuis qu'il bataille à cœur joie
 
-c1:                                            D7    
+c1:                                            D7  
 l1: Entre mille et une guerres notoires, Si j'étais t'nu de faire un choix
 
 c1:          G             A7      D                  G      C#7     F#m  
@@ -1054,7 +1054,8 @@ l1: Nous, au village, aussi, l'on a, De beaux assassinats
 
 ## LES COPAINS D'ABORD
 
-c1: C     
+l1: Do
+
 l1: Non ce n'était pas le radeau, De la méduse ce bateau,
 
 c1:                    D  

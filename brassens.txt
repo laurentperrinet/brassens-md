@@ -23,7 +23,7 @@ La musique qui marche au pas, Cela ne me regarde pas.
 Fa                                   Mi              Fa                                 Mi Lam Fa Mi
 Je ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne.
 
-Lam                            Mi   
+Lam                            Mi
 
 Lam                         Si7  Mi        Lam
 Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux,
@@ -1114,7 +1114,7 @@ Et sur les femmes nues des musées, au gué, au gué, Faisait l'brouillon de ses
 Fa        Do                                      Lam   Rém Sol7 Do
 Et bientôt petit à petit, au gué, au gué, On a tout su, tout su de lui, au gué, au gué
 
-Sol7  
+Sol7
 On a su qu'il était enfant de la Patrie, Qu'il était incapable de risquer sa vie
 
 Pour cueillir un myosotis à une fille, Corne d'Aurochs
@@ -1736,17 +1736,17 @@ Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
 ## MAMAN, PAPA
 
 
-Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4 Sol7 Dom7 Labmaj7 Lab6/9  
+Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4 Sol7 Dom7 Labmaj7 Lab6/9
 Maman, maman, en faisant cette chanson, Maman,
-Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7  
+Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7
 maman, je r'deviens petit garçon
 Dom7           Sol7                     Dom7             Sol7 Dom7             Sol7aug5         Labmaj7 Labm7 Sib7
 Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
 Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4   Sol7 Dom7 Labmaj7 Lab6/9  Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7
 Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
-Labmaj7             Solm7           Fam7               
+Labmaj7             Solm7           Fam7
 Et, sans un mot dire, entendre tes refrains charmants,
-Labmaj7 Fam7 Fabmaj7 Sib7sus4    Mib  
+Labmaj7 Fam7 Fabmaj7 Sib7sus4    Mib
 Maman, maman, maman, maman
 
 Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
@@ -2109,7 +2109,7 @@ Pour la femme de Pamphile, Ni pour la femme de Firmin
 Pour la femme de Germain, Pour celle de Benjamin
 Ni pour la femme d'Honoré, La femme de Désiré
 La femme de Théophile, Encore moins pour la femme de Nestor
-Fa#7  Sim   
+Fa#7  Sim
 Mais pour la femme d'Hector.
 
 ## BONHOMME
@@ -2275,7 +2275,7 @@ Des tas d'enterrements vous passent sous le nez
 
 Do                                          Rém7 Sol7
 Mais où sont les funérailles d'antan ?
-Do  
+Do
 Les petits corbillards, corbillards, corbillards, corbillards
                        Mi7
 De nos grands-pères
@@ -2497,7 +2497,7 @@ Et la rançon de Pénélope.
 
 ## L'ORAGE
 
-Lam    
+Lam
 
        Rém                                                                     Sol7
 Parlez-moi de la pluie et non pas du beau temps, Le beau temps me dégoûte, me fait grincer les dents
@@ -2627,42 +2627,42 @@ Sim                   Do#7        Fa#7            Sim                           
 J'en appelle à la mort, je l'attends sans frayeur, Je n'tiens plus à la vie, je cherche un fossoyeur
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 Qui aurait une tombe à vendre à n'importe quel prix, J'ai surpris ma maîtresse au bras de son mari
-Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
+Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim
 Ma maîtresse, la traîtresse !
 
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7
 J'croyais  tenir l'amour, au bout de mon harpon, Mon p'tit drapeau flottait au cœur d'madame Dupont,
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 Mais tout est consommé : hier soir au coin d'un bois, j'ai surpris ma maîtresse avec son mari, pouah !
-Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
+Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim
 Ma maîtresse, la traîtresse !
 
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7
 Trouverais-je les noms, trouverais-je les mots, Pour noter d'infamie cet enfant de chameau
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 Qui a choisit son époux pour tromper son amant, Qui a conduit l'adultère à son point culminant ?
-Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
+Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim
 Ma maîtresse, la traîtresse !
 
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7
 Où donc avais-je les yeux ? Quoi donc avais-je dedans ? Pour pas m'être aperçu depuis un certain temps
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 Que quand elle m'embrassait, elle semblait moins goulue, Et faisait des enfants qui n'me ressemblaient plus
-Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
+Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim
 Ma maîtresse, la traîtresse !
 
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7
 Et pour bien m'enfoncer la corne dans le cœur, Par un raffinement satanique, moqueur
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 La perfide, à voix haute, a dit à mon endroit : « Le plus cornard des deux n'est point celui qu'on croit »
-Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
+Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim
 Ma maîtresse, la traîtresse !
 
 Sim                   Do#7        Fa#7            Sim                              Do#7               Fa#7      Si7
 J'ai surpris les Dupont, ce couple de marauds, En train d'recommencer leur hymen à zéro
           Mim          La7       Ré           Sol7          Do             Fa#7          Sim               Do#7  Fa#7 Sim
 J'ai surpris ma maîtresse, équivoque, ambiguë, En train d'intervertir l'ordre de ses cocus.
-Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim  
+Si7     Mi6 Fa#7 Si Sol#7 Do#7 Fa#7 Sim
 Ma maîtresse, la traîtresse !
 
 # 4) LES COPAINS D'ABORD
@@ -2847,7 +2847,7 @@ Ré                                     Mim                       Ré           
 Et ce brave sac d'os dont j'n'avais pas voulu, Même pour une thune
       Ré                                Mim                             Ré            Mi7 La7 Ré
 M'est entré dans le cœur et n'en sortirait plus, Pour toute une fortune
-                                                                                                                  Ré     
+                                                                                                                  Ré
                                   Mim                            Ré                       Mi7 La7
 Du temps que je vivais dans le troisième dessous, Ivrogne, immonde, infâme
       Ré                                        Mim                                  Ré                 Mi7 La7 Ré
@@ -3077,7 +3077,7 @@ Trompettes de la Renommée, Vous êtes bien mal embouchées
 
 Ré
 Depuis que l'homme écrit l'Histoire, Depuis qu'il bataille à cœur joie
-                                           Ré7  
+                                           Ré7
 Entre mille et une guerres notoires, Si j'étais t'nu de faire un choix
          Sol           La7     Ré                 Sol    Do#7    Fa#m
 A l'encontre du vieil Homère, Je déclarerais tout de suite :
@@ -3331,7 +3331,7 @@ Nous, au village, aussi, l'on a, De beaux assassinats
 
 ## LES COPAINS D'ABORD
 
-Do   
+Do
 Non ce n'était pas le radeau, De la méduse ce bateau,
                    Ré
 Qu'on se le dise au fond des ports, Dise au fond des ports
@@ -4638,9 +4638,9 @@ Sale petit bonhomme, il ne portait plus d'ailes,
 Plus de bandeau sur l'œil et d'un huissier modèle,
 Sim        Sol                 Mim Fa#7
 Arborait les sombres habits
-Sim  
+Sim
 Dès qu'il avait connu le krach, la banqueroute,
-Mi7  La  
+Mi7  La
 De nos affaires de cœur, il s'était mis en route
 Sol            Fa#7                  Sim
 Pour recouvrer tout son fourbi.
@@ -6293,7 +6293,7 @@ Entre la rue de Vanves et la rue Didot
 
 Sol                                                                       Do                         Sol                    La7 Ré
 Aux quatre coins de France, émanant je suppose, De maris rancuniers par la haine conduits,
-Sol                                     Sol                              Si7                            Mim La7     Ré7         Sol  Ré7  
+Sol                                     Sol                              Si7                            Mim La7     Ré7         Sol  Ré7
 Le bruit court que j'atteins l'heure de l'andropause, Qu'il ne faut plus compter sur moi dans le déduit.
 Ô n'insultez jamais une verge qui tombe ! Ce n'est pas leur principe, ils crient sur tous les tons
 Que l'une de mes deux est déjà dans la tombe, Et que l'autre à son tour file un mauvais coton. Tous ces empanachés bêtement se figurent, Qu'un membre de ma famille est à jamais perclus,
@@ -6553,5 +6553,595 @@ Le crêpe à la queue sans doute, L'escorteront chagrinés, Laissant la rivière
 Lors, tombés dans la disette, Repliant leurs épuisettes, Tout penauds, tout pleurnicheurs, Les vrais pêcheurs
 Rentreront chez eux bredouilles, Danser devant le buffet, Se faisant traiter d'andouilles, Par leur compagne. Bien fait !
 
+
+## SI SEULEMENT ELLE ÉTAIT JOLIE
+
+
+            Fa                   Fa6        Fa                                 Fa6
+Si seulement elle était jolie, Je dirais : « Tout n'est pas perdu.
+            Fa                    Fa6                  La7
+Elle est folle, c'est entendu, Mais quelle beauté accomplie ! »
+          Rém                                                                La7  Rém                              Do7  Fa
+Hélas elle est plus laide bientôt, Que les sept péchés capitaux, Que les sept péchés capitaux.
+
+Si seulement elle avait des formes, Je dirais : « Tout n'est pas perdu,
+Elle est moche, c'est entendu, Mais c'est Vénus, copie conforme. »
+Malheureusement, c'est désolant, C'est le vrai squelette ambulant, C'est le vrai squelette ambulant.
+
+Si seulement elle était gentille, Je dirais : « Tout n'est pas perdu,
+Elle est plate, c'est entendu, Mais c'est la meilleure des filles. »
+Malheureusement c'est un chameau, Un succube, tranchons le mot, Un succube, tranchons le mot.
+
+Si elle était intelligente, Je dirais : « Tout n'est pas perdu,
+Elle est vache, c'est entendu, Mais c'est une femme savante. »
+Malheureusement elle est très bête, Et tout à fait analphabète, Et tout à fait analphabète.
+
+Si seulement l'était cuisinière, Je dirais : « Tout n'est pas perdu,
+Elle est sotte, c'est entendu, Mais quelle artiste culinaire ! »
+Malheureusement sa chère m'a, Pour toujours gâté l'estomac, Pour toujours gâté l'estomac.
+
+Si seulement elle était fidèle, Je dirais : « Tout n'est pas perdu,
+Elle m'empoisonne, c'est entendu, Mais c'est une épouse modèle. »
+Malheureusement elle est, papa, Folle d'un cul qu'elle n'a pas, Folle d'un cul qu'elle n'a pas !
+
+Si seulement l'était moribonde, Je dirais : « Tout n'est pas perdu,
+Elle me trompe, c'est entendu, Mais elle va quitter le monde. »
+Malheureusement jamais elle tousse : Elle nous enterrera tous, Elle nous enterrera tous !
+
+
+## LE REVENANT
+
+
+Mi7      La                    Do#7       Fa#m         Do#m
+Calme, confortable, officiel, En un mot résidentiel,
+         Ré                   La               Si7               Mi7
+Tel était le cimetière où, Cet imbécile avait son trou.
+                Do                   Mi7              Lam                  Mim
+Comme il ne reconnaissait pas, Le bien-fondé de son trépas,
+           Fa                   Do        Fam Do Sol7  Do
+L'a voulu faire, aberration ! Sa petite résurrection.
+
+Les vieux morts, les vieux « ici-gît », Les braves sépulcres blanchis,
+Insistèrent pour qu'il revînt, Sur sa décision mais en vain.
+L'ayant astiquée, il remit, Sur pied sa vieille anatomie,
+Et tout pimpant, tout satisfait, Prit la clef du champ de navets.
+
+Chez lui s'en étant revenu, Son chien ne l'a pas reconnu
+Et lui croque en deux coups de dents, Un des os les plus importants.
+En guise de consolation, Pensa faire une libation,
+Boire un coup de vin généreux, Mais tous ses tonneaux sonnaient creux.
+
+Quand dans l'alcôve il est entré, Embrasser sa veuve éplorée,
+Il jugea d'un simple coup d'œil, Qu'elle ne portait plus son deuil.
+Il la trouve se réchauffant, Avec un salaud de vivant,
+Alors chancelant dans sa foi, Mourut une seconde fois.
+
+La commère au potron-minet, Ramassa les os qui traînaient
+Et pour une bouchée de pain, Les vendit à des carabins.
+Et, depuis lors, ce macchabée, Dans l'amphithéâtre tombé,
+Malheureux, poussiéreux, transi, Chante : « Ah ! ce qu'on s'emmerde ici » !
+
+
+## L'ANTÉCHRIST
+
+
+Do                                     Sol7            Do
+Je ne suis pas du tout, l'antéchrist de service,
+      Lam                               Mi7        Lam
+J'ai même pour Jésus et pour son sacrifice
+      Fa               Do          Si7           Mi
+Un brin d'admiration, soit dit sans ironie,
+       La               Mi        La       Mi
+Car cela ne doit pas être une sinécure,
+         Fa                Do             Mi7   La7
+Non, que de se laisser cracher à la figure
+      Fa  Fa#dim  Do          Mi7 Lam Sol7
+Par la canaille et la racaille réunies.
+
+Bien sûr il est normal que la foule révère
+Ce héros qui jadis parti pour aller faire
+L'alpiniste avant l'heure, en haut du Golgotha,
+En portant sur l'épaule une croix accablante,
+En méprisant l'insulte et le remonte pente,
+Et sans aucun bravo qui le réconfortât !
+
+Bien sûr autour du front la couronne d'épines,
+L'éponge trempée dans Dieu sait quelle bibine,
+Et les clous enfoncés, dans les pieds et les mains,
+C'est très inconfortable et ça vous tarabuste,
+Même si l'on est brave et si l'on est robuste,
+Et si le paradis est au bout du chemin.
+
+Bien sûr, mais il devait défendre son prestige,
+Car il était le fils du ciel, l'enfant prodige,
+Il était le Messie et ne l'ignorait pas.
+Entre son père et lui, c'était l'accord tacite :
+Tu montes sur la croix et je te ressuscite !
+On meurt de confiance avec un tel papa.
+
+Il a donné sa vie sans doute mais son zèle
+Avait une portée quasi universelle
+Qui rendait le supplice un peu moins douloureux.
+Il savait que dans chaque église, il serait tête
+D'affiche et qu'il aurait son portrait en vedette,
+Entouré des élus, des saints, des bienheureux.
+
+En se sacrifiant il sauvait tous les hommes.
+Du moins le croyait-il ! Au point où nous en sommes,
+On peut considérer qu'il s'est fichu dedans.
+Le jeu si j'ose dire, en valait la chandelle.
+Bon nombre de chrétiens et même d'infidèles,
+Pour un but aussi noble en auraient fait autant
+
+(Cela dit je ne suis pas l'Antéchrist de service)
+
+
+## TANT QU'IL Y A DES PYRÉNÉES
+
+
+Mim                        Si7      Mim                      Si7
+Frapper le gros Mussolini, Même avec un macaroni,
+   Mim                                       Lam7   Si7          Mim
+Le Romain qui jouait à ça, Se voyait privé de pizza.
+Rém                  La7        Rém                     La7
+Après le Frente Popular, L'hidalgo non capitulard
+ Lam                                               Si7                           Mi7
+Qui s'avisait de dire « niet », Mourait au son des castagnettes.
+
+Sol7   Do                      Sol7                Do
+J'ai conspué Franco la guitare en bataille,
+                   La7                   Rém La7 Rém
+Durant pas mal d'années (Bis)
+         Mi7                                          Lam Mi7 Lam
+Faut dire qu'entre nous deux, simple petit détail,
+     Fa        Do Sib7 La7     Ré Sol7 Do
+Y'avait les Pyrénées ! (Bis)
+
+Mim                        Si7               Mim                    Si7
+Qui crachait sur la croix gammée, Dans une mine était sommé
+    Mim                                       Lam7    Si7           Mim
+De descendre extraire du sel, Pour assaisonner les bretzels.
+Rém                        La7        Rém                     La7
+Avant que son jour ne décline, Qui s'élevait contre Staline
+Lam                            Si7                           Mi7
+Filait manu militari, Aux sports d'hiver en Sibérie
+
+ Sol7   Do                      Sol7                   Do
+J'ai conspué Franco la guitare en bataille,
+                   La7                   Rém La7 Rém
+Durant pas mal d'années (Bis)
+         Mi7                                         Lam Mi7 Lam
+Faut dire qu'entre nous deux, simple petit détail,
+     Fa       Do Sib7 La7     Ré Sol7 Do
+Y'avait les Pyrénées ! (Bis)
+
+Mim                        Si7                   Mim                          Si7
+Aux quatre coins du monde encore, Qui se lève et crie : « Pas d'accord ! »
+    Mim                                       Lam7    Si7           Mim
+En un tournemain se fait cou-Per le sifflet, tordre le cou.
+Rém                          La7                Rém                        La7
+Dans mon village, on peut à l'heure, Qu'il est, sans risque de malheur,
+Lam                                               Si7                                        Mi7
+Brandir son drapeau quel qu'il soit, Mais jusques à quand ? Chi lo sà ?
+
+Sol7   Do                      Sol7                   Do
+J'ai conspué Franco la guitare en bataille,
+                   La7                   Rém La7 Rém
+Durant pas mal d'années (Bis)
+         Mi7                                         Lam Mi7 Lam
+Faut dire qu'entre nous deux, simple petit détail,
+     Fa       Do Sib7 La7     Ré Sol7 Do
+Y'avait les Pyrénées ! (Bis)
+
+La7  Ré                                La7                 Ré
+S'engager par le mot, trois couplets un refrain,
+                   Si7                   Mim Si7 Mim
+Par le biais du micro, (Bis)
+       Fa#7                                    Sim Fa#7 Sim
+Ça s'fait sur une jambe et ça n'engage à rien,
+                 Ré Do7 Si7         Mi7 La7 Ré La7 Ré
+Et peut rapporter gros. (Bis)
+
+
+## CHANSONNETTE A CELLE QUI RESTE PUCELLE
+
+
+  Lam                      Mi                    La                     Rém
+Jadis la mineure perdait son honneur au moindre faux pas
+         Sol7                                Do                                   Si7            Mi
+Ces mœurs n'ont plus cours, de nos jours, c'est la gourde qui ne le fait pas
+La                       Rém           Sol7                    Do Fa#m7
+Toute ton école petite rigole, qu'encore à quinze ans
+     Rém                        Lam                 Mi           Lam
+Tu sois vierge et sage, fidèle à l'usage caduc à présent
+
+    Lam                          Mi                   La                       Rém
+Malgré les exemples de gosses plus amples informées que toi
+       Sol7                    Do               Si7                          Mi
+Et qu'on dépucelle avec leur crécelle au bout de leurs doigts
+       La                       Rém                Sol7                    Do Fa#m7
+Chacun te brocarde de ce que tu gardes ta fleur d'oranger
+      Rém                            Lam              Mi            Lam
+Pour la bonne cause et chacune glose sur tes préjugés
+
+    Lam                         Mi                 La                       Rém
+Et tu sers de cible, mais reste insensible aux propos moqueurs
+      Sol7                           Do                  Si7                  Mi
+Aux traits à la gomme, comporte toi comme te le dit ton cœur
+        La                          Rém                  Sol7           Do Fa#m7
+Quoi que l'on raconte, y'a pas plus de honte à se refuser
+     Rém                      Lam                 Mi                   Lam
+Ni plus de mérite, d'ailleurs ma petite, qu'à se faire baiser
+
+       Lam                     Mi                      La                     Rém
+Certes, s'il te presse la soif de caresses, cours, saute avec les
+    Sol7                   Do                        Si7                     Mi
+Vénus de Panurge, va mais si rien n'urge, faut pas t'emballer
+        La                           Rém                        Sol7             Do Fa#m7
+Mais, si tu succombes, sache surtout qu'on peut être passée par
+     Rém                    Lam                 Mi                   Lam
+Onze mille verges et demeurer vierge, paradoxe à part
+
+
+## LA LÉGION D'HONNEUR
+
+
+intro : Lam Do Mi
+
+                    Lam              Do             Mi             Lam        Do       Mi
+Tous les Brummel, les dandys, les gandins, il les considérait avec dédain
+                    Do                          Sol7              Do                                Mi
+Faisant peu d'cas de l'élégance il s'ha- billait toujours au décrochez-moi-ça
+                   Lam            Do          Mi                   Lam      Do                Mi
+Au combat, pour s'en servir de liquette, sous un déluge d'obus, de roquettes,
+               Do       Do7       Fa       Fam Do         Sol7            Do
+Il conquit un oriflamme teuton. Cet acte lui valut le grand cordon.
+      Fa          Do     Sol7 Do     Fa        Do           Sol7 La7
+Mais il perdit le privilège de, s'aller vêtir à la six-quatre-deux,
+      Rém                   Lam                 Si7                             Mi
+Car ça la fout mal saperlipopette, d'avoir des faux plis, des trous à ses bas,
+      Fa              Do           Sol7 Do       Fa             Do                Sol7 Do Mi
+De mettre un ruban sur la salopette. La légion d'honneur ça pardonne pas.
+
+L'âme du bon feu maistre Jehan Cotart, se réincarnait chez ce vieux fêtard.
+Tenter de l'empêcher de boire un pot, c'était ni plus ni moins risquer sa peau.
+Un soir d'intempérance, à son insu, il éteignit en pissotant dessus
+Un simple commencement d'incendie. On lui flanqua le mérite, pardi !
+Depuis que n'est plus vierge son revers, il s'interdit de marcher de travers.
+Car ça la fout mal d'aller dans les vignes, dites du seigneur, faire des faux pas
+Quand on est marqué du fatal insigne. La légion d'honneur ça pardonne pas.
+
+Grand peloteur de fesses convaincu, passé maître en l'art de la main au cul,
+Son dada c'était que la femme eut le, bas de son dos tout parsemé de bleus.
+En vue de la palper d'un geste obscène, il a plongé pour sauver de la Seine
+Une donzelle en train de se noyer, dame ! aussi sec on vous l'a médaillé.
+Ce petit hochet à la boutonnière, vous le condamne à de bonnes manières.
+Car ça la fout mal avec la rosette, de tâter, flatter, des filles les appas
+La louche au valseur; pas de ça Lisette ! La légion d'honneur ça pardonne pas.
+
+Un brave auteur de chansons malotru, avait une tendance à parler cru,
+Bordel de dieu, con, pute, et caetera, ornaient ses moindres tradérideras.
+Sa muse un soir d'un derrière distrait, pondit, elle ne le fit pas exprès,
+Une rengaine sans gros mots dedans, on vous le chamarra tambour battant.
+Et maintenant qu'il porte cette croix, proférer « merde » il n'en a plus le droit.
+Car ça la fout mal de mettre à ses lèvres, de grand commandeur, des termes trop bas,
+D'chanter l'grand vicaire et les trois orfèvres. La légion d'honneur ça pardonne pas.
+
+
+## S'FAIRE ENCULER
+
+
+     Ré            Fa#7                              Sim
+La lune s'attristait. On comprend sa tristesse
+      Ré                Fa#7                                    Sim
+On tapait plus dedans. Elle s'demandait quand est-ce
+Ré                      Mi7      La7  Ré
+Qu'on va s'rappeler de m'enculer ?
+
+Dans mon affreux jargon, carence inexplicable,
+Brillait par son absence un des pires vocables
+C'est : « enculé ». Lacune comblée.
+
+Lâcher ce terme bas, Dieu sait ce qu'il m'en coûte,
+La chose ne me gêne pas mais le mot me dégoûte,
+J'suis désolé d'dire enculé.
+
+Oui mais depuis qu'Adam se fit charmer par Eve
+L'éternel féminin nous emmerde et je rêve
+Parfois d'aller m'faire enculer.
+
+Sous les coups de boutoir des ligues féministes
+La moitié des messieurs brûle d'être onaniste,
+L'autre d'aller s'faire enculer.
+
+A force d'être en butte au tir des suffragettes
+En son for intérieur chacun de nous projette
+D'hélas aller s'faire enculer.
+
+Quand on veut les trousser, on est un phallocrate,
+Quand on ne le veut point, un émule de Socrate,
+Reste d'aller s'faire enculer.
+
+Qu'espèrent en coassant des légions de grenouilles ?
+Que le royaume de France enfin tombe en quenouille,
+Qu'on coure aller s'faire enculer ?
+
+Y a beaux jours que c'est fait devant ces tyrannettes,
+On danse comme des pantins, comme des marionnettes
+Au lieu d'aller s'faire enculer.
+
+Pompadour, Montespan, La Vallière et j'en passe
+Talonnèrent le roi qui marchait tête basse
+Souhaitant aller s'faire enculer.
+
+A de rares exceptions, nom d'un chien, ce sont elles
+Qui toujours mine de rien déclenchent la bagatelle ;
+Il faut aller s'faire enculer.
+
+Oui la plupart du temps sans aucune équivoque
+En tortillant du cul ces dames nous provoquent,
+Mieux vaut aller s'faire enculer.
+
+Fatigué de souffrir leur long réquisitoire
+Ayant en vain cherché d'autres échappatoires,
+Je vais aller m'faire enculer.
+
+D'à partir de ce soir cessant d'croquer la pomme
+J'embarque pour Cythère en passant par Sodome,
+Afin d'aller m'faire enculer.
+
+Afin qu'aucune de vous mesdames n'imagine
+Que j'ai du parti pris, que je suis misogyne,
+Avant d'aller m'faire enculer
+
+J'avoue publiquement que vous êtes nos égales,
+Qu'il faut valider ça dans une formule légale,
+J'suis enculé mais régulier.
+
+En vertu d'quel pouvoir, injustes que nous sommes,
+Vous refuse-t-on les droits que l'on accorde aux hommes,
+Comme d'aller s'faire enculer.
+
+
+## HONTE A QUI PEUT CHANTER
+
+
+intro : Mim Fa#7 Si7 Mim Fa#7 Si7
+
+Mim                                Fa#7                Si7                 Mim   Ré7                   Sol Si7
+Honte a cet effronté qui peut chanter pendant que Rome brûle, elle brûle tout l' temps...
+Mim                                   Fa#7                Si7                Mim  Ré         Mim
+Honte a qui malgré tout fredonne des chansons, à Gavroche, à Mimi Pinson.
+
+Do                                                     Ré7           Sol7 Do                                    Ré7 Sol7
+En mil neuf cent trente-sept que faisiez-vous mon cher. J'avais la fleur de l'âge et la tête légère,
+Rém                                               Mi       Lam            Mim                    Fa#7                   Si7
+Et l'Espagne flambait dans un grand feu grégeois. Je chantais, et j'étais pas le seul « Y a d'la joie ».
+
+(au refrain)
+
+Et dans l'année quarante mon cher que faisiez-vous ? Les teutons forçaient la frontière, et comme un fou,
+Et comme tout un chacun, vers le sud, je fonçais, en chantant « Tout ça, ça fait d'excellents français ».
+
+(au refrain)
+
+A l'heure de Pétain, à l'heure de Laval, que faisiez-vous mon cher en plein dans la rafale ?
+Je chantais, et les autres ne s'en privaient pas, « Bel ami », « Seul ce soir », « J'ai pleuré sur tes pas ».
+
+(au refrain)
+
+Mon cher, un peu plus tard, que faisait votre glotte, quand en Asie ça tombait comme à Gravelotte ?
+Je chantais, il me semble, ainsi que tout un tas, de gens, « Le déserteur », « Les croix », « Quand un soldat ».
+
+(au refrain)
+
+Que faisiez-vous mon cher au temps de l'Algérie, quand Brel était vivant qu'il habitait paris ?
+Je chantais, quoique désolé par ces combats, « La valse à mille temps » et « Ne me quitte pas ».
+
+(au refrain)
+
+Le feu de la ville éternelle est éternel. Si Dieu veut l'incendie, il veut les ritournelles.
+A qui fera-t-on croire que le bon populo, quand il chante quand même, est un parfait salaud ?
+
+(au refrain)
+
+
+## LE PROGRÈS
+
+
+Do            Mim            Lam Do             Ré7               Sol Mi7
+Que le progrès soit salutaire, C'est entendu, c'est entendu.
+ Lam                                                                     Mi      Si7     Mi Sol7
+Mais ils feraient mieux de se taire, Ceux qui disent que le presbytère
+Do                    Do7                     Fa        Fam  Do        Sol7     Do
+De son charme du vieux temps passé n'a rien perdu, N'a rien perdu.
+
+Supplantés par des betteraves, Les beaux lilas ! Les beaux lilas !
+Sans mentir, il faut être un brave, Fourbe pour dire d'un ton grave,
+Que le jardin du curé garde tout son éclat, Tout son éclat.
+
+Entre les tours monumentales, Toujours croissant, toujours croissant,
+Qui cherche sa maison natale, Se perd comme dans un dédale.
+Au mal du pays, plus aucun remède à présent, Remède à présent.
+
+C'est de la malice certaine, C'est inhumain ! C'est inhumain !
+Ils ont asséché la fontaine, Où les belles samaritaines
+Nous faisaient boire, en été, l'eau fraîche dans leurs mains, Fraîche dans leurs mains.
+
+Ils ont abattu, les vandales, Et sans remords, et sans remords,
+L'arbre couvert en capitales, De noms d'amants : c'est un scandale !
+Les amours mortes n'ont plus de monuments aux morts, Monuments aux morts.
+
+L'a fait des affaires prospères, Le ferrailleur, le ferrailleur,
+En fauchant les vieux réverbères. Maintenant quand on désespère,
+On est contraint et forcé d'aller se pendre ailleurs, Se pendre ailleurs.
+
+Et c'est ce que j'ai fait sur l'heure, Et sans délai, et sans délai.
+Le coq du clocher n'est qu'un leurre, Une girouette de malheur(e).
+Ingrate patrie, tu n'auras pas mes feux follets, Mes feux follets.
+
+Que le progrès soit salutaire, C'est entendu, c'est entendu.
+Mais ils feraient mieux de se taire, Ceux qui disent que le presbytère
+De son charme du vieux temps passé n'a rien perdu, N'a rien perdu.
+
+
+## L'ORPHELIN
+
+
+Fa#7           Sim     Fa#7   Sim  La7           Ré         La7         Ré
+Sauf dans le cas fréquent hélas, Où ce sont de vrais dégueulasses
+              Sol        Fa#7 Sim                     Mi7   Fadim  Fa#7
+On ne devrait perdre jamais, Ses père et mère bien sûr mais
+La7                 Ré    La7  Ré                  Ré             Fadim Fa#7
+A moins d'être un petit malin, qui meurt avant d'être orphelin
+Fa#7     Si7          Mim                       Sim     Fa#7  Sim
+Ou un infortuné bâtard, Ça nous pend au nez tôt ou tard.
+
+Quand se drapant dans un linceul, Ses parents le laisse tout seul,
+Le petit orphelin ma fois, Est bien à plaindre, toutefois,
+Sans aller jusqu'à décréter, Qu'il devient un enfant gâté
+Disons que dans son affliction, Il trouve des compensations.
+
+D'abord au dessert aussitôt, La meilleure part du gâteau,
+Et puis plus d'école pardi, La semaine aux quatre jeudis.
+On le traite comme un pacha, A sa place on fouette le chat,
+Et le trouvant très chic en deuil, Les filles lui font des clins d'œil.
+
+Il serait par trop saugrenu, D'énumérer par le menu
+Les faveurs et les passe-droits, Qu'en l'occurrence on lui octroie
+Tirant même un tel bénéfice, En perdant leurs parents des fils,
+Dénaturés regrettent de, N'en avoir à perdre que deux
+
+Hier j'ai dit à un animal, De flic qui me voulait du mal,
+« Je suis orphelin, savez-vous ? » Il me répondit : « je m'en fout ».
+J'aurais eu quarante ans de moins, Je suis sûr que par les témoins,
+La brute aurait été mouchée, Mais ces lâches n'ont pas bougé.
+
+Aussi mon enfant si tu dois, Être orphelin dépêche toi,
+Tant qu'à perdre tes chères parents, Petit, n'attends pas d'être grand,
+L'orphelin d'âge canonique, Personne ne le plaint bernique !
+Et pour tout le monde il demeure, Orphelin de la onzième heure.
+
+Celui qui a fait cette chanson, A voulu dire à sa façon,
+Que la perte des vieux est par-Fois perte sèche, blague à part.
+Avec l'âge c'est bien normal, Les plaies du cœur guérissent mal,
+Souventes fois même, salut, Elles ne se referment plus
+
+
+## LES CHÂTEAUX DE SABLE
+
+
+Ré                                                    Fa#m Sim     Fa#m Sim   Si7                               Mim
+Je chante la petite guerre, des braves enfants de naguère, qui sur la plage ont bataillé
+Mim                                     Mim  La                                 Ré  Sim              Mim              La Ré
+Pour sauver un château de sable, et ses remparts infranchissables, qu'une vague allait balayer
+
+J'en étais l'arme à la bretelle, retranché dans la citadelle, de pied ferme nous attendions
+Une cohorte Sarrasine, partie de la côte voisine, à l'assaut de notre bastion
+
+A cent pas de là sur la dune, en attendant que la fortune, des armes sourie aux vainqueurs
+Languissant d'être courtisées, nos promises nos fiancées, préparaient doucement leur cœur
+
+Tout à coup, l'armada sauvage, déferla sur notre rivage, avec ses lances, ses pavois
+Pour commettre force rapine, et même enlever nos sabines, plus belles que les leurs ma foi
+
+La mêlée fut digne d'Homère, et la défaite bien amère, à l'ennemi pourtant nombreux
+Qu'on battit à plate couture, qui partit en déconfiture, en déroute en sauve qui peut
+
+Oui cette horde de barbares, que notre fureur désempare, fit retraite avec ses vaisseaux
+En emportant pour tout trophée, moins que rien deux balles crevées, trois raquettes, quatre cerceaux
+
+Après la victoire fameuse, en chantant l'air de Sambre et Meuse, et de la Marseillaise O gué
+On courut vers la récompense, que le joli sexe dispense, aux petits héros fatigués
+
+Tandis que tout bas à l'oreille, de nos Fanny, de nos Mireille, on racontait notre saga
+Qu'au doigt on leur passait la bague, surgit une espèce de vague, que personne ne remarqua
+
+Au demeurant ce n'était qu'une, vague sans amplitude aucune, une vaguelette égarée
+Mais en atteignant au rivage, elle causa plus de ravages, de dégâts qu'un raz-de-marée
+
+Expéditive la traîtresse, investit notre forteresse, la renversant la détruisant
+Adieu donjons, tours et courtines, que quatre gouttes anodines, avaient effacés en passant
+
+A quelques temps de là nous sommes, allés mener parmi les hommes, d'autres barouds plus décevants
+Allés mener d'autres campagnes, où les châteaux sont plus d'Espagne et de sable qu'auparavant
+
+Quand je vois lutter sur la plage, des soldats à la fleur de l'âge, je ne les décourage pas
+Quoique je sache ayant naguère, livré moi-même cette guerre, l'issue fatale du combat
+
+Je sais que malgré leur défense, leur histoire est perdue d'avance, mais je les laisse batailler
+Pour sauver un château de sable, et ses remparts infranchissables, qu'une vague va balayer.
+
+
+## JEANNE MARTIN
+
+
+Intro : Mim La7 Ré Si7 Mi7 La7 Ré Fa#7
+
+Sim                                Fa#7                         Sim             Fa#7
+La petite presqu'île où jadis bien tranquille moi je suis né natif
+            Sim                              La                Fa#7 Sim   Ré      Sol
+Soit dit sans couillonnades avait le nom d'un ad-jectif démonstratif
+                                           Fa#m                  Sol                   Fa#7
+Moi personnellement que je meurs si je mens ça m'était bien égal
+           Mim                        Sim            La7                        Fa#7
+J'étais pas chatouillé j'étais pas humilié dans mon honneur local
+            Sim                                   Fa#7                Sim                      Fa#7
+Mais voyant d'l'infamie dans cette homonymie des bougres s'en sont plaints
+       Sim                            La       Fa#7   Sim     Fa#7               Sim La7
+Tellement que bientôt on reforma l'ortho-graphe du nom du patelin
+
+     Ré                La7     Ré7               Sol
+Et j'eus ma première tristesse, d'Olympio
+Mim                        Solm               La7
+Déférence gardée envers le père Hugo
+    Ré        La7     Sim       Fa#m Sol                   Ré Si7
+Si faire se peut, attendez un peu, Messieurs les édiles
+      Mim           La7         Ré     Si7  Mi       La7    Ré Fa#7
+Que l'on soit passé, pour débaptiser, nos petites villes
+
+Sim                                Fa#7                         Sim             Fa#7
+La chère vieille rue où mon père avait cru, on ne peut plus propice
+            Sim                              La                Fa#7 Sim   Ré      Sol
+D'aller construire sa petite maison s'a-ppelait rue de l'hospice
+                                           Fa#m                  Sol                   Fa#7
+Se mettre en quête d'un nom d'rue plus opportun, ne se concevait pas
+           Mim                        Sim            La7                        Fa#7
+On n'pouvait trouver mieux vu qu'un asile de vieux, florissait dans le bas
+            Sim                                   Fa#7                Sim                      Fa#7
+Les anciens combattants tous comme un seul sortant, de leur vieux trou d'obus
+       Sim                            La       Fa#7   Sim     Fa#7               Sim La7
+Firent tant qu'à la fin la rue d'l'hospice devint, la rue Henri Barbusse
+
+     Ré                La7     Ré7               Sol
+Et j'eus ma deuxième tristesse, d'Olympio
+Mim                        Solm               La7
+Déférence gardée envers le père Hugo
+    Ré        La7     Sim       Fa#m Sol                   Ré Si7
+Si faire se peut, attendez un peu, héros incongrus
+      Mim           La7         Ré     Si7  Mi       La7    Ré Fa#7
+Que l'on soit passé, pour débaptiser, nos petites rues
+
+Sim                                Fa#7                         Sim             Fa#7
+Moi la première à qui mon cœur fut tout acquis, s'appelait Jeanne Martin
+            Sim                              La                Fa#7 Sim   Ré      Sol
+Patronyme qui fait pas tellement d'effet, dans le bottin mondain
+                                           Fa#m                  Sol                   Fa#7
+Mais moi j'aimais comme un fou ce nom si commun, n'en déplaise aux minus
+           Mim                        Sim            La7                        Fa#7
+D'ailleurs de parti pris celle que je chéris, s'appelle toujours Vénus
+            Sim                                   Fa#7                Sim                      Fa#7
+Hélas un béotien à la place du sien, lui proposa son blase
+       Sim                            La       Fa#7   Sim     Fa#7               Sim La7
+Fameux dans l'épicerie et cette renchérie, refusa pas hélas
+
+     Ré                La7     Ré7               Sol
+Et j'eus ma troisième tristesse, d'Olympio
+Mim                        Solm               La7
+Déférence gardée envers le père Hugo
+    Ré        La7     Sim       Fa#m Sol                   Ré Si7
+Si faire se peut, attendez un peu, cinq minutes nos
+      Mim           La7         Ré     Si7  Mi       La7    Ré Fa#7
+Gentes fiancées, que l'on soit passé, pour changer de nom
 
 # FIN
