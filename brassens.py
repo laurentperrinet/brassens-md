@@ -94,7 +94,7 @@ for i, line in enumerate(lines):
         words = line[:-1].split(' ')
         threshold = sum([word=='' for word in words])
         if not threshold>1:
-            if ' *' in line or '---' in line or 'youTubeId' in line :
+            if (' *' in line) or ('---' in line) or ('youTubeId' in line) :
                 line_tmp = line # + '\n'
             else:
                 line_tmp = 'l1: ' + line + '\n'
