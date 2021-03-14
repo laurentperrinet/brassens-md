@@ -1440,13 +1440,13 @@ l1: M'as donné quatre bouts de bois, Quand dans ma vie il faisait froid
 c1: Bm                 F#7           F#7               Bm  
 l1: Toi qui m'as donné du feu quand, Les croquantes et les croquants
 
-c1: Bm                   F#7            G            A7          D  
+c1: Bm                   F#7            G            A7          D   D7  
 l1: Tous les gens bien intentionnés, M'avaient fermé la porte au nez
 
-c1: D          G    A7           D     Bm         Em   F#7        Bm  
+c1: D7         G    A7           D     Bm         Em   F#7        Bm  
 l1: Ce n'était rien qu'un feu de bois, Mais il m'avait chauffé le corps
 
-c1: F#7                        Bm                   G         F#7  
+c1: F#7                Bm              G           C#7          F#7  
 l1: Et dans mon âme il brûle encore, A la manière d'un feu de joie
 
 
@@ -1454,7 +1454,7 @@ l1: Et dans mon âme il brûle encore, A la manière d'un feu de joie
 c1: Bm                    F#7         F#7                      Bm  
 l1: Toi l'Auvergnat quand tu mourras, Quand le croque-mort t'emportera
 
-c1: Bm                E7        A     G   F#7  Bm  
+c1: Bm                  E7      A     G   F#7      Bm  
 l1: Qu'il te conduise à travers ciel, Au  père éternel
 
 
