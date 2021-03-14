@@ -820,15 +820,15 @@ Refrain
 
 Sim               Fa#7        Fa#7                Sim
 Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
-Sim               Fa#7           Sol           La7            Ré        Fa#7
+Sim               Fa#7                 Sol         La7        Ré        Fa#7
 M'as donné quatre bouts de bois, Quand dans ma vie il faisait froid
 Sim                Fa#7          Fa#7              Sim
 Toi qui m'as donné du feu quand, Les croquantes et les croquants
-Sim                 Fa#7           Sol           La7         Ré
+Sim                  Fa#7           Sol          La7         Ré
 Tous les gens bien intentionnés, M'avaient fermé la porte au nez
 Ré         Sol  La7          Ré    Sim        Mim  Fa#7       Sim
 Ce n'était rien qu'un feu de bois, Mais il m'avait chauffé le corps
-Fa#7                       Sim                  Sol        Sol7
+Fa#7                       Sim                  Sol       Fa#7
 Et dans mon âme il brûle encore, A la manière d'un feu de joie
 
 Sim                   Fa#7        Fa#7                     Sim
