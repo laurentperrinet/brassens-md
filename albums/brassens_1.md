@@ -1260,6 +1260,7 @@ l1: Refrain
 ---
 youTubeId: rrZPVQN8QDY
 ---
+
 c1: Bm                       F#7                      Bm  
 l1: Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
 
@@ -1298,6 +1299,7 @@ l1: Ce n'était rien qu'un peu de pain, Mais il m'avait chauffé le corps
 
 l1: Et dans mon âme il brûle encore, A la manière d'un grand festin
 
+---
 l1: Toi l'hôtesse quand tu mourras, Quand le croque-mort t'emportera
 
 l1: Qu'il te conduise à travers ciel, Au père éternel
@@ -1315,6 +1317,7 @@ l1: Ce n'était rien qu'un peu de miel, Mais il m'avait chauffé le corps
 
 l1: Et dans mon âme il brûle encore, A la manière d'un grand soleil
 
+---
 l1: Toi l'étranger quand tu mourras, Quand le croque-mort t'emportera
 
 l1: Qu'il te conduise à travers ciel, Au père éternel

@@ -826,6 +826,7 @@ Refrain
 ---
 youTubeId: rrZPVQN8QDY
 ---
+
 Sim                      Fa#7                     Sim
 Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
 Sim                        Fa#7        Sim          La7        Ré        Fa#
@@ -850,6 +851,7 @@ Toi qui m'ouvris ta huche quand, Les croquantes et les croquants
 Tous les gens bien intentionnés, S'amusaient à me voir jeûner
 Ce n'était rien qu'un peu de pain, Mais il m'avait chauffé le corps
 Et dans mon âme il brûle encore, A la manière d'un grand festin
+---
 Toi l'hôtesse quand tu mourras, Quand le croque-mort t'emportera
 Qu'il te conduise à travers ciel, Au père éternel
 ---
@@ -859,6 +861,7 @@ Toi qui n'as pas applaudi quand, Les croquantes et les croquants
 Tous les gens bien intentionnés, Riaient de me voir emmener
 Ce n'était rien qu'un peu de miel, Mais il m'avait chauffé le corps
 Et dans mon âme il brûle encore, A la manière d'un grand soleil
+---
 Toi l'étranger quand tu mourras, Quand le croque-mort t'emportera
 Qu'il te conduise à travers ciel, Au père éternel
 
