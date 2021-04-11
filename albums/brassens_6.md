@@ -64,11 +64,11 @@ l1: Ne gravons pas, Nos noms au bas, D'un parchemin
 ## LE GRAND CHÊNE
 
 
-c1:        C         Am              Dm         G7   C                Am                 Dm     G7   
-l1: Il vivait en dehors des chemins forestiers, Ce n'était nullement un arbre de métier,
+c1:      D         Bm          Em        A7        D            Bm            Em    A7  
+l1: Il vivait en dehors des chemins forestiers, Ce n'était nullement un arbre de mé-tier,
 
-c1:        C            C7       F                   E7  Am                 Dm       G7    C  
-l1: Il n'avait jamais vu l'ombre d'un bûcheron, Ce grand chêne fier sur son tronc.
+c1:        D           D7     G             F#      Bm               Em      D       A7  
+l1: Il n'a-vait jamais vu l'ombre d'un bûcheron, Ce grand chêne fier sur son tronc.
 
 
 l1: Il eût connu des jours filés d'or et de soie, Sans ses proches voisins, les pires gens qui soient ;
@@ -133,12 +133,15 @@ l1: Comme du bois de caisse, amère destinée, Il périt dans la cheminée.
 
 l1: Le curé de chez nous, petit saint besogneux, Doute que sa fumée s'élève jusqu'à Dieu.
 
-c1:                                                                                                                          E  
-l1: Qu'est-c'qu'il en sait, le bougre, et qui donc lui a dit, Qu'y a pas de chêne en paradis ?
+l1: Qu'est-c'qu'il en sait, le bougre, et qui donc lui a dit, Qu'y a pas de chêne en para-
 
-l1: Lam Rém Sol7 Do Sol7 Do
 
-l1: Qu'y a pas de chêne en paradis ?
+l1:  Fa#
+
+l1: -dis ?
+
+c1:        Bm              Em  A7  D   A7  D  
+l1: Qu'y a pas de chêne en pa--ra--dis ?
 
 
 ## CONCURRENCE DÉLOYALE
