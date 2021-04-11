@@ -1261,29 +1261,29 @@ l1: Refrain
 youTubeId: rrZPVQN8QDY
 ---
 
-c1: Bm                       F#7                      Bm  
+c1: Bm                F#7                             Bm  
 l1: Elle est à toi cette chanson, Toi l'Auvergnat qui sans façon
 
-c1: Bm                         F#7         Bm           A7         D         F#  
+c1: Bm                F#7                  G           A7         D          F#7  
 l1: M'as donné quatre bouts de bois, Quand dans ma vie il faisait froid
 
-c1: Bm                        F#7                      Bm  
+c1: Bm                 F#7                             Bm  
 l1: Toi qui m'as donné du feu quand, Les croquantes et les croquants
 
-c1: Bm                          F#7     Bm              A7       D  
+c1: Bm                   F#7            G            A7          D  
 l1: Tous les gens bien intentionnés, M'avaient fermé la porte au nez
 
 c1: D7         G    A7           D     Bm         Em   F#7        Bm  
 l1: Ce n'était rien qu'un feu de bois, Mais il m'avait chauffé le corps
 
-c1: F#7                Bm              G           C#7          F#7  
+c1: F#7                Bm              G          G#7           F#7  
 l1: Et dans mon âme il brûle encore, A la manière d'un feu de joie
 
 ---
 c1: Bm                           F#7                           Bm  
 l1: Toi l'Auvergnat quand tu mourras, Quand le croque-mort t'emportera
 
-c1: Bm                  E7      A     G   F#7      Bm  
+c1: Bm                E7        A     G   F#7      Bm  
 l1: Qu'il te conduise à travers ciel, Au  père éternel
 
 ---
