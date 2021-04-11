@@ -1276,7 +1276,7 @@ l1: Tous les gens bien intentionnés, M'avaient fermé la porte au nez
 c1: D7         G    A7           D     Bm         Em   F#7        Bm  
 l1: Ce n'était rien qu'un feu de bois, Mais il m'avait chauffé le corps
 
-c1: F#7                Bm              G          G#7           F#7  
+c1: F#7                Bm              G          C#7         F#7  
 l1: Et dans mon âme il brûle encore, A la manière d'un feu de joie
 
 ---
