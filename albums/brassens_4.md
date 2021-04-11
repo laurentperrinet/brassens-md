@@ -1054,17 +1054,16 @@ l1: Nous, au village, aussi, l'on a, De beaux assassinats
 
 ## LES COPAINS D'ABORD
 
-l1: Do
-
+c1:           D  
 l1: Non ce n'était pas le radeau, De la méduse ce bateau,
 
-c1:                    D  
-l1: Qu'on se le dise au fond des ports, Dise au fond des ports
+c1:               E7  
+l1: Qu'on se le dis' au fond des ports, Dise au fond des ports
 
-c1:           F                                                 E  
+c1:         G                                  F#          F#7  
 l1: Il naviguait en père peinard, Sur la grand-mare des canards
 
-c1:                    Am                 D                G7        C  
+c1:               Bm             E7          A7       D  
 l1: Et s'appelait les copains d'abord, Les copains d'abord
 
 
