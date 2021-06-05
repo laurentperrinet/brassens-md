@@ -4909,11 +4909,11 @@ Passant par là quelques 20 ans plus tard, Il a le sentiment qu'il le regrette.
 ## SAUF LE RESPECT QUE JE VOUS DOIS
 
 
-Ré                                                 La7          Ré                                                              La7      Ré
+Ré                                  La7        Ré                                          La7    Ré
 Si vous y tenez tant parlez-moi des affaires publiques, Encor que ce sujet me rende un peu mélancolique,
-Sol                   Fa#m                        Mim        Si7
+Sol            Fa#m                   Mim        Si7
 Parlez-m'en toujours je n'vous en tiendrai pas rigueur ...
-Sim                Sim7                              Lam            Si7     Mi7          La7                    Ré
+Sim           Sim7                    Lam          Si7     Mi7        La7              Ré
 Parlez-moi d'amour et j'vous fous mon poing sur la gueule, Sauf le respect que je vous dois.
 
 Fi des chantres bêlants qui taquinent la muse érotique, Des poètes galants qui lèchent le cul d'Aphrodite,
