@@ -331,22 +331,22 @@ L'un tient le couteau, l'autre la cuiller, La vie, c'est toujours la même chans
 ## LES AMOUREUX DES BANCS PUBLICS
 
 
-Sim                                                                          Fa#7
+Sim                                                   Fa#7
 Les gens qui voient de travers, Pensent que les bancs verts, Qu'on voit sur les trottoirs
 Sim
 Sont faits pour les impotents ou les ventripotents
-Lam                                                  Mi7
+Lam                                     Mi7
 Mais c'est une absurdité, Car, à la vérité, Ils sont là, c'est notoire
-La7                                                                 Ré
+La7                                           Ré
 Pour accueillir quelques temps les amours débutants
 
-Mim                                Sim                La#dim           Sim
+Mim                                 Sim            La#dim         Sim
 Les amoureux qui s'bécotent sur les bancs publics, Bancs publics, bancs publics
-Do                               Sol                  Ré7                   Sol
+Do                      Sol             Ré7             Sol
 En s'foutant pas mal du r'gard oblique, Des passants honnêtes
-                Mim                                Sim                La#dim           Sim
+        Mim                         Sim            La#dim         Sim
 Les amoureux qui s'bécotent sur les bancs publics, Bancs publics, bancs publics
-Do                                    Sol                    Ré7                                            Sol
+Do                            Sol              Ré7                           Sol
 En s'disant des « je t'aime » pathétiques, Ont des p'tites gueules bien sympathiques
 
 Ils se tiennent par la main, Parlent du lendemain, Du papier bleu d'azur
