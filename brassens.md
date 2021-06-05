@@ -917,13 +917,13 @@ Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
 youTubeId: 3DlUIdj4FqRjs
 ---
 
-Ré                            La7                                                                         Ré
+Ré                      La7                                                 Ré
 Jamais sur terre il n'y eut d'amoureux, Plus aveugles que moi dans tous les âges
-Ré7                                    Sol                  Solm                                La       Ré
-Mais faut dire qu' je m'étais crevé les yeux, En regardant de trop près son corsage
-                                             La7                                                  Ré
+               Ré7           Sol             Solm                      La7 Ré
+Mais faut dire qu'je m'étais crevé les yeux, En regardant de trop près son corsage
+Ré                            La7                                  Ré
 Une jolie fleur dans une peau d'vache, Une jolie vache déguisée en fleur
-                                 Si7      Mi7    La7                                                Ré
+                         Si7    Mi7    La7                                Ré
 Qui fait la belle et qui vous attache, Puis, qui vous mène par le bout du cœur
 
 Le ciel l'avait pourvue des mille appas, Qui vous font prendre feu dès qu'on y touche
