@@ -1478,10 +1478,10 @@ Ont changé mon arbre en poudre... Et mon amour en même temps !
 ## ONCLE ARCHIBALD
 
 
-Do                                                                                                      Fa Sol7 Do
+            Do                                                            Fa Sol7 Do
 O vous, les arracheurs de dents, Tous les cafards, les charlatans, Les prophètes
-Do7               Fa                                           Mi                  Lam         Rém Sol7 Do Rém Sol7 Do
-Comptez plus sur oncle Archibald, Pour payer les violons du bal, A vos fêtes, A vos fêtes
+Do7          Fa                              Mi             Lam        Rém Sol7 Do         Rém  Sol7 Do
+Comptez plus sur oncle Archibald, Pour payer les violons du bal, A vos fê--ê----tes, A vos fê---ê----tes
 
 En courant sus à un voleur, Qui venait de lui chiper l'heure, A sa montre
 Oncle Archibald, coquin de sort ! Fit, de Sa Majesté la Mort, La rencontre, La rencontre
