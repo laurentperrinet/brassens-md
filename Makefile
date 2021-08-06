@@ -4,7 +4,7 @@ install:
 	npm i -g markdown-it-music
 
 format:
-	python3 brassens.py
+	python3 convert.py
 
 compile: format
 	musicmd albums/brassens_1.md -o albums/brassens_1.html
