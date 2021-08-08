@@ -20,7 +20,7 @@ def removeOneTag(text, tag, opt=''):
 
 tags = ['line', 'circle', 'text', 'button', 'svg', ]
 tags = ['svg', ]
-div_classes = ["diagram", "diagram-content-container", "content-scroll"]#, "diagram-container", ] # in reverse hierarchical order
+div_classes = ["diagram", "diagram-content-container"]#, , "diagram-container""content-scroll", ] # in reverse hierarchical order
 stripped_lines = []
 for i_line, line in enumerate(lines):
     if verbose: print('i_line=', i_line)
