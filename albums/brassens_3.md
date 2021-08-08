@@ -1222,7 +1222,7 @@ l1: Et la rançon de Pénélope.
 
 l1: Lam
 
-l1: ...
+l1: ... ...
 
 c1:        Dm                                                G7   
 l1: Parlez-moi de la pluie et non pas du beau temps, Le beau temps me dégoûte, me fait grincer les dents

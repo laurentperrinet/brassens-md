@@ -36,8 +36,8 @@ for i_line, line in enumerate(lines):
         while('<div' + opt in line):
             line = removeOneTag(line, 'div', opt=opt)
             # print(f'now:{len(line)=}')
-    # while(f'<div>' in line):
-    #         line = removeOneTag(line, 'div', opt = '>')
+    while(f'<div>' in line):
+        line = removeOneTag(line, 'div', opt = '>')
     if verbose: print(f'after:{len(line)=}')
     stripped_lines.append(line)
 
