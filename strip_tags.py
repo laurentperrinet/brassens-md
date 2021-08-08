@@ -18,6 +18,7 @@ def removeOneTag(text, tag, opt=''):
     # print(start, length)
     return text[:start] + text[(start+length):]
 
+
 tags = ['line', 'circle', 'text', 'button', 'svg', ]
 tags = ['svg', 'button', ]
 div_classes = ["diagram", "diagram-content-container", ] #, "content-scroll", "diagram-container"]# in reverse hierarchical order
@@ -36,8 +37,8 @@ for i_line, line in enumerate(lines):
         while('<div' + opt in line):
             line = removeOneTag(line, 'div', opt=opt)
             # print(f'now:{len(line)=}')
-    while(f'<div>' in line):
-        line = removeOneTag(line, 'div', opt = '>')
+    # while(f'<div>' in line):
+    #     line = removeOneTag(line, 'div', opt = '>')
     if verbose: print(f'after:{len(line)=}')
     stripped_lines.append(line)
 
