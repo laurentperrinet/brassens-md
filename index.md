@@ -2,6 +2,8 @@
 
 # Anthologie Georges Brassens
 
+ * [Anthologie en un fichier](brassens.html) 
+
  * [1) LA MAUVAISE RÉPUTATION](albums/brassens_1.html) 
  * [2) AUPRES DE MON ARBRE](albums/brassens_2.html) 
  * [3) LE PORNOGRAPHE](albums/brassens_3.html) 
