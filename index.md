@@ -10,3 +10,4 @@
  * [6) LA NON-DEMANDE EN MARIAGE](albums/brassens_6.html) 
  * [7) MOURIR POUR DES IDEES](albums/brassens_7.html) 
  * [8) TEMPETE DANS UN BENITIER](albums/brassens_8.html) 
+ * [9) DERNIERES CHANSONS PAR J. BERTOLA](albums/brassens_9.html) 

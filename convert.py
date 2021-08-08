@@ -24,7 +24,6 @@ def write(lines, fname='index.md'):
 #
 # write(lines, 'README.md')
 
-
 accords = []
 lines_tmp = []
 for i, line in enumerate(lines):
