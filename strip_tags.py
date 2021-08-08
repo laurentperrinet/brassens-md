@@ -2,8 +2,8 @@ import sys
 
 fname = sys.argv[1]
 
-verbose = False
 verbose = True
+verbose = False
 if verbose : print(f'{fname=}')
 
 # READ

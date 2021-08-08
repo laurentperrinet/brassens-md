@@ -70,8 +70,11 @@ lines_index = ["""
 
 # Anthologie Georges Brassens
 
+ * [Anthologie en un fichier](brassens.html) 
+
 """]
 lines_tmp = []
+lines_tmp_full = []
 for i, line in enumerate(lines):
     if line[0]=='#' : # a header
         if line[:2]=='# ' : # un nouvel album
@@ -110,5 +113,7 @@ for i, line in enumerate(lines):
             line_tmp = 'c1: ' + line  + '\n'
             #print(line_tmp)
     lines_tmp.append(line_tmp)
+    lines_tmp_full.append(line_tmp)
 
+write(lines_tmp_full, fname='brassens.md')
 write(lines_index, fname='index.md')

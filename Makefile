@@ -7,6 +7,8 @@ format:
 	python3 convert.py
 
 compile: format
+	musicmd brassens.md -o brassens.html
+	python strip_tags.py brassens.html
 	musicmd albums/brassens_1.md -o albums/brassens_1.html
 	python strip_tags.py albums/brassens_1.html
 	musicmd albums/brassens_2.md -o albums/brassens_2.html
