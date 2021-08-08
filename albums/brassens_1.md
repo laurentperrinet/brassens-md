@@ -525,30 +525,30 @@ l1: L'un tient le couteau, l'autre la cuiller, La vie, c'est toujours la même c
 ## LES AMOUREUX DES BANCS PUBLICS
 
 
-c1: Bm                                                                           F#7  
+c1: Bm                                                    F#7  
 l1: Les gens qui voient de travers, Pensent que les bancs verts, Qu'on voit sur les trottoirs
 
 l1: Sim
 
 l1: Sont faits pour les impotents ou les ventripotents
 
-c1: Am                                                   E7  
+c1: Am                                      E7  
 l1: Mais c'est une absurdité, Car, à la vérité, Ils sont là, c'est notoire
 
-c1: A7                                                                  D  
+c1: A7                                            D  
 l1: Pour accueillir quelques temps les amours débutants
 
 
-c1: Em                                 Bm                 A#dim            Bm  
+c1: Em                                  Bm             A#dim          Bm  
 l1: Les amoureux qui s'bécotent sur les bancs publics, Bancs publics, bancs publics
 
-c1: C                                G                    D7                    G   
+c1: C                       G               D7              G   
 l1: En s'foutant pas mal du r'gard oblique, Des passants honnêtes
 
-c1:                 Em                                 Bm                 A#dim            Bm  
+c1:         Em                          Bm             A#dim          Bm  
 l1: Les amoureux qui s'bécotent sur les bancs publics, Bancs publics, bancs publics
 
-c1: C                                     G                      D7                                             G   
+c1: C                             G                D7                            G   
 l1: En s'disant des « je t'aime » pathétiques, Ont des p'tites gueules bien sympathiques
 
 

@@ -5,16 +5,16 @@
 youTubeId: 3DlUIdj4FqRjs
 ---
 
-c1: D                             A7                                                                          D  
+c1: D                       A7                                                  D  
 l1: Jamais sur terre il n'y eut d'amoureux, Plus aveugles que moi dans tous les âges
 
-c1: D7                                     G                    Gm                                  A        D  
-l1: Mais faut dire qu' je m'étais crevé les yeux, En regardant de trop près son corsage
+c1:                D7            G               Gm                        A7  D  
+l1: Mais faut dire qu'je m'étais crevé les yeux, En regardant de trop près son corsage
 
-c1:                                              A7                                                   D  
+c1: D                             A7                                   D  
 l1: Une jolie fleur dans une peau d'vache, Une jolie vache déguisée en fleur
 
-c1:                                  B7       E7     A7                                                 D  
+c1:                          B7     E7     A7                                 D  
 l1: Qui fait la belle et qui vous attache, Puis, qui vous mène par le bout du cœur
 
 
@@ -881,12 +881,11 @@ l1: Ont changé mon arbre en poudre... Et mon amour en même temps !
 ## ONCLE ARCHIBALD
 
 
-c1: C                                                                                                       F  G7   C  
+c1:             C                                                             F  G7   C  
 l1: O vous, les arracheurs de dents, Tous les cafards, les charlatans, Les prophètes
 
-c1: C7                F                                            E                   Am          Dm  G7   C  Dm  G7   C  
-l1: Comptez plus sur oncle Archibald, Pour payer les violons du bal, A vos fêtes, A vos fêtes
-
+c1: C7           F                               E              Am         Dm  G7   C          Dm   G7   C  
+Comptez plus sur oncle Archibald, Pour payer les violons du bal, A vos fê--ê----tes, A vos fê---ê----tes
 
 l1: En courant sus à un voleur, Qui venait de lui chiper l'heure, A sa montre
 

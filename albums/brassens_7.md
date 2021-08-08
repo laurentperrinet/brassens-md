@@ -317,13 +317,13 @@ l1: Passant par là quelques 20 ans plus tard, Il a le sentiment qu'il le regret
 ## SAUF LE RESPECT QUE JE VOUS DOIS
 
 
-c1: D                                                  A7           D                                                               A7       D  
+c1: D                                   A7         D                                           A7     D  
 l1: Si vous y tenez tant parlez-moi des affaires publiques, Encor que ce sujet me rende un peu mélancolique,
 
-c1: G                     F#m                         Em         B7  
+c1: G              F#m                    Em         B7  
 l1: Parlez-m'en toujours je n'vous en tiendrai pas rigueur ...
 
-c1: Bm                 Bm7                               Am             B7      E7           A7                     D  
+c1: Bm            Bm7                     Am           B7      E7         A7               D  
 l1: Parlez-moi d'amour et j'vous fous mon poing sur la gueule, Sauf le respect que je vous dois.
 
 
