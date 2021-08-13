@@ -12,6 +12,8 @@ c1: F                                    E               F                      
 l1: Je ne fais pourtant de tort à personne, En suivant mon chemin de petit bonhomme.
 
 
+
+
 c1: Am                             E             Am                          B7   E         Am  
 l1: Mais les braves gens n'aiment pas que, L'on suive une autre route qu'eux,
 
@@ -32,6 +34,8 @@ c1: F                                    E               F                      
 l1: Je ne fais pourtant de tort à personne, En n'écoutant pas le clairon qui sonne.
 
 
+
+
 c1: Am                             E  
 
 c1: Am                          B7   E         Am  
@@ -42,6 +46,8 @@ l1: Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux,
 
 c1: F                                         Am                         E                    Am  
 l1: Tout le monde me montre du doigt, Sauf les manchots, ça va de soi.
+
+
 
 
 c1: Am                         E    Am                              B7       E   Am  
@@ -61,6 +67,8 @@ l1: Non les braves gens n'aiment pas que, L'on suive une autre route qu'eux,
 
 c1: F                                  Am                              E                 Am  
 l1: Tout le monde se rue sur moi, Sauf les culs-de-jatte, ça va de soi.
+
+
 
 
 c1: Am               E    Am                             B7       E   Am  
