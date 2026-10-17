@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- guitar, tilted so that the neck leaves behind the cat's head towards the top right -->
+  <!-- farthest back: body in one flowing silhouette, its curled tail leaving the haunch -->
+  <path d="M10 44C3 49 3 60 13 62 22 64 31 62 35 58 37 55 35 51 31 47Z" fill="#3b3b47" stroke="#14141a" stroke-width="1.200" stroke-linejoin="round"/>
+  <path d="M9 59C2 61 0 52 3.500 50.500" fill="none" stroke="#14141a" stroke-width="5.500" stroke-linecap="round"/>
+  <path d="M9 59C2 61 0 52 3.500 50.500" fill="none" stroke="#3b3b47" stroke-width="3.500" stroke-linecap="round"/>
+  <!-- middle plane: guitar, tilted so that the neck leaves behind the cat's head towards the top right -->
   <g transform="translate(10 0) rotate(20 32 40)" stroke="#4a2c12" stroke-width="2" stroke-linejoin="round">
     <rect x="28.5" y="2" width="7" height="9" rx="1.5" fill="#4a2c12"/>
     <rect x="29.5" y="9" width="5" height="28" fill="#6b4423"/>
     <path d="M32 28c-7 0-11 4-11 9 0 3 1.500 5 3 6.500C22 45.500 20 49 20 53c0 6 5.500 9 12 9s12-3 12-9c0-4-2-7.500-4-9.500 1.500-1.500 3-3.500 3-6.500 0-5-4-9-11-9z" fill="#e0a458"/>
     <circle cx="32" cy="46" r="4.500" fill="#2a1608" stroke="none"/>
   </g>
-  <!-- body in one flowing silhouette, its curled tail leaving the haunch -->
-  <path d="M10 44C3 49 3 60 13 62 22 64 31 62 35 58 37 55 35 51 31 47Z" fill="#3b3b47" stroke="#14141a" stroke-width="1.200" stroke-linejoin="round"/>
-  <path d="M9 59C2 61 0 52 3.500 50.500" fill="none" stroke="#14141a" stroke-width="5.500" stroke-linecap="round"/>
-  <path d="M9 59C2 61 0 52 3.500 50.500" fill="none" stroke="#3b3b47" stroke-width="3.500" stroke-linecap="round"/>
   <!-- head, smaller so that the guitar body stays visible at 16 px -->
   <g transform="translate(1 2) scale(.8)">
     <g stroke="#14141a" stroke-width="1.500" stroke-linejoin="round">
