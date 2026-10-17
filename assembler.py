@@ -84,7 +84,8 @@ def rendre_site(entrees):
     for md in sorted((CONSTRUCTION / 'albums').glob('*.md')):
         titre = re.search(r'^# (.+)$', md.read_text(encoding='utf-8'), re.M).group(1)
         rendre.rendre_fichier(md, DOCS / 'albums' / md.with_suffix('.html').name,
-                              titre=titre, accueil='../index.html')
+                              titre=titre, accueil='../index.html',
+                              anthologie='../brassens.html')
 
 
 if __name__ == '__main__':

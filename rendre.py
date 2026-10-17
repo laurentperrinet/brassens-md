@@ -32,6 +32,7 @@ YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 
 CSS = """\
 body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
+nav.toc details ul { margin: 0.3em 0 0.8em; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; }
 .notes { margin: 1em 0 2em; }
@@ -40,7 +41,18 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .video iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: bold; }
-.transpose { position: sticky; top: 0; z-index: 1; padding: 0.4em 0; background: Canvas; }
+html { scroll-behavior: smooth; }
+h1, h2 { scroll-margin-top: 3.5em; }
+.bar { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 0.6em;
+       padding: 0.4em 0; background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent);
+       touch-action: none; }
+.crumbs { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.crumbs a { text-decoration: none; }
+.crumbs .sep { opacity: 0.5; padding: 0 0.3em; }
+.up { font-size: 1.2em; line-height: 1; padding: 0.2em 0.5em; cursor: pointer; }
+.transpose { margin: 0; white-space: nowrap; }
+nav.toc details { margin: 0.3em 0; }
+nav.toc summary { cursor: pointer; font-weight: bold; }
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -92,6 +104,86 @@ SCRIPT = """\
 })();
 """
 
+# Hierarchy navigation: Index > Anthology > Album > Song. The anthology holds every album, so
+# going up from a song means scrolling to its album heading, and going up from an album means
+# scrolling to the top (anthology) or leaving for the anthology (album page). The current album
+# and song are the last `h1` / `h2` scrolled past the sticky bar. A swipe up on the bar (the
+# page itself keeps its normal scrolling), the "↑" button or the `u` key go up one level.
+SCRIPT_NAVIGATION = """\
+(function () {
+  var bar = document.getElementById('bar');
+  if (!bar) return;
+  var albums = Array.prototype.slice.call(document.querySelectorAll('h1[id]'));
+  var songs = Array.prototype.slice.call(document.querySelectorAll('h2[id]'));
+  var crumbAlbum = document.getElementById('crumb-album');
+  var crumbSong = document.getElementById('crumb-song');
+  var up = document.getElementById('up');
+  var current = {album: null, song: null};
+
+  function passed(list) {
+    var limit = bar.offsetHeight + 8, found = null;
+    for (var i = 0; i < list.length; i++) {
+      if (list[i].getBoundingClientRect().top > limit) break;
+      found = list[i];
+    }
+    return found;
+  }
+
+  function crumb(target, heading, strip) {
+    target.textContent = '';
+    if (!heading) return;
+    var sep = document.createElement('span');
+    sep.className = 'sep'; sep.textContent = '\u203a';
+    var a = document.createElement('a');
+    a.href = '#' + heading.id;
+    a.textContent = strip ? heading.textContent.replace(/^\\d+\\)\\s*/, '') : heading.textContent;
+    target.appendChild(sep); target.appendChild(a);
+  }
+
+  function refresh() {
+    var album = passed(albums), song = passed(songs);
+    if (album !== current.album) crumb(crumbAlbum, album, true);
+    if (song !== current.song) crumb(crumbSong, song, false);
+    current = {album: album, song: song};
+  }
+
+  function goUp() {
+    if (current.song && current.album) {
+      current.album.scrollIntoView();
+    } else if (current.album && bar.getAttribute('data-anthologie')) {
+      window.scrollTo(0, 0);
+    } else {
+      window.location.href = bar.getAttribute('data-haut');
+    }
+  }
+
+  var pending = false;
+  window.addEventListener('scroll', function () {
+    if (pending) return;
+    pending = true;
+    requestAnimationFrame(function () { pending = false; refresh(); });
+  }, {passive: true});
+
+  up.addEventListener('click', goUp);
+  document.addEventListener('keydown', function (e) {
+    var tag = e.target.tagName;
+    if (e.key === 'u' && !e.ctrlKey && !e.metaKey && !e.altKey && tag !== 'SELECT' && tag !== 'INPUT') goUp();
+  });
+
+  var x0 = 0, y0 = 0;
+  bar.addEventListener('touchstart', function (e) {
+    x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+  }, {passive: true});
+  bar.addEventListener('touchend', function (e) {
+    var dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
+    if (dy < -30 && Math.abs(dy) > Math.abs(dx)) goUp();
+  }, {passive: true});
+
+  up.hidden = false;  // without JavaScript, only the static links remain
+  refresh();
+})();
+"""
+
 # Menu labels: the shift in semitones, written in tones (one tone = two semitones).
 TRANSPOSITIONS = range(-6, 7)
 
@@ -123,9 +215,9 @@ def selecteur_transposition():
     options = '\n'.join(
         f'<option value="{n}"{" selected" if n == 0 else ""}>{etiquette_transposition(n)}</option>'
         for n in TRANSPOSITIONS)
-    return ('<p class="transpose" id="transpose" hidden>'
+    return ('<span class="transpose" id="transpose" hidden>'
             '<label for="transpose-select">Transposer : </label>'
-            f'<select id="transpose-select">\n{options}\n</select></p>')
+            f'<select id="transpose-select">\n{options}\n</select></span>')
 
 
 def en_ligne(texte):
@@ -190,9 +282,12 @@ def rendre_corps(lignes):
         lignes: lines of the document, without line terminators (list of str).
 
     Returns:
-        (HTML body, list of (anchor id, song title) for the table of contents).
+        (HTML body, list of (anchor id, title, level) for the table of contents; the level
+        is 1 for an album, 2 for a song). Anchors are `a{n}` for album n (from its `n)`
+        prefix) and `a{n}-s{k}` for its k-th song, hence the same on every page.
     """
     sortie, table = [], []
+    album, chanson = 0, 0  # number of the current album, rank of the current song in it
     strophe = []   # lines of the stanza being collected (HTML strings)
     vides = 0      # consecutive blank lines seen
     sauter = 0     # number of lines already consumed as part of a header block
@@ -246,12 +341,18 @@ def rendre_corps(lignes):
                 fermer_notes()
             if ligne.startswith('## '):
                 fermer_strophe()
-                ancre = f's{len(table) + 1}'
-                table.append((ancre, ligne[3:]))
+                chanson += 1
+                ancre = f'a{album}-s{chanson}'
+                table.append((ancre, ligne[3:], 2))
                 sortie.append(f'<h2 id="{ancre}">{en_ligne(ligne[3:])}</h2>')
             elif ligne.startswith('# '):
                 fermer_strophe()
-                sortie.append(f'<h1>{en_ligne(ligne[2:])}</h1>')
+                numero = re.match(r'(\d+)\)', ligne[2:])
+                album = int(numero.group(1)) if numero else album + 1
+                chanson = 0
+                ancre = f'a{album}'
+                table.append((ancre, ligne[2:], 1))
+                sortie.append(f'<h1 id="{ancre}">{en_ligne(ligne[2:])}</h1>')
             elif ligne.startswith(' * '):
                 fermer_strophe()
                 sortie.append(f'<ul><li>{en_ligne(ligne[3:])}</li></ul>')
@@ -280,21 +381,80 @@ def page(titre, contenu, script=''):
             f'{contenu}\n{balise}</body>\n</html>\n')
 
 
-def rendre_fichier(source, destination, titre, accueil=None):
+def table_des_matieres(table):
+    """Return the HTML table of contents: albums, each followed by its songs.
+
+    Args:
+        table: (anchor id, title, level) entries, as returned by `rendre_corps` (list of tuples).
+
+    Returns:
+        HTML fragment (str). With several albums, each one folds its song list.
+    """
+    groupes = []  # [(album entry or None, [song entries])]
+    for ancre, titre, niveau in table:
+        if niveau == 1:
+            groupes.append(((ancre, titre), []))
+        else:
+            if not groupes:
+                groupes.append((None, []))
+            groupes[-1][1].append((ancre, titre))
+
+    def liste(chansons):
+        return '<ul>' + ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>'
+                                for a, t in chansons) + '</ul>'
+
+    if len(groupes) <= 1:
+        return liste([(a, t) for _, c in groupes for a, t in c])
+    return '\n'.join(
+        f'<details><summary><a href="#{album[0]}">{en_ligne(album[1])}</a></summary>'
+        f'{liste(chansons)}</details>' for album, chansons in groupes if album)
+
+
+def fil_ariane(table, accueil, anthologie):
+    """Return the sticky bar: breadcrumb, "up" button and transposition menu.
+
+    The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
+
+    Args:
+        table: (anchor id, title, level) entries of the page (list of tuples).
+        accueil: relative link to the index page (str).
+        anthologie: relative link to the anthology page, or None on the anthology itself (str).
+
+    Returns:
+        HTML fragment (str).
+    """
+    albums = [a for a, _, niveau in table if niveau == 1]
+    if anthologie:
+        haut = f'{anthologie}#{albums[0]}' if albums else anthologie
+        attribut_anthologie, lien = '', haut
+    else:
+        haut, attribut_anthologie, lien = accueil, ' data-anthologie="1"', '#'
+    return (f'<header class="bar" id="bar" data-haut="{html.escape(haut)}"{attribut_anthologie}>\n'
+            f'<span class="crumbs"><a href="{html.escape(accueil)}">Index</a>'
+            f'<span class="sep">&rsaquo;</span><a href="{html.escape(lien)}">Anthologie</a>'
+            '<span id="crumb-album"></span><span id="crumb-song"></span></span>\n'
+            '<button class="up" id="up" type="button" hidden '
+            'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
+            'aria-label="Monter d\'un niveau">&uarr;</button>\n'
+            f'{selecteur_transposition()}\n</header>')
+
+
+def rendre_fichier(source, destination, titre, accueil, anthologie=None):
     """Render a Markdown file to a self-contained HTML page.
 
     Args:
         source: Markdown file to read (Path).
         destination: HTML file to write (Path).
         titre: text of the HTML `<title>` (str).
-        accueil: relative link to the table of contents page, or None for no link (str).
+        accueil: relative link to the index page (str).
+        anthologie: relative link to the anthology page, or None when rendering the anthology
+            itself (str).
     """
     corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
-    nav = ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>' for a, t in table)
-    retour = f'<p><a href="{accueil}">&larr; Index</a></p>\n' if accueil else ''
+    nav = table_des_matieres(table)
     destination.write_text(
-        page(titre, f'{retour}{selecteur_transposition()}\n<nav><ul>{nav}</ul></nav>\n{corps}',
-             script=SCRIPT),
+        page(titre, f'{fil_ariane(table, accueil, anthologie)}\n<nav class="toc">{nav}</nav>\n{corps}',
+             script=SCRIPT + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
