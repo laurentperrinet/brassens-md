@@ -76,12 +76,16 @@ def rendre_site():
     rendre.rendre_index(albums, DOCS / 'index.html', titre='Anthologie Georges Brassens')
     rendre.rendre_fichier(CONSTRUCTION / 'brassens.md', DOCS / 'brassens.html',
                           titre='Anthologie Georges Brassens', accueil='index.html')
+    # album pages index every song of the anthology, linking to brassens.html for the others
+    toutes = rendre.rendre_corps(
+        (CONSTRUCTION / 'brassens.md').read_text(encoding='utf-8').split('\n'))[1]
     rendre.rendre_favoris(DOCS / 'favoris.html', titre='Favoris', accueil='index.html',
                           anthologie='brassens.html')
     for md in sorted((CONSTRUCTION / 'albums').glob('*.md')):
         titre = re.search(r'^# (.+)$', md.read_text(encoding='utf-8'), re.M).group(1)
         rendre.rendre_fichier(md, DOCS / 'albums' / md.with_suffix('.html').name,
-                              titre=titre, accueil='../index.html', album=True)
+                              titre=titre, accueil='../index.html', album=True,
+                              toutes=toutes, anthologie='../brassens.html')
 
 
 if __name__ == '__main__':

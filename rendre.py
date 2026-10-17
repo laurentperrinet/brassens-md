@@ -7,10 +7,7 @@ Accepted input, which is all the song sources use:
     [Am]Au villa[E]ge, [Am]sans ...     -> one lyric line; each [Chord] is shown above the lyrics (<ruby>)
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
-    Refrain :   Intro : [Am] ...        -> the keyword (Refrain, Intro, Interlude, Pont, ...) is a badge, set apart from the lyrics
-    *Refrain :*                         -> same badge
-    Grille : |: Dm . . | A7 . . :|      -> chord grid (green badge, monospace, bar lines dimmed); a line
-                                           starting with `|` and holding no [Chord] is a grid too
+    *Refrain :*                         -> <em>
     <!-- source: chansons/.../x.md -->   -> (written by assembler.py) gives the next song title an "éditer" link to GitHub
     ### Notes                           -> collapsed <details> up to the next `#` / `##` title
     ```  ...  ```                       -> a monospace <pre> block (a tablature), in the lyrics or in the notes
@@ -30,16 +27,10 @@ import html
 import re
 import sys
 import unicodedata
-from pathlib import Path
 from urllib.parse import quote
 
 ACCORD = re.compile(r'\[([^\]]+)\]([^\s\[<*]*)')  # a chord and the word fragment it sits above
 EMPHASE = re.compile(r'\*([^*]+)\*')
-# A structure keyword opening a line ("Refrain :", "Intro : [Am] ...", "*Refrain :*"), set apart from the lyrics.
-MOT_CLE = re.compile(r'^\*?(Refrain|Intro|Interlude|Pont|Outro|Coda|Solo|Final|Grille)(?:\s*:\*?|\*?\s*$)(.*)$')
-# A chord grid written without keyword: it starts with a bar line and has no inline [Chord].
-GRILLE = re.compile(r'^\|[^\[\]]*$')
-BARRE = re.compile(r':\||\|[:.|]?')  # `|`, `|:`, `:|`, `||`, `|.`
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
@@ -51,58 +42,14 @@ YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
 
-FAVICON_SVG = Path(__file__).parent / 'favicon.svg'  # a cat in front of a guitar
-
-
-def en_grille(texte):
-    """Return the HTML of a chord grid, its bar lines wrapped in a dimmed `<span>`.
-
-    Args:
-        texte: the grid as written, e.g. `|: Dm . . | A7 . . :|` (str).
-
-    Returns:
-        HTML fragment (str).
-    """
-    barres = BARRE.sub(lambda m: f'\0{m.group(0)}\1', texte)
-    return html.escape(barres).replace('\0', '<span class="barre">').replace('\1', '</span>')
-
-
-def favicon_uri():
-    """Return the favicon as a `data:` URI, usable in a `<link>` or an `<img>`.
-
-    The SVG is inlined, so that the pages stay self-contained and the icon is found
-    whatever the depth of the page in `docs/`.
-
-    Returns:
-        The data URI (str).
-    """
-    svg = re.sub(r'<!--.*?-->|\s*\n\s*', '', FAVICON_SVG.read_text(encoding='utf-8'), flags=re.DOTALL)
-    return 'data:image/svg+xml,' + quote(svg, safe='/:=')
-
-
-def favicon():
-    """Return the `<link>` tag that gives every page its icon.
-
-    Returns:
-        The `<link rel="icon">` tag (str).
-    """
-    return f'<link rel="icon" type="image/svg+xml" href="{favicon_uri()}">\n'
-
-
 CSS = """\
 body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; line-height: 2.1; }
-.section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
-           text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
-           color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
-.section.grille { color: light-dark(#1d6b3c, #8fd6a6); background: light-dark(#dcf3e3, #1d3b2a); }
-.grille-texte { font-family: ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; }
-.grille-texte .barre { color: light-dark(#7a8a80, #6f8478); font-weight: 700; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
 .notes p, .notes ul { margin: 0.4em 0; }
@@ -142,9 +89,6 @@ h2 { display: flex; align-items: baseline; gap: 0.4em; }
 .az-group ul { columns: 1; margin: 0; padding-left: 1.2em; list-style: none; }
 .az-panel[data-js] .az-group[hidden] { display: none; }
 /* home page: three levels (albums, songs per album, alphabetical index) */
-.entete { display: flex; align-items: center; justify-content: space-between; gap: 1em; }
-.pastille { flex: none; width: 3.6em; height: 3.6em; padding: 0.8em; border-radius: 50%;  /* padding >= 0.2 x width keeps the corners of the drawing inside the disc */
-            background: color-mix(in srgb, CanvasText 8%, transparent); }
 .niveaux { position: sticky; top: 0; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.3em 1.2em; padding: 0.4em 0;
            background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent); }
 .niveaux a, .haut a { text-decoration: none; }
@@ -162,10 +106,10 @@ h2[id], h3[id] { scroll-margin-top: 3em; }
 .az-index { columns: 2 18em; list-style: none; padding: 0; }
 .az-index li { break-inside: avoid; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must not inflate text on rotation */
-/* Touch devices (phone, tablet) and full-screen mode (`html.ample`, set by the bar's button): fill
-   the screen instead of keeping a desktop-width column. The text size follows the viewport width,
-   and in landscape the stanzas flow into as many columns as fit. Headings, video, notes and lists
-   span all the columns, so reading order stays top to bottom within each section. */
+/* Touch devices (phone, tablet): fill the screen instead of keeping a desktop-width column. The
+   text size follows the viewport width, and in landscape the stanzas flow into as many columns
+   as fit. Headings, video, notes and lists span all the columns, so reading order stays
+   top to bottom within each section. */
 @media (pointer: coarse) {
   body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
          padding-left: max(1em, env(safe-area-inset-left));
@@ -175,19 +119,6 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must no
   main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
   main > h1, main > h2, main > hr, main > ul, main > nav, main > .video, main > .notes, main > pre.tab { column-span: all; }
 }
-html.ample body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
-                  padding-left: max(1em, env(safe-area-inset-left));
-                  padding-right: max(1em, env(safe-area-inset-right)); }
-@media (orientation: landscape) {
-  html.ample main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
-  html.ample main > h1, html.ample main > h2, html.ample main > hr, html.ample main > ul, html.ample main > nav,
-  html.ample main > .video, html.ample main > .notes, html.ample main > pre.tab { column-span: all; }
-}
-.plein-ecran { padding: 0.2em 0.4em; line-height: 1; cursor: pointer; color: inherit; background: none; border: 0; }
-.plein-ecran svg { width: 1.2em; height: 1.2em; display: block; fill: none; stroke: currentColor; stroke-width: 2;
-                   stroke-linecap: round; stroke-linejoin: round; }
-.plein-ecran .reduire, .plein-ecran[aria-pressed="true"] .agrandir { display: none; }
-.plein-ecran[aria-pressed="true"] .reduire { display: block; }
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -373,42 +304,6 @@ SCRIPT_FAVORIS = """\
 })();
 """
 
-# Full screen: the bar's button hides the browser chrome (Fullscreen API) and sets `html.ample`,
-# which gives the text the whole width, like on a touch device. Where the API is missing (iPhone
-# Safari) the button still widens the text. `fullscreenchange` keeps the state in step when the
-# user leaves with Esc.
-SCRIPT_PLEIN_ECRAN = """\
-(function () {
-  var button = document.getElementById('plein-ecran');
-  if (!button) return;
-  var root = document.documentElement;
-  var request = root.requestFullscreen || root.webkitRequestFullscreen;
-  var exit = document.exitFullscreen || document.webkitExitFullscreen;
-
-  function active() { return !!(document.fullscreenElement || document.webkitFullscreenElement); }
-
-  function show(on) {
-    root.classList.toggle('ample', on);
-    button.setAttribute('aria-pressed', on);
-    button.title = on ? 'Quitter le plein écran' : 'Plein écran';
-    window.dispatchEvent(new Event('scroll'));  // the breadcrumb depends on the layout
-  }
-
-  button.addEventListener('click', function () {
-    var on = !root.classList.contains('ample');
-    show(on);
-    try {
-      var done = on ? request && request.call(root) : active() && exit.call(document);
-      if (done && done.catch) done.catch(function () {});  // refused: the wide layout stays
-    } catch (e) {}
-  });
-  ['fullscreenchange', 'webkitfullscreenchange'].forEach(function (name) {
-    document.addEventListener(name, function () { show(active()); });
-  });
-  button.hidden = false;  // without JavaScript, stays hidden
-})();
-"""
-
 # Hierarchy navigation: Index > Anthology > Album > Song. The anthology holds every album, so
 # going up from a song means scrolling to its album heading, and going up from an album means
 # scrolling to the top (anthology) or leaving for the anthology (album page). The current album
@@ -544,20 +439,6 @@ def selecteur_transposition():
     return ('<span class="transpose" id="transpose" hidden>'
             '<label for="transpose-select">Transposer : </label>'
             f'<select id="transpose-select">\n{options}\n</select></span>')
-
-
-def bouton_plein_ecran():
-    """Return the HTML of the full-screen button (hidden until the script runs).
-
-    Returns:
-        HTML fragment (str).
-    """
-    trace = 'viewBox="0 0 24 24" aria-hidden="true"'
-    return ('<button class="plein-ecran" id="plein-ecran" type="button" hidden aria-pressed="false" '
-            'title="Plein écran" aria-label="Plein écran">'
-            f'<svg class="agrandir" {trace}><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>'
-            f'<svg class="reduire" {trace}><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>'
-            '</button>')
 
 
 def en_ligne(texte):
@@ -728,20 +609,7 @@ def rendre_corps(lignes):
                 fermer_strophe()
                 sortie.append(f'<ul><li>{en_ligne(ligne[3:])}</li></ul>')
             else:
-                mot = MOT_CLE.match(ligne)
-                if GRILLE.match(ligne):
-                    strophe.append(f'<p class="line"><span class="section grille">Grille</span> '
-                                   f'<span class="grille-texte">{en_grille(ligne)}</span></p>')
-                elif mot:
-                    # The keyword gets its own class so it cannot be mistaken for a sung line.
-                    grille = mot.group(1) == 'Grille'
-                    reste = en_grille(mot.group(2).strip()) if grille else en_ligne(mot.group(2).strip())
-                    if reste and grille:
-                        reste = f'<span class="grille-texte">{reste}</span>'
-                    strophe.append(f'<p class="line"><span class="section{" grille" if grille else ""}">'
-                                   f'{mot.group(1)}</span>{" " + reste if reste else ""}</p>')
-                else:
-                    strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
+                strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
     fermer_strophe()
     fermer_notes()
     return '\n'.join(sortie), table
@@ -761,7 +629,7 @@ def page(titre, contenu, script=''):
     balise = f'<script>\n{script}</script>\n' if script else ''
     return ('<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-            f'{favicon()}<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
+            f'<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
             f'{contenu}\n{balise}</body>\n</html>\n')
 
 
@@ -831,26 +699,37 @@ def lettre_tri(titre):
     return cle_tri(titre)[:1].upper() or '#'
 
 
-def index_alphabetique(table):
-    """Return the alphabetical index of the songs of a page, for the sticky bar.
+def index_alphabetique(table, toutes=None, anthologie=''):
+    """Return the alphabetical index of the songs, for the sticky bar.
+
+    The index lists every song of the anthology, not only those of the page: a song of the
+    page is a local link, any other one leads to the same anchor in the anthology page (the
+    anchors are numbered after the album, so they are identical on both pages).
 
     Args:
-        table: (anchor id, title, level) entries, as returned by `rendre_corps` (list of tuples).
+        table: (anchor id, title, level) entries of the page, as returned by `rendre_corps`
+            (list of tuples).
+        toutes: same entries for the whole anthology; None to list the page's songs only
+            (list of tuples).
+        anthologie: relative link to the anthology page, used for the songs absent from the
+            page (str).
 
     Returns:
         HTML fragment, a `<details>` menu (str); '' when the page holds no song.
     """
+    locales = {a for a, _, _ in table}
     par_lettre = {}
-    for ancre, titre, niveau in table:
+    for ancre, titre, niveau in (toutes or table):
         if niveau == 2:
-            par_lettre.setdefault(lettre_tri(titre), []).append((titre, ancre))
+            lien = f'#{ancre}' if ancre in locales else f'{anthologie}#{ancre}'
+            par_lettre.setdefault(lettre_tri(titre), []).append((titre, lien))
     if not par_lettre:
         return ''
     lettres = sorted(par_lettre)
     boutons = ''.join(f'<button type="button" data-lettre="{l}">{l}</button>' for l in lettres)
     groupes = '\n'.join(
         f'<section class="az-group" data-lettre="{l}"><h3>{l}</h3><ul>'
-        + ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>'
+        + ''.join(f'<li><a href="{html.escape(a)}">{en_ligne(t)}</a></li>'
                   for t, a in sorted(par_lettre[l], key=lambda e: cle_tri(e[0])))
         + '</ul></section>' for l in lettres)
     return ('<details class="az" id="az"><summary title="Index alphabétique des chansons">A–Z</summary>\n'
@@ -858,8 +737,8 @@ def index_alphabetique(table):
             '</details>')
 
 
-def fil_ariane(table, accueil, album, libelle='Anthologie complète'):
-    """Return the sticky bar: breadcrumb, "up" button, alphabetical index, full-screen button and transposition menu.
+def fil_ariane(table, accueil, album, libelle='Anthologie complète', toutes=None, anthologie=''):
+    """Return the sticky bar: breadcrumb, "up" button, alphabetical index and transposition menu.
 
     The first crumb, "Brassens", is the index page, which lists the albums and their songs.
     The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
@@ -870,6 +749,9 @@ def fil_ariane(table, accueil, album, libelle='Anthologie complète'):
         album: True on the page of a single album, False on a page that holds several albums
             (the complete anthology) or none (the favourites) (bool).
         libelle: text of the crumb naming the current page, shown when `album` is False (str).
+        toutes: (anchor id, title, level) entries of the whole anthology, for the alphabetical
+            index; None to index the page only (list of tuples).
+        anthologie: relative link to the anthology page, for the index entries of other albums (str).
 
     Returns:
         HTML fragment (str).
@@ -887,12 +769,11 @@ def fil_ariane(table, accueil, album, libelle='Anthologie complète'):
             '<button class="up" id="up" type="button" hidden '
             'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
             'aria-label="Monter d\'un niveau">&uarr;</button>\n'
-            f'{index_alphabetique(table)}\n'
-            f'{bouton_plein_ecran()}\n'
+            f'{index_alphabetique(table, toutes, anthologie)}\n'
             f'{selecteur_transposition()}\n</header>')
 
 
-def rendre_fichier(source, destination, titre, accueil, album=False):
+def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None, anthologie=''):
     """Render a Markdown file to a self-contained HTML page.
 
     Args:
@@ -901,6 +782,8 @@ def rendre_fichier(source, destination, titre, accueil, album=False):
         titre: text of the HTML `<title>` (str).
         accueil: relative link to the index page (str).
         album: True when the file holds a single album, False for the complete anthology (bool).
+        toutes: entries of the whole anthology for the alphabetical index (see `fil_ariane`).
+        anthologie: relative link to the anthology page (str).
     """
     corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
     # the songs of an album are listed right below its title; the top of the page only lists
@@ -910,9 +793,9 @@ def rendre_fichier(source, destination, titre, accueil, album=False):
             titre_html = f'<h1 id="{ancre}">{en_ligne(titre_album)}</h1>'
             corps = corps.replace(titre_html, f'{titre_html}\n{liste_chansons(table, ancre)}', 1)
     destination.write_text(
-        page(titre, f'{fil_ariane(table, accueil, album)}\n'
+        page(titre, f'{fil_ariane(table, accueil, album, toutes=toutes, anthologie=anthologie)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
-             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_PLEIN_ECRAN + SCRIPT_NAVIGATION),
+             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
@@ -995,9 +878,7 @@ def rendre_index(albums, destination, titre):
                    + '\n</ul>' for l in lettres)
                + f'\n{haut}')
 
-    entete = (f'<div class="entete"><h1>{html.escape(titre)}</h1>'
-              f'<img class="pastille" src="{favicon_uri()}" alt="" width="64" height="64"></div>')
-    corps = '\n'.join([entete, navigation, niveau1, haut, niveau2, niveau3])
+    corps = '\n'.join([f'<h1>{html.escape(titre)}</h1>', navigation, niveau1, haut, niveau2, niveau3])
     destination.write_text(page(titre, corps), encoding='utf-8')
 
 
@@ -1017,5 +898,5 @@ def rendre_favoris(destination, titre, accueil, anthologie):
                f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
                '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
                '(ou touche f) pour l\'ajouter ici.</p>\n</main>')
-    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_PLEIN_ECRAN + SCRIPT_NAVIGATION),
+    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
                            encoding='utf-8')
