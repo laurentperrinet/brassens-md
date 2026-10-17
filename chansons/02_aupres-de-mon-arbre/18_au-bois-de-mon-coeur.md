@@ -1,4 +1,4 @@
-## AU BOIS DE MON COEUR
+## Au bois de mon cœur
 
 
 [Am]Au bois d'Cl[D]ama[F7]rt y[E7]'a des pet[D7]ites fleurs, Y'a [C]des peti[E7]tes fleurs,

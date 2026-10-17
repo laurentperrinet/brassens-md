@@ -1,4 +1,4 @@
-## LES RICOCHETS
+## Les ricochets
 
 
 Lam / Mi7en alternance … Lam La7 / Rém en alternance … Sol Do Mi7 Lam Fa Mi7 Lam

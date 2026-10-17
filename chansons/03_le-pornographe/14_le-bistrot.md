@@ -1,4 +1,4 @@
-## LE BISTROT
+## Le bistrot
 
 
 [Dm]Dans un coin pourri, Du pau[C]vre Paris, Sur une plac[Bb]e, [A7]

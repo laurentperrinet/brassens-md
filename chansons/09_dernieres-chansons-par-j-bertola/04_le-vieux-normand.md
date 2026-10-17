@@ -1,4 +1,4 @@
-## LE VIEUX NORMAND
+## Le vieux normand
 
 
 [Bm]Depuis que je commence à faire de vieux[Em] os,[E7] Avide d[A]e c[A7]onse[D]ils, souvent un jouvenceau [Em] [A]

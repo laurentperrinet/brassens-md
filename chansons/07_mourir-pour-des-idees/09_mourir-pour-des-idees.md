@@ -1,4 +1,4 @@
-## MOURIR POUR DES IDÉES
+## Mourir pour des idées
 
 
 [Am]Mourir p[C]our des idées,[D] l'idé[Am]e est[C] excelle[D]nte, Moi[Am] j'ai fa[C]illi mouri[D]r de ne [E7]l'avoir pas eue [Am]

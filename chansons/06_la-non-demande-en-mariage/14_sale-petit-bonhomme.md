@@ -1,4 +1,4 @@
-## SALE PETIT BONHOMME
+## Sale petit bonhomme
 
 
 [Bm]Sale petit bonhomme, il ne portait plus d'ailes, [E7]

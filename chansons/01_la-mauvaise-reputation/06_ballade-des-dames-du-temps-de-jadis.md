@@ -1,4 +1,4 @@
-## BALLADE DES DAMES DU TEMPS DE JADIS
+## Ballade des dames du temps de jadis
 
 
 [A]Dictes-moy où, n'en quel pays, Est Flora, le belle romma[E7]ine; [A]

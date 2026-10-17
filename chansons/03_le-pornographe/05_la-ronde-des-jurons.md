@@ -1,4 +1,4 @@
-## LA RONDE DES JURONS
+## La ronde des jurons
 
 
 Voi[Bm]ci la r[F#7]onde [Bm]des ju[F#7]rons,[Bm] Qui chantaient clair, qui dansaient rond [A7]

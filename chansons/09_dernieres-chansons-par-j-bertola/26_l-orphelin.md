@@ -1,4 +1,4 @@
-## L'ORPHELIN
+## L'orphelin
 
 
 [F#7]Sauf dans le ca[Bm]s fréque[F#7]nt héla[Bm]s, Où[A7] ce sont de vr[D]ais dégueul[A7]asses [D]

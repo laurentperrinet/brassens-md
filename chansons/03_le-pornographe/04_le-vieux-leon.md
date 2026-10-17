@@ -1,4 +1,4 @@
-## LE VIEUX LÉON
+## Le vieux Léon
 
 
 Y'a tout à l'heure, [Bm]Quinze ans d'malheur, Mon vi[G]eux Léon [A7] [D]

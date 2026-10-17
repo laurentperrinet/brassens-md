@@ -1,4 +1,4 @@
-## PHILISTINS
+## Philistins
 
 
 [Bm]Philistins, épici[Em]ers, Tandis que [Bm]vous caressiez, [C#7]Vos f[F#7]emmes [Bm] [A] [G] [F#]

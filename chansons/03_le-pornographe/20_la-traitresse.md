@@ -1,4 +1,4 @@
-## LA TRAÎTRESSE
+## La traîtresse
 
 
 [Bm]J'en appelle à la mort[C#7], je l'atten[F#7]ds sans frayeur,[Bm] Je n'tiens plus à la vie, je che[C#7]rche un fossoyeur [F#7] [B7]

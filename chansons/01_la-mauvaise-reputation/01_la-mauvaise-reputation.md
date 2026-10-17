@@ -1,4 +1,4 @@
-## LA MAUVAISE RÉPUTATION
+## La mauvaise réputation
 
 [Am]Au village, s[E]ans p[Am]rétention, J'ai mauvaise r[B7]éputation[E]. [Am]
 

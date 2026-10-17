@@ -1,4 +1,4 @@
-## BALLADE À LA LUNE
+## Ballade à la lune
 
 
 [G7]C'éta[C]it, dans [Am7]la nui[D]t br[G7]une, Su[C]r un c[Am7]locher [D]jauni,

@@ -1,4 +1,4 @@
-## AUPRÈS DE MON ARBRE
+## Auprès de mon arbre
 
 
 [F]J'ai plaqué mon chêne, Com[D7]me un [G7]saligaud [C7]

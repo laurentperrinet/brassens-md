@@ -1,4 +1,4 @@
-## DANS L'EAU DE LA CLAIRE FONTAINE
+## Dans l'eau de la claire fontaine
 
 
 [C]Dans l'eau de la claire fontaine, E[E7]lle se[Am] baignait toute nue [C7]

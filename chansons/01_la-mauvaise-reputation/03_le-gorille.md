@@ -1,4 +1,4 @@
-## LE GORILLE
+## Le gorille
 
 Ré et La7 en alternance, en barré au refrain
 

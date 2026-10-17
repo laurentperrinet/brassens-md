@@ -1,4 +1,4 @@
-## GASTIBELZA "L'HOMME A LA CARABINE"
+## Gastibelza "L'homme à la carabine"
 
 
 [A]Gastibelza, l'homme à la carabine, Chantai[D]t ainsi: « Qu[E7]elqu'un[A] a-t-il connu doña Sabine ? Quelqu'un d'ici ? [D] [E7] [A]

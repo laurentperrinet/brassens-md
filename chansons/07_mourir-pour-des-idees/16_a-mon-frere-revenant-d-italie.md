@@ -1,4 +1,4 @@
-## A MON FRÈRE REVENANT D'ITALIE
+## À mon frère revenant d'Italie
 
 
 [C]Ainsi, mon cher, tu t'en reviens, Du[C7] pays [F]dont je me souviens, Comme d'un rê[Fm]ve, [E] [E7]

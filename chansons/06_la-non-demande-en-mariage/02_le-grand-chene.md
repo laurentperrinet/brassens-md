@@ -1,4 +1,4 @@
-## LE GRAND CHÊNE
+## Le grand chêne
 
 
 Il vi[D]vait en de[Bm]hors des che[Em]mins fores[A7]tiers, Ce [D]n'était nulle[Bm]ment un arbre [Em]de mé-[A7]tier,

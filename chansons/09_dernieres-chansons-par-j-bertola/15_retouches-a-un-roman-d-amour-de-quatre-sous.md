@@ -1,4 +1,4 @@
-## RETOUCHES À UN ROMAN D'AMOUR DE QUATRE SOUS
+## Retouches à un roman d'amour de quatre sous
 
 
 [C#m]Madame, même à quatre sous, Notre[G#m] vieux roman d'amour [C#m]sou- [G#m] [C#m] [B7]

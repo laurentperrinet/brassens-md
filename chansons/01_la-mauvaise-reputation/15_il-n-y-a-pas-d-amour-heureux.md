@@ -1,4 +1,4 @@
-## IL N'Y A PAS D'AMOUR HEUREUX
+## Il n'y a pas d'amour heureux
 
 
 [Am]Rien n'est jamais acquis à l'homme. Ni sa force, Ni sa fai[Dm]blesse ni son cœur. Et quand i[E7]l croit [Am]

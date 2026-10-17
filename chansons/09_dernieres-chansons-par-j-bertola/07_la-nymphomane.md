@@ -1,4 +1,4 @@
-## LA NYMPHOMANE
+## La nymphomane
 
 
 [D]Mânes de mes aïeux, protégez-moi, bons mânes ! Les joies charnelles me pe[A7]rdent, [D] [A7]

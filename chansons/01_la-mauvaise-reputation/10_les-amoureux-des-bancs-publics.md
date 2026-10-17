@@ -1,4 +1,4 @@
-## LES AMOUREUX DES BANCS PUBLICS
+## Les amoureux des bancs publics
 
 
 [Bm]Les gens qui voient de travers, Pensent que les bancs [F#7]verts, Qu'on voit sur les trottoirs

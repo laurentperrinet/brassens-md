@@ -1,4 +1,4 @@
-## MONTÉLIMAR
+## Montélimar
 
 
 [Bm]Avec leurs gni[F#7]ards, Mignons [Bm]mignards, L[F#7]eur beau matou,[G] Leur gros[A7] toutou, [D] [B7]

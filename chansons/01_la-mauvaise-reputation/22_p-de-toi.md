@@ -1,4 +1,4 @@
-## P... DE TOI
+## P... de toi
 
 
 [A]En ce temps-là, je[E] vivais da[A]ns la lune, Les[E] bonheurs d'ici[D]-bas m'étaient t[E]ous défen[D]dus [E]

@@ -1,4 +1,4 @@
-## QUAND LES CONS SONT BRAVES
+## Quand les cons sont braves
 
 
 [G]Sans être tout à fait un imbécile fini, Je n'[D7]ai r[G]ien [C]du penseur, du phénix, du génie. [Am]

@@ -1,4 +1,4 @@
-## HONTE A QUI PEUT CHANTER
+## Honte à qui peut chanter
 
 
 intro : Mim Fa#7 Si7 Mim Fa#7 Si7

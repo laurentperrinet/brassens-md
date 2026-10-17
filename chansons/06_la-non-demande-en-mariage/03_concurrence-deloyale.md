@@ -1,4 +1,4 @@
-## CONCURRENCE DÉLOYALE
+## Concurrence déloyale
 
 
 Il y a[Am] péril en la demeure, Depuis que l[Dm]es femmes de bonnes mœurs, Ces trouble-fête, [Am] [C] [D] [E7]

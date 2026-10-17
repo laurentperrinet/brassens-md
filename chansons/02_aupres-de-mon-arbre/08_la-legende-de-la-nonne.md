@@ -1,4 +1,4 @@
-## LA LÉGENDE DE LA NONNE
+## La légende de la nonne
 
 
 [G]Venez, vous dont l'œil étincelle, P[C]our[G] entendre une histoire enc[D]or [D7] [G]

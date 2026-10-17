@@ -1,4 +1,4 @@
-## TANT QU'IL Y A DES PYRÉNÉES
+## Tant qu'il y a des Pyrénées
 
 
 [Em]Frapper le gros Mussolini, [B7]Même avec[Em] un macaroni, [B7]

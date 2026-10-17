@@ -1,4 +1,4 @@
-## SAUF LE RESPECT QUE JE VOUS DOIS
+## Sauf le respect que je vous dois
 
 
 [D]Si vous y tenez tant parlez-moi des [A7]affaires pu[D]bliques, Encor que ce sujet me rende un peu [A7]mélanco[D]lique,

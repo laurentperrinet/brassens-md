@@ -1,4 +1,4 @@
-## DON JUAN
+## Don Juan
 
 
 [Bm]Gloire à qui freine à mort, [F#7]de pe[Bm]ur d'écrabouiller, Le h[F#7]ériss[Bm]on perdu, le crapa[F#7]ud fo[Bm]urvoyé, [F#7]

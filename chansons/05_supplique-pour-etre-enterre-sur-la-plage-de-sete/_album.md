@@ -1,2 +1,2 @@
-# 5) SUPPLIQUE POUR ETRE ENTERRE SUR LA PLAGE DE SETE
+# 5) Supplique pour être enterré sur la plage de Sète
 

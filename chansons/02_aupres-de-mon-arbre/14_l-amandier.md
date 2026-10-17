@@ -1,4 +1,4 @@
-## L'AMANDIER
+## L'amandier
 
 
 [Bm]J'avais l'plus bel ama[A7]ndier,[D] Du q[G]uartier, [D]

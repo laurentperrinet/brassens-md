@@ -1,4 +1,4 @@
-## CUPIDON S'EN FOUT
+## Cupidon s'en fout
 
 
 [Am]Pour changer en amour notre amourette, Il s'en serait pas fallu de be[C]aucoup [Dm]

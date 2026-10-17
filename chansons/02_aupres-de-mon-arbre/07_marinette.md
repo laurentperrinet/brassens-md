@@ -1,4 +1,4 @@
-## MARINETTE
+## Marinette
 
 
 Intro : Ré Ré#dim Mim7 La7 (2 fois) Ré Ré#dim Mim7

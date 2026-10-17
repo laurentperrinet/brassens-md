@@ -1,4 +1,4 @@
-## A L'OMBRE DES MARIS
+## À l'ombre des maris
 
 
 [C]Les dragons de vertu n'e[G7]n pren[C]nent pas ombrage, Si j'[G7]avais eu l'[C]honneur de commander à bord [E7]

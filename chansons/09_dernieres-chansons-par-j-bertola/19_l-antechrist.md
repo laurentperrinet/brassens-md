@@ -1,4 +1,4 @@
-## L'ANTÉCHRIST
+## L'Antéchrist
 
 
 [C]Je ne suis pas du tout, l'antéchrist de[G7] service, [C]

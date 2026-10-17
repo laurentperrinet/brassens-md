@@ -1,4 +1,4 @@
-## BRAVE MARGOT
+## Brave Margot
 
 
 Margoton l[C]a jeune bergère trou[G7]vant dans l'herbe un petit chat, qui venait de perd[C]re sa mère l'a[Am]dopta [D7] [G7]

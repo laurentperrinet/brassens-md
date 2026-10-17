@@ -1,4 +1,4 @@
-## LES PASSANTES
+## Les passantes
 
 
 [Am]Je v[F]eux dédier ce poème, [E]A toutes l[A7]es femmes qu'on aime, Pendant quel[Dm]ques instan[Am]ts secrets, [G7] [C] [E]

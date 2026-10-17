@@ -1,4 +1,4 @@
-## LE TEMPS PASSÉ
+## Le temps passé
 
 
 [F#7]Dans les comptes d'apothicaire, Ving[B]t ans, [E7]c'est une somme de bonheur [A]

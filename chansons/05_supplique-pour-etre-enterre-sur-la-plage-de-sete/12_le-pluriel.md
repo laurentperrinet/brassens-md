@@ -1,4 +1,4 @@
-## LE PLURIEL
+## Le pluriel
 
 
 [Em]« Cher monsieur, m'ont-[B7]ils dit, vous en [Em]êtes un aut[B7]re », Lorsque je re[Em]fusai de monte[B7]r dans leur tr[Em]ain. [A7]

@@ -1,4 +1,4 @@
-## LE TEMPS NE FAIT RIEN A L'AFFAIRE
+## Le temps ne fait rien à l'affaire
 
 
 [Am]Quand ils sont tout neuf[G]s, qu'ils sortent de l'œuf, du coc[F]on [E] [Am]

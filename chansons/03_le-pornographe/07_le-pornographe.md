@@ -1,4 +1,4 @@
-## LE PORNOGRAPHE
+## Le pornographe
 
 
 [Am]Autrefois, quand j'étais marmot, J'avais la p[B7]hobie des gros mots [E7]

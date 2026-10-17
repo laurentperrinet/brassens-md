@@ -1,4 +1,4 @@
-## SI LE BON DIEU L'AVAIT VOULU
+## Si le bon Dieu l'avait voulu
 
 
 [Am]Si le Bon Dieu l'av[G7]ait voulu -[C] Lanturlurette[Am], Lantu[G7]rlu, J[C]'aurais connu l[F]a Cléopâ[E7]tre, Et [Am]je ne t'aurais[E7] pas connue. [Am]

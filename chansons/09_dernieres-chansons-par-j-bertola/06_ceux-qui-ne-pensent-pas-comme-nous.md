@@ -1,4 +1,4 @@
-## CEUX QUI NE PENSENT PAS COMME NOUS
+## Ceux qui ne pensent pas comme nous
 
 
 [C]Quand on n'est[A7] pas d'accord ave[Dm]c le fort e[A7]n thème, Qui,[Dm] chez les sorbonnard[A7]s, fit ses hum[Dm]anités, [A7] [Dm]

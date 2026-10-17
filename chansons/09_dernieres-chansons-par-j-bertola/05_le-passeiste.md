@@ -1,4 +1,4 @@
-## LE PASSÉISTE
+## Le passéiste
 
 
 [D]Tant pis si j'ai l'air inf[Em]antile, [Bm]Mais, par ma foi ! [A7]Ma phrase [D]d'élection c'est [Em]: « Il, Etait une foi[A7]s » [D]

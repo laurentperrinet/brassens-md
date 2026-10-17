@@ -1,4 +1,4 @@
-## LE PROGRÈS
+## Le progrès
 
 
 [C]Que le progrès[Em] soit salutaire[Am], C'[C]est entendu, c'[D7]est entendu. [G] [E7]

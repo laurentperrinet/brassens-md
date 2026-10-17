@@ -1,4 +1,4 @@
-## LA MARCHE NUPTIALE
+## La marche nuptiale
 
 
 Ma[F#m]riage[E] d'amo[A]ur, ma[F#m]riage[D] d'[E7]arge[A]nt, [F#m]J'ai vu s[D]e marier to[E7]utes sortes de ge[A]ns

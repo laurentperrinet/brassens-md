@@ -1,4 +1,4 @@
-## LE BULLETIN DE SANTÉ
+## Le bulletin de santé
 
 
 [A]J'ai perdu mes bajoues, j'ai perdu ma bedaine, Et, ce, d'une faç[C#]on si[D] nette, si soudaine, [C#]

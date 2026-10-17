@@ -1,4 +1,4 @@
-## LA ROSE, LA BOUTEILLE ET LA POIGNÉE DE MAIN
+## La rose, la bouteille et la poignée de main
 
 
 [F]Cette rose avait glissé[E7] de, La gerbe qu[A7]'un héros gâteux, Po[D]rtait au monum[Dm7]ent aux Mort[G7]s. [C]

@@ -1,4 +1,4 @@
-## ENTRE LA RUE DIDOT ET LA RUE DE VANVES
+## Entre la rue Didot et la rue de Vanves
 
 
 [C]Voici ce qu'il advin[Dm]t, jadis[G7] grosso modo, ent[C]re la rue Didot et la rue de Vanves [G7] [C]

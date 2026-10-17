@@ -1,4 +1,4 @@
-## LE PETIT JOUEUR DE FLÛTEAU
+## Le petit joueur de flûteau
 
 
 [D]Le pe[Bm]tit jou[A7]eur de flûte[D]au, Menai[Bm]t la musique a[A7]u château, [D]

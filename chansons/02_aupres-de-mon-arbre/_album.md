@@ -1,2 +1,2 @@
-# 2) AUPRES DE MON ARBRE
+# 2) Auprès de mon arbre
 

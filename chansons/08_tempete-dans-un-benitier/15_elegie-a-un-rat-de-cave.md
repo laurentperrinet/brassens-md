@@ -1,4 +1,4 @@
-## ÉLÉGIE À UN RAT DE CAVE
+## Élégie à un rat de cave
 
 
 [F]Personne n'aura[F7]it cru ce cave, P[Bb6]rophétisant que par m[C7]alheur [F] [Bb] [C7]

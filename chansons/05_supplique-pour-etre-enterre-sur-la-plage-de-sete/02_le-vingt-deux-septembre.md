@@ -1,4 +1,4 @@
-## LE VINGT-DEUX SEPTEMBRE
+## Le vingt-deux septembre
 
 
 [D]Un vingt-e-deux septembre au diable vous partîtes, Et, depuis, cha[F#7]que a[Bm]nnée, à la date susdite, [F#7]

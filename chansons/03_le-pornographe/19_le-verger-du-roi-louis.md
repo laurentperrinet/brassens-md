@@ -1,4 +1,4 @@
-## LE VERGER DU ROI LOUIS
+## Le verger du roi Louis
 
 
 [Em]Sur ses larges bra[D]s étendus, L[Em]a forêt où s'éveille [D]Flore, [Em]

@@ -1,4 +1,4 @@
-## HISTOIRE DE FAUSSAIRE
+## Histoire de faussaire
 
 
 Intro : Sol Solm Fa#7 Sim Mi7 La7 Ré Sol La7

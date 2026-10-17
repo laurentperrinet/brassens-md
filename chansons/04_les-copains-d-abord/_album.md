@@ -1,2 +1,2 @@
-# 4) LES COPAINS D'ABORD
+# 4) Les copains d'abord
 

@@ -1,4 +1,4 @@
-## LE PARAPLUIE
+## Le parapluie
 
 
 Il pleuvait for[G]t sur la grand-route, Elle cheminait sans paraplu[E7]ie [Am]

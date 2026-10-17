@@ -1,4 +1,4 @@
-## LA GUERRE DE 14-18
+## La guerre de 14-18
 
 
 [D]Depuis que l'homme écrit l'Histoire, Depuis qu'il bataille à cœur joie

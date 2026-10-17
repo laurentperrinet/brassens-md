@@ -1,4 +1,4 @@
-## LA PREMIÈRE FILLE
+## La première fille
 
 
 [D]J'ai tout oublié des campagnes, d'Austerlitz et[F#] de Waterloo [Bm]

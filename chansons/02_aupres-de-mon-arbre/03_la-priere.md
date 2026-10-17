@@ -1,4 +1,4 @@
-## LA PRIÈRE
+## La prière
 
 
 [Am]Par le petit garçon qui meurt près de sa mère, Tandis qu[Dm]e des enfants s'amusent au parter[E7]re [Am]

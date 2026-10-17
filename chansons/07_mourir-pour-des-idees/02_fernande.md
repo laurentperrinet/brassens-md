@@ -1,4 +1,4 @@
-## FERNANDE
+## Fernande
 
 
 [C]Une manie de vieux ga[C5]rçon, Moi j'ai pris l'[F]habitude [E7]

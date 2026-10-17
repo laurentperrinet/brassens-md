@@ -1,4 +1,4 @@
-## LA MAÎTRESSE D'ÉCOLE
+## La maîtresse d'école
 
 
 (Le rythme est un peu inhabituel, mais il vaut la peine de s'y attarder)

@@ -1,4 +1,4 @@
-## SI SEULEMENT ELLE ÉTAIT JOLIE
+## Si seulement elle était jolie
 
 
 Si seulement[F] elle était jolie, Je[F6] dirais : «[F] Tout n'est pas perdu. [F6]

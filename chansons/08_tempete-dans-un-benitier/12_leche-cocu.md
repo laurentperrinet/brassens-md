@@ -1,4 +1,4 @@
-## LÈCHE-COCU
+## Lèche-cocu
 
 
 [C]Comme il c[F]houchoutait les maris, Qu'il l[C]es couvrait[G7] de flatteries, [C]

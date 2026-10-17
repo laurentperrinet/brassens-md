@@ -1,4 +1,4 @@
-## LES COPAINS D'ABORD
+## Les copains d'abord
 
 Non ce n'é[D]tait pas le radeau, De la méduse ce bateau,
 

@@ -1,4 +1,4 @@
-## LA CHASSE AUX PAPILLONS
+## La chasse aux papillons
 
 
 [A]Un bon petit diable à la fleur de[A5] l'âge, L[D]a j[E7]ambe légère et l'[A]œil polisson [D] [A] [E7]

@@ -1,4 +1,4 @@
-## LE PÊCHEUR
+## Le pêcheur
 
 
 [Bm]On dirait un fanatique, De la cause halieutique, Avec sa belle canne et, So[G]n mo[F#7]ulinet. [Bm] [B7]

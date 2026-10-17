@@ -1,4 +1,4 @@
-## LES CASSEUSES
+## Les casseuses
 
 
 [Bb]Tant qu'elle a besoin du matou[F7], Ma chatte est tendre comme tout, [Bb]

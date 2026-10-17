@@ -1,4 +1,4 @@
-## EMBRASSE LES TOUS
+## Embrasse les tous
 
 
 [Dm]Tu n'es pas de celles qui meurent où elles s'attachent, Tu frottes ta joue à[Bb] toutes les moustaches,

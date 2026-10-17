@@ -32,7 +32,6 @@ YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 
 CSS = """\
 body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
-nav.toc details ul { margin: 0.3em 0 0.8em; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; }
 .notes { margin: 1em 0 2em; }
@@ -51,8 +50,6 @@ h1, h2 { scroll-margin-top: 3.5em; }
 .crumbs .sep { opacity: 0.5; padding: 0 0.3em; }
 .up { font-size: 1.2em; line-height: 1; padding: 0.2em 0.5em; cursor: pointer; }
 .transpose { margin: 0; white-space: nowrap; }
-nav.toc details { margin: 0.3em 0; }
-nav.toc summary { cursor: pointer; font-weight: bold; }
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -381,33 +378,40 @@ def page(titre, contenu, script=''):
             f'{contenu}\n{balise}</body>\n</html>\n')
 
 
-def table_des_matieres(table):
-    """Return the HTML table of contents: albums, each followed by its songs.
+def liste_chansons(table, ancre_album):
+    """Return the HTML list of the songs of one album.
+
+    Args:
+        table: (anchor id, title, level) entries, as returned by `rendre_corps` (list of tuples).
+        ancre_album: anchor id of the album heading (str).
+
+    Returns:
+        HTML fragment, `<nav class="toc">` holding the list (str).
+    """
+    chansons, dedans = [], False
+    for ancre, titre, niveau in table:
+        if niveau == 1:
+            dedans = ancre == ancre_album
+        elif dedans:
+            chansons.append(f'<li><a href="#{ancre}">{en_ligne(titre)}</a></li>')
+    return '<nav class="toc"><ul>' + ''.join(chansons) + '</ul></nav>'
+
+
+def liste_albums(table):
+    """Return the HTML list of the albums of a page, or '' when it holds a single one.
 
     Args:
         table: (anchor id, title, level) entries, as returned by `rendre_corps` (list of tuples).
 
     Returns:
-        HTML fragment (str). With several albums, each one folds its song list.
+        HTML fragment (str).
     """
-    groupes = []  # [(album entry or None, [song entries])]
-    for ancre, titre, niveau in table:
-        if niveau == 1:
-            groupes.append(((ancre, titre), []))
-        else:
-            if not groupes:
-                groupes.append((None, []))
-            groupes[-1][1].append((ancre, titre))
-
-    def liste(chansons):
-        return '<ul>' + ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>'
-                                for a, t in chansons) + '</ul>'
-
-    if len(groupes) <= 1:
-        return liste([(a, t) for _, c in groupes for a, t in c])
-    return '\n'.join(
-        f'<details><summary><a href="#{album[0]}">{en_ligne(album[1])}</a></summary>'
-        f'{liste(chansons)}</details>' for album, chansons in groupes if album)
+    albums = [(a, t) for a, t, niveau in table if niveau == 1]
+    if len(albums) <= 1:
+        return ''
+    return ('<nav class="toc"><ul>'
+            + ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>' for a, t in albums)
+            + '</ul></nav>\n')
 
 
 def fil_ariane(table, accueil, anthologie):
@@ -451,9 +455,14 @@ def rendre_fichier(source, destination, titre, accueil, anthologie=None):
             itself (str).
     """
     corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
-    nav = table_des_matieres(table)
+    # the songs of an album are listed right below its title; the top of the page only lists
+    # the albums (anthology)
+    for ancre, titre_album, niveau in table:
+        if niveau == 1:
+            titre_html = f'<h1 id="{ancre}">{en_ligne(titre_album)}</h1>'
+            corps = corps.replace(titre_html, f'{titre_html}\n{liste_chansons(table, ancre)}', 1)
     destination.write_text(
-        page(titre, f'{fil_ariane(table, accueil, anthologie)}\n<nav class="toc">{nav}</nav>\n{corps}',
+        page(titre, f'{fil_ariane(table, accueil, anthologie)}\n{liste_albums(table)}{corps}',
              script=SCRIPT + SCRIPT_NAVIGATION),
         encoding='utf-8')
 

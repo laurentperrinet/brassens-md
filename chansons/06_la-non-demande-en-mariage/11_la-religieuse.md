@@ -1,4 +1,4 @@
-## LA RELIGIEUSE
+## La religieuse
 
 
 [Am]Tous les c[Dm]œurs se rallient à sa bl[Am]anche cornette, Si le chrétien succ[Dm]ombe à son charme insidieux[Am],

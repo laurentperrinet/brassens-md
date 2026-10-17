@@ -1,4 +1,4 @@
-## QUATRE-VINGT QUINZE POUR CENT
+## Quatre-vingt quinze pour cent
 
 
 [F]La femme qui possède tout[G] en elle, Pour d[C]onn[Am]er l[Dm]e goût des fêtes charn[E]elles [Am]

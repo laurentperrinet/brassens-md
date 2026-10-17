@@ -1,4 +1,4 @@
-## JE ME SUIS FAIT TOUT PETIT
+## Je me suis fait tout petit
 
 
 [Am]Je n'avais jamais ôté mon chapeau, Devant[Dm6] pers[E7]onne [Am]

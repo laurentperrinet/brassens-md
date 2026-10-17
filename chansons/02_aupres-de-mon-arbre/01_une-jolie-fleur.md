@@ -1,4 +1,4 @@
-## UNE JOLIE FLEUR
+## Une jolie fleur
 
 [D]Jamais sur terre il n'y [A7]eut d'amoureux, Plus aveugles que moi dans tous les [D]âges
 

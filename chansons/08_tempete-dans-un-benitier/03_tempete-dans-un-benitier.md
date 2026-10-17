@@ -1,4 +1,4 @@
-## TEMPÊTE DANS UN BÉNITIER
+## Tempête dans un bénitier
 
 
 [D]Tempête dans un bénitier, Le souverain pontife a[G]vecque, [Bm]Les évêques, [F#7]les ar[E7]chevêq[Am]ues, Nous font un sat[B7]ané chantier [E7] [A7] [D] [E]

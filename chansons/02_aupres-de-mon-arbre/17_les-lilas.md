@@ -1,4 +1,4 @@
-## LES LILAS
+## Les lilas
 
 
 [D]Quand je vais chez la fleuriste, Je n'achète que de[Bm7]s lilas [E7] [A7]

@@ -1,4 +1,4 @@
-## LA MARINE
+## La marine
 
 Intro : D7 Gm Bb C F Dm Gm Bb A Dm
 

@@ -1,4 +1,4 @@
-## PAUVRE MARTIN
+## Pauvre Martin
 
 
 [Am]Avec une bêche à l'épaule, Avec, à la lèvre, un doux chant, Avec, à la lèvre, un doux chant,

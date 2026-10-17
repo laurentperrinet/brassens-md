@@ -1,4 +1,4 @@
-## PENSÉE DES MORTS
+## Pensée des morts
 
 
 [A]Voilà les fe[F#m]uille[E7]s san[A]s sève, Qui tombent sur le[F#m7] gazon[E7], [A]

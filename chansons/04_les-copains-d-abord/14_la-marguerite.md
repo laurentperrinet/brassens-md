@@ -1,4 +1,4 @@
-## LA MARGUERITE
+## La marguerite
 
 
 [A]La petite, Marguerite, Est tombé[E7]e, [A]

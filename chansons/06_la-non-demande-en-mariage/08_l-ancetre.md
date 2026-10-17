@@ -1,4 +1,4 @@
-## L'ANCÊTRE
+## L'ancêtre
 
 
 [C]Notre voisin l'ancêtre [G7]était un fi[C7]er galant,[F] Qui [Fm]n'emmerdait personne avec [Am]sa barbe blanch[D7]e, [G7]

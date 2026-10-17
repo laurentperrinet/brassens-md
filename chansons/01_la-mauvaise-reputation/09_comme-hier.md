@@ -1,4 +1,4 @@
-## COMME HIER
+## Comme hier
 
 
 [G]Hé ! donne moi ta bouche, hé ! m[G7]a jolie fraise ! L'aube [C]a mis des fraises plein notre horizon [G7] [C]

@@ -1,4 +1,4 @@
-## LE BLASON
+## Le blason
 
 
 [A]Ayant avecques lui touj[F#m]ours [C#7]fait bon ménage, J'[D]eusse aimé célébrer[Em] san[F#7]s êtr[Bm]e inconve[F#m]nant [E7] [A] [E5]

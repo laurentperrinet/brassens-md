@@ -1,4 +1,4 @@
-## LES CHÂTEAUX DE SABLE
+## Les châteaux de sable
 
 
 [D]Je chante la petite guerre, des braves enfants de nagu[F#m]ère, [Bm]qui sur [F#m]la pl[Bm]age on[B7]t bataillé [Em]

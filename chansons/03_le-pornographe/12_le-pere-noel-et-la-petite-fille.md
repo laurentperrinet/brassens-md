@@ -1,4 +1,4 @@
-## LE PÈRE NOËL ET LA PETITE FILLE
+## Le Père Noël et la petite fille
 
 
 [Am]Avec sa hotte sur [G7]le dos,[C] Avec sa hotte su[B7]r le dos, [E]

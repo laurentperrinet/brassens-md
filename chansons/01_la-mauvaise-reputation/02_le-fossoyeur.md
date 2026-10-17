@@ -1,4 +1,4 @@
-## LE FOSSOYEUR
+## Le fossoyeur
 
 [A]Dieu sait qu'je n'ai pa[F#m]s le [A]fond méchant, [D]Je ne so[E]uhaite jam[A]ais la mort des g[F#m]ens [B7]
 

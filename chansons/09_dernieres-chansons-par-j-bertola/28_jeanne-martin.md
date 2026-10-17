@@ -1,4 +1,4 @@
-## JEANNE MARTIN
+## Jeanne Martin
 
 
 Intro : Mim La7 Ré Si7 Mi7 La7 Ré Fa#7

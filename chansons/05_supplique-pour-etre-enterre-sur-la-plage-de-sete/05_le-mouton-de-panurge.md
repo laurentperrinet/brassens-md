@@ -1,4 +1,4 @@
-## LE MOUTON DE PANURGE
+## Le mouton de Panurge
 
 
 Elle n[Bm]'a pas encor de plumes, [E]La fl[F#7]èche qui doit percer [Bm]son flanc [F#7] [Bm] [A7]

@@ -1,3 +1,3 @@
-# 8) TEMPETE DANS UN BENITIER
+# 8) Tempête dans un bénitier
 
 

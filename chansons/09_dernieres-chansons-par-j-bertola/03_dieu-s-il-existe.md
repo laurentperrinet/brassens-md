@@ -1,4 +1,4 @@
-## DIEU S'IL EXISTE
+## Dieu s'il existe
 
 
 [B]Au ciel de qui s[F#7]e moqu[B]e-t-on ? É[C#m]tait-ce[B] utile qu'u[C#m]n ora[B]ge [F#7]

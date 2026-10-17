@@ -1,4 +1,4 @@
-## JEANNE
+## Jeanne
 
 
 [Bm]Chez J[Em]eanne, la J[F#7]eanne[Em], Son auberge est ouverte aux[F#] gens sans feu ni li[Em]eu [F#]

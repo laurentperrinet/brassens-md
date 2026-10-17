@@ -1,4 +1,4 @@
-## CORNE D'AUROCHS
+## Corne d'aurochs
 
 
 [A]Il avait nom corne d'Aurochs, au gué, au gué, To[D]ut l'monde[A] peut pas s'app'ler Durand, au gué, au gué [F#m] [Bm] [E] [A]

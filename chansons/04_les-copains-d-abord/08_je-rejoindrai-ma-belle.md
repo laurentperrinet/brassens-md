@@ -1,4 +1,4 @@
-## JE REJOINDRAI MA BELLE
+## Je rejoindrai ma belle
 
 
 [Am]A l'heure du berger[B7], Au[E7] mép[A7]ris du danger, J'p[Dm]rend[G7]rai la passerelle, Pour r[C]ejoindre ma be[Dm]lle, [E7]

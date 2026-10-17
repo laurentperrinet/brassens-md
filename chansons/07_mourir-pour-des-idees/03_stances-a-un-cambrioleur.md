@@ -1,4 +1,4 @@
-## STANCES À UN CAMBRIOLEUR
+## Stances à un cambrioleur
 
 
 [Dm]Prince des monte-en-l'air et de la cambriole, Toi qui eus le bo[G#dim/F]n goût de choisir ma maison [G#dim]

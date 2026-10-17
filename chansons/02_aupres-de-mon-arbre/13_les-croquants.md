@@ -1,4 +1,4 @@
-## LES CROQUANTS
+## Les croquants
 
 
 Les croquants[Em] vont en ville, à cheval sur leu[D]rs sous, Acheter des pucelles au[Dm]x saintes bonnes gens [C]

@@ -1,4 +1,4 @@
-## LE COCU
+## Le cocu
 
 
 [F]Comme elle n'aime pa[E]s beaucoup la[F] solitude, Cepend[E]ant que je[Dm] pêche et que j[Am]e m'ennoblis [F] [E] [F] [E]

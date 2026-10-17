@@ -1,4 +1,4 @@
-## CHANSONNETTE A CELLE QUI RESTE PUCELLE
+## Chansonnette à celle qui reste pucelle
 
 
 Ja[Am]dis la mineure perdait so[E]n honneur au moindre f[A]aux pas [Dm]

@@ -1,4 +1,4 @@
-## BONHOMME
+## Bonhomme
 
 
 [C]Malgré la bise [F]qui mord, L[C]a pauvre vieill[F]e de so[C]mme [G7]

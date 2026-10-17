@@ -1,4 +1,4 @@
-## LA CANE DE JEANNE
+## La cane de Jeanne
 
 
 [E7]La c[A]ane[F#m], De [Bm]Jean[E7]ne, Es[A]t morte au g[F#m]ui l'a[Bm]n neuf,

@@ -1,4 +1,4 @@
-## SUPPLIQUE POUR ÊTRE ENTERRÉ SUR LA PLAGE DE SÈTE
+## Supplique pour être enterré sur la plage de Sète
 
 
 [Bm]La Camarde qui ne m'a jamais pardonné, D'avoir semé des fleu[F#7]rs dans les trous de son nez

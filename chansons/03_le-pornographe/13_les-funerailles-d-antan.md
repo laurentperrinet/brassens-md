@@ -1,4 +1,4 @@
-## LES FUNÉRAILLES D'ANTAN
+## Les funérailles d'antan
 
 
 [F]Jadis, les parents des morts vous mettaient dans le bain [C7]

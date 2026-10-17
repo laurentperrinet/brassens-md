@@ -1,4 +1,4 @@
-## IL SUFFIT DE PASSER LE PONT
+## Il suffit de passer le pont
 
 
 [G]Il suffit de passer le pont,[Em] C'est tout de[Am] suite l'[D7]aventure ! [G]

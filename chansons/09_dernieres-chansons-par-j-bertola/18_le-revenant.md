@@ -1,4 +1,4 @@
-## LE REVENANT
+## Le revenant
 
 
 [E7]Calme, co[A]nfortable, officiel, E[C#7]n un mot ré[F#m]sidentiel, [C#m]

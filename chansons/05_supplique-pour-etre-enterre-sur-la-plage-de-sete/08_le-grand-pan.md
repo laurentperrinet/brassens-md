@@ -1,4 +1,4 @@
-## LE GRAND PAN
+## Le grand Pan
 
 
 [Bm]Du temps que régnait le Grand Pan, Les dieux protége[C]aient les ivrognes

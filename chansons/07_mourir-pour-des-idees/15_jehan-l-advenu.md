@@ -1,4 +1,4 @@
-## JEHAN L'ADVENU
+## Jehan l'Advenu
 
 
 [C#m]Puis il revint comme il était parti : Bon[F#7] pied, bo[B]n oeil, personne d'averti. [E7]

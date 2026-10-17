@@ -1,4 +1,4 @@
-## LA ROUTE AUX QUATRE CHANSONS
+## La route aux quatre chansons
 
 
 [A]J'ai pris la route de D[E7]ijon, Pour voir un [A]peu la Marjolaine, [E7]

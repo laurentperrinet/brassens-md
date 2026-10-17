@@ -1,4 +1,4 @@
-## LE MODESTE
+## Le modeste
 
 
 [C]Les pays, c'est pas ça qui manque, On[Cmaj7] vient au monde[C7] à Salamanque, A Paris, Bordea[F]ux, Lille, Brest(e). [Dm7] [G7] [C]

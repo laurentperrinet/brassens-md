@@ -1,4 +1,4 @@
-## L'ENTERREMENT DE VERLAINE
+## L'enterrement de Verlaine
 
 
 Le revois-tu mon âme, ce Boul' Mich' d'autrefois

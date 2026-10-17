@@ -1,4 +1,4 @@
-## LE PETIT CHEVAL
+## Le petit cheval
 
 
 [A]Le petit cheval dans le [D]mauvais [A]temps, Qu'il avait donc du courage [F#m] [E]

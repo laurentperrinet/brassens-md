@@ -1,4 +1,4 @@
-## RIEN A JETER
+## Rien à jeter
 
 
 [Em]Sans ces cheveux qui volent, J[A7]'aurais, dorén[D]avant, Des di[E7]ffic[A7]ulté[Em]s folles, A v[A7]oir d'où [D]vient le vent. [E7] [A7]

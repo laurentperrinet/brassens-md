@@ -1,3 +1,3 @@
-# 7) MOURIR POUR DES IDEES
+# 7) Mourir pour des idées
 
 

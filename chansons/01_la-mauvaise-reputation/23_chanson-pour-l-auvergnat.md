@@ -1,4 +1,4 @@
-## CHANSON POUR L'AUVERGNAT
+## Chanson pour l'Auvergnat
 
  * https://www.youtube.com/watch?v=rrZPVQN8QDY
  * valse

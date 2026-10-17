@@ -1,4 +1,4 @@
-## LA FEMME D'HECTOR
+## La femme d'Hector
 
 
 Intro : Ré La7 Ré La7

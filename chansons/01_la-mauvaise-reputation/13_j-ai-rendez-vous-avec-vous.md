@@ -1,4 +1,4 @@
-## J'AI RENDEZ-VOUS AVEC VOUS
+## J'ai rendez-vous avec vous
 
 
 [A]Monseigneur l'astre[E7] solair[A]e, [E7]Comme[A] je n'l'admire pas be[E7]aucoup [A]

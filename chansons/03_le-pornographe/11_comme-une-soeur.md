@@ -1,4 +1,4 @@
-## COMME UNE SOEUR
+## Comme une sœur
 
 
 [Bm]Comme une sœur, têt[Em]e co[A7]upée, t[D]ête co[F#7]upée,[Bm] Elle ressemblait à sa p[Em]oupée[A7], à sa [D]poupée, [F#7] [Bm]

@@ -1,4 +1,4 @@
-## LE MOYENÂGEUX
+## Le moyenâgeux
 
 
 [F#m]Le seul rep[B7]roche, au demeu[E]rant, Qu'aient pu mér[F#m]iter [B7]mes pa[E]rents,

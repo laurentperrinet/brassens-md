@@ -1,4 +1,4 @@
-## L'ORAGE
+## L'orage
 
 [Am]... ...
 

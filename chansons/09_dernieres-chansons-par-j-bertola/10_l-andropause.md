@@ -1,4 +1,4 @@
-## L'ANDROPAUSE
+## L'andropause
 
 
 [G]Aux quatre coins de France, émanant je suppose, De maris rancuniers par la[C] haine conduits, [G] [A7] [D]

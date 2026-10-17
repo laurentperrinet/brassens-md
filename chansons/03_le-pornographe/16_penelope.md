@@ -1,4 +1,4 @@
-## PÉNÉLOPE
+## Pénélope
 
 
 [C]Toi l'épouse modèle, [Am]le g[F]rillon du foyer, [G7]

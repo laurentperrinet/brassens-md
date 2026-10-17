@@ -1,4 +1,4 @@
-## LE FANTÔME
+## Le fantôme
 
 
 [G]C'était tremblant, c'était troublant, C'était vêtu [E7]d'un drap tout blanc,

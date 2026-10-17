@@ -1,4 +1,4 @@
-## MÉCHANTE AVEC DE JOLIS SEINS
+## Méchante avec de jolis seins
 
 
 [Bb]Héla[Gm]s, si j'avais [Dm]pu deviner qu[Gm]e vos avantages,[Dm] Cachaient [Gm]sournois[C7]ement, mad[F]ame, un[Dm]e foison d'ou[Gm]rsins[C7], [F7]

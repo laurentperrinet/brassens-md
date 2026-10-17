@@ -1,4 +1,4 @@
-## LES AMOURS D'ANTAN
+## Les amours d'antan
 
 
 [D]Moi, mes amours d'antan c'était de la grisette, [C#m]

@@ -1,4 +1,4 @@
-## GRAND-PÈRE
+## Grand-père
 
 
 [Bm]Grand-Père suivait en chant[Em]ant, La route q[A7]ui mène à cent ans [D]

@@ -1,4 +1,4 @@
-## ENTRE L'ESPAGNE ET L'ITALIE
+## Entre l'Espagne et l'Italie
 
 
 [A]Le géographe était pris de f[E7]olie, Quand il ima[A]gina de tendre, [E7]

@@ -1,4 +1,4 @@
-## CLAIRETTE ET LA FOURMI
+## Clairette et la fourmi
 
 
 [D]J'étais pas l'amant de Clairette, Ma[B7]is son ami. [Em] [Bm] [F#7]

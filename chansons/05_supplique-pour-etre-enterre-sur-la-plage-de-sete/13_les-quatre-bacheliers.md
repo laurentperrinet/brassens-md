@@ -1,4 +1,4 @@
-## LES QUATRE BACHELIERS
+## Les quatre bacheliers
 
 
 [A]Nous étions quatre b[F#m]acheliers[Bm], San[D]s v[F#m]ergogne[Bm7], La [E7]vrai[A]e crème des écoliers, [F#m]Des éc[Bm]olie[F#m]rs. [E7] [A] [G7]

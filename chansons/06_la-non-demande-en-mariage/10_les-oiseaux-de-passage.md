@@ -1,4 +1,4 @@
-## LES OISEAUX DE PASSAGE
+## Les oiseaux de passage
 
 
 [Dm]Ô vie heureuse des bourgeois, Qu'avril bourgeonne [C]

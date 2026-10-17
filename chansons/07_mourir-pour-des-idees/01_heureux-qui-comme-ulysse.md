@@ -1,4 +1,4 @@
-## HEUREUX QUI COMME ULYSSE
+## Heureux qui comme Ulysse
 
 
 [Bm]Heureux qui comme Ulysse, A fai[E]t un beau v[G]oyage [Bm]

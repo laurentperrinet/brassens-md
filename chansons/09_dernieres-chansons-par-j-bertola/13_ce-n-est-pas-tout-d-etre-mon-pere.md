@@ -1,4 +1,4 @@
-## CE N'EST PAS TOUT D'ÊTRE MON PÈRE
+## Ce n'est pas tout d'être mon père
 
 
 [D]Du fait qu'un couple de fieffés, Mina[A7]bles [D]a pris le café [A7]

@@ -1,4 +1,4 @@
-## LE MÉCRÉANT
+## Le mécréant
 
 ---
 youTubeId: LWSEdlL8qIM

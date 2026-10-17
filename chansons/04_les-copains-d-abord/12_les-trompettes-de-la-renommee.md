@@ -1,4 +1,4 @@
-## LES TROMPETTES DE LA RENOMMÉE
+## Les trompettes de la renommée
 
 
 Je [Am]vivais à l'écart de la place[B7] publique, S[Em]erein, c[A7]ontemplatif, ténébr[Dm]eux,[G7] bucolique [C]

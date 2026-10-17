@@ -1,4 +1,4 @@
-## LE ROI BOITEUX
+## Le roi boiteux
 
 
 [B]Un roi d'Esp[E]agne, ou bien de France, Avait [B]un cor, un[B7] cor au pied[E]. [B7]

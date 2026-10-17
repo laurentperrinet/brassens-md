@@ -1,4 +1,4 @@
-## LE MAUVAIS SUJET REPENTI
+## Le mauvais sujet repenti
 
 
 [A]Elle avait la taille faite au tour, Les hanches pleines, Et chassait l'mâle aux alentours, [C#m]De la Mad'leine [G#] [C#m]

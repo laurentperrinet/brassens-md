@@ -1,4 +1,4 @@
-## BÉCASSINE
+## Bécassine
 
 
 [Bm]Un champ de blé prenait raci[F#m]ne, S[Bm]ous la coiffe de Bécass[A7]ine, [D] [F#7]

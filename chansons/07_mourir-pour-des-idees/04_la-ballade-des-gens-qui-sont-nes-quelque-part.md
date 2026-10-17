@@ -1,4 +1,4 @@
-## LA BALLADE DES GENS QUI SONT NÉS QUELQUE PART
+## La ballade des gens qui sont nés quelque part
 
 
 [D]C'est vrai qu'ils sont plaisants tous ces petits v[A]illages, To[D]us [F#7]ces b[Bm]ourgs, ces hameaux, ces lieux-dits, ces cités [G] [A]

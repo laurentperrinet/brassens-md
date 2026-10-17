@@ -1,4 +1,4 @@
-## GERMAINE TOURANGELLE
+## Germaine Tourangelle
 
 
 Cette gerbe est pour vous, Manon des jours heureux,

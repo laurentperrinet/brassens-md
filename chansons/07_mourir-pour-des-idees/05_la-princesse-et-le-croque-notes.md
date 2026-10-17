@@ -1,4 +1,4 @@
-## LA PRINCESSE ET LE CROQUE-NOTES
+## La princesse et le croque-notes
 
 
 [Dm]Jadis au [A7]lieu du jar[Dm]din que voic[A7]i, C[Dm]'était la [A7]zone et t[Dm]out ce qui s'en sui[A7]t

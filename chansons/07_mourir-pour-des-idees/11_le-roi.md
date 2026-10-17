@@ -1,4 +1,4 @@
-## LE ROI
+## Le roi
 
 
 [Bm]Non certes, elle n'est [F#m]pas bâtie, Non cert[Bm]es, elle n'est pas bât[F#m]ie [Bm]

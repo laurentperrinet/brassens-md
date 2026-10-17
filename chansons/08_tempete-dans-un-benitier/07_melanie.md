@@ -1,4 +1,4 @@
-## MÉLANIE
+## Mélanie
 
 
 [C]Les chanson[Am]s de sall[G7]e de garde[C], Ont toujours ét[Am]é de m[G7]on goût, [C]

@@ -1,4 +1,4 @@
-## VENUS CALLIPYGE
+## Vénus callipyge
 
 
 [F]Que jamais l'art abstrait, qui sévit[F7] maintenant, N'enlèv[Bb]e à vo[Gm7]s attraits c[C7]e volu[F]me éto[Dm]nnan[Gm]t [C7] [F]

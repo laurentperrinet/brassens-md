@@ -1,4 +1,4 @@
-## LE SCEPTIQUE
+## Le sceptique
 
 
 [F#m]Imitant Courteline, un scepti[Bm]que notoire, Manifestant ainsi que l'on me désabuse, [F#m]

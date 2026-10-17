@@ -1,4 +1,4 @@
-## A L'OMBRE DU COEUR DE MA MIE
+## À l'ombre du cœur de ma mie
 
 
 [Bm]A l'ombre du cœur de ma mie, A l'ombr[Em]e du cœur de ma mie[Bm], [F#7] [Bm]

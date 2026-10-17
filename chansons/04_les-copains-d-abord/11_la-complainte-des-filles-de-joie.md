@@ -1,4 +1,4 @@
-## LA COMPLAINTE DES FILLES DE JOIE
+## La complainte des filles de joie
 
 
 [Bm]Bien que ces vaches de bourgeois, Bien que ces vaches de bo[G]urgeois [F#]

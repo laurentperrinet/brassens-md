@@ -1,4 +1,4 @@
-## MAMAN, PAPA
+## Maman, papa
 
 
 [Ebmaj7]Maman, m[Ebmaj7]aman, en[Ebmaj7] faisant [Bb7sus4]cette cha[G7]nson,[Cm7] Mama[Abmaj7]n, [Ab6/9]

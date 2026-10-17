@@ -1,4 +1,4 @@
-## LES SABOTS D'HÉLÈNE
+## Les sabots d'Hélène
 
 
 [C]Les sabots d'Hélène[Dm], étaie[G7]nt tout crottés, [C]

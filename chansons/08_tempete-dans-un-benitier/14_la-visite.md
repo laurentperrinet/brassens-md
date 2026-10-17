@@ -1,4 +1,4 @@
-## LA VISITE
+## La visite
 
 
 [Am]On n'était pas des Barbe-Bleue, Ni des pelés, ni des gale[D7]ux, Porteurs de par[G]asites. [E7] [Am]
