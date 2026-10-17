@@ -67,17 +67,26 @@ def en_grille(texte):
     return html.escape(barres).replace('\0', '<span class="barre">').replace('\1', '</span>')
 
 
+def favicon_uri():
+    """Return the favicon as a `data:` URI, usable in a `<link>` or an `<img>`.
+
+    The SVG is inlined, so that the pages stay self-contained and the icon is found
+    whatever the depth of the page in `docs/`.
+
+    Returns:
+        The data URI (str).
+    """
+    svg = re.sub(r'<!--.*?-->|\s*\n\s*', '', FAVICON_SVG.read_text(encoding='utf-8'), flags=re.DOTALL)
+    return 'data:image/svg+xml,' + quote(svg, safe='/:=')
+
+
 def favicon():
     """Return the `<link>` tag that gives every page its icon.
-
-    The SVG is inlined as a data URI, so that the pages stay self-contained and
-    the icon is found whatever the depth of the page in `docs/`.
 
     Returns:
         The `<link rel="icon">` tag (str).
     """
-    svg = re.sub(r'<!--.*?-->|\s*\n\s*', '', FAVICON_SVG.read_text(encoding='utf-8'), flags=re.DOTALL)
-    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,{quote(svg, safe="/:=")}">\n'
+    return f'<link rel="icon" type="image/svg+xml" href="{favicon_uri()}">\n'
 
 
 CSS = """\
@@ -133,6 +142,9 @@ h2 { display: flex; align-items: baseline; gap: 0.4em; }
 .az-group ul { columns: 1; margin: 0; padding-left: 1.2em; list-style: none; }
 .az-panel[data-js] .az-group[hidden] { display: none; }
 /* home page: three levels (albums, songs per album, alphabetical index) */
+.entete { display: flex; align-items: center; justify-content: space-between; gap: 1em; }
+.pastille { flex: none; width: 3.6em; height: 3.6em; padding: 0.8em; border-radius: 50%;  /* padding >= 0.2 x width keeps the corners of the drawing inside the disc */
+            background: color-mix(in srgb, CanvasText 8%, transparent); }
 .niveaux { position: sticky; top: 0; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.3em 1.2em; padding: 0.4em 0;
            background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent); }
 .niveaux a, .haut a { text-decoration: none; }
@@ -983,7 +995,9 @@ def rendre_index(albums, destination, titre):
                    + '\n</ul>' for l in lettres)
                + f'\n{haut}')
 
-    corps = '\n'.join([f'<h1>{html.escape(titre)}</h1>', navigation, niveau1, haut, niveau2, niveau3])
+    entete = (f'<div class="entete"><h1>{html.escape(titre)}</h1>'
+              f'<img class="pastille" src="{favicon_uri()}" alt="" width="64" height="64"></div>')
+    corps = '\n'.join([entete, navigation, niveau1, haut, niveau2, niveau3])
     destination.write_text(page(titre, corps), encoding='utf-8')
 
 

@@ -6,28 +6,42 @@
     <path d="M32 28c-7 0-11 4-11 9 0 3 1.500 5 3 6.500C22 45.500 20 49 20 53c0 6 5.500 9 12 9s12-3 12-9c0-4-2-7.500-4-9.500 1.500-1.500 3-3.500 3-6.500 0-5-4-9-11-9z" fill="#e0a458"/>
     <circle cx="32" cy="46" r="4.500" fill="#2a1608" stroke="none"/>
   </g>
-  <!-- body and curled tail, behind the head -->
-  <ellipse cx="22" cy="56" rx="14" ry="7.500" fill="#3b3b47" stroke="#14141a" stroke-width="1.200"/>
-  <path d="M10 58C1 60 0 49 5 46" fill="none" stroke="#14141a" stroke-width="5.500" stroke-linecap="round"/>
-  <path d="M10 58C1 60 0 49 5 46" fill="none" stroke="#3b3b47" stroke-width="3.500" stroke-linecap="round"/>
+  <!-- body in one flowing silhouette, its curled tail leaving the haunch -->
+  <path d="M10 44C3 49 3 60 13 62 22 64 31 62 35 58 37 55 35 51 31 47Z" fill="#3b3b47" stroke="#14141a" stroke-width="1.200" stroke-linejoin="round"/>
+  <path d="M9 59C2 61 0 52 3.500 50.500" fill="none" stroke="#14141a" stroke-width="5.500" stroke-linecap="round"/>
+  <path d="M9 59C2 61 0 52 3.500 50.500" fill="none" stroke="#3b3b47" stroke-width="3.500" stroke-linecap="round"/>
   <!-- head, smaller so that the guitar body stays visible at 16 px -->
   <g transform="translate(1 2) scale(.8)">
     <g stroke="#14141a" stroke-width="1.500" stroke-linejoin="round">
       <path d="M10 40 11 17 27 28 37 28 53 17 54 40c0 10-9 17-22 17S10 50 10 40z" fill="#3b3b47"/>
       <path d="M14 24 14.500 31 20 27zM50 24 49.500 31 44 27z" fill="#e8a0a8" stroke="none"/>
     </g>
-    <!-- mischievous eyes: half-closed lids, one eyebrow raised -->
+    <!-- young Brassens' gaze: eyes wide enough to be lively, a lid still lowered, pupils centred to stare at the viewer, black brows, one lowered and one raised, no bags -->
     <ellipse cx="23" cy="41" rx="4" ry="4.500" fill="#f5d547"/>
     <ellipse cx="41" cy="41" rx="4" ry="4.500" fill="#f5d547"/>
-    <ellipse cx="23.500" cy="41.500" rx="1.400" ry="3" fill="#14141a"/>
-    <ellipse cx="41.500" cy="41.500" rx="1.400" ry="3" fill="#14141a"/>
-    <path d="M18.500 35.500H27.500V40.500H18.500zM36.500 35.500H45.500V40.500H36.500z" fill="#3b3b47"/>
-    <path d="M18.500 40.500H27.500M36.500 40.500H45.500" stroke="#14141a" stroke-width="1.300" fill="none"/>
-    <path d="M36 35 45 31.500" stroke="#14141a" stroke-width="1.500" stroke-linecap="round" fill="none"/>
+    <ellipse cx="23" cy="42" rx="1.800" ry="2.800" fill="#14141a"/>
+    <circle cx="23.600" cy="41.300" r=".6" fill="#fff"/>
+    <ellipse cx="41" cy="42" rx="1.800" ry="2.800" fill="#14141a"/>
+    <circle cx="41.600" cy="41.300" r=".6" fill="#fff"/>
+    <path d="M18.500 35.500H27.500V40.300H18.500zM36.500 35.500H45.500V40.300H36.500z" fill="#3b3b47"/>
+    <path d="M18.500 40.300H27.500M36.500 40.300H45.500" stroke="#14141a" stroke-width="1.300" fill="none"/>
+    <path d="M17.500 33.500Q22.500 32 28.500 35.200M36 32.500Q41.500 28 46.500 31.500" stroke="#0a0a0e" stroke-width="2.200" stroke-linecap="round" fill="none"/>
     <path d="M29.500 47h5l-2.500 3z" fill="#e8a0a8"/>
-    <!-- lopsided smirk -->
-    <path d="M32 50v2M32 52c-1.500 1-3 1-4.500-.5M32 52c2 1.500 4.500 1 6.500-2" fill="none" stroke="#e8e8ee" stroke-width="1.200" stroke-linecap="round"/>
+    <!-- flat, unimpressed mouth -->
+    <path d="M32 50v2M32 52c-1.500 1-3 1-4.500-.5M32 52c2 1.200 4 1 6-1" fill="none" stroke="#e8e8ee" stroke-width="1.200" stroke-linecap="round"/>
     <path d="M19 48 7 46M19 51 8 54M45 48 57 46M45 51 56 54" stroke="#e8e8ee" stroke-width="1" stroke-linecap="round" fill="none"/>
+  </g>
+  <!-- drooping pipe in one piece (stem and bowl share one outline), hanging from the corner of the lips, with smoke rising as musical notes -->
+  <g stroke="#14141a" stroke-width=".8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M23.500 43.200 13 46.200 12.600 41.400H6.200L6.600 48.200C6.800 50 9 50.400 11 49.600L13.500 48.500 23.500 44.800Z" fill="#7a4a24" stroke-width="1"/>
+    <path d="M9.500 40.500C12.500 37.500 6.500 35.500 8.500 32" fill="none" stroke="#e8e8ee" stroke-width="1.400"/>
+    <!-- a single quaver, then a pair of beamed quavers -->
+    <ellipse cx="6" cy="26" rx="2.300" ry="1.700" transform="rotate(-20 6 26)" fill="#f2f2f6"/>
+    <path d="M8 25.500V18.500Q10.500 19 10.500 22" fill="none" stroke-width="1.300"/>
+    <ellipse cx="11" cy="12.500" rx="2.200" ry="1.600" transform="rotate(-20 11 12.500)" fill="#f2f2f6"/>
+    <ellipse cx="18.500" cy="10" rx="2.200" ry="1.600" transform="rotate(-20 18.500 10)" fill="#f2f2f6"/>
+    <path d="M13 12V4.500L20.500 2V9.500" fill="none" stroke-width="1.300"/>
+    <path d="M13 6 20.500 3.500" fill="none" stroke-width="1.800"/>
   </g>
   <!-- paw strumming the strings, in front of the guitar -->
   <path d="M27 57 40 51" stroke="#14141a" stroke-width="7" stroke-linecap="round"/>

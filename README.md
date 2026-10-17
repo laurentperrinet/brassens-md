@@ -1,3 +1,5 @@
+<img src="favicon.svg" align="right" width="96" alt="A cat in front of a guitar, smoking a pipe">
+
 # brassens-md: Toutes les partitions de Brassens en fichiers markdowns
 
 
