@@ -13,10 +13,10 @@ Toutes les partitions de Brassens en un fichier markdown
 | Path | Role |
 |------|------|
 | `songs/{album nn}/_album.md` | album header (`# 1) TITLE`) — **source** |
-| `songs/{album nn}/{nn}_{slug}.md` | one song (`## TITLE`, `c1:` chord lines, `l1:` lyric lines) — **source** |
+| `songs/{album nn}/{nn}_{slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `build.py` | assembles the sources into `build/` (git-ignored) and, with `--render`, renders HTML with `musicmd` |
 | `docs/` | generated HTML and `index.md` (versioned, served by GitHub Pages) — **never edit by hand** |
-| `tools/` | `strip_tags.py` (lightens the HTML), `split_albums.py` (one-off migration) |
+| `tools/` | `strip_tags.py` (lightens the HTML, called by `build.py --render`) |
 
 ```
 make assemble   # sources -> build/*.md and docs/index.md (no Node.js needed)
