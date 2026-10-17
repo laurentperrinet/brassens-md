@@ -29,6 +29,9 @@
 
 
 
+Pont : [D] [Bm7] [G] [A7] [D] [Bm7] [E7] [A] [D] [Bm7] [G] [A7] [D] [Bm7]
+
+
 [Am]L'implacable en[Am+]fant, Preste et rele[Am6]vant, Ses [G7]jupes,
 
 [Am]La rose au cha[Am+]peau, Conduit son trou[Am6]peau, De [G7]dupes[C] !

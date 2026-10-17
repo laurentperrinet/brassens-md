@@ -1,5 +1,7 @@
 ## Stances à un cambrioleur
 
+Intro : [Am]
+
 
 [Dm]Prince des monte-en-l'air et de la cambriole,[Fdim] Toi qui eus le bon goût de choisir ma maison[G#dim]
 

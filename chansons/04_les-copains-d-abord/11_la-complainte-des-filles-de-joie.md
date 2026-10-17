@@ -1,5 +1,7 @@
 ## La complainte des filles de joie
 
+Intro : [Am] [G] [F] [E7] [Am] [G] [F] [E7]
+
 
 Bien [Bm]que ces vaches de bourgeois, Bien [G]que ces vaches [F#]de bourgeois
 

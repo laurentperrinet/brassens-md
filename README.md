@@ -26,7 +26,7 @@ Structure du premier site, pour qui voudrait comparer ou importer :
 | `docs/` | generated HTML pages and `index.html` (git-ignored, **never edit by hand**) |
 | `.github/workflows/pages.yml` | GitHub Actions workflow: builds `docs/` on the server and deploys it with GitHub Pages |
 
-A song may end with a `### Notes` line followed by free comments, links or bullet items (` * ...`), up to the next `##` title. Chords are not interpreted there, and the rendered page keeps the section collapsed under the score (triangle "Notes"), and adds a "Notes ▸" link on the right of the song title that opens it. A block between two ```` ``` ```` lines is kept as is, in a monospace font (to write a tablature, spaces matter).
+A song may end with a `### Notes` line followed by free comments, links or bullet items (` * ...`), up to the next `##` title. Chords are not interpreted there, and the rendered page keeps the section collapsed under the score (triangle "Notes"), and adds a "Notes ▸" link on the right of the song title that opens it. A block between two ```` ``` ```` lines is kept as is, in a monospace font (to write a tablature, spaces matter); it can also sit between two stanzas of the lyrics, where the tablature is played, and then spans the whole page width.
 
 Favourites: every song title in the HTML pages has a star (or press `f` for the song under the top bar). The list is stored in the browser (`localStorage`, one list per browser and device, no synchronisation) and shown as the "Favoris" album on `docs/favoris.html`, which is filled in from the anthology page when it loads. It therefore needs the site to be served over http(s); opened as a `file://` page, it only shows a message.
 

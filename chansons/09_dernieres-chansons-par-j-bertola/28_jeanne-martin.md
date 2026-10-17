@@ -1,7 +1,7 @@
 ## Jeanne Martin
 
 
-Intro : Mim La7 Ré Si7 Mi7 La7 Ré Fa#7
+Intro : [Em] [A7] [D] [B7] [E7] [A7] [D] [F#7]
 
 
 La petite presqu'île où ja[F#7]dis bien tranquille moi [Bm]je suis né na[F#7]tif

@@ -1,5 +1,7 @@
 ## Le temps ne fait rien à l'affaire
 
+Intro : [Am] [G] [F] [E] (4 fois)
+
 
 [Am]Quand ils sont tout [G]neufs, qu'ils sortent de [F]l'œuf, [E]du co[Am]con
 

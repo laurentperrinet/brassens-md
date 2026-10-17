@@ -1,7 +1,7 @@
 ## La femme d'Hector
 
 
-Intro : Ré La7 Ré La7
+Intro : [D] [A7] [D] [A7]
 
 
 [D]En notre tour de Ba[A7]bel, Laquelle [D]est la plus [A7]belle

@@ -1,5 +1,7 @@
 ## Le vin
 
+Intro : [Bm] [C] [F#7] [Bm]
+
 
 A[Bm]vant de chanter, Ma vie, de faire des, Ha[C]ran[F#7]gues
 

@@ -1,5 +1,7 @@
 ## Le temps passé
 
+Intro : [B]
+
 
 [F#7]Dans les comptes d'apothi[B]caire, [E7]Vingt ans, c'est une somme de bo[A]nheur
 

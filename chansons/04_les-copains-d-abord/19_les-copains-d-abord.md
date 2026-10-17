@@ -1,5 +1,7 @@
 ## Les copains d'abord
 
+Intro : [F] [G7] [Bb] [A7] [Dm] [G7] [C7] [F] [A7]
+
 Non ce n'é[D]tait pas le radeau, De la méduse ce bateau,
 
 Qu'on se le [E7]dis' au fond des ports, Dise au fond des ports
@@ -52,6 +54,9 @@ Quand l'un d'entre [E7]eux manquait à bord, C'est qu'il était mort
 Oui mais ja[G]mais au grand jamais, Son trou dans [F#7]l'eau n'se refermait
 
 Cent ans a[Bm]près coquin de [E7]sort, Il man[A7]quait en[D]core
+
+
+Pont : [F] [G7] [Bb] [A7] [Dm] [G7] [C7] [F] [A7]
 
 
 Des bateaux j'en ai pris beaucoup, Mais le seul qui ait tenu le coup

@@ -1,7 +1,7 @@
 ## Histoire de faussaire
 
 
-Intro : Sol Solm Fa#7 Sim Mi7 La7 Ré Sol La7
+Intro : [G] [Gm] [F#7] [Bm] [E7] [A7] [D] [G] [A7]
 
 
 Se décou[D]pant sur champ d'azur, La ferme é[F#7]tait fausse bien sûr,[Bm]

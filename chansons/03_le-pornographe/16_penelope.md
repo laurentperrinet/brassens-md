@@ -1,83 +1,133 @@
 ## Pénélope
 
-
-[D]Toi l'épouse mo[Bm]dèle, [G]le grillon du fo[A7]yer,[D]
-
-Toi qui n'as point d'ac[Am]crocs dans ta [B7]robe de mariée,[Em]
-
-Toi l'in[G]traitable Péné[F#7]lope
-
-[G]En suivant ton pe[A7]tit bo[D]nhomme de bo[Bm]nheur,[F#7]
-
-Ne berces-tu jamais [Bm]en tout bien tout honneur
-
-De [G]jolies pen[A]sées inter[Am]lopes[B7] ?
-
-De [G]jolies pen[F#7]sées inter[Bm]lopes[A7] ?
+Intro : [C] [Am] [F] [G7] [C] [Am] [F] [G7]
 
 
-[D]Derrière tes ri[Bm]deaux, [G]dans ton juste mi[A7]lieu,[D]
+[C]Toi l'épouse mo[Am]dèle, [F]le grillon du fo[G7]yer,[C]
 
-En attendant l're[Am]tour d'un U[B7]lysse de banlieue,[Em]
+Toi qui n'as point d'ac[Gm]crocs dans ta [A7]robe de mariée,[Dm]
 
-Penchée sur [G]tes travaux de [F#7]toile,
+Toi l'in[F]traitable Péné[E7]lope
 
-[G]Les soirs de vague à [A7]l'âme [D]et de mélanco[Bm]lie[F#7]
+[F]En suivant ton pe[G7]tit bo[C]nhomme de bo[Am]nheur,[E7]
 
-N'as-tu jamais en rêve [Bm]au ciel d'un autre lit
+Ne berces-tu jamais [Am]en tout bien tout honneur
 
-Comp[G]té de nou[A]velles é[Am]toiles[B7] ?
+De [F]jolies pen[G]sées inter[Gm]lopes[A7] ?
 
-Comp[G]té de nou[F#7]velles é[Bm]toiles[A7] ?
-
-
-[D]N'as-tu jamais en[Bm]core [G]appelé de tes [A7]vœux[D]
-
-L'amourette qui [Am]passe, qui vous [B7]prend aux cheveux[Em] ?
-
-Qui vous comp[G]te des baga[F#7]telles
-
-[G]Qui met la margue[A7]rite [D]au jardin pota[Bm]ger,[F#7]
-
-La pomme défendue [Bm]aux branches du verger,
-
-Et [G]le désordre [A]à vos den[Am]telles[B7] ?
-
-Et [G]le désordre [F#7]à vos den[Bm]telles[A7] ?
+De [F]jolies pen[E7]sées inter[Am]lopes[G7] ?
 
 
-[D]N'as-tu jamais souhai[Bm]té [G]de revoir en che[A7]min[D]
+```
+Entre chaque couplet (tablature de Beausoleil, dans la tonalité du site) :
 
-Cet ange, ce dé[Am]mon, qui son [B7]arc à la main[Em]
+|-------------|
+|---2---3---5-|
+|-----------0-|
+|---2---4-----|
+|-0---0---0---|
+|-------------|
+```
 
-Décoche [G]des flèches ma[F#7]lignes ?
 
-[G]Qui rend leur chair de [A7]femme
+[C]Derrière tes ri[Am]deaux, [F]dans ton juste mi[G7]lieu,[C]
 
-[D]Aux plus froides sta[Bm]tues,[F#7]
+En attendant l're[Gm]tour d'un U[A7]lysse de banlieue,[Dm]
+
+Penchée sur [F]tes travaux de [E7]toile,
+
+[F]Les soirs de vague à [G7]l'âme [C]et de mélanco[Am]lie[E7]
+
+N'as-tu jamais en rêve [Am]au ciel d'un autre lit
+
+Comp[F]té de nou[G]velles é[Gm]toiles[A7] ?
+
+Comp[F]té de nou[E7]velles é[Am]toiles[G7] ?
+
+
+```
+Entre chaque couplet (tablature de Beausoleil, dans la tonalité du site) :
+
+|-------------|
+|---2---3---5-|
+|-----------0-|
+|---2---4-----|
+|-0---0---0---|
+|-------------|
+```
+
+
+[C]N'as-tu jamais en[Am]core [F]appelé de tes [G7]vœux[C]
+
+L'amourette qui [Gm]passe, qui vous [A7]prend aux cheveux[Dm] ?
+
+Qui vous comp[F]te des baga[E7]telles
+
+[F]Qui met la margue[G7]rite [C]au jardin pota[Am]ger,[E7]
+
+La pomme défendue [Am]aux branches du verger,
+
+Et [F]le désordre [G]à vos den[Gm]telles[A7] ?
+
+Et [F]le désordre [E7]à vos den[Am]telles[G7] ?
+
+
+```
+Entre chaque couplet (tablature de Beausoleil, dans la tonalité du site) :
+
+|-------------|
+|---2---3---5-|
+|-----------0-|
+|---2---4-----|
+|-0---0---0---|
+|-------------|
+```
+
+
+[C]N'as-tu jamais souhai[Am]té [F]de revoir en che[G7]min[C]
+
+Cet ange, ce dé[Gm]mon, qui son [A7]arc à la main[Dm]
+
+Décoche [F]des flèches ma[E7]lignes ?
+
+[F]Qui rend leur chair de [G7]femme
+
+[C]Aux plus froides sta[Am]tues,[E7]
 
 Les bascule de leur socle
 
-Bous[Bm]cule leur vertu,
+Bous[Am]cule leur vertu,
 
-Ar[G]rache leur [A]feuille de [Am]vigne,[B7]
+Ar[F]rache leur [G]feuille de [Gm]vigne,[A7]
 
-Ar[G]rache leur [F#7]feuille de [Bm]vigne.[A7]
+Ar[F]rache leur [E7]feuille de [Am]vigne.[G7]
 
 
-[D]N'ait crainte que le [Bm]ciel, [G]ne t'en tienne ri[A7]gueur,[D]
+```
+Entre chaque couplet (tablature de Beausoleil, dans la tonalité du site) :
 
-Il n'y a vraiment pas [Am]là de quoi [B7]fouetter un cœur[Em]
+|-------------|
+|---2---3---5-|
+|-----------0-|
+|---2---4-----|
+|-0---0---0---|
+|-------------|
+```
 
-Qui bat la [G]campagne et ga[F#7]lope
 
-[G]C'est la faute com[A7]mune [D]et le péché vé[Bm]niel,[F#7]
+[C]N'ait crainte que le [Am]ciel, [F]ne t'en tienne ri[G7]gueur,[C]
 
-C'est la face cachée de [Bm]la lune de miel
+Il n'y a vraiment pas [Gm]là de quoi [A7]fouetter un cœur[Dm]
 
-Et [G]la rançon [A]de Péné[Am]lope...[B7]
+Qui bat la [F]campagne et ga[E7]lope
 
-Et [E]la rançon [A7]de Péné[D]lope.
+[F]C'est la faute com[G7]mune [C]et le péché vé[Am]niel,[E7]
+
+C'est la face cachée de [Am]la lune de miel
+
+Et [F]la rançon [G]de Péné[Gm]lope...[A7]
+
+Et [D]la rançon [G7]de Péné[C]lope.
 
 ### Notes
 

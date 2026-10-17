@@ -1,7 +1,7 @@
 ## Les patriotes
 
 
-Intro : Do Mi7 Lam Sol7
+Intro : [C] [E7] [Am] [G7]
 
 
 Les [C]invalides chez nous, l're[E7]vers de leur médaille, C'est [Am]pas d'être hors d'état courir les [G7]filles, cré nom de [C]nom,

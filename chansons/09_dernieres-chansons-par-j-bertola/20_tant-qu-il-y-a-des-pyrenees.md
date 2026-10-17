@@ -1,5 +1,7 @@
 ## Tant qu'il y a des Pyrénées
 
+Intro : [Em] [C] [F#] [B7] (4 fois)
+
 
 [Em]Frapper le [C]gros Mus[F#]soli[B7]ni, [Em]Même avec [C]un ma[F#]caro[B7]ni,
 

@@ -4,7 +4,7 @@
 La5 : 003221, Mi5 : 022110
 
 
-Intro : La La5 Ré
+Intro : [A] [A5] [D]
 
 
 Mar[A]quise, si mon visage, A quel[A5+]ques traits un peu [D]vieux,[B7]

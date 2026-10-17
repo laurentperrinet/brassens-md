@@ -4,7 +4,7 @@
 (Le rythme est un peu inhabituel, mais il vaut la peine de s'y attarder)
 
 
-intro : Min Sim en alternance
+Intro : [Em] [Bm] en alternance
 
 
 [Em]A l'école où nous [Bm]avons appris l'[Em]A B [Bm]C, La [Em]maîtresse avait [Bm]des méthodes [A7]avan[D7]cées.

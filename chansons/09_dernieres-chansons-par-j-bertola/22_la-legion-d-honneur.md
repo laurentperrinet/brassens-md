@@ -1,7 +1,7 @@
 ## La légion d'honneur
 
 
-intro : Lam Do Mi
+Intro : [Am] [C] [E]
 
 
 Tous les Brum[Am]mel, les dan[C]dys, les gan[E]dins, il les con[Am]sidérait [C]avec dé[E]dain

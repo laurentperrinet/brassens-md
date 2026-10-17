@@ -9,7 +9,7 @@ Accepted input, which is all the song sources use:
      * valse                            -> bullet list
     *Refrain :*                         -> <em>
     ### Notes                           -> collapsed <details> up to the next `#` / `##` title
-    ```  ...  ```                       -> in the notes only: a monospace <pre> block (a tablature)
+    ```  ...  ```                       -> a monospace <pre> block (a tablature), in the lyrics or in the notes
 
 The `### Notes` section closes a song: free comments and links (no chords, no stanzas),
 hidden until the reader clicks on "Notes" (a link on the right of the song title, or the
@@ -32,7 +32,7 @@ EMPHASE = re.compile(r'\*([^*]+)\*')
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
-CLOTURE = '```'  # opens and closes a monospace block inside the notes
+CLOTURE = '```'  # opens and closes a monospace block (a tablature), in the lyrics or in the notes
 ARTICLE = re.compile(r"^(?:l['’]|d['’]|(?:le|la|les|un|une|des|du)\s)", re.IGNORECASE)  # ignored when filing a title
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
@@ -49,7 +49,7 @@ rt { font-size: 0.8em; line-height: 1; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
 .notes p, .notes ul { margin: 0.4em 0; }
-.notes pre { margin: 0.8em 0; overflow-x: auto; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.85em; line-height: 1.25; }
+pre.tab { margin: 0.8em 0; overflow-x: auto; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.85em; line-height: 1.25; }
 .video iframe { width: min(100%, calc(70vh * 16 / 9)); aspect-ratio: 16 / 9; border: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
@@ -111,7 +111,7 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must no
 }
 @media (pointer: coarse) and (orientation: landscape) {
   main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
-  main > h1, main > h2, main > hr, main > ul, main > nav, main > .video, main > .notes { column-span: all; }
+  main > h1, main > h2, main > hr, main > ul, main > nav, main > .video, main > .notes, main > pre.tab { column-span: all; }
 }
 """
 
@@ -501,12 +501,12 @@ def rendre_corps(lignes):
     vides = 0      # consecutive blank lines seen
     sauter = 0     # number of lines already consumed as part of a header block
     notes = False  # inside a `### Notes` section
-    bloc = None    # lines (HTML-escaped) of the monospace block being collected in the notes
+    bloc = None    # lines (HTML-escaped) of the monospace block being collected
 
     def fermer_bloc():
         nonlocal bloc
         if bloc is not None:
-            sortie.append('<pre>' + '\n'.join(bloc) + '</pre>')
+            sortie.append('<pre class="tab">' + '\n'.join(bloc) + '</pre>')
             bloc = None
 
     def fermer_notes():
@@ -550,6 +550,11 @@ def rendre_corps(lignes):
                 sortie.append(f'<ul><li>{en_note(ligne.lstrip()[2:])}</li></ul>')
             elif ligne:
                 sortie.append(f'<p>{en_note(ligne)}</p>')
+        elif ligne == CLOTURE:
+            # a tablature between two stanzas: it breaks the stanza being collected
+            fermer_strophe()
+            bloc = []
+            vides = 0
         elif ligne == '---':
             fermer_strophe()
             sortie.append('<hr>')

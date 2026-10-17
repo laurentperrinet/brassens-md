@@ -1,7 +1,7 @@
 ## Marinette
 
 
-Intro : Ré Ré#dim Mim7 La7 (2 fois) Ré Ré#dim Mim7
+Intro : [D] [D#dim] [Em7] [A7] (2 fois) [D] [D#dim] [Em7]
 
 
 [A7]Quand [D]j'ai couru chanter ma p'tite chanson pour Marinette, La belle, la traîtresse était allée à l'opé[D7]ra

@@ -1,7 +1,7 @@
 ## La mauvaise herbe
 
 
-Intro : Ré Sim Mim La7 Ré Sim Mim La7
+Intro : [D] [Bm] [Em] [A7] [D] [Bm] [Em] [A7]
 
 
 Quand [D]jour de [Em]gloire est [A7]arrivé,[D] Comme [Bm]tous les au[Em]tres é[A7]taient crevés,[D]

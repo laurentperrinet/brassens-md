@@ -1,5 +1,7 @@
 ## Cupidon s'en fout
 
+Intro : [Am] [F] [G7] [C] [D] [E7] [Am] (2 fois)
+
 
 Pour chan[Am]ger en amour notre amourette, Il s'en [C]serait pas fallu de beau[D7]coup
 

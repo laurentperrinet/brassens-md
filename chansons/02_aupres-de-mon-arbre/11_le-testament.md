@@ -1,60 +1,62 @@
 ## Le testament
 
-
-[A]Je serai triste comme un saule,[D] Quand le Dieu [E7]qui partout me [A]suit
-
-Me dira, la main sur l'é[A5+]paule[D] : « Va-t'en voir [E7]là-haut si j'y [A]suis »
-
-[D]Alors du ciel et [A]de la terre, Il me fau[F#m]dra faire mon [C#7]deuil[E7]
-
-[A]Est-il encore de[D]bout le [C#7]chêne,[F#m] Ou le sa[E7]pin de mon cer[A]cueil[E7] ?
-
-[A][F#m][C#7]Est-il encore de[D]bout le [C#7]chêne,[F#m] Ou le sa[E7]pin de mon cer[A]cueil ?
+Intro : [C] [C5+] [Am] [C5+]
 
 
-[A]S'il faut aller au cimetière,[D] J'prendrai le [E7]chemin le plus [A]long
+[C]Je serai triste comme un saule,[F] Quand le Dieu [G7]qui partout me [C]suit
 
-J'ferai la tombe buisson[A5+]nière,[D] J'quitterai la [E7]vie à recu[A]lons
+Me dira, la main sur l'é[C5+]paule[F] : « Va-t'en voir [G7]là-haut si j'y [C]suis »
 
-[D]Tant pis si les croque-[A]morts me grondent, Tant pis s'ils [F#m]me croient fou à [C#7]lier[E7]
+[F]Alors du ciel et [C]de la terre, Il me fau[Am]dra faire mon [E7]deuil[G7]
 
-[A]Je veux partir pour [D]l'autre [C#7]monde,[F#m] Par le che[E7]min des éco[A]liers.[E7] (bis)
+[C]Est-il encore de[F]bout le [E7]chêne,[Am] Ou le sa[G7]pin de mon cer[C]cueil[G7] ?
 
-
-[A]Avant d'aller conter fleurette,[D] Aux belles [E7]âmes des dam[A]nés
-
-Je rêve d'encore une [A5+]amourette,[D] Je rêve d'en[E7]core m'enjupon[A]ner
-
-[D]Encore une fois di[A]re : « Je t'aime », Encore une [F#m]fois perdre le [C#7]nord[E7]
-
-[A]En effeuillant le [D]chrysan[C#7]thème,[F#m] Qui est la mar[E7]guerite des [A]morts.[E7] (bis)
+[C][Am][E7]Est-il encore de[F]bout le [E7]chêne,[Am] Ou le sa[G7]pin de mon cer[C]cueil ?
 
 
-[C]Dieu veuille que ma veuve s'alarme,[F] En enter[G]rant son compa[C]gnon
+[C]S'il faut aller au cimetière,[F] J'prendrai le [G7]chemin le plus [C]long
 
-Et qu'pour lui faire verser des [C7]larmes,[F] Il n'y ait [G]pas besoin d'oi[C]gnons
+J'ferai la tombe buisson[C5+]nière,[F] J'quitterai la [G7]vie à recu[C]lons
 
-[F]Qu'elle prenne en se[C]condes noces,[Am] Un époux de mon aca[E7]bit.[G7]
+[F]Tant pis si les croque-[C]morts me grondent, Tant pis s'ils [Am]me croient fou à [E7]lier[G7]
 
-[C]Il pourra profi[F]ter d'mes [E7]bottes,[Am] Et d'mes pan[G7]toufles et d'mes ha[C]bits.[G7] ([C]bis)
-
-
-[C]Qu'il boive mon vin qu'il aime ma femme,[F] Qu'il fume ma [G]pipe et mon ta[C]bac
-
-Mais que jamais, mort de mon [C7]âme, [F]Jamais il [G]ne fouette mes c[C]hats
-
-[F]Quoique je n'aie pas [C]un atome,[Am] Une ombre de méchance[E7]té,[G7]
-
-[C]S'il fouette mes chats, y'a [F]un fan[E7]tôme,[Am] Qui viendra [G7]le persécu[C]ter.[G7] (bis)
+[C]Je veux partir pour [F]l'autre [E7]monde,[Am] Par le che[G7]min des éco[C]liers.[G7] (bis)
 
 
-[C]Ici gît une feuille morte,[F] Ici fi[G]nit mon testa[C]ment
+[C]Avant d'aller conter fleurette,[F] Aux belles [G7]âmes des dam[C]nés
 
-On a marqué dessus ma [C7]porte[F] : « Fermé pour [G]cause d'enterre[C]ment »
+Je rêve d'encore une [C5+]amourette,[F] Je rêve d'en[G7]core m'enjupon[C]ner
 
-[F]J'ai quitté la vie [C]sans rancune,[Am] J'aurai plus jamais mal aux [E7]dents[G7]
+[F]Encore une fois di[C]re : « Je t'aime », Encore une [Am]fois perdre le [E7]nord[G7]
 
-[C]Me v'là dans la fos[F]se com[E7]mune,[Am] La fosse [G7]commune du [C]temps.[G7] (bis)
+[C]En effeuillant le [F]chrysan[E7]thème,[Am] Qui est la mar[G7]guerite des [C]morts.[G7] (bis)
+
+
+[Eb]Dieu veuille que ma veuve s'alarme,[Ab] En enter[Bb]rant son compa[Eb]gnon
+
+Et qu'pour lui faire verser des [Eb7]larmes,[Ab] Il n'y ait [Bb]pas besoin d'oi[Eb]gnons
+
+[Ab]Qu'elle prenne en se[Eb]condes noces,[Cm] Un époux de mon aca[G7]bit.[Bb7]
+
+[Eb]Il pourra profi[Ab]ter d'mes [G7]bottes,[Cm] Et d'mes pan[Bb7]toufles et d'mes ha[Eb]bits.[Bb7] ([Eb]bis)
+
+
+[Eb]Qu'il boive mon vin qu'il aime ma femme,[Ab] Qu'il fume ma [Bb]pipe et mon ta[Eb]bac
+
+Mais que jamais, mort de mon [Eb7]âme, [Ab]Jamais il [Bb]ne fouette mes c[Eb]hats
+
+[Ab]Quoique je n'aie pas [Eb]un atome,[Cm] Une ombre de méchance[G7]té,[Bb7]
+
+[Eb]S'il fouette mes chats, y'a [Ab]un fan[G7]tôme,[Cm] Qui viendra [Bb7]le persécu[Eb]ter.[Bb7] (bis)
+
+
+[Eb]Ici gît une feuille morte,[Ab] Ici fi[Bb]nit mon testa[Eb]ment
+
+On a marqué dessus ma [Eb7]porte[Ab] : « Fermé pour [Bb]cause d'enterre[Eb]ment »
+
+[Ab]J'ai quitté la vie [Eb]sans rancune,[Cm] J'aurai plus jamais mal aux [G7]dents[Bb7]
+
+[Eb]Me v'là dans la fos[Ab]se com[G7]mune,[Cm] La fosse [Bb7]commune du [Eb]temps.[Bb7] (bis)
 
 ### Notes
 

@@ -1,5 +1,7 @@
 ## Élégie à un rat de cave
 
+Intro : [F] [F7] [Bb] [C7]
+
 
 [F]Personne [F7]n'aurait cru ce [Bb6]cave, Prophéti[C7]sant que par ma[F]lheur[C7]
 

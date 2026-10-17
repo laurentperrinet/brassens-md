@@ -1,5 +1,7 @@
 ## La rose, la bouteille et la poignée de main
 
+Intro : [Am]
+
 
 [F]Cette rose avait [E7]glissé de, La [A7]gerbe qu'un hé[D7]ros gâteux,[F] Portait au [G7]monument aux [C]Morts.
 

@@ -1,7 +1,7 @@
 ## Honte à qui peut chanter
 
 
-intro : Mim Fa#7 Si7 Mim Fa#7 Si7
+Intro : [Em] [F#7] [B7] [Em] [F#7] [B7]
 
 
 Honte [Em]à cet effronté qui [F#7]peut chanter pen[B7]dant que Rome [Em]brûle, [D7]elle brûle tout l' t[G]emps...[B7]
