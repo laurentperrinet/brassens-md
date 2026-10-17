@@ -46,7 +46,10 @@ def assembler_album(dossier_album):
     entete = (dossier_album / '_album.md').read_text(encoding='utf-8')
     titre = re.search(r'^# (.+)$', entete, re.M).group(1)
     fichiers = sorted(p for p in dossier_album.glob('*.md') if not p.name.startswith('_'))
-    texte = entete + ''.join(p.read_text(encoding='utf-8') for p in fichiers)
+    # each song is preceded by its path, so the rendered title can link to the file on GitHub
+    texte = entete + ''.join(
+        f'<!-- source: {p.relative_to(RACINE).as_posix()} -->\n' + p.read_text(encoding='utf-8')
+        for p in fichiers)
     return int(dossier_album.name.split('_')[0]), titre, texte
 
 

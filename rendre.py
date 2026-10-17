@@ -8,6 +8,7 @@ Accepted input, which is all the song sources use:
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
     *Refrain :*                         -> <em>
+    <!-- source: chansons/.../x.md -->   -> (written by assembler.py) gives the next song title an "éditer" link to GitHub
     ### Notes                           -> collapsed <details> up to the next `#` / `##` title
     ```  ...  ```                       -> a monospace <pre> block (a tablature), in the lyrics or in the notes
 
@@ -34,6 +35,8 @@ ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
 CLOTURE = '```'  # opens and closes a monospace block (a tablature), in the lyrics or in the notes
 ARTICLE = re.compile(r"^(?:l['’]|d['’]|(?:le|la|les|un|une|des|du)\s)", re.IGNORECASE)  # ignored when filing a title
+SOURCE = re.compile(r'^<!-- source: (.+) -->$')  # path of the song file, written by `assembler.py`
+EDITION = 'https://github.com/laurentperrinet/brassens-md/edit/master/{}'  # GitHub editor of a source file
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
@@ -60,6 +63,8 @@ h1, h2 { scroll-margin-top: 3.5em; }
 h2 { display: flex; align-items: baseline; gap: 0.4em; }
 .notes-lien { font: inherit; font-size: 0.6em; margin-left: auto; padding: 0 0.3em; border: 0; background: none;
               color: LinkText; text-decoration: underline; cursor: pointer; white-space: nowrap; }
+.editer { font-size: 0.6em; margin-left: auto; padding: 0 0.3em; white-space: nowrap; }
+.editer + .notes-lien { margin-left: 0; }
 .bar { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 0.6em;
        padding: 0.4em 0; background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent);
        touch-action: none; }
@@ -207,6 +212,16 @@ SCRIPT_FAVORIS = """\
     mark(button, read().indexOf(title) >= 0);
     button.addEventListener('click', function () { toggle(title); });
     h2.appendChild(button);
+
+    // Link to the source file of the song on GitHub (set by the renderer as data-fichier).
+    var source = h2.getAttribute('data-fichier');
+    if (source) {
+      var edit = document.createElement('a');
+      edit.className = 'editer'; edit.href = source; edit.textContent = 'éditer';
+      edit.target = '_blank'; edit.rel = 'noopener';
+      edit.title = 'Éditer la source de cette chanson sur GitHub';
+      h2.appendChild(edit);
+    }
 
     // A song with notes gets a link on the right of its title that opens them, where they are:
     // after the score. The "Notes" summary below the score keeps working, and both stay in step.
@@ -502,6 +517,7 @@ def rendre_corps(lignes):
     sauter = 0     # number of lines already consumed as part of a header block
     notes = False  # inside a `### Notes` section
     bloc = None    # lines (HTML-escaped) of the monospace block being collected
+    fichier = None  # path of the source file of the next song, from its `<!-- source: -->` marker
 
     def fermer_bloc():
         nonlocal bloc
@@ -531,6 +547,9 @@ def rendre_corps(lignes):
                 fermer_bloc()
             else:
                 bloc.append(html.escape(ligne, quote=False))
+        elif SOURCE.match(ligne):
+            # invisible marker: remembered for the next song title
+            fichier = SOURCE.match(ligne).group(1)
         elif (ligne == '---' and i + 2 < len(lignes) and ENTETE.match(lignes[i + 1])
               and lignes[i + 2].rstrip() == '---'):
             # `---` / `key: value` / `---` header; any other `---` is a stanza separator
@@ -574,7 +593,9 @@ def rendre_corps(lignes):
                 chanson += 1
                 ancre = f'a{album}-s{chanson}'
                 table.append((ancre, ligne[3:], 2))
-                sortie.append(f'<h2 id="{ancre}">{en_ligne(ligne[3:])}</h2>')
+                lien = f' data-fichier="{html.escape(EDITION.format(quote(fichier)))}"' if fichier else ''
+                fichier = None
+                sortie.append(f'<h2 id="{ancre}"{lien}>{en_ligne(ligne[3:])}</h2>')
             elif ligne.startswith('# '):
                 fermer_strophe()
                 numero = re.match(r'(\d+)\)', ligne[2:])
