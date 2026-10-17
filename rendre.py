@@ -43,7 +43,8 @@ body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; line-height: 2.1; }
-ruby { ruby-align: start; ruby-position: over; }
+ruby { ruby-align: start; ruby-position: over;
+       border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
