@@ -1,7 +1,4 @@
 ## UNE JOLIE FLEUR
----
-youTubeId: 3DlUIdj4FqRjs
----
 
 [D]Jamais sur terre il n'y [A7]eut d'amoureux, Plus aveugles que moi dans tous les [D]âges
 
