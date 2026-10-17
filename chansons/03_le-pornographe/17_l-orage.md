@@ -1,67 +1,69 @@
 ## L'orage
 
-[Am]... ...
+... ...
 
 Parlez-[Dm]moi de la pluie et non pas du beau temps, Le beau [G7]temps me dégoûte, me fait grincer les dents
 
 [C]Le bel azur me met en rage, Car le [E]plus bel amour qui m'fut donné sur terre
 
-Je l'[Am]dois au mauvais temps, je l'[B7]dois à Jup[E]iter, Il me [Am]tomba d'un ciel d'or[F]age [E] [F] [E] [Am]
+Je l'dois [Am]au mauvais temps, je l'[B7]dois à Jupi[E]ter,[Am] Il me tom[F]ba d'un [G]ciel d'o[F]ra[Am]ge
 
 
 
-Par un soir de novembre, à cheval sur les toits, Un vrai tonnerre de Brest, avec des cris d'putois
+Par un [Dm]soir de novembre, à cheval sur les toits, Un vrai [G7]tonnerre de Brest, avec des cris d'putois
 
-Allumait ses feux d'artifice, Bondissant de sa couche en costume de nuit
+[C]Allumait ses feux d'artifice, Bondis[E]sant de sa couche en costume de nuit
 
-Ma voisine affolée vint cogner à mon huis, En réclamant mes bons offices
-
-
-
-« Je suis seule et j'ai peur, ouvrez-moi, par pitié, Mon époux vient d'partir faire son dur métier
-
-Pauvre malheureux mercenaire, Contraint d'coucher dehors quand il fait mauvais temps
-
-Pour la bonne raison qu'il est représentant, D'une maison de paratonnerres »
+Ma voi[Am]sine affolée vint [B7]cogner à mon [E]huis,[Am] En récla[F]mant mes [G]bons of[F]fi[Am]ces
 
 
 
-En bénissant le nom de Benjamin Franklin, Je l'ai mise en lieu sûr entre mes bras câlins
+« Je suis [Dm]seule et j'ai peur, ouvrez-moi, par pitié, Mon é[G7]poux vient d'partir faire son dur métier
 
-Et puis l'amour a fait le reste, Toi qui sèmes des paratonnerres à foison
+[C]Pauvre malheureux mercenaire, Contraint [E]d'coucher dehors quand il fait mauvais temps
 
-Que n'en as-tu planté sur ta propre maison, Erreur on ne peut plus funeste
-
-
-
-Quand Jupiter alla se faire entendre ailleurs, La belle, ayant enfin conjuré sa frayeur
-
-Et recouvré tout son courage, Rentra dans ses foyers faire sécher son mari
-
-En m'donnant rendez-vous les jours d'intempéries, Rendez-vous au prochain orage
+Pour la [Am]bonne raison qu'il [B7]est représen[E]tant,[Am] D'une maison [F]de pa[G]raton[F]ner[Am]res »
 
 
 
-A partir de ce jour j'n'ai plus baissé les yeux, J'ai consacré mon temps à contempler les cieux
+En bé[Dm]nissant le nom de Benjamin Franklin, Je l'ai [G7]mise en lieu sûr entre mes bras câlins
 
-A regarder passer les nues, A guetter les stratus, à lorgner les nimbus
+[C]Et puis l'amour a fait le reste, Toi qui [E]sèmes des paratonnerres à foison
 
-A faire les yeux doux aux moindres cumulus, Mais elle n'est pas revenue
-
-
-
-Son bonhomme de mari avait tant fait d'affaires, Tant vendu ce soir-là de petits bouts de fer
-
-Qu'il était dev'nu millionnaire, Et l'avait emmenée vers des cieux toujours bleus
-
-Des pays imbéciles où jamais il ne pleut, Où l'on ne sait rien du tonnerre
+Que n'en [Am]as-tu planté sur [B7]ta propre mai[E]son,[Am] Erreur on [F]ne peut [G]plus fu[F]nes[Am]te
 
 
 
-Dieu fasse que ma complainte aille, tambour battant, Lui parler de la pluie, lui parler du gros temps
+Quand Ju[Dm]piter alla se faire entendre ailleurs, La belle, [G7]ayant enfin conjuré sa frayeur
 
-Auxquels on a t'nu tête ensemble, Lui conter qu'un certain coup de foudre assassin
+[C]Et recouvré tout son courage, Rentra [E]dans ses foyers faire sécher son mari
 
-Dans le mille de mon cœur a laissé le dessin, D'une petite fleur qui lui ressemble
+En m'don[Am]nant rendez-vous les [B7]jours d'intempé[E]rie[Am]s, Rendez-vous [F]au pro[G]chain o[F]ra[Am]ge
 
 
+
+A par[Dm]tir de ce jour j'n'ai plus baissé les yeux, J'ai con[G7]sacré mon temps à contempler les cieux
+
+[C]À regarder passer les nues, À guet[E]ter les stratus, à lorgner les nimbus
+
+À fair[Am]e les yeux doux aux [B7]moindres cumu[E]lus,[Am] Mais elle [F]n'est pas [G]reve[F]nu[Am]e
+
+
+
+Son bon[Dm]homme de mari avait tant fait d'affaires, Tant ven[G7]du ce soir-là de petits bouts de fer
+
+[C]Qu'il était dev'nu millionnaire, Et l'a[E]vait emmenée vers des cieux toujours bleus
+
+Des pa[Am]ys imbéciles où [B7]jamais il ne [E]pleut,[Am] Où l'on ne [F]sait rien [G]du ton[F]ner[Am]re
+
+
+
+Dieu fasse [Dm]que ma complainte aille, tambour battant, Lui par[G7]ler de la pluie, lui parler du gros temps
+
+[C]Auxquels on a t'nu tête ensemble, Lui con[E]ter qu'un certain coup de foudre assassin
+
+Dans le [Am]mille de mon cœur a [B7]laissé le des[E]sin,[Am] D'une petite [F]fleur qui [G]lui res[F]sem[Am]ble[Am]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Orage.php?titre=%28L%27%29+orage

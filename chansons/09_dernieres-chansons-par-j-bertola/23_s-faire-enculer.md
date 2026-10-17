@@ -1,123 +1,124 @@
 ## S'faire enculer
 
 
-La lu[D]ne s'attristai[F#7]t. On comprend sa tristesse [Bm]
+La [D]lune s'attris[F#7]tait. On comprend sa tris[Bm]tesse
 
-On tap[D]ait plus dedans. E[F#7]lle s'demandait quand est-ce [Bm]
+On [D]tapait plus de[F#7]dans. Elle s'demandait quand [Bm]est-ce
 
-[D]Qu'on va s'rappeler de m[E7]'enculer [A7]? [D]
+[D]Qu'on va s'rappe[E7]ler de [A7]m'encu[D]ler ?
 
 
-Dans mon affreux jargon, carence inexplicable,
+Dans [D]mon affreux jar[F#7]gon, carence inexpli[Bm]cable,
 
-Brillait par son absence un des pires vocables
+Bril[D]lait par son ab[F#7]sence un des pires vo[Bm]cables
 
-C'est : « enculé ». Lacune comblée.
+[D]C'est : « encu[E7]lé ». La[A7]cune com[D]blée.
 
 
-Lâcher ce terme bas, Dieu sait ce qu'il m'en coûte,
+Lâ[D]cher ce terme [F#7]bas, Dieu sait ce qu'il m'en [Bm]coûte,
 
-La chose ne me gêne pas mais le mot me dégoûte,
+La [D]chose ne me gêne [F#7]pas mais le mot me dé[Bm]goûte,
 
-J'suis désolé d'dire enculé.
+[D]J'suis déso[E7]lé d'dire [A7]encu[D]lé.
 
 
-Oui mais depuis qu'Adam se fit charmer par Eve
+Oui [D]mais depuis qu'A[F#7]dam se fit charmer par [Bm]Eve
 
-L'éternel féminin nous emmerde et je rêve
+L'é[D]ternel fémi[F#7]nin nous emmerde et je [Bm]rêve
 
-Parfois d'aller m'faire enculer.
+[D]Parfois d'al[E7]ler m'faire [A7]encu[D]ler.
 
 
-Sous les coups de boutoir des ligues féministes
+Sous [D]les coups de bou[F#7]toir des ligues fémi[Bm]nistes
 
-La moitié des messieurs brûle d'être onaniste,
+La [D]moitié des mes[F#7]sieurs brûle d'être ona[Bm]niste,
 
-L'autre d'aller s'faire enculer.
+[D]L'autre d'al[E7]ler s'faire [A7]encu[D]ler.
 
 
-A force d'être en butte au tir des suffragettes
+À [D]force d'être en [F#7]butte au tir des suffra[Bm]gettes
 
-En son for intérieur chacun de nous projette
+En [D]son for inté[F#7]rieur chacun de nous pro[Bm]jette
 
-D'hélas aller s'faire enculer.
+[D]D'hélas al[E7]ler s'faire [A7]encu[D]ler.
 
 
-Quand on veut les trousser, on est un phallocrate,
+Quand [D]on veut les trous[F#7]ser, on est un phallo[Bm]crate,
 
-Quand on ne le veut point, un émule de Socrate,
+Quand [D]on ne le veut [F#7]point, un émule de So[Bm]crate,
 
-Reste d'aller s'faire enculer.
+[D]Reste d'al[E7]ler s'faire [A7]encu[D]ler.
 
 
-Qu'espèrent en coassant des légions de grenouilles ?
+Qu'es[D]pèrent en coas[F#7]sant des légions de gre[Bm]nouilles ?
 
-Que le royaume de France enfin tombe en quenouille,
+Que [D]le royaume de [F#7]France enfin tombe en que[Bm]nouille,
 
-Qu'on coure aller s'faire enculer ?
+[D]Qu'on coure al[E7]ler s'faire [A7]encu[D]ler ?
 
 
-Y a beaux jours que c'est fait devant ces tyrannettes,
+Y a [D]beaux jours que c'est [F#7]fait devant ces tyran[Bm]nettes,
 
-On danse comme des pantins, comme des marionnettes
+On [D]danse comme des pan[F#7]tins, comme des marion[Bm]nettes
 
-Au lieu d'aller s'faire enculer.
+[D]Au lieu d'al[E7]ler s'faire [A7]encu[D]ler.
 
 
-Pompadour, Montespan, La Vallière et j'en passe
+Pom[D]padour, Montes[F#7]pan, La Vallière et j'en [Bm]passe
 
-Talonnèrent le roi qui marchait tête basse
+Ta[D]lonnèrent le [F#7]roi qui marchait tête [Bm]basse
 
-Souhaitant aller s'faire enculer.
+[D]Souhaitant al[E7]ler s'faire [A7]encu[D]ler.
 
 
-A de rares exceptions, nom d'un chien, ce sont elles
+À [D]de rares excep[F#7]tions, nom d'un chien, ce sont [Bm]elles
 
-Qui toujours mine de rien déclenchent la bagatelle ;
+Qui [D]toujours mine de [F#7]rien déclenchent la baga[Bm]telle ;
 
-Il faut aller s'faire enculer.
+[D]Il faut al[E7]ler s'faire [A7]encu[D]ler.
 
 
-Oui la plupart du temps sans aucune équivoque
+Oui [D]la plupart du [F#7]temps sans aucune équi[Bm]voque
 
-En tortillant du cul ces dames nous provoquent,
+En [D]tortillant du [F#7]cul ces dames nous pro[Bm]voquent,
 
-Mieux vaut aller s'faire enculer.
+[D]Mieux vaut al[E7]ler s'faire [A7]encu[D]ler.
 
 
-Fatigué de souffrir leur long réquisitoire
+Fa[D]tigué de souf[F#7]frir leur long réquisi[Bm]toire
 
-Ayant en vain cherché d'autres échappatoires,
+A[D]yant en vain cher[F#7]ché d'autres échappa[Bm]toires,
 
-Je vais aller m'faire enculer.
+[D]Je vais al[E7]ler m'faire [A7]encu[D]ler.
 
 
-D'à partir de ce soir cessant d'croquer la pomme
+D'à [D]partir de ce [F#7]soir cessant d'croquer la [Bm]pomme
 
-J'embarque pour Cythère en passant par Sodome,
+J'em[D]barque pour Cy[F#7]thère en passant par So[Bm]dome,
 
-Afin d'aller m'faire enculer.
+[D]Afin d'al[E7]ler m'faire [A7]encu[D]ler.
 
 
-Afin qu'aucune de vous mesdames n'imagine
+A[D]fin qu'aucune de [F#7]vous mesdames n'ima[Bm]gine
 
-Que j'ai du parti pris, que je suis misogyne,
+Que [D]j'ai du parti [F#7]pris, que je suis miso[Bm]gyne,
 
-Avant d'aller m'faire enculer
+[D]Avant d'al[E7]ler m'faire [A7]encu[D]ler
 
 
-J'avoue publiquement que vous êtes nos égales,
+J'a[D]voue publique[F#7]ment que vous êtes nos é[Bm]gales,
 
-Qu'il faut valider ça dans une formule légale,
+Qu'il [D]faut valider [F#7]ça dans une formule lé[Bm]gale,
 
-J'suis enculé mais régulier.
+[D]J'suis encu[E7]lé mais [A7]régu[D]lier.
 
 
-En vertu d'quel pouvoir, injustes que nous sommes,
+En [D]vertu d'quel pou[F#7]voir, injustes que nous [Bm]sommes,
 
-Vous refuse-t-on les droits que l'on accorde aux hommes,
+Vous [D]refuse-t-on les [F#7]droits que l'on accorde aux [Bm]hommes,
 
-Comme d'aller s'faire enculer.
+[D]Comme d'al[E7]ler s'faire [A7]encu[D]ler.
 
+### Notes
 
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.S.Faire.Enculer.php?titre=S%27faire+enculer

@@ -7,49 +7,50 @@
 intro : Min Sim en alternance
 
 
-[Em]A l'école où no[Bm]us avons appris l'A B C, [Em]La m[Bm]aîtr[Em]esse avait des méthode[Bm]s avancées. [A7] [D7]
+[Em]A l'école où nous [Bm]avons appris l'[Em]A B [Bm]C, La [Em]maîtresse avait [Bm]des méthodes [A7]avan[D7]cées.
 
-[G]Comme il fut doux le temps, bi[Em]en éphémère, hél[Am]as, Où cette b[B7]onne[G] fée régna sur notre c[Em]lasse, (bis) [B7] [Em] [A7] [D7] [G]
-
-
-[Em]Avant elle, nou[Bm]s étions tous des paresse[Em]ux, [Bm]Des [Em]lève-nez, des cancres,[Bm] des crétins crasseu[A7]x. [D7]
-
-[G]En travaillant exclusivement q[Em]ue pour nous, Le[Am]s marchands d'[B7]bonn[G]ets d'âne étaient sur [Em]les genoux, (bis) [B7] [Em] [A7] [D7] [G]
+[G]Comme il fut doux le [Em]temps, bien éphé[Am]mère, hé[B7]las, [G]Où cette bonne [Em]fée régna sur [B7]notre [Em]classe, (bis)
 
 
-[Em]La maîtresse av[Bm]ait des méthodes avancées[Em] : A[Bm]u pr[Em]emier de la classe ell[Bm]e promit un baiser, [A7] [D7]
+[Em]Avant elle, nous [Bm]étions tous des [Em]pares[Bm]seux, Des [Em]lève-nez, des [Bm]cancres, des cré[A7]tins cras[D7]seux.
 
-[G]Un baiser pour de bon, un bais[Em]er libertin, Un [Am]baiser sur la [B7]bouc[G]he, enfin bref, un pat[Em]in, (bis) [B7] [Em] [A7] [D7] [G]
-
-
-[Em]Aux pupitres d'[Bm]alors, quelque chose chan[Em]gea,[Bm] L'é[Em]cole buissonnière n'eu[Bm]t plus jamais un cha[A7]t. [D7]
-
-[G]Et les pauvres marchands de bo[Em]nnets d'âne, cra[Am]c ! Connurent [B7]tout[G] à coup la faillite, l[Em]e krach, (bis) [B7] [Em] [A7] [D7] [G]
+[G]En travaillant ex[Em]clusivement [Am]que pour [B7]nous, [G]Les marchands d'bonnets [Em]d'âne étaient sur [B7]les ge[Em]noux, (bis)
 
 
-[Em]Lorsque le prov[Bm]iseur, à la fin de l'anné[Em]e, N[Bm]ous [Em]lut les résultats, il [Bm]fut bien étonné. [A7] [D7]
+[Em]La maîtresse avait [Bm]des méthodes [Em]avan[Bm]cées : Au [Em]premier de la [Bm]classe elle promit [A7]un bai[D7]ser,
 
-[G]La maîtresse, elle, rougit com[Em]me un coquelicot[Am], Car nous éti[B7]ons [G]tous prix d'excellence[Em] ex aequo, (bis) [B7] [Em] [A7] [D7] [G]
-
-
-[Em]A la récréation[Bm], la bonne fée se mit, En[Em] dev[Bm]oir [Em]de tenir ce qu'elle av[Bm]ait promis. [A7] [D7]
-
-[G]Et comme elle embrassa quarant[Em]e lauréats, Jusq[Am]u'à une heure [B7]indu[G]e la séance dura, (bis[Em]) [B7] [Em] [A7] [D7] [G]
+[G]Un baiser pour de [Em]bon, un baiser [Am]liber[B7]tin, [G]Un baiser sur la [Em]bouche, enfin bref, [B7]un pa[Em]tin, ([A7]bis)
 
 
-[Em]Ce système bien[Bm] sûr ne fut jamais admis,[Em] Par[Bm] l'i[Em]mbécile alors recteur [Bm]d'académie. [A7] [D7]
+[Em]Aux pupitres d'a[Bm]lors, quelque cho[Em]se chan[Bm]gea, L'é[Em]cole buisson[Bm]nière n'eut plus ja[A7]mais un [D7]chat.
 
-[G]De l'école, en dépit de son be[Em]au palmarès, On [Am]chassa pour to[B7]ujou[G]rs notre chère maîtres[Em]se, (bis) [B7] [Em] [A7] [D7] [G]
-
-
-[Em]Le cancre fit a[Bm]lors sa réapparition, Le [Em]fort[Bm] en [Em]thème est redevenu l'e[Bm]xception. [A7] [D7]
-
-[G]A la fin de l'année suivante, [Em]quel fiasco ! No[Am]us étions tous[B7] der[G]niers de la classe ex [Em]aequo, (bis) [B7] [Em] [A7] [D7] [G]
+[G]Et les pauvres mar[Em]chands de bonnets [Am]d'âne, [B7]crac ! [G]Connurent tout à [Em]coup la failli[B7]te, le [Em]krach, (bis)
 
 
-[Em]A l'école où no[Bm]us avons appris l'A B C, [Em]La m[Bm]aîtr[Em]esse avait des méthode[Bm]s avancées. [A7] [D7]
+[Em]Lorsque le provi[Bm]seur, à la fin [Em]de l'an[Bm]née, Nous [Em]lut les résul[Bm]tats, il fut bien [A7]éton[D7]né.
 
-[G]Comme il fut doux le temps bie[Em]n éphémère, héla[Am]s ! Où cette b[B7]onne[G] fée régna sur notre c[Em]lasse, (bis) [B7] [Em] [A7] [D7] [G]
+[G]La maîtresse, elle, rou[Em]git comme un co[Am]queli[B7]cot, [G]Car nous étions tous [Em]prix d'excellence [B7]ex ae[Em]quo, (bis)
 
 
+[Em]A la récréa[Bm]tion, la bonne [Em]fée se [Bm]mit, En [Em]devoir de te[Bm]nir ce qu'elle a[A7]vait pro[D7]mis.
 
+[G]Et comme elle embras[Em]sa quarante [Am]lauré[B7]ats, [G]Jusqu'à une heure in[Em]due la séan[B7]ce du[Em]ra, (bis)
+
+
+[Em]Ce système bien [Bm]sûr ne fut ja[Em]mais ad[Bm]mis, Par [Em]l'imbécile a[Bm]lors recteur d'a[A7]cadé[D7]mie.
+
+[G]De l'école, en dé[Em]pit de son beau [Am]palma[B7]rès, [G]On chassa pour tou[Em]jours notre chè[B7]re maî[Em]tresse, (bis)
+
+
+[Em]Le cancre fit a[Bm]lors sa réap[Em]pari[Bm]tion, Le [Em]fort en thème est [Bm]redevenu [A7]l'excep[D7]tion.
+
+[G]À la fin de l'an[Em]née suivante, [Am]quel fias[B7]co ! [G]Nous étions tous der[Em]niers de la classe [B7]ex ae[Em]quo, (bis)
+
+
+[Em]A l'école où nous [Bm]avons appris l'[Em]A B [Bm]C, La [Em]maîtresse avait [Bm]des méthodes [A7]avan[D7]cées.
+
+[G]Comme il fut doux le [Em]temps bien éphé[Am]mère, hé[B7]las ! [G]Où cette bonne [Em]fée régna sur [B7]notre [Em]classe, (bis)
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Maitresse.D.Ecole.php?titre=%28La%29+ma%C3%AEtresse+d%27%C3%A9cole

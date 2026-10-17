@@ -1,59 +1,60 @@
 ## La ballade des gens qui sont nés quelque part
 
 
-[D]C'est vrai qu'ils sont plaisants tous ces petits v[A]illages, To[D]us [F#7]ces b[Bm]ourgs, ces hameaux, ces lieux-dits, ces cités [G] [A]
+[D]C'est vrai qu'ils sont plaisants tous [A]ces petits vil[D]lages, Tous [Bm]ces bourgs, ces hameaux, ces [G]lieux-dits, ces ci[A]tés
 
-[D]Avec leurs châteaux forts, leurs églises, leur[A]s plages, Ils n[D]'on[F#7]t qu'un s[Bm]eul point faible, et c'est d'être habités [F#] [Bm]
+A[D]vec leurs châteaux forts, leurs [A]églises, leurs [D]pl[F#7]ages, Ils [Bm]n'ont qu'un seul point faible, et [F#]c'est d'être habi[Bm]tés
 
-[G]Et c'est d'être habités par des gens qui regardent,[A] Le re[D]ste avec mé[Bm]pris du haut de leurs remparts [C7]
+Et [G]c'est d'être habités par des gens [A]qui re[D]gardent, Le [Bm]reste avec mépris du haut de leurs rem[C7]parts
 
-[F]La race des chauvins, des porteurs de [Bb]cocardes, Les imbéci[A7]les heure[Bb]ux qui sont nés quelque [F]part [C] [A7]
+[F]La race des chauvins, des [Bb]porteurs de co[A7]cardes, [Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [A7]part
 
-[Bb]Les imbéciles heureux qui[F] sont nés quelque [C]part [F] [A7]
-
-
-Maudits soient ces enfants de leur mère patrie, Empalés une fois pour toutes sur leur clocher
-
-Qui vous montrent leurs tours, leurs musées, leur mairie, Vous font voir du pays natal jusqu'à loucher
-
-Qu'ils sortent de Paris, ou de Rome, ou de Sète, Ou du diable vauvert ou bien de Zanzibar
-
-Ou même de Montcuq, ils s'en flattent, mazette, Les imbéciles heureux qui sont nés quelque part
-
-Les imbéciles heureux qui sont nés quelque part
+[Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [F]part[A7]
 
 
-Le sable dans lequel, douillettes, leurs autruches, Enfouissent la tête, on trouve pas plus fin
+[D]Maudits soient ces enfants de [A]leur mère pa[D]trie, Em[Bm]palés une fois pour [G]toutes sur leur clo[A]cher
 
-Quant à l'air qu'ils emploient pour gonfler leurs baudruches, Leurs bulles de savon, c'est du souffle divin
+Qui [D]vous montrent leurs tours, leurs [A]musées, leur mai[D]rie, Vous [Bm]font voir du pays na[F#]tal jusqu'à lou[Bm]cher
 
-Et petit à petit, les voilà qui se montent, Le cou jusqu'à penser que le crottin fait par
+Qu'ils [G]sortent de Paris, ou de Rome, [A]ou de [D]Sète, Ou [Bm]du diable vauvert ou bien de Zanzi[C7]bar
 
-Leurs chevaux, même en bois, rend jaloux tout le monde, Les imbéciles heureux qui sont nés quelque part
+[F]Ou même de Montcuq, ils [Bb]s'en flattent, ma[A7]zette, [Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [A7]part
 
-Les imbéciles heureux qui sont nés quelque part
-
-
-C'est pas un lieu commun, celui de leur naissance, Ils plaignent de tout cœur les pauvres malchanceux
-
-Les petits maladroits qui n'eurent pas la présence, La présence d'esprit de voir le jour chez eux
-
-Quand sonne le tocsin sur leur bonheur précaire, Contre les étrangers tous plus ou moins barbares
-
-Ils sortent de leur trou pour mourir à la guerre, Les imbéciles heureux qui sont nés quelque part
-
-Les imbéciles heureux qui sont nés quelque part
+[Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [F]part[A7]
 
 
-Mon Dieu, qu'il ferait bon sur la terre des hommes, Si l'on n'y rencontrait cette race incongrue
+[D]Le sable dans lequel, douil[A]lettes, leurs au[D]truches, En[Bm]fouissent la tête, on [G]trouve pas plus [A]fin
 
-Cette race importune et qui partout foisonne, La race des gens du terroir, des gens du cru
+Quant [D]à l'air qu'ils emploient pour [A]gonfler leurs bau[D]druches, Leurs [Bm]bulles de savon, c'est [F#]du souffle di[Bm]vin
 
-Que la vie serait belle en toute circonstance, Si vous n'aviez tiré du néant ces jobards
+Et [G]petit à petit, les voilà [A]qui se [D]montent, Le [Bm]cou jusqu'à penser que le crottin fait [C7]par
 
-Preuve, peut-être bien, de votre inexistence, Les imbéciles heureux qui sont nés quelque part
+[F]Leurs chevaux, même en bois, rend [Bb]jaloux tout le [A7]monde, [Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [A7]part
 
-Les imbéciles heureux qui sont nés quelque part
+[Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [F]part[A7]
 
 
+[D]C'est pas un lieu commun, ce[A]lui de leur nais[D]sance, Ils [Bm]plaignent de tout cœur les [G]pauvres malchan[A]ceux
 
+Les [D]petits maladroits qui [A]n'eurent pas la pré[D]sence, La [Bm]présence d'esprit de [F#]voir le jour chez [Bm]eux
+
+Quand [G]sonne le tocsin sur leur bo[A]nheur pré[D]caire, Con[Bm]tre les étrangers tous plus ou moins bar[C7]bares
+
+[F]Ils sortent de leur trou pour [Bb]mourir à la [A7]guerre, [Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [A7]part
+
+[Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [F]part[A7]
+
+
+[D]Mon Dieu, qu'il ferait bon sur [A]la terre des [D]h[F#7]ommes, Si [Bm]l'on n'y rencontrait cet[G]te race incon[A]grue
+
+Cet[D]te race importune et [A]qui partout foi[D]sonne, La [Bm]race des gens du ter[F#]roir, des gens du [Bm]cru
+
+Que [G]la vie serait belle en toute [A]circons[D]tance, Si [Bm]vous n'aviez tiré du néant ces jo[C7]bards
+
+[F]Preuve, peut-être bien, de [Bb]votre inexis[A7]tence, [Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [A7]part
+
+[Bb]Les imbéciles heu[F]reux qui sont [C]nés quelque [F]part[F]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Ballade.Gens.Nes.Quelque.Part.php?titre=%28La%29+ballade+des+gens+qui+sont+n%C3%A9s+quelque+part

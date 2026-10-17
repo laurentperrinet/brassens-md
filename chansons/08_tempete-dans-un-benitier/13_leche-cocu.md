@@ -1,48 +1,49 @@
 ## Lèche-cocu
 
 
-[C]Comme il c[F]houchoutait les maris, Qu'il l[C]es couvrait[G7] de flatteries, [C]
+[C]Comme [F]il chouchou[G7]tait les ma[C]ris, Qu'il [G7]les couvrait de flatte[C]ries,
 
-Quand il en[F] pinçait p[C]our leurs femmes, Qu[D7]'il [G7]avait des [F]cornes au cul[G7], [C]
+Quand [F]il en pin[C]çait pour leurs [D7]femmes,[G7] Qu'il [F]avait des [G7]cornes au [C]cul,
 
-On l'ap[G]pelait lèche-cocu. Oyez[A7] tous s[F]on histoire infâm[Fm]e. [Am6] [G7] [C]
-
-
-Si l'mari faisait du bateau, Il lui parlait de tirant d'eau,
-
-De voiles, de mâts de misaine, De yacht, de brick et de steamer,
-
-Lui, qui souffrait du mal de mer,
-
-En passant les ponts de la Seine.
+On [G]l'appelait lèche-co[A7]cu. O[F]yez tous son [Fm]histoire in[Am6]fâ[C]me.
 
 
-Si l'homme était un peu bigot, Lui qui sentait fort le fagot,
+Si [F]l'mari fai[G7]sait du ba[C]teau, Il [G7]lui parlait de tirant [C]d'eau,
 
-Criblait le ciel de patenôtres, Communiait à grand fracas,
+De [F]voiles, de [C]mâts de mi[D7]saine,[G7] De [F]yacht, de brick [G7]et de stea[C]mer,
 
-Retirant même en certains cas, L'pain bénit d'la bouche d'un autre.
+Lui, [G]qui souffrait du mal de [A7]mer,
 
-
-Si l'homme était sergent de ville, En sautoir - mon Dieu, que c'est vil -
-
-Il portait un flic en peluche, Lui qui, sans ménager sa voix,
-
-Criait : « Mort aux vaches » autrefois, Même atteint de la coqueluche.
+En [F]passant les [Fm]ponts de la [Am6]S[G7]ei[C]ne.
 
 
-Si l'homme était un militant, Il prenait sa carte à l'instant
+Si [F]l'homme était [G7]un peu bi[C]got, Lui [G7]qui sentait fort le fa[C]got,
 
-Pour bien se mettre dans sa manche, Biffant ses propres graffiti
+Cri[F]blait le ciel [C]de pate[D7]nôtres,[G7] Com[F]muniait [G7]à grand fra[C]cas,
 
-Du vendredi, le samedi, Ceux du samedi, le dimanche.
-
-
-Et si l'homme était dans l'armée, Il entonnait pour le charmer :
-
-« Sambre-et-Meuse » et tout le folklore, Lui, le pacifiste bêlant
-
-Qui fabriquait des cerfs-volants, Avec le drapeau tricolore.
+Re[G]tirant même en certains [A7]cas, L'pain [F]bénit d'la [Fm]bouche d'un [G7]au[C]tre.
 
 
+Si [F]l'homme était [G7]sergent de [C]ville, En [G7]sautoir - mon Dieu, que c'est [C]vil -
 
+Il [F]portait un [C]flic en pe[D7]luche,[G7] Lui [F]qui, sans mé[G7]nager sa [C]voix,
+
+Cri[G]ait : « Mort aux vaches » autre[A7]fois, Même [F]atteint de [Fm]la coque[Am6]lu[C]che.
+
+
+Si [F]l'homme était [G7]un mili[C]tant, Il [G7]prenait sa carte à l'ins[C]tant
+
+Pour [F]bien se met[C]tre dans sa [D7]manche,[G7] Bif[F]fant ses pro[G7]pres graffi[C]ti
+
+Du [G]vendredi, le same[A7]di, Ceux [F]du same[Fm]di, le di[Am6]man[C]che.
+
+
+Et [F]si l'homme é[G7]tait dans l'ar[C]mée, Il [G7]entonnait pour le char[C]mer :
+
+« Sambre-[F]et-Meuse » et [C]tout le folk[D7]lore,[G7] Lui, [F]le paci[G7]fiste bê[C]lant
+
+Qui [G]fabriquait des cerfs-vo[A7]lants, A[F]vec le dra[Fm]peau trico[Am6]lo[C]re.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Leche.Cocu.php?titre=L%C3%A8che-cocu

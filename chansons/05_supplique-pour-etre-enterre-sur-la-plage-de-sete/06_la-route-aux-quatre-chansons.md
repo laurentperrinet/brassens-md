@@ -1,71 +1,73 @@
 ## La route aux quatre chansons
 
 
-[A]J'ai pris la route de D[E7]ijon, Pour voir un [A]peu la Marjolaine, [E7]
+[A]J'ai pris la route [E7]de Dijon, Pour [A]voir un peu la [E7]Marjolaine,
 
-La bel[A]le, digue digue [E7]don, Qui pleurait prè[A]s de la fontaine. [E7]
+[A]La belle, digue [E7]digue don, Qui [A]pleurait près de [E7]la fontaine.
 
-[A]Mais elle avait changé de [E7]ton, Il lui fa[A]llait des ducatons [E7]
+[A]Mais elle avait chan[E7]gé de ton, [A]Il lui fallait des [E7]ducatons
 
-Dedan[A]s son bas de laine, Pou[E7]r n'av[A]oir plus de peine. [Dm] [G7]
+De[A]dans son bas de [E7]laine,[A] Pour n'avoir plus de [Dm]pei[G7]ne.
 
-[C]Elle m'a dit : « Tu vien[G7]s, chéri ? Et si tu m[C]e payes un bon prix [G7]
+[C]Elle m'a dit : « Tu [G7]viens, chéri ? Et [C]si tu me payes [G7]un bon prix
 
-Aux an[C]ges je t'emmè[G7]ne, Digue[C] digue don daine. » [Dm] [E7]
+Aux [C]anges je t'em[G7]mène,[C] Digue digue don [Dm]dai[E7]ne. »
 
-[A]La Marjolaine pleurait surt[D]out[E7], Qu[A]and elle n'avait pas de sous. [D] [E7] [A]
+[A]La Marjolaine pleu[D]rait [E7]sur[A]tout, Quand elle n'avait [D]pas [E7]de [A]sous.
 
-La Marjolaine de la chanso[D]n, [E7]Avai[A]t de plus nobles façons. [D] [E7] [A]
-
-
-J'ai passé le pont d'Avignon, Pour voir un peu les belles dames
-
-Et les beaux messieurs tous en rond, Qui dansaient, dansaient, corps et âmes.
-
-Mais ils avaient changé de ton, Ils faisaient fi des rigodons,
-
-Menuets et pavanes, Tarentelles, sardanes,
-
-Et les belles dames m'ont dit ceci : « Étranger, sauve-toi d'ici
-
-Ou l'on donne l'alarme, Aux chiens et aux gendarmes ! »
-
-Quelle mouche les a donc piquées, Ces belles dames si distinguées ?
-
-Les belles dames de la chanson, Avaient de plus nobles façons.
+La Marjolaine de [D]la [E7]chan[A]son, Avait de plus no[D]bles [E7]fa[A]çons.
 
 
-Je me suis fait faire prisonnier, Dans les vieilles prisons de Nantes,
+[A]J'ai passé le pont [E7]d'Avignon, Pour [A]voir un peu les [E7]belles dames
 
-Pour voir la fille du geôlier, Qui, paraît-il, est avenante.
+Et [A]les beaux messieurs [E7]tous en rond, Qui [A]dansaient, dansaient, [E7]corps et âmes.
 
-Mais elle avait changé de ton, Quand j'ai demandé : « Que dit-on
+[A]Mais ils avaient chan[E7]gé de ton, [A]Ils faisaient fi des [E7]rigodons,
 
-Des affaires courantes, Dans la ville de Nantes ? »
+Me[A]nuets et pa[E7]vanes,[A] Tarentelles, sar[Dm]da[G7]nes,
 
-La mignonne m'a répondu : « On dit que vous serez pendu
+[C]Et les belles dames m'ont [G7]dit ceci : « É[C]tranger, sauve-[G7]toi d'ici
 
-Aux matines sonnantes, Et j'en suis bien contente ! »
+Ou [C]l'on donne l'a[G7]larme,[C] Aux chiens et aux gen[Dm]dar[E7]mes ! »
 
-Les geôlières n'ont plus de cœur, Aux prisons de Nantes et d'ailleurs.
+[A]Quelle mouche les a [D]donc [E7]pi[A]quées, Ces belles dames si [D]dis[E7]tin[A]guées ?
 
-La geôlière de la chanson, Avait de plus nobles façons.
-
-
-Voulant mener à bonne fin, Ma folle course vagabonde,
-
-Vers mes pénates je revins, Pour dormir auprès de ma blonde,
-
-Mais elle avait changé de ton, Avec elle, sous l'édredon,
-
-Il y avait du monde, Dormant près de ma blonde.
-
-J'ai pris le coup d'un air blagueur, Mais, en cachette, dans mon cœur,
-
-La peine était profonde, L'chagrin lâchait la bonde.
-
-Hélas ! du jardin de mon père, La colombe s'est fait la paire...
-
-Par bonheur, par consolation, Me sont restées les quatre chansons.
+Les belles dames de [D]la [E7]chan[A]son, Avaient de plus no[D]bles [E7]fa[A]çons.
 
 
+[A]Je me suis fait faire [E7]prisonnier, Dans [A]les vieilles pri[E7]sons de Nantes,
+
+[A]Pour voir la fille [E7]du geôlier, Qui, [A]paraît-il, est [E7]avenante.
+
+[A]Mais elle avait chan[E7]gé de ton, [A]Quand j'ai demandé : « [E7]Que dit-on
+
+Des [A]affaires cou[E7]rantes,[A] Dans la ville de [Dm]Nan[G7]tes ? »
+
+[C]La mignonne m'a [G7]répondu : « On [C]dit que vous se[G7]rez pendu
+
+Aux [C]matines son[G7]nantes,[C] Et j'en suis bien con[Dm]ten[E7]te ! »
+
+[A]Les geôlières n'ont [D]plus [E7]de [A]cœur, Aux prisons de Nantes [D]et [E7]d'ail[A]leurs.
+
+La geôlière de [D]la [E7]chan[A]son, Avait de plus no[D]bles [E7]fa[A]çons.
+
+
+[A]Voulant mener à [E7]bonne fin, Ma [A]folle course [E7]vagabonde,
+
+[A]Vers mes pénates [E7]je revins, Pour [A]dormir auprès [E7]de ma blonde,
+
+[A]Mais elle avait chan[E7]gé de ton, [A]Avec elle, sous [E7]l'édredon,
+
+Il [A]y avait du [E7]monde,[A] Dormant près de ma [Dm]blon[G7]de.
+
+[C]J'ai pris le coup d'un [G7]air blagueur, Mais, [C]en cachette, [G7]dans mon cœur,
+
+La [C]peine était pro[G7]fonde,[C] L'chagrin lâchait la [Dm]bon[E7]de.
+
+[A]Hélas ! du jardin [D]de [E7]mon [A]père, La colombe s'est [D]fait [E7]la [A]paire...
+
+Par bonheur, par con[D]so[E7]la[A]tion, Me sont restées les [D]quatre [E7]chan[A]sons.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Route.Aux.Quatre.Chansons.php?titre=%28La%29+route+aux+quatre+chansons

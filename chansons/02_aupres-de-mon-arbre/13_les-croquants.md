@@ -1,48 +1,50 @@
 ## Les croquants
 
 
-Les croquants[Em] vont en ville, à cheval sur leu[D]rs sous, Acheter des pucelles au[Dm]x saintes bonnes gens [C]
+Les cro[Em]quants vont en ville, à che[D]val sur leurs sous, Ache[Dm]ter des pucelles aux sain[C]tes bonnes gens
 
-Les croquant[Cm]s leur mettent à prix d'argent, La main d[B7]essus, la main dessous [Em] [D7] [G] [B7]
+Les cro[Cm]quants leur mettent à prix d'ar[B7]gent, La main des[Em]sus, la [D7]main des[G]sous[B7]
 
-Mais la chair[Em] de Lisa, la chair fraîche de[D] Lison, Que les culs cousus d'or s[Dm]e fassent une raison [C]
+Mais la [Em]chair de Lisa, la chair [D]fraîche de Lison, Que les [Dm]culs cousus d'or se fassent [C]une raison
 
-C'est pour la b[Cm]ouche du premier venu, Qui a les[B7] yeux tendres et les mains n[Em]ues [B7] [F#7] [B7]
+C'est pour [Cm]la bouche du premier ve[B7]nu, Qui a les yeux [Em]tendres et [B7]les mains [F#7]nues[B7]
 
-Les croquant[E]s, ça les attriste,[G#7] Ça les étonne, l[C#m]es ét[F#7]onne [B7]
+Les cro[E]quants, ça les at[G#7]triste, Ça les é[C#m]tonne, [F#7]les é[B7]tonne
 
-Qu'une fill[E]e, une fille belle[B7] comme ça, S'aban[E]donne, s'aband[A]onne [G#7]
+Qu'une [E]fille, une fille [B7]belle comme [E]ça, S'aban[A]donne, s'aban[G#7]donne
 
-Au premi[C#m]er ostrogoth [B7]venu[C#7], Les croquants, [F#7]ça tombe des[B7] nues [E]
-
-
-[Em]Les filles de bonnes mœurs, les filles[D] de bonne vie, Qui ont vendue leur[Dm] fleurette à la foire à l'enc[C]an
-
-Vont s'vautrer[Cm] dans la couche des croquants, Quand le[B7]s croquants en ont envie [Em] [D7] [G] [B7]
-
-Mais la chair[Em] de Lisa, la chair fraîche de[D] Lison, Que les culs cousus d'or s[Dm]e fassent une raison [C]
-
-N'a jamais [Cm]accordé ses faveurs, A co[B7]ntre sous, à contre c[Em]œur [B7] [F#7] [B7]
-
-Les croquant[E]s, ça les attriste,[G#7] Ça les étonne,[C#m] les [F#7]étonne [B7]
-
-Qu'une fill[E]e, une fille belle[B7] comme ça, S'aban[E]donne, s'aband[A]onne [G#7]
-
-Au premi[C#m]er ostrogoth [B7]venu[C#7], Les croquants, [F#7]ça tombe des[B7] nues [E]
+Au pre[C#m]mier ostro[B7]goth venu,[C#7] Les cro[F#7]quants, ça [B7]tombe des [E]nues
 
 
-[Em]Les filles de bonne vie ont [D]le cœur consistant, Et la fle[Dm]ur qu'on y trouve est garantie lon[C]gtemps
+Les filles [Em]de bonnes mœurs, les filles [D]de bonne vie, Qui ont ven[Dm]due leur fleurette à la [C]foire à l'encan
 
-Comme les fleurs e[Cm]n papier des chapeaux, Les fleur[B7]s en pierre des tombeaux [Em] [D7] [G] [B7]
+Vont s'vau[Cm]trer dans la couche des cro[B7]quants, Quand les cro[Em]quants en [D7]ont en[G]vie[B7]
 
-Mais le cœur [Em]de Lisa, le grand cœur de Lison[D], Aime faire peau neuve avec [Dm]chaque saison [C]
+Mais la [Em]chair de Lisa, la chair [D]fraîche de Lison, Que les [Dm]culs cousus d'or se fassent [C]une raison
 
-Jamais deux foi[Cm]s la même couleur, Jamais [B7]deux fois la même fleur [Em] [B7] [F#7] [B7]
+N'a ja[Cm]mais accordé ses fa[B7]veurs, À contre [Em]sous, à [B7]contre [F#7]cœur[B7]
 
-Les croquant[E]s, ça les attriste,[G#7] Ça les étonne,[C#m] les [F#7]étonne [B7]
+Les cro[E]quants, ça les at[G#7]triste, Ça les é[C#m]tonne, [F#7]les é[B7]tonne
 
-Qu'une fill[E]e, une fille bell[B7]e comme ça, S'aba[E]ndonne, s'aban[A]donne [G#7]
+Qu'une [E]fille, une fille [B7]belle comme [E]ça, S'aban[A]donne, s'aban[G#7]donne
 
-Au premi[C#m]er ostrogoth [B7]venu[C#7], Les croquants, [F#7]ça tombe des[B7] nues [E]
+Au pre[C#m]mier ostro[B7]goth venu,[C#7] Les cro[F#7]quants, ça [B7]tombe des [E]nues
 
 
+Les filles [Em]de bonne vie ont le [D]cœur consistant, Et la [Dm]fleur qu'on y trouve est ga[C]rantie longtemps
+
+Comme les [Cm]fleurs en papier des cha[B7]peaux, Les fleurs en [Em]pierre [D7]des tom[G]beaux[B7]
+
+Mais le [Em]cœur de Lisa, le grand [D]cœur de Lison, Aime [Dm]faire peau neuve avec [C]chaque saison
+
+Jamais [Cm]deux fois la même cou[B7]leur, Jamais deux [Em]fois la [B7]même [F#7]fleur[B7]
+
+Les cro[E]quants, ça les at[G#7]triste, Ça les é[C#m]tonne, [F#7]les é[B7]tonne
+
+Qu'une [E]fille, une fille [B7]belle comme [E]ça, S'aban[A]donne, s'aban[G#7]donne
+
+Au pre[C#m]mier ostro[B7]goth venu,[C#7] Les cro[F#7]quants, ça [B7]tombe des [E]nues
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Croquants.php?titre=%28Les%29+croquants

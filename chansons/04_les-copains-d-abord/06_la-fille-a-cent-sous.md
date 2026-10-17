@@ -1,40 +1,42 @@
 ## La fille à cent sous
 
 
-[D]Du temps que je vivais dans le troisième [Em]dessous, Ivrogne, immonde, in[D]fâme [E7] [A7]
+Du [D]temps que je vivais dans [Em]le troisième dessous, I[D]vrogne, immonde, in[E7]fâ[A7]me
 
-Un plu[D]s soûlaud que moi, contre une pièce de cen[Em]t sous, M'avait vendu sa femme [D] [E7] [A7] [D] [C7]
+Un [D]plus soûlaud que moi, contre [Em]une pièce de cent sous, M'a[D]vait vendu sa [E7]f[A7]em[D]me[C7]
 
-Quand je l'e[F]us mise au lit, quand j'voulus l'étre[Gm]nner, Quand j'fis voler sa jupe [F] [G7] [C7]
+Quand [F]je l'eus mise au lit, quand [Gm]j'voulus l'étrenner, Quand [F]j'fis voler sa [G7]ju[C7]pe
 
-Il m[F]'apparut alors qu'j'avais été [Gm]berné, Dans un marché de du[F]pe [G7] [C7] [F] [A7]
-
-
-« Remballe tes os, ma mie, et garde tes appas, Tu es bien trop maigrelette
-
-Je suis un bon vivant, ça n'me concerne pas, D'étreindre des squelettes
-
-Retourne à ton mari, qu'il garde les cent sous, J'n'en fais pas une affaire »
-
-Mais elle me répondit, le regard en dessous, « C'est vous que je préfère
+Il [F]m'apparut alors qu'j'a[Gm]vais été berné, Dans [F]un marché de [G7]d[C7]u[F]pe[A7]
 
 
-J'suis pas bien grosse, fit-elle, d'une voix qui se noue, Mais ce n'est pas ma faute »
+« Rem[D]balle tes os, ma mie, et [Em]garde tes appas, Tu es [D]bien trop maigre[E7]let[A7]te
 
-Alors, moi, tout ému, j'la pris sur mes genoux, Pour lui compter les côtes
+Je [D]suis un bon vivant, ça n'[Em]me concerne pas, D'é[D]treindre des sque[E7]let[D]tes[C7]
 
-« Toi qu'j'ai payé cent sous, dis-moi quel est ton nom, Ton p'tit nom de baptême ?
+Re[F]tourne à ton mari, qu'il [Gm]garde les cent sous, J'n'en [F]fais pas une af[G7]fai[C7]re »
 
-- Je m'appelle Ninette. - Eh bien, pauvre Ninon, Console-toi, je t'aime »
-
-
-[D]Et ce brave sac d'os dont j'n'avais pas[Em] voulu, Même pour une thun[D]e [E7] [A7]
-
-M'est [D]entré dans le cœur et n'en sortira[Em]it plus, Pour toute une fortune [D] [E7] [A7] [D]
-
-[D]
-Du temps que je vivais dans le tro[Em]isième dessous, Ivrogne, immond[D]e, infâme [E7] [A7]
-
-Un plu[D]s soûlaud que moi, contre une pièce de cen[Em]t sous, M'avait vendu sa femme [D] [E7] [A7] [D]
+Mais [F]elle me répondit, le [Gm]regard en dessous, « C'est [F]vous que je pré[G7]fè[F]re[A7]
 
 
+J'suis [D]pas bien grosse, fit-elle, d'u[Em]ne voix qui se noue, Mais [D]ce n'est pas ma [E7]fau[A7]te »
+
+A[D]lors, moi, tout ému, j'la [Em]pris sur mes genoux, Pour [D]lui compter les [E7]c[A7]ô[D]tes[C7]
+
+« Toi qu'[F]j'ai payé cent sous, dis-[Gm]moi quel est ton nom, Ton [F]p'tit nom de bap[G7]tê[C7]me ?
+
+- Je [F]m'appelle Ninette. - Eh [Gm]bien, pauvre Ninon, Con[F]sole-toi, je [G7]t'[C7]ai[F]me[A7] »
+
+
+Et [D]ce brave sac d'os dont j'[Em]n'avais pas voulu, Mê[D]me pour une [E7]thu[A7]ne
+
+M'est [D]entré dans le cœur et [Em]n'en sortirait plus, Pour [D]toute une for[E7]tu[D]ne
+
+
+Du [D]temps que je vivais dans [Em]le troisième dessous, I[D]vrogne, immonde, in[E7]fâ[A7]me
+
+Un [D]plus soûlaud que moi, contre [Em]une pièce de cent sous, M'a[D]vait vendu sa [E7]f[A7]em[D]me
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Fille.A.Cent.Sous.php?titre=%28La%29+fille+%C3%A0+cent+sous

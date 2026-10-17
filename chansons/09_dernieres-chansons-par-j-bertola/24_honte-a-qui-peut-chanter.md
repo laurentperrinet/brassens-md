@@ -4,57 +4,58 @@
 intro : Mim Fa#7 Si7 Mim Fa#7 Si7
 
 
-[Em]Honte a cet effronté qui peut chant[F#7]er pendant que Rome [B7]brûle, elle brûle to[Em]ut l' [D7]temps... [G] [B7]
+Honte [Em]à cet effronté qui [F#7]peut chanter pen[B7]dant que Rome [Em]brûle, [D7]elle brûle tout l' t[G]emps...[B7]
 
-[Em]Honte a qui malgré tout fredonne des c[F#7]hansons, à Gavroche,[B7] à Mimi Pinson. [Em] [D] [Em]
-
-
-[C]En mil neuf cent trente-sept que faisiez-vous mon cher.[D7] J'avais la fl[G7]eur d[C]e l'âge et la tête légère, [D7] [G7]
-
-[Dm]Et l'Espagne flambait dans un grand feu grégeois. [E]Je chanta[Am]is, et j'étais [Em]pas le seul « Y a d'la [F#7]joie ». [B7]
+Honte [Em]à qui malgré tout fre[F#7]donne des chan[B7]sons, à Gavroche, [Em]à [D]Mimi Pin[Em]son.
 
 
-(au refrain)
+[C]En mil neuf cent trente-sept que faisiez-[D7]vous mon [G]cher. [C]J'avais la fleur de l'âge et la tê[D7]te lé[G]gère,
+
+Et [Dm]l'Espagne flambait dans un grand [E]feu gré[Am]geois. Je chan[Em]tais, et j'étais pas [F#7]le seul « Y a d'la [B7]joie ».
 
 
-Et dans l'année quarante mon cher que faisiez-vous ? Les teutons forçaient la frontière, et comme un fou,
-
-Et comme tout un chacun, vers le sud, je fonçais, en chantant « Tout ça, ça fait d'excellents français ».
+([Em]au refrain)
 
 
-(au refrain)
+[C]Et dans l'année quarante mon cher que [D7]faisiez-[G]vous ? [C]Les teutons forçaient la frontière, et [D7]comme un [G]fou,
+
+Et [Dm]comme tout un chacun, vers le sud, [E]je fon[Am]çais, en chan[Em]tant « Tout ça, ça fait [F#7]d'excellents fran[B7]çais ».
 
 
-A l'heure de Pétain, à l'heure de Laval, que faisiez-vous mon cher en plein dans la rafale ?
-
-Je chantais, et les autres ne s'en privaient pas, « Bel ami », « Seul ce soir », « J'ai pleuré sur tes pas ».
+([Em]au refrain)
 
 
-(au refrain)
+[C]A l'heure de Pétain, à l'heure [D7]de La[G]val, [C]que faisiez-vous mon cher en plein dans [D7]la ra[G]fale ?
+
+Je [Dm]chantais, et les autres ne s'en [E]privaient [Am]pas, « Bel a[Em]mi », « Seul ce soir », « J'ai [F#7]pleuré sur tes [B7]pas ».
 
 
-Mon cher, un peu plus tard, que faisait votre glotte, quand en Asie ça tombait comme à Gravelotte ?
-
-Je chantais, il me semble, ainsi que tout un tas, de gens, « Le déserteur », « Les croix », « Quand un soldat ».
+([Em]au refrain)
 
 
-(au refrain)
+[C]Mon cher, un peu plus tard, que faisait [D7]votre [G]glotte, [C]quand en Asie ça tombait comme à [D7]Grave[G]lotte ?
+
+Je [Dm]chantais, il me semble, ainsi que [E]tout un [Am]tas, de gens, « [Em]Le déserteur », « Les [F#7]croix », « Quand un sol[B7]dat ».
 
 
-Que faisiez-vous mon cher au temps de l'Algérie, quand Brel était vivant qu'il habitait paris ?
-
-Je chantais, quoique désolé par ces combats, « La valse à mille temps » et « Ne me quitte pas ».
+([Em]au refrain)
 
 
-(au refrain)
+[C]Que faisiez-vous mon cher au temps de [D7]l'Algé[G]rie, [C]quand Brel était vivant qu'il habi[D7]tait pa[G]ris ?
+
+Je [Dm]chantais, quoique désolé par [E]ces com[Am]bats, « La valse [Em]à mille temps » et « [F#7]Ne me quitte [B7]pas ».
 
 
-Le feu de la ville éternelle est éternel. Si Dieu veut l'incendie, il veut les ritournelles.
-
-A qui fera-t-on croire que le bon populo, quand il chante quand même, est un parfait salaud ?
+([Em]au refrain)
 
 
-(au refrain)
+[C]Le feu de la ville éternelle est [D7]éter[G]nel. [C]Si Dieu veut l'incendie, il veut les [D7]ritour[G7]nelles.
+
+À [Dm]qui fera-t-on croire que le bon [E]popu[Am]lo, quand il [Em]chante quand même, est [F#7]un parfait sa[B7]laud ?
 
 
+([Em]au refrain)
 
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Honte.A.Qui.Peut.Chanter.php?titre=Honte+%C3%A0+qui+peut+chanter

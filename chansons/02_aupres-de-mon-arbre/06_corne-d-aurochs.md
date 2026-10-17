@@ -1,66 +1,68 @@
 ## Corne d'aurochs
 
 
-[A]Il avait nom corne d'Aurochs, au gué, au gué, To[D]ut l'monde[A] peut pas s'app'ler Durand, au gué, au gué [F#m] [Bm] [E] [A]
+[A]Il avait nom corne d'Aurochs, au [D]gué, au [A]gué, Tout l'monde peut pas s'app'ler Durand, au [Bm]gué, au [A]gué
 
-Il avait nom corne d'Aurochs, au gué, au gué, Tout[D] l'monde p[A]eut pas s'app'ler Durand, au gué, au gué [F#m] [Bm] [E] [A]
-
-
-[E7]En le regardant avec un œil de poète, On aurait pu cro[A]ire à son frontal de prophète [E7]
-
-Qu'il ava[A]it les grandes eaux de Versailles dans la tête, Corn[E7]e d'Aurochs
-
-Mais que le bon die[A]u lui pardonne, au gué, au gué, C'éta[D]ient celle[A]s du robinet, au gué, au gué [F#m] [Bm] [E] [A]
-
-Mais que le bon dieu lui pardonne, au gué, au gué, C'étaie[D]nt celles [A]du robinet, au gué, au gué [F#m] [Bm] [E] [A]
+Il avait nom corne d'Aurochs, au [D]gué, au [A]gué, Tout l'monde peut pas s'app'ler Durand, au [Bm]gué, au [A]gué
 
 
-On aurait pu croire en l'voyant penché sur l'onde, Qu'il se plongeait dans des méditations profondes
+En [A]le regardant [A#7dim]avec un œil [E7]de poète, On [A]aurait pu croire [A#7dim]à son frontal [E7]de prophète
 
-Sur l'aspect fugitif des choses de se monde, Corne d'Aurochs
+Qu'il [A]avait les grandes [A#7dim]eaux de Versailles [E7]dans la tête, Corne d'Aurochs
 
-C'étaient hélas pour s'assurer, au gué, au gué, Qu' le vent n'l'avait pas décoiffé, au gué, au gué
+Mais que le [A]bon dieu lui pardonne, au [D]gué, au [A]gué, C'étaient celles du robinet, au [Bm]gué, au [A]gué
 
-C'étaient hélas pour s'assurer, au gué, au gué, Qu' le vent n'l'avait pas décoiffé, au gué, au gué
-
-
-[A#dim]Il proc[E7]lamait à son de trompe à t[A]ous les carrefours : « Il n'y a qu'les [A#dim]imbécil[E7]es qui sachent bien faire l'amour
-
-La vi[A]rtuosité c'est une affaire de balourd[E7]s ! », Corne d'Aurochs
-
-Il potassai[A]t à la chandelle, au gué, au gué[D], Des trai[A]tés de maintien sexuel, au gué, au gué [F#m] [Bm] [E] [A]
-
-Et sur les femmes nues des musées, au gué, au gué, Faisait [D]l'brouillo[A]n de ses baisers, au gué, au gué [F#m] [Bm] [E] [A] [G] [C]
+Mais que le bon dieu lui pardonne, au [D]gué, au [A]gué, C'étaient celles du robinet, au [Bm]gué, au [A]gué
 
 
-[F]Et bientôt[C] petit à petit, au gué, au gué, On a tou[Am]t su, [Dm]tout[G7] su d[C]e lui, au gué, au gué
+On [A]aurait pu croire [A#7dim]en l'voyant pen[E7]ché sur l'onde, Qu'il [A]se plongeait dans [A#7dim]des médita[E7]tions profondes
+
+Sur [A]l'aspect fugi[A#7dim]tif des choses [E7]de se monde, Corne d'Aurochs
+
+C'étaient hé[A]las pour s'assurer, au [D]gué, au [A]gué, Qu' le vent n'l'avait pas décoiffé, au [Bm]gué, au [A]gué
+
+C'étaient hélas pour s'assurer, au [D]gué, au [A]gué, Qu' le vent n'l'avait pas décoiffé, au [Bm]gué, au [A]gué
 
 
-[G7]On a su qu'il était enfant de la Patrie, Qu'il était incapable de risquer sa vie
+Il [A]proclamait à [A#7dim]son de trompe à [E7]tous les carrefours : « Il [A]n'y a qu'les imbé[A#7dim]ciles qui sachent [E7]bien faire l'amour
+
+La [A]virtuosi[A#7dim]té c'est une af[E7]faire de balourds ! », Corne d'Aurochs
+
+Il potas[A]sait à la chandelle, au [D]gué, au [A]gué, Des traités de maintien sexuel, au [Bm]gué, au [A]gué
+
+Et sur les femmes nues des musées, au [D]gué, au [A]gué, Faisait l'brouillon de ses baisers, au [Bm]gué, au [A]gué[G]
 
 
-Pour cueillir un myosotis à une fille, Corne d'Aurochs
-
-Qu'il avait un pe[C]tit cousin, au gué, au g[F]ué, Haut [C]placé chez les argousins, au gué, au gué [Am] [Dm] [G7] [C]
-
-Et que les jours de pénurie, au gué, au gué, Il[F] prenait [C]ses repas chez lui, au gué, au gué [Am] [Dm] [G7] [C]
+Et bientôt [C]petit à petit, au [F]gué, au [C]gué, On a tout su, tout su de lui, au [Dm]gué, au [C]gué
 
 
-C'est même en revenant d'chez cet antipathique, Qu'il tomba victime d'une indigestion critique
-
-Et refusa l'secours de la thérapeutique, Corne d'Aurochs
-
-Parce que c'était à un Allemand, au gué, au gué, Qu'on devait le médicament, au gué, au gué
-
-Parce que c'était à un Allemand, au gué, au gué, Qu'on devait le médicament, au gué, au gué
+On [C]a su qu'il é[C#7dim]tait enfant de [G7]la Patrie, Qu'il [C]était inca[C#7dim]pable de ris[G7]quer sa vie
 
 
-Il rendit comme il put son âme machinale, Et sa vie n'ayant pas été originale
+Pour [C]cueillir un my[C#7dim]osotis à [G7]une fille, Corne d'Aurochs
 
-L'Etat lui fit des funérailles nationales, Corne d'Aurochs
+Qu'il avait [C]un petit cousin, au [F]gué, au [C]gué, Haut placé chez les argousins, au [Dm]gué, au [C]gué
 
-Alors sa veuve en gémissant, au gué, au gué, Coucha-z-avec son remplaçant, au gué, au gué
-
-Alors sa veuve en gémissant, au gué, au gué, Coucha-z-avec son remplaçant, au gué, au gué
+Et que les jours de pénurie, au [F]gué, au [C]gué, Il prenait ses repas chez lui, au [Dm]gué, au [C]gué
 
 
+C'est [C]même en reve[C#7dim]nant d'chez cet an[G7]tipathique, Qu'il [C]tomba victime [C#7dim]d'une indiges[G7]tion critique
+
+Et [C]refusa l'se[C#7dim]cours de la thé[G7]rapeutique, Corne d'Aurochs
+
+Parce que c'é[C]tait à un Allemand, au [F]gué, au [C]gué, Qu'on devait le médicament, au [Dm]gué, au [C]gué
+
+Parce que c'était à un Allemand, au [F]gué, au [C]gué, Qu'on devait le médicament, au [Dm]gué, au [C]gué
+
+
+Il [C]rendit comme il [C#7dim]put son âme [G7]machinale, Et [C]sa vie n'ayant [C#7dim]pas été o[G7]riginale
+
+L'E[C]tat lui fit des [C#7dim]funérailles [G7]nationales, Corne d'Aurochs
+
+Alors sa [C]veuve en gémissant, au [F]gué, au [C]gué, Coucha-z-avec son remplaçant, au [Dm]gué, au [C]gué
+
+Alors sa veuve en gémissant, au [F]gué, au [C]gué, Coucha-z-avec son remplaçant, au [Dm]gué, au [C]gué
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Corne.D.Aurochs.php?titre=Corne+d%27Aurochs

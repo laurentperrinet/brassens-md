@@ -1,66 +1,68 @@
 ## Les quat'z'arts
 
 
-[Dm]Les copains affligés, les copines en pleurs, La boite à Domi[G7]nos, enfouie sous les fl[C]eurs [A7] [Dm]
+[Dm]Les copains affligés, les copines en pleurs, [G7]La boîte à Domi[C]nos, en[A7]fouie sous les [Dm]fleurs
 
-Tout le monde équipé de sa tenue de deuil, La farce était bien bon[G7]ne et valait le coup d'œil [C] [Am] [D7] [G7] [C] [C7]
+Tout le monde équipé de sa tenue de deuil, [G7]La farce était bien [C]bonne [Am]et [D7]valait [G7]le coup [C]d'œil[C7]
 
-Les quat'[F]zarts avaient fait les choses com[B7]me il faut : L'enterrem[Em]ent [Am]paraissait officiel. Bravo ! [D7] [G7] [C] [A7]
-
-
-Le mort ne chantait pas : « Ah c'qu'on s'emmerde ici ! » Il prenait son trépas à cœur cette fois ci.
-
-Et les bonhommes chargés, de la levée du corps, Ne chantaient pas non plus : « Saint Éloi bande encore ! ».
-
-Les quat'zarts avaient fait les choses comme il faut : Le macchabée semblait tout à fait mort. Bravo !
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]L'enterrement paraissait offi[D7]ciel. [G7]Bra[C]vo !
 
 
-Ce n'étaient pas du tout des filles en tutu, Avec des fesses à claques et des chapeaux pointus
+[Dm]Le mort ne chantait pas : « Ah c'qu'on s'emmerde ici ! » [G7]Il prenait son tré[C]pas à [A7]cœur cette fois [Dm]ci.
 
-Les commères choisies pour le cordon du poêle, Et nul ne leur criait :« A poil ! A poil ! A poil ! »
+Et les bonhommes chargés, de la levée du corps, [G7]Ne chantaient pas non [C]plus : « [Am]Saint [D7]Éloi [G7]bande en[C]cor[C7]e ! ».
 
-Les quat'zarts avaient fait les choses comme il faut : Les pleureuses sanglotaient pour de bon. Bravo !
-
-
-Le curé n'avait pas un goupillon factice, Un de ces goupillons en forme de phallus,
-
-Et quand il y alla de ses De Profondis, L'enfant de cœur répliqua pas morpionibus
-
-Les quat'zarts avaient fait les choses comme il faut : Le curé venait pas de Camaret. Bravo !
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]Le macchabée semblait tout à fait [D7]mort. [G7]Bra[C]vo !
 
 
-On descendit la bière, et je fut bien déçu, La blague maintenant frisait le mauvais goût,
+[Dm]Ce n'étaient pas du tout des filles en tutu, [G7]Avec des fesses à [C]claques et [A7]des chapeaux poin[Dm]tus
 
-Car le mort se laissa jeter la terre dessus, Sans lever le couvercle en s'écriant : « Coucou ! »
+Les commères choisies pour le cordon du poêle, [G7]Et nul ne leur cri[C]ait :« [Am]À [D7]poil ! À [G7]poil ! À [C]poil[C7] ! »
 
-Les quat'zarts avaient fait les choses comme il faut : Le cercueil n'était pas à double fond. Bravo !
-
-
-Quand tout fut consommé, je leur ai dit : « Messieurs, Allons faire à présent la tournée des boxons »
-
-Mais ils m'ont regardé avec de pauvres yeux, Puis ils m'ont embrassé d'une étrange façon.
-
-Les quat'zarts avaient fait les choses comme il faut : Leur compassion semblait venir du cœur. Bravo !
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]Les pleureuses sanglotaient pour de [D7]bon. [G7]Bra[C]vo !
 
 
-Quand je suis ressorti de ce champ de navets, L'ombre de l'ici gît, pas à pas me suivait,
+[Dm]Le curé n'avait pas un goupillon factice, [G7]Un de ces goupil[C]lons en [A7]forme de phal[Dm]lus,
 
-Une petite croix de trois fois rien du tout, Faisant à elle seule de l'ombre un peu partout.
+Et quand il y alla de ses De Profondis, [G7]L'enfant de cœur ré[C]pli[Am]qua [D7]pas mor[G7]pioni[C]bus[C7]
 
-Les quat'zarts avaient fait les choses comme il faut : Les revenants s'en mêlaient à leur tour. Bravo !
-
-
-J'ai compris ma méprise un petit peu plus tard, Quand allumant ma pipe avec le faire-part,
-
-J'm'aperçu que mon nom, comme celui d'un bourgeois, Occupait sur la liste une place de choix.
-
-Les quat'zarts avaient fait les choses comme il faut : J'étais le plus proche parent du défunt. Bravo !
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]Le curé venait pas de Cama[D7]ret. [G7]Bra[C]vo !
 
 
-Adieu les faux tibias, les crânes de carton, Plus de marche funèbre, au son des mirlitons.
+[Dm]On descendit la bière, et je fut bien déçu, [G7]La blague mainte[C]nant fri[A7]sait le mauvais [Dm]goût,
 
-Au grand bal des quat'zarts, nous n'irons plus danser, Les vrais enterrements viennent de commencer
+Car le mort se laissa jeter la terre dessus, [G7]Sans lever le cou[C]vercle [Am]en [D7]s'écri[G7]ant : « Cou[C]cou[C7] ! »
 
-Nous n'irons plus danser au grand bal des quat'zarts, Viens pépère on va se ranger des corbillards. (bis)
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]Le cercueil n'était pas à double [D7]fond. [G7]Bra[C]vo !
 
 
+[Dm]Quand tout fut consommé, je leur ai dit : « Messieurs, [G7]Allons faire à pré[C]sent la [A7]tournée des bo[Dm]xons »
+
+Mais ils m'ont regardé avec de pauvres yeux, [G7]Puis ils m'ont embras[C]sé [Am]d'une [D7]étran[G7]ge fa[C]çon.[C7]
+
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]Leur compassion semblait venir du [D7]cœur. [G7]Bra[C]vo !
+
+
+[Dm]Quand je suis ressorti de ce champ de navets, [G7]L'ombre de l'ici [C]gît, pas [A7]à pas me sui[Dm]vait,
+
+Une petite croix de trois fois rien du tout, [G7]Faisant à elle [C]seule [Am]de [D7]l'ombre un [G7]peu par[C]tout.[C7]
+
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]Les revenants s'en mêlaient à leur [D7]tour. [G7]Bra[C]vo !
+
+
+[Dm]J'ai compris ma méprise un petit peu plus tard, [G7]Quand allumant ma [C]pipe a[A7]vec le faire-[Dm]part,
+
+J'm'aperçus que mon nom, comme celui d'un bourgeois, [G7]Occupait sur la [C]liste [Am]un[D7]e pla[G7]ce de [C]choix.[C7]
+
+Les [F]quat'zarts avaient fait les cho[B7]ses comme il [Em]faut : [Am]J'étais le plus proche parent du dé[D7]funt. [G7]Bra[C]vo !
+
+
+[Dm]Adieu les faux tibias, les crânes de carton, [G7]Plus de marche fu[C]nèbre, au [A7]son des mirli[Dm]tons.
+
+Au grand bal des quat'zarts, nous n'irons plus danser, [G7]Les vrais enterre[C]ments [Am]vien[D7]nent de [G7]commen[C]cer[C7]
+
+Nous [F]n'irons plus danser au grand [B7]bal des quat'[Em]zarts, [Am]Viens pépère on va se ranger des [D7]cor[G7]bil[C]lards. ([G7]bis)
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Quatzart.php?titre=%28Les%29+quat%27z%27arts

@@ -1,36 +1,38 @@
 ## Colombine
 
 
-[B]Pam pam pam pam pam pam pam pa[E]m pam pam pam pa[F#7]m pam [B] [C#7] [F#7]
+[B]Pam pam [G#m7]pam pam [E]pam pam pam [F#7]pam pam [B]pam[G#m7] pam [C#7]pam [F#7]pam
 
-[B]Pam pam pam pam pam pam pam pa[E]m pam pam pam pa[F#7]m pam [B] [C#7] [F#7] [B]
-
-
-[B]Léandre le sot, [E]Pierrot qui [F#7]d'un saut, De [B]puce [C#7] [F#7]
-
-[B]Franchit le buisson, [E]Cassandre sous s[F#7]on, Capuce, [B] [C#7] [F#7] [B]
+[B]Pam pam [G#m7]pam pam [E]pam pam pam [F#7]pam pam [B]pam[G#m7] pam [C#7]pam [B][F#7]pam
 
 
-[B]Arlequin aussi, [E]Cet aigrefin[F#7] si, Fan[B]tasque, [C#7] [F#7]
+[Am]Léandre le [Am+]sot, Pierrot qui d'un [Am6]saut, De [G7]puce
 
-[B]Aux costumes fous, Les[E] yeux luisant sous,[F#7] Le masq[B]ue, [C#7] [F#7] [B]
-
-
-[D#m]Do, mi, sol, mi, f[A#]a, Tout ce monde va, Rit, [D#m]chante [A#] [G#]
-
-[C#m]Et danse dev[G#]ant, Une frêle enfant, [C#7]Méchante [F#7]
+[Am]Franchit le buis[Am+]son, Cassandre sous [Am6]son, Ca[G7]puce,
 
 
-[B]Dont les yeux pervers, Co[E]mme les yeux ve[F#7]rts, Des chatt[B]es [C#7] [F#7]
+[Am]Arlequin aus[Am+]si, Cet aigrefin [Am6]si, Fan[G7]tasque,
 
-[B]Gardent ses appas, Et[E] disent : « [F#7]A bas Les [B]pattes ! » [C#7] [F#7] [B] [A]
-
-
-[D] [G] [A] [D] [Bm] [E7] [A]
-[D] [G] [A] [D] [F#] [F#7]
-
-[B]L'implacable enfant, Pr[E]este et relevant, [F#7]Ses j[B]upes, [C#7] [F#7]
-
-[B]La rose au chapeau, Con[E]duit son troupeau, [F#7]De dupes[B] ! [C#7] [F#7] [B]
+[Am]Aux costumes [Am+]fous, Les yeux luisant [Am6]sous, Le [G7]masque,
 
 
+[Em]Do, mi, sol, mi, [D7]fa, Tout ce monde [G7]va, Rit, [B]chante
+
+[Bb6]Et danse de[A]vant, Une frêle en[D7]fant, Mé[G7]chante
+
+
+[Am]Dont les yeux per[Am+]vers, Comme les yeux [Am6]verts, Des [G7]chattes
+
+[Am]Gardent ses ap[Am+]pas, Et disent : « À [Am6]bas Les [G7]pattes ! »
+
+
+
+
+
+[Am]L'implacable en[Am+]fant, Preste et rele[Am6]vant, Ses [G7]jupes,
+
+[Am]La rose au cha[Am+]peau, Conduit son trou[Am6]peau, De [G7]dupes[C] !
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Colombine.php?titre=Colombine

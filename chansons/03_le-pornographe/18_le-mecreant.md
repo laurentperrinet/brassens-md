@@ -4,56 +4,59 @@
 youTubeId: LWSEdlL8qIM
 ---
 
-[D]Est-il en notre temps, rien de [G]plus odieu[Em]x, De p[A7]lus [D]désespé[F#7]rant que de[Bm] n'pas cro[G]ire en Dieu [A7] [D]
+[D]Est-il en notre temps, [E]rien de plus odi[A7]eux, [D]De plus dé[F#7]sespé[Bm]rant que [G]de n'pas [A7]croire en [D]Dieu
 
-[D]J'voudrais avoir la foi, la foi[G] d'mon cha[Em]rbonnie[A7]r, Q[D]ui est [F#7]heureux com[Bm]me un pape[G] et con comm[A7]e un panier [D]
-
-
-[D]Mon voisin du dessus, un certain Blaise[G] Pascal, M[Em]'a gent[A7]imen[D]t donné[F#7] ce conseil[Bm] amical : [G] [A7] [D]
-
-[D]« Mettez-vous à genoux, priez et [G]implorez, [Em]Faites [A7]semb[D]lant de[F#7] croire et [Bm]bientôt vo[G]us croirez » [A7] [D]
+[D]J'voudrais avoir la foi, [E]la foi d'mon charbon[A7]nier, [D]Qui est heureux [F#7]comme un [Bm]pape et [G]con comme [A7]un pa[D]nier
 
 
-[D]J'me mis à débiter, les [G]rotules à [Em]terre, [A7]Tous[D] les Av[F#7]e Maria tou[Bm]s les Pate[G]r Noster [A7] [D]
+[D]Mon voisin du dessus, [E]un certain Blaise Pas[A7]cal, [D]M'a genti[F#7]ment don[Bm]né ce [G]conseil [A7]ami[D]cal :
 
-[D]Dans les rues les cafés, les trains [G]les autobu[Em]s, Tous[A7] les[D] De Pro[F#7]fundis tous[Bm] les Morpi[G]onnibus [A7] [D]
-
-
-[D]Sur ces entrefaites-là, trouvant dans [G]les orties[Em], Une s[A7]outa[D]ne à ma[F#7] taille je [Bm]m'en suis [G]travesti [A7] [D]
-
-[D]Et tonsuré de frais, ma guita[G]re à la ma[Em]in, Ver[A7]s la[D] foi sa[F#7]lvatrice je[Bm] me mis en[G] chemin [A7] [D]
+« [D]Mettez-vous à genoux, [E]priez et implo[A7]rez, [D]Faites sem[F#7]blant de [Bm]croire et [G]bientôt [A7]vous croi[D]rez »
 
 
-[D]J'tombai sur un boisseau, d'punaises de s[G]acristie, [Em]Me pren[A7]ant [D]pour un[F#7] autre en c[Bm]hœur elles[G] m'ont dit : [A7] [D]
+[D]J'me mis à débiter, [E]les rotules à [A7]terre, [D]Tous les A[F#7]ve Ma[Bm]ria tous [G]les Pa[A7]ter Nos[D]ter
 
-[D]« Mon père chantez-nous donc, quelque refrain sacr[G]é, Quelque[Em] sainte[A7] cha[D]nson do[F#7]nt vous ave[Bm]z l'secret[G] » [A7] [D]
-
-
-[D]Grattant avec ferveur, les cordes sous mes [G]doigts, J'[Em]entonna[A7]i « [D]Le gori[F#7]lle » avec [Bm]« Putain d[G]e toi » [A7] [D]
-
-[D]Criant à l'imposteur, au traître [G]au papelar[Em]d, Elle[A7]s ve[D]ulent m[F#7]e faire sub[Bm]ir le supp[G]lice d'Abéla[A7]rd [D]
+[D]Dans les rues les cafés, [E]les trains les auto[A7]bus, [D]Tous les De [F#7]Profun[Bm]dis tous [G]les Mor[A7]pionni[D]bus
 
 
-[D]Je vais grossir les rangs, des muet[G]s du sérai[Em]l, Les [A7]bell[D]es ne v[F#7]iendront pl[Bm]us se pend[G]re à mon poi[A7]trail [D]
+[D]Sur ces entrefaites-là, [E]trouvant dans les or[A7]ties, [D]Une soutane [F#7]à ma [Bm]taille je [G]m'en suis [A7]traves[D]ti
 
-[D]Grâce à ma voix coupée, j'aurai la place de [G]choix, Au [Em]milieu [A7]des [D]petits [F#7]chanteurs à[Bm] la croix [G]d'bois. [A7] [D]
-
-
-[D]Attirée par le bruit, une dam[G]e de chari[Em]té, Leu[A7]r di[D]t : « Q[F#7]ue faites-v[Bm]ous, malhe[G]ureuses ? Ar[A7]rêtez ! » [D]
-
-[D]« Y'a tant d'hommes aujourd'hui, qui ont un penchant pervers[G], À prendr[Em]e obsti[A7]néme[D]nt Cupi[F#7]don à l'env[Bm]ers » [G] [A7] [D]
+[D]Et tonsuré de frais, [E]ma guitare à la [A7]main, [D]Vers la foi [F#7]salva[Bm]trice je [G]me mis [A7]en che[D]min
 
 
-[D]« Tant d'hommes dépourvus, de leurs virils [G]appas, À c[Em]eux qui[A7] en [D]ont enc[F#7]ore ne les [Bm]enlevons p[G]as ». [A7] [D]
+[D]J'tombai sur un boisseau, [E]d'punaises de sacris[A7]tie, [D]Me prenant [F#7]pour un [Bm]autre en [G]chœur el[A7]les m'ont [D]dit :
 
-[D]Ces arguments massue firent une grosse impress[G]ion, On me[Em] laissa[A7] par[D]tir ave[F#7]c des ovati[Bm]ons [G] [A7] [D]
-
-
-[D]Mais sur l'chemin du ciel, je n'ferai p[G]lus un pas[Em], La fo[A7]i vi[D]endra d[F#7]'elle même [Bm]ou elle ne[G] viendra pas [A7] [D]
-
-[D]Je n'ai jamais tué, jamais v[G]iolé non p[Em]lus, Y'[A7]a dé[D]jà quel[F#7]ques temps [Bm]que je ne [G]vole plus [A7] [D]
+« [D]Mon père chantez-nous donc, [E]quelque refrain sa[A7]cré, [D]Quelque sain[F#7]te chan[Bm]son dont [G]vous a[A7]vez l'se[D]cret »
 
 
-[D]Si l'Éternel existe, en fin de [G]compte il [Em]voit, Q[A7]u'je[D] m'cond[F#7]uis guère p[Bm]lus mal qu[G]e si j'avais[A7] la foi. [D]
+[D]Grattant avec ferveur, [E]les cordes sous mes [A7]doigts, [D]J'entonnai « [F#7]Le go[Bm]rille » a[G]vec « Pu[A7]tain de [D]toi »
+
+[D]Criant à l'imposteur, [E]au traître au pape[A7]lard, [D]Elles veulent me [F#7]faire su[Bm]bir le [G]supplice [A7]d'Abé[D]lard
 
 
+[D]Je vais grossir les rangs, [E]des muets du sé[A7]rail, [D]Les belles ne [F#7]viendront [Bm]plus se [G]pendre à [A7]mon poi[D]trail
+
+[D]Grâce à ma voix coupée, [E]j'aurai la place de [A7]choix, [D]Au milieu [F#7]des pe[Bm]tits chan[G]teurs à [A7]la croix d'[D]bois.
+
+
+[D]Attirée par le bruit, [E]une dame de chari[A7]té, [D]Leur dit : « Que [F#7]faites-[Bm]vous, mal[G]heureuses ? [A7]Arrê[D]tez ! »
+
+« [D]Y'a tant d'hommes aujourd'hui, [E]qui ont un penchant per[A7]vers, [D]À prendre ob[F#7]stiné[Bm]ment Cu[G]pidon [A7]à l'en[D]vers »
+
+
+« [D]Tant d'hommes dépourvus, [E]de leurs virils ap[A7]pas, [D]À ceux qui en [F#7]ont en[Bm]core ne [G]les en[A7]levons [D]pas ».
+
+[D]Ces arguments massue [E]firent une grosse impres[A7]sion, [D]On me lais[F#7]sa par[Bm]tir a[G]vec des [A7]ova[D]tions
+
+
+[D]Mais sur l'chemin du ciel, [E]je n'ferai plus un [A7]pas, [D]La foi vien[F#7]dra d'elle [Bm]même ou [G]elle ne [A7]viendra [D]pas
+
+[D]Je n'ai jamais tué, [E]jamais violé non [A7]plus, [D]Y'a déjà [F#7]quelques [Bm]temps que [G]je ne [A7]vole [D]plus
+
+
+[D]Si l'Éternel existe, [E]en fin de compte il [A7]voit, [D]Qu'je m'conduis [F#7]guère plus [Bm]mal que [G]si j'a[A7]vais la [D]foi.
+
+### Notes
+
+ * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=LWSEdlL8qIM
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Mecreant.php?titre=%28Le%29+m%C3%A9cr%C3%A9ant

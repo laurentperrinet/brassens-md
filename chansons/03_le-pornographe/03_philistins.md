@@ -1,20 +1,22 @@
 ## Philistins
 
 
-[Bm]Philistins, épici[Em]ers, Tandis que [Bm]vous caressiez, [C#7]Vos f[F#7]emmes [Bm] [A] [G] [F#]
+Philis[Bm]tins, épi[Em]ciers, Tandis [Bm]que vous cares[C#7]siez,[F#7] Vos [Bm]femmes[F#]
 
-En songeant[Bm] aux petits, Qu[Em]e vos grossiers [Bm]appétits, [C#7]Engen[F#7]drent [Bm]
+[G][A]En son[Bm]geant aux pe[Em]tits, Que vos [Bm]grossiers appé[C#7]tits,[F#7] En[Bm]gendrent
 
-Vous pensiez : [Em]« Ils seront, [A7]Menton rasé, vent[D]re rond, Notaires[Bm] » [C#7] [F#7]
+Vous pen[Em]siez : « Ils se[A7]ront, Menton [D]rasé, ventre [Bm]rond, No[C#7]taires[F#7] »
 
-Mais pour bien v[Em]ous punir, Un [A]jour vous voyez v[D]enir, Sur terre [Bm] [C#7] [F#7]
+Mais pour [Em]bien vous pu[A7]nir, Un jour [D]vous voyez ve[Bm]nir, Sur [C#7]terre[F#7]
 
-Des enfants[Bm] non voulus, Qui[Em] deviennent c[Bm]hevelus, [C#7]Poète[F#7]s... [Bm]
+Des en[Bm]fants non vou[Em]lus, Qui de[Bm]viennent cheve[C#7]lus,[F#7] Po[Bm]ètes...
 
-Vous pensiez : [Em]« Ils seront, [A7]Menton rasé, vent[D]re rond, Notaires[Bm] » [C#7] [F#7]
+Vous pen[Em]siez : « Ils se[A7]ront, Menton [D]rasé, ventre [Bm]rond, No[C#7]taires[F#7] »
 
-Mais pour bien v[Em]ous punir, Un [A7]jour vous voyez v[D]enir, Sur terre [Bm] [C#7] [F#7]
+Mais pour [Em]bien vous pu[A7]nir, Un jour [D]vous voyez ve[Bm]nir, Sur [C#7]terre[F#7]
 
-Des enfants[Bm] non voulus, Qui[Em] deviennent c[Bm]hevelus, [C#7]Poète[F#7]s... [Bm] [F#7] [Bm]
+Des en[Bm]fants non vou[Em]lus, Qui de[Bm]viennent cheve[C#7]lus,[F#7] Po[Bm]ètes...[Bm]
 
+### Notes
 
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Philistins.php?titre=Philistins

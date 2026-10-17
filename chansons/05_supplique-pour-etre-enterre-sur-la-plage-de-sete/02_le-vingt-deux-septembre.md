@@ -1,40 +1,42 @@
 ## Le vingt-deux septembre
 
 
-[D]Un vingt-e-deux septembre au diable vous partîtes, Et, depuis, cha[F#7]que a[Bm]nnée, à la date susdite, [F#7]
+[D]Un vingt-e-deux septembre au diable vous par[F#7]tîtes,[Bm] Et, depuis, chaque année, à la date sus[F#7]dite,
 
-[Bm]Je mouill[E7]ais mon mouchoir e[A]n s[F#7]ouven[Bm]ir de[E7] vous[A7]... Or, n[D]ous y revoilà, mais je reste de pierre, [F#7]
+[Bm]Je mouil[E7]lais mon mou[A]choir [Bm][F#7]en sou[E7]venir de [A7]vous... [D]Or, nous y revoilà, mais je reste de [F#7]pierre,
 
-[Bm]Plus une seule larme à me mettre aux paupières : Le vingt-e[F#7]-deux se[Bm]ptembre, au[E7]jourd'hui, je[A] m'en [F#7]fous. [Bm] [E7] [A]
-
-
-On ne reverra plus, au temps des feuilles mortes, Cette âme en peine qui me ressemble et qui porte
-
-Le deuil de chaque feuille en souvenir de vous... Que le brave Prévert et ses escargots veuillent
-
-Bien se passer de moi, pour enterrer les feuilles : Le vingt-e-deux septembre, aujourd'hui, je m'en fous.
+[Bm]Plus une seule larme à me mettre aux pau[F#7]pières[Bm] : Le vingt-[E7]e-deux sep[A]tembre, [F#7]aujourd'[Bm]hui, [E7]je m'en [A]fous.
 
 
-Jadis, ouvrant mes bras comme une paire d'ailes, Je montais jusqu'au ciel pour suivre l'hirondelle
+[D]On ne reverra plus, au temps des feuilles [F#7]mortes,[Bm] Cette âme en peine qui me ressemble et qui [F#7]porte
 
-Et me rompais les os en souvenir de vous... Le complexe d'Icare à présent m'abandonne,
+[Bm]Le deuil [E7]de chaque [A]feuille [Bm][F#7]en sou[E7]venir de [A7]vous... [D]Que le brave Prévert et ses escargots [F#7]veuillent
 
-L'hirondelle en partant ne fera plus l'automne : Le vingt-e-deux septembre, aujourd'hui, je m'en fous.
-
-
-Pieusement noué d'un bout de vos dentelles, J'avais, sur ma fenêtre, un bouquet d'immortelles
-
-Que j'arrosais de pleurs en souvenir de vous... Je m'en vais les offrir au premier mort qui passe,
-
-Les regrets éternels à présent me dépassent : Le vingt-e-deux septembre, aujourd'hui, je m'en fous.
+[Bm]Bien se passer de moi, pour enterrer les [F#7]feuilles[Bm] : Le vingt-[E7]e-deux sep[A]tembre, [F#7]aujourd'[Bm]hui, [E7]je m'en [A]fous.
 
 
-Désormais, le petit bout de cœur qui me reste, Ne traversera plus l'équinoxe funeste
+[D]Jadis, ouvrant mes bras comme une paire [F#7]d'ailes,[Bm] Je montais jusqu'au ciel pour suivre l'hiron[F#7]delle
 
-En battant la breloque en souvenir de vous... Il a craché sa flamme et ses cendres s'éteignent,
+[Bm]Et me [E7]rompais les [A]os [Bm][F#7]en sou[E7]venir de [A7]vous... [D]Le complexe d'Icare à présent m'aban[F#7]donne,
 
-[Bm]A peine y pourrait-on rôtir quatre châtaignes : Le ving[F#7]t-e-deux[Bm] septembre,[E7] aujourd'hui,[Am7] je m'en[Dm] fous. [G7] [C]
-
-Et c'est triste de n'être plus triste sans vous [E7] [A]
+[Bm]L'hirondelle en partant ne fera plus l'au[F#7]tomne[Bm] : Le vingt-[E7]e-deux sep[A]tembre, [F#7]aujourd'[Bm]hui, [E7]je m'en [A]fous.
 
 
+[D]Pieusement noué d'un bout de vos den[F#7]telles,[Bm] J'avais, sur ma fenêtre, un bouquet d'immor[F#7]telles
+
+[Bm]Que j'ar[E7]rosais de [A]pleurs [Bm][F#7]en sou[E7]venir de [A7]vous... [D]Je m'en vais les offrir au premier mort qui [F#7]passe,
+
+[Bm]Les regrets éternels à présent me dé[F#7]passent[Bm] : Le vingt-[E7]e-deux sep[A]tembre, [F#7]aujourd'[Bm]hui, [E7]je m'en [A]fous.
+
+
+[D]Désormais, le petit bout de cœur qui me [F#7]reste,[Bm] Ne traversera plus l'équinoxe fu[F#7]neste
+
+[Bm]En bat[E7]tant la bre[A]loque [Bm][F#7]en sou[E7]venir de [A7]vous... [D]Il a craché sa flamme et ses cendres s'é[F#7]teignent,
+
+[Bm]À peine y pourrait-on rôtir quatre châ[F#7]taignes[Bm] : Le vingt-[E7]e-deux sep[Am7]tembre, [Dm]aujourd'[G7]hui, je m'en [C]fous.
+
+Et c'est triste de n'être plus triste [E7]sans [A]vous
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Vingt.Deux.Septembre.php?titre=%28Le%29+vingt-deux+septembre

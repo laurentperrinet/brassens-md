@@ -1,82 +1,84 @@
 ## Pénélope
 
 
-[C]Toi l'épouse modèle, [Am]le g[F]rillon du foyer, [G7]
+[D]Toi l'épouse mo[Bm]dèle, [G]le grillon du fo[A7]yer,[D]
 
-[C]Toi qui n'as point d'accrocs dans ta robe de mari[A7]ée,
+Toi qui n'as point d'ac[Am]crocs dans ta [B7]robe de mariée,[Em]
 
-[Dm]Toi l'intraitable Péné[E7]lope
+Toi l'in[G]traitable Péné[F#7]lope
 
-E[Dm]n suivant ton pet[G7]it bonhomm[C]e de bonheur, [F]
+[G]En suivant ton pe[A7]tit bo[D]nhomme de bo[Bm]nheur,[F#7]
 
-[Dm]Ne berces-tu jamais [E7]en tou[Am]t bien tout honneur
+Ne berces-tu jamais [Bm]en tout bien tout honneur
 
-De jol[Dm]ies pensées[E7] interlopes[Am] ? [A7]
+De [G]jolies pen[A]sées inter[Am]lopes[B7] ?
 
-De jol[Dm]ies pensées[E7] interlopes[Am] ? [G7]
-
-
-Derrière tes rideaux, dans ton juste milieu,
-
-En attendant l'retour d'un Ulysse de banlieue,
-
-Penchée sur tes travaux de toile,
-
-Les soirs de vague à l'âme et de mélancolie
-
-N'as-tu jamais en rêve au ciel d'un autre lit
-
-Compté de nouvelles étoiles ?
-
-Compté de nouvelles étoiles ?
+De [G]jolies pen[F#7]sées inter[Bm]lopes[A7] ?
 
 
-N'as-tu jamais encore appelé de tes vœux
+[D]Derrière tes ri[Bm]deaux, [G]dans ton juste mi[A7]lieu,[D]
 
-L'amourette qui passe, qui vous prend aux cheveux ?
+En attendant l're[Am]tour d'un U[B7]lysse de banlieue,[Em]
 
-Qui vous compte des bagatelles
+Penchée sur [G]tes travaux de [F#7]toile,
 
-Qui met la marguerite au jardin potager,
+[G]Les soirs de vague à [A7]l'âme [D]et de mélanco[Bm]lie[F#7]
 
-La pomme défendue aux branches du verger,
+N'as-tu jamais en rêve [Bm]au ciel d'un autre lit
 
-Et le désordre à vos dentelles ?
+Comp[G]té de nou[A]velles é[Am]toiles[B7] ?
 
-Et le désordre à vos dentelles ?
+Comp[G]té de nou[F#7]velles é[Bm]toiles[A7] ?
 
 
-N'as-tu jamais souhaité de revoir en chemin
+[D]N'as-tu jamais en[Bm]core [G]appelé de tes [A7]vœux[D]
 
-Cet ange, ce démon, qui son arc à la main
+L'amourette qui [Am]passe, qui vous [B7]prend aux cheveux[Em] ?
 
-Décoche des flèches malignes ?
+Qui vous comp[G]te des baga[F#7]telles
 
-Qui rend leur chair de femme
+[G]Qui met la margue[A7]rite [D]au jardin pota[Bm]ger,[F#7]
 
-Aux plus froides statues,
+La pomme défendue [Bm]aux branches du verger,
+
+Et [G]le désordre [A]à vos den[Am]telles[B7] ?
+
+Et [G]le désordre [F#7]à vos den[Bm]telles[A7] ?
+
+
+[D]N'as-tu jamais souhai[Bm]té [G]de revoir en che[A7]min[D]
+
+Cet ange, ce dé[Am]mon, qui son [B7]arc à la main[Em]
+
+Décoche [G]des flèches ma[F#7]lignes ?
+
+[G]Qui rend leur chair de [A7]femme
+
+[D]Aux plus froides sta[Bm]tues,[F#7]
 
 Les bascule de leur socle
 
-Bouscule leur vertu,
+Bous[Bm]cule leur vertu,
 
-Arrache leur feuille de vigne,
+Ar[G]rache leur [A]feuille de [Am]vigne,[B7]
 
-Arrache leur feuille de vigne.
-
-
-N'ait crainte que le ciel, ne t'en tienne rigueur,
-
-Il n'y a vraiment pas là de quoi fouetter un cœur
-
-Qui bat la campagne et galope
-
-C'est la faute commune et le péché véniel,
-
-C'est la face cachée de la lune de miel
-
-Et la rançon de Pénélope...
-
-Et la rançon de Pénélope.
+Ar[G]rache leur [F#7]feuille de [Bm]vigne.[A7]
 
 
+[D]N'ait crainte que le [Bm]ciel, [G]ne t'en tienne ri[A7]gueur,[D]
+
+Il n'y a vraiment pas [Am]là de quoi [B7]fouetter un cœur[Em]
+
+Qui bat la [G]campagne et ga[F#7]lope
+
+[G]C'est la faute com[A7]mune [D]et le péché vé[Bm]niel,[F#7]
+
+C'est la face cachée de [Bm]la lune de miel
+
+Et [G]la rançon [A]de Péné[Am]lope...[B7]
+
+Et [E]la rançon [A7]de Péné[D]lope.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Penelope.php?titre=P%C3%A9n%C3%A9lope

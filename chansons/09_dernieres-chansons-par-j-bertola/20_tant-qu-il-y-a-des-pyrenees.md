@@ -1,67 +1,68 @@
 ## Tant qu'il y a des Pyrénées
 
 
-[Em]Frapper le gros Mussolini, [B7]Même avec[Em] un macaroni, [B7]
+[Em]Frapper le [C]gros Mus[F#]soli[B7]ni, [Em]Même avec [C]un ma[F#]caro[B7]ni,
 
-Le [Em]Romain qui jouait à ça, Se voyait privé de[Am7] pizza. [B7] [Em]
+Le [Em]Romain qui jouait à ça, Se [Am7]voyait pri[B7]vé de piz[Em]za.
 
-[Dm]Après le Frente Popul[A7]ar, L'hidal[Dm]go non capitulard [A7]
+[Dm]Après le Frente [A7]Popular, [Dm]L'hidalgo non ca[A7]pitulard
 
-Q[Am]ui s'avisait de dire « niet », Mourait au son des [B7]castagnettes. [E7]
-
-
-[G7]J'ai co[C]nspué Franco la guitare [G7]en bataille, [C]
-
-Durant pas mal d'an[A7]nées (Bis) [Dm] [A7] [Dm]
-
-Faut dire[E7] qu'entre nous deux, simple petit détail, [Am] [E7] [Am]
-
-Y'ava[F]it les Pyr[C]éné[Bb7]es ! [A7](Bis) [D] [G7] [C]
+[Am]Qui s'avisait de dire « niet », Mou[B7]rait au son des casta[E7]gnettes.
 
 
-[Em]Qui crachait sur la croix g[B7]ammée, Dans une mi[Em]ne était sommé [B7]
+[G7]J'ai [C]conspué Franco la gui[C]tare en bataille,
 
-De d[Em]escendre extraire du sel, Pour assaisonner[Am7] les bre[B7]tzels. [Em]
+Durant pas [A7]mal d'années (Bis)
 
-[Dm]Avant que son jour ne décli[A7]ne, Qui s'é[Dm]levait contre Staline [A7]
+Faut [E7]dire qu'entre nous deux, simple pe[Am]tit [E7]dé[Am]tail,
 
-[Am]Filait manu militari, Aux sport[B7]s d'hiver en Sibérie [E7]
-
-
-J[G7]'ai con[C]spué Franco la guitare e[G7]n bataille, [C]
-
-Durant pas mal d'an[A7]nées (Bis) [Dm] [A7] [Dm]
-
-Faut dire[E7] qu'entre nous deux, simple petit détail, [Am] [E7] [Am]
-
-Y'ava[F]it les Py[C]rén[Bb7]ées ![A7] (Bis) [D] [G7] [C]
+Y'[F]avait les [C]Py[Bb7]ré[A7]nées ! (Bis)
 
 
-[Em]Aux quatre coins du monde e[B7]ncore, Qui se lève et [Em]crie : « Pas d'accord ! » [B7]
+[Em]Qui crachait [C]sur la [F#]croix gam[B7]mée, [Em]Dans une [C]mine é[F#]tait som[B7]mé
 
-En u[Em]n tournemain se fait cou-Per le sifflet, t[Am7]ordre le[B7] cou. [Em]
+De [Em]descendre extraire du sel, Pour [Am7]assaison[B7]ner les bret[Em]zels.
 
-[Dm]Dans mon village, on peut à l[A7]'heure, Qu'il est, [Dm]sans risque de malheur, [A7]
+[Dm]Avant que son jour [A7]ne décline, [Dm]Qui s'élevait con[A7]tre Staline
 
-[Am]Brandir son drapeau quel qu'il soit, Mais jusques [B7]à quand ? Chi lo sà ? [E7]
-
-
-[G7]J'ai co[C]nspué Franco la guitare [G7]en bataille, [C]
-
-Durant pas mal d'an[A7]nées (Bis) [Dm] [A7] [Dm]
-
-Faut dire[E7] qu'entre nous deux, simple petit détail, [Am] [E7] [Am]
-
-Y'ava[F]it les Py[C]rén[Bb7]ées ![A7] (Bis) [D] [G7] [C]
+[Am]Filait manu militari, Aux [B7]sports d'hiver en Sibé[E7]rie
 
 
-[A7]S'eng[D]ager par le mot, trois couplets un[A7] refrain, [D]
+[G7]J'ai [C]conspué Franco la gui[C]tare en bataille,
 
-Par le biais du mic[B7]ro, (Bis) [Em] [B7] [Em]
+Durant pas [A7]mal d'années (Bis)
 
-Ça s'fa[F#7]it sur une jambe et ça n'engage à rien, [Bm] [F#7] [Bm]
+Faut [E7]dire qu'entre nous deux, simple pe[Am]tit [E7]dé[Am]tail,
 
-Et peut rapporter[D] gr[C7]os. [B7](Bis) [E7] [A7] [D] [A7] [D]
+Y'[F]avait les [C]Py[Bb7]ré[A7]nées ! (Bis)
 
 
+[Em]Aux quatre [C]coins du [F#]monde en[B7]core, [Em]Qui se lève [C]et crie : « [F#]Pas d'ac[B7]cord ! »
 
+En [Em]un tournemain se fait cou-Per [Am7]le sifflet, [B7]tordre le [Em]cou.
+
+[Dm]Dans mon village, on [A7]peut à l'heure, [Dm]Qu'il est, sans risque [A7]de malheur,
+
+[Am]Brandir son drapeau quel qu'il soit, Mais [B7]jusques à quand ? Chi lo [E7]sà ?
+
+
+[G7]J'ai [C]conspué Franco la gui[C]tare en bataille,
+
+Durant pas [A7]mal d'années (Bis)
+
+Faut [E7]dire qu'entre nous deux, simple pe[Am]tit [E7]dé[Am]tail,
+
+Y'[F]avait les [C]Py[Bb7]ré[A7]nées ! (Bis)
+
+
+[A7]S'en[D]gager par le mot, trois [A7]couplets un re[D]frain,
+
+Par le biais [B7]du micro, (Bis)
+
+Ça [F#7]s'fait sur une jambe et ça n'en[Bm]gage [F#7]à [Bm]rien,
+
+Et peut rap[D]por[C7]ter [B7]gros. (Bis)
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Tant.Qu.Il.Y.A.Des.Pyrenees.php?titre=Tant+qu%27il+y+a+des+Pyr%C3%A9n%C3%A9es

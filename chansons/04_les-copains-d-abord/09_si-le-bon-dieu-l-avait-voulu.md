@@ -1,18 +1,20 @@
 ## Si le bon Dieu l'avait voulu
 
 
-[Am]Si le Bon Dieu l'av[G7]ait voulu -[C] Lanturlurette[Am], Lantu[G7]rlu, J[C]'aurais connu l[F]a Cléopâ[E7]tre, Et [Am]je ne t'aurais[E7] pas connue. [Am]
+[Am]Si le Bon Dieu [G7]l'avait vou[C]lu - Lantur[Am]lurette, [G7]Lantur[C]lu, J'aurais [F]connu [E7]la Cléo[Am]pâtre, Et je [E7]ne t'aurais pas con[Am]nue.[G7]
 
-J'aurais connu la Clé[G7]opâtre, E[C]t je ne t'aura[Am]is pas connue[G7]. Sans to[C]n amour que j'idol[F]âtre, Las[E7] ! Que f[Am]ussé-je devenu ? [E7] [Am]
-
-
-[F]Si le Bon Dieu l'avait v[E7]oulu, J'aurais[A7] connu la Messaline, A[D]gnès, Odette et[G7] Mélusine, Et je ne t'a[C]urais pas con[F7]nue. [Bb]
-
-[F]J'aurais connu la Pompad[E7]our, Noémi, Sara[A7]h, Rebecca, La Fille[D] du Royal Tam[G7]bour, et la Mogado[C]r et Clara. [F7] [Bb] [E7]
+J'aurais [C]connu [G7]la Cléo[C]pâtre, Et je [Am]ne t'aurais [G7]pas con[C]nue. Sans ton [F]amour [E7]que j'ido[Am]lâtre, Las ! Que [E7]fussé-je deve[Am]nu ?
 
 
-[Am]Mais le Bon Dieu n'a pas[G7] voulu, Que [C]je connaisse le[Am]ur amour, Je[G7] t'ai [C]connue, tu m'as[F] connu, Gloi[E7]re à Die[Am]u au plus haut des n[E7]ues ! [Am]
+[F]Si le Bon Dieu l'a[E7]vait voulu, [A7]J'aurais connu la [D]Messaline, [G7]Agnès, Odette et [C]Mélusine, [F7]Et je ne t'aurais [Bb]pas connue.
 
-Las ! Que fussé-je de[G7]venu, Sans [C]toi la nuit, sans to[Am]i le jour, J[G7]e t'ai[C] connue, tu m[F]'as connu, G[E7]loire à [Am]Dieu au plus haut de[E7]s nues ! [Am] [E7] [Am]
+[F]J'aurais connu la [E7]Pompadour, [A7]Noémi, Sarah, [D]Rebecca, [G7]La Fille du Ro[C]yal Tambour, [F7]et la Mogador [Bb]et Cla[E7]ra.
 
 
+Mais le [Am]Bon Dieu [G7]n'a pas vou[C]lu, Que je [Am]connaisse [G7]leur a[C]mour, Je t'ai [F]connue, [E7]tu m'as con[Am]nu, Gloire à [E7]Dieu au plus haut des [Am]nues[G7] !
+
+Las ! Que [C]fussé-[G7]je deve[C]nu, Sans toi [Am]la nuit, sans [G7]toi le [C]jour, Je t'ai [F]connue, [E7]tu m'as con[Am]nu, Gloire à [E7]Dieu au plus haut des [Am]nues[Am] !
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Si.Le.Bon.Dieu.L.Avait.Voulu.php?titre=Si+le+Bon+Dieu+l%27avait+voulu

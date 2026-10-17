@@ -1,58 +1,60 @@
 ## Oncle Archibald
 
 
-O vous, les [C]arracheurs de dents, Tous les cafards, les charlatans, Les pro[F]phè[G7]tes [C]
+[G]O vous, les [C]arracheurs de dents, Tous les cafards, les charlatans, Les pro[F]phè[C]tes[C7]
 
-[C7]Comptez plus [F]sur oncle Archibald, Pour payer [E]les violons du [Am]bal, A vos [Dm]fê--[G7]ê----[C]tes, A vos [Dm]fê---[G7]ê----[C]tes
-
-
-En courant sus à un voleur, Qui venait de lui chiper l'heure, A sa montre
-
-Oncle Archibald, coquin de sort ! Fit, de Sa Majesté la Mort, La rencontre, La rencontre
+Comptez plus [F]sur oncle Archibald, Pour payer [E7]les violons du [Am]bal, À vos [Dm]fê--[G7]ê----[C]tes, À vos [Dm]fê---[G7]ê----[C]tes
 
 
-Telle une femme de petite vertu, Elle arpentait le trottoir du, Cimetière
+[G]En courant [C]sus à un voleur, Qui venait de lui chiper l'heure, À sa [F]mon[C]tre[C7]
 
-Aguichant les hommes en troussant, Un peu plus haut qu'il n'est décent, Son suaire, Son suaire
-
-
-Oncle Archibald, d'un ton gouailleur, Lui dit : « Va-t'en faire pendre ailleurs, Ton squelette
-
-Fi ! des femelles décharnées ! Vive les belles un tantinet, Rondelettes ! Rondelettes ! »
+Oncle Archi[F]bald, coquin de sort ! Fit, de Sa [E7]Majesté la [Am]Mort, La ren[Dm]con[C]tre, La ren[Dm]con[C]tre
 
 
-Lors, montant sur ses grands chevaux, La Mort brandit la longue faux, D'agronome
+[G]Telle une femme [C]de petite vertu, Elle arpentait le trottoir du, Cimeti[F]è[C]re[C7]
 
-Qu'elle serrait dans son linceul, Et faucha d'un seul coup, d'un seul, Le bonhomme, Le bonhomme
-
-
-Comme il n'avait pas l'air content, Elle lui dit : « Ça fait longtemps, Que je t'aime
-
-Et notre hymen à tous les deux, Etait prévu depuis le jour de, Ton baptême, Ton baptême
+Aguichant [F]les hommes en troussant, Un peu plus [E7]haut qu'il n'est dé[Am]cent, Son su[Dm]ai[C]re, Son su[Dm]ai[C]re
 
 
-« Si tu te couches dans mes bras, Alors la vie te semblera, Plus facile
+[G]Oncle Archi[C]bald, d'un ton gouailleur, Lui dit : « Va-t'en faire pendre ailleurs, Ton sque[F]le[C]tte[C7]
 
-Tu y seras hors de portée, Des chiens, des loups, des hommes et des, Imbéciles, Imbéciles
-
-
-« Nul n'y contestera tes droits, Tu pourras crier « Vive le roi ! » Sans intrigue
-
-Si l'envie te prend de changer, Tu pourras crier sans danger « Vive la Ligue ! Vive la Ligue ! »
+Fi ! des fe[F]melles décharnées ! Vive les [E7]belles un tanti[Am]net, Ronde[Dm]l[G7]et[C]tes ! Ronde[Dm]let[C]tes ! »
 
 
-« Ton temps de dupe est révolu, Personne ne se paiera plus Sur ta bête
+[G]Lors, montant [C]sur ses grands chevaux, La Mort brandit la longue faux, D'agron[F]o[C]me[C7]
 
-Les « Plaît-il, maître ? » n'auront plus cours, Plus jamais tu n'auras à cour- ber la tête -ber la tête »
-
-
-Et mon oncle emboîta le pas, De la belle, qui ne semblait pas, Si féroce
-
-Et les voilà, bras d'ssus, bras d'ssous, Les voilà partis je n'sais où, Faire leurs noces, Faire leurs noces
+Qu'elle ser[F]rait dans son linceul, Et faucha [E7]d'un seul coup, [Am]d'un seul, Le bo[Dm]nhom[C]me, Le bo[Dm]nhom[C]me
 
 
-O vous, les arracheurs de dents, Tous les cafards, les charlatans, Les prophètes
+[G]Comme il n'a[C]vait pas l'air content, Elle lui dit : « Ça fait longtemps, Que je [F]t'ai[C]me[C7]
 
-Comptez plus sur oncle Archibald, Pour payer les violons du bal, A vos fêtes, A vos fêtes
+Et notre hy[F]men à tous les deux, Etait pré[E7]vu depuis le jour [Am]de, Ton bapt[Dm]ê[C]me, Ton bap[Dm]tê[C]me
 
 
+« [G]Si tu te [C]couches dans mes bras, Alors la vie te semblera, Plus fa[F]ci[C]le[C7]
+
+Tu y se[F]ras hors de portée, Des chiens, des [E7]loups, des hommes et [Am]des, Imbé[Dm]c[G7]i[C]les, Imbé[Dm]ci[C]les
+
+
+« [G]Nul n'y con[C]testera tes droits, Tu pourras crier « Vive le roi ! » Sans in[F]tri[C]gue[C7]
+
+Si l'envie [F]te prend de changer, Tu pourras [E7]crier sans dan[Am]ger « Vive la [Dm]L[G7]i[C]gue ! Vive la [Dm]L[G7]i[C]gue ! »
+
+
+« [G]Ton temps de [C]dupe est révolu, Personne ne se paiera plus Sur ta [F]bê[C]te[C7]
+
+Les « Plaît-il, [F]maître ? » n'auront plus cours, Plus jamais [E7]tu n'auras à [Am]cour- ber la [Dm]t[G7]ê[C]te -ber la [Dm]t[G7]ê[C]te »
+
+
+[G]Et mon oncle [C]emboîta le pas, De la belle, qui ne semblait pas, Si fé[F]ro[C]ce[C7]
+
+Et les voi[F]là, bras d'ssus, bras d'ssous, Les voilà [E7]partis je n'sais [Am]où, Faire leurs [Dm]n[G7]o[C]ces, Faire leurs [Dm]n[G7]o[C]ces
+
+
+[G]O vous, les [C]arracheurs de dents, Tous les cafards, les charlatans, Les proph[F]è[C]tes[C7]
+
+Comptez plus [F]sur oncle Archibald, Pour payer [E7]les violons du [Am]bal, À vos [Dm]f[G7]ê[C]tes, A vos [Dm]f[G7]ê[C]tes
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Oncle.Archibald.php?titre=Oncle+Archibald

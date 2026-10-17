@@ -1,58 +1,60 @@
 ## Misogynie à part
 
 
-[G]
-Misogyni[D7]e à part, le sage avait raison, Il y a les emmerdantes,[E] on en trouve à foison, En foule elles se pressent [A7] [D]
 
-Il y a l[D7]es emmerdeuses, un peu plus raffinées, Et puis, très nettement au-des[E]sus du panier, Y'a les emmerderesses [A7] [D7] [G]
+Miso[D7]gynie à part, le sage avait raison, Il y a [E]les emmerdantes, on en trouve à foison, En foule [A7]elles se pres[D]sent
 
-
-La mienne, à elle seule, sur toutes surenchérit, Elle relève à la fois des trois catégories, Véritable prodige
-
-Emmerdante, emmerdeuse, emmerderesse itou, Elle passe, elle dépasse, elle surpasse tout,
-
-Elle m'emmerde, vous dis-je
+Il y a [D7]les emmerdeuses, un peu plus raffinées, Et puis, [E]très nettement au-dessus du panier, Y'a les [A7]emmerderes[G]ses
 
 
-Mon Dieu, pardonnez-moi ces propos bien amers, Elle m'emmerde, elle m'emmerde, elle m'emmerde, elle m'emmerde, elle abuse, elle attige
+La mienne, [D7]à elle seule, sur toutes surenchérit, Elle re[E]lève à la fois des trois catégories, Véri[A7]table prodi[D]ge
 
-Elle m'emmerde et j'regrette mes belles amours avec, La p'tite enfant d'Marie que m'a soufflée l'évêque,
+Emmer[D7]dante, emmerdeuse, emmerderesse itou, Elle [E]passe, elle dépasse, elle surpasse tout,
 
-Elle m'emmerde, vous dis-je
-
-
-Elle m'emmerde, elle m'emmerde, et m'oblige à me cu- rer les ongles avant de confirmer son cul, Or, c'est pas callipyge
-
-Et la charité seule pousse ma main résignée, Vers ce cul rabat-joie, conique, renfrogné,
-
-Elle m'emmerde, vous dis-je
+Elle m'em[A7]merde, vous dis-[G]je
 
 
-Elle m'emmerde, elle m'emmerde, je le répète et quand, Elle me tape sur le ventre, elle garde ses gants, Et ça me désoblige
+Mon Dieu, [D7]pardonnez-moi ces propos bien amers, Elle m'em[E]merde, elle m'emmerde, elle m'emmerde, elle m'emmerde, elle a[A7]buse, elle atti[D]ge
 
-Outre que ça dénote un grand manque de tact, Ça n'favorise pas tellement le contact,
+Elle m'em[D7]merde et j'regrette mes belles amours avec, La p'tite [E]enfant d'Marie que m'a soufflée l'évêque,
 
-Elle m'emmerde, vous dis-je
-
-
-Elle m'emmerde, elle m'emmerde , quand je tombe à genoux, Pour certaines dévotions qui sont bien de chez nous Et qui donnent le vertige
-
-Croyant l'heure venue de chanter le credo, Elle m'ouvre tout grand son missel sur le dos
-
-Elle m'emmerde, vous dis-je
+Elle m'em[A7]merde, vous dis-[G]je
 
 
-Elle m'emmerde, elle m'emmerde, à la fornication, Elle s'emmerde, elle s'emmerde avec ostentation Elle s'emmerde, vous dis-je
+Elle m'em[D7]merde, elle m'emmerde, et m'oblige à me cu- rer les [E]ongles avant de confirmer son cul, Or, c'est [A7]pas callipy[D]ge
 
-Au lieu de s'écrier: « Encor ! Hardi ! Hardi ! », Elle déclame du Claudel, du Claudel, j'ai bien dit
+Et la [D7]charité seule pousse ma main résignée, Vers ce [E]cul rabat-joie, conique, renfrogné,
 
-Alors ça, ça me fige
-
-
-Elle m'emmerde, elle m'emmerde, j'admets que ce Claudel, Soit un homme de génie, un poète immortel, J'reconnais son prestige
-
-Mais qu'on aille chercher dedans son œuvre pie, Un aphrodisiaque, non, ça, c'est d'l'utopie,
-
-Elle m'emmerde, vous dis-je
+Elle m'em[A7]merde, vous dis-[G]je
 
 
+Elle m'em[D7]merde, elle m'emmerde, je le répète et quand, Elle me [E]tape sur le ventre, elle garde ses gants, Et ça [A7]me désobli[D]ge
+
+Outre [D7]que ça dénote un grand manque de tact, Ça n'fa[E]vorise pas tellement le contact,
+
+Elle m'em[A7]merde, vous dis-[G]je
+
+
+Elle m'em[D7]merde, elle m'emmerde , quand je tombe à genoux, Pour cer[E]taines dévotions qui sont bien de chez nous Et qui [A]donnent le verti[D]ge
+
+Croyant [D7]l'heure venue de chanter le credo, Elle [E]m'ouvre tout grand son missel sur le dos
+
+Elle m'em[A7]merde, vous dis-[G]je
+
+
+Elle m'em[D7]merde, elle m'emmerde, à la fornication, Elle s'em[E]merde, elle s'emmerde avec ostentation Elle s'em[A7]merde, vous dis-[D]je
+
+Au lieu [D7]de s'écrier: « Encor ! Hardi ! Hardi ! », Elle dé[E]clame du Claudel, du Claudel, j'ai bien dit
+
+Alors [A7]ça, ça me f[D7]i[G]ge
+
+
+Elle m'em[D7]merde, elle m'emmerde, j'admets que ce Claudel, Soit un [E]homme de génie, un poète immortel, J'recon[A7]nais son presti[D]ge
+
+Mais qu'on [D7]aille chercher dedans son œuvre pie, Un a[E]phrodisiaque, non, ça, c'est d'l'utopie,
+
+Elle m'em[A7]merde, vous dis-[G]je
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Misogynie.A.Part.php?titre=Misogynie+%C3%A0+part

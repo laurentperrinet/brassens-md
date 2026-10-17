@@ -1,55 +1,57 @@
 ## La ronde des jurons
 
 
-Voi[Bm]ci la r[F#7]onde [Bm]des ju[F#7]rons,[Bm] Qui chantaient clair, qui dansaient rond [A7]
+Voi[Bm]ci la ron[F#7]de [Bm]des jurons,[F#7] Qui [Bm]chantaient clair, qui dansaient rond[A7]
 
-Quand les G[D]aulois, De[A7] bon[D] aloi, Du f[A7]ranc[D]-parler suivaient la loi
+Quand [D]les Gaulois,[A7] De [D]bon aloi,[A7] Du [D]franc-parler suivaient la loi
 
-Jura[F#7]nt par-là, Juran[Bm]t par-ci, Jurant à [A7]langue raccourcie [D]
+Ju[F#7]rant par-là, Ju[Bm]rant par-ci, Ju[A7]rant à langue [D]raccourcie
 
-Comme d[G]es grains de chapelet, Les joyeux[F#7] jurons d[B7]éfilaient [E] [F#7]
-
-
-[Bm]Tous les morbleus, tous les ventre[C6]bleus, Les sacrebleu[C#7]s et les cornegidouille[F#7]s
-
-[Bm]Ainsi, parbleu, que les jar[C6]nibleus, Et les palsambleus [C#7] [F#7] [Bm]
-
-[Bm]Tous les cristis, les ventres[C6] saint-gris, Les par[C#7] ma barbe et les noms d'une[F#7] pipe
-
-[Bm]Ainsi, pardi, que les [C6]sapristis, Et les sacris[C#7]tis [F#7] [Bm] [B7]
-
-[Em]Sans oublier les jarn[A7]icotons, Les sc[D]rogneugneus et les bigres et les bougres [B7]
-
-[Em]Les saperlottes, les cré no[A7]m de nom, Les pestes, [D]et pouah, diantre, f[F#7]ichtre et foutre
-
-[Bm]Tous les Bon Dieu, Tous les vertudie[C]ux, Tonnerre de Bre[C#7]st et saperlipopette [F#7]
-
-[Bm]Ainsi, pardieu, que les jar[C]nidieux, Et les pasquedieux [C#7] [F#7] [Bm]
+Com[G]me des grains de chape[F#7]let, Les [B7]joyeux jurons défi[E]laient[F#7]
 
 
-Quelle pitié, Les charretiers, Ont un langage châtié
+[Bm]Tous les morbleus, tous les [C6]ventrebleus,[C#7] Les sacre[F#7]bleus et les cornegidouilles
 
-Les harengères, Et les mégères, Ne parlent plus à la légère
+[Bm]Ainsi, parbleu, que [C6]les jarnibleus, Et les [C#7]pal[F#7]sam[Bm]bleus
 
-Le vieux catéchisme poissard, N'a guère plus cours chez les hussards
+[Bm]Tous les cristis, les [C6]ventres saint-gris,[C#7] Les par ma [F#7]barbe et les noms d'une pipe
 
-Ils ont vécu, de profundis, Les joyeux jurons de jadis
+[Bm]Ainsi, pardi, que [C6]les sapristis, Et les [C#7]sa[F#7]cris[Bm]tis[B7]
 
+[Em]Sans oublier les [A7]jarnicotons,[D] Les scrogneugneus et [B7]les bigres et les bougres
 
-Tous les morbleus, tous les ventrebleus, Les sacrebleus et les cornegidouilles
+[Em]Les saperlottes, les [A7]cré nom de nom,[D] Les pestes, et [F#7]pouah, diantre, fichtre et foutre
 
-Ainsi, parbleu, que les jarnibleus, Et les palsambleus
+[Bm]Tous les Bon Dieu, Tous [C]les vertudieux,[C#7] Tonnerre de [F#7]Brest et saperlipopette
 
-Tous les cristis, les ventres saint-gris, Les par ma barbe et les noms d'une pipe
-
-Ainsi, pardi, que les sapristis, Et les sacristis
-
-Sans oublier les jarnicotons, Les scrogneugneus et les bigres et les bougres
-
-Les saperlottes, les cré nom de nom, Les pestes, et pouah, diantre, fichtre et foutre
-
-Tous les Bon Dieu, Tous les vertudieux, Tonnerre de Brest et saperlipopette
-
-Ainsi, pardieu, que les jarnidieux, Et les pasquedieux
+[Bm]Ainsi, pardieu, que [C]les jarnidieux, Et les [C#7]pas[F#7]que[Bm]dieux
 
 
+Quel[Bm]le pitié,[F#7] Les [Bm]charretiers,[F#7] Ont [Bm]un langage châtié[A7]
+
+Les [D]harengères,[A7] Et [D]les mégères,[A7] Ne [D]parlent plus à la légère
+
+Le [F#7]vieux catéchis[Bm]me poissard, N'a [A7]guère plus cours chez [D]les hussards
+
+Ils [G]ont vécu, de profun[F#7]dis, Les [B7]joyeux jurons de ja[E]dis[F#7]
+
+
+[Bm]Tous les morbleus, tous [C6]les ventrebleus,[C#7] Les sacre[F#7]bleus et les cornegidouilles
+
+[Bm]Ainsi, parbleu, que [C6]les jarnibleus, Et les [C#7]pal[F#7]sam[Bm]bleus
+
+[Bm]Tous les cristis, les [C6]ventres saint-gris,[C#7] Les par ma [F#7]barbe et les noms d'une pipe
+
+[Bm]Ainsi, pardi, que [C6]les sapristis, Et les [C#7]sa[F#7]cris[Bm]tis[B7]
+
+[Em]Sans oublier les [A7]jarnicotons,[D] Les scrogneugneus et [B7]les bigres et les bougres
+
+[Em]Les saperlottes, les [A7]cré nom de nom,[D] Les pestes, et [F#7]pouah, diantre, fichtre et foutre
+
+[Bm]Tous les Bon Dieu, Tous [C]les vertudieux,[C#7] Tonnerre de [F#7]Brest et saperlipopette
+
+[Bm]Ainsi, pardieu, que [C]les jarnidieux, Et les [C#7]pas[F#7]que[Bm]dieux[Bm]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Ronde.Des.Jurons.php?titre=%28La%29+ronde+des+jurons

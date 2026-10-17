@@ -4,68 +4,70 @@
 La5 : 003220
 
 
-[Am]J'ai des tombeaux en abo[F]ndance, Des[E] sépultu[Am]res à discrétion, [G7] [C] [E7]
+[Am]J'ai des tombeaux [F]en abon[E]dance, [Am]Des sépultures à [G7]discré[C]tion,[E7]
 
-[Am]Dans tout cim'tière d'quelque impo[F]rtance, J'a[E]i ma pet[Am]ite concession.
+[Am]Dans tout cim'tière [F]d'quelque impor[E]tance, [Am]J'ai ma petite concession.
 
-[Am]De l'humble tertre au ma[F]usolée, Avec[E] tou[Am]jours quelqu'un dedans, [G7] [C] [E7]
+[Am]De l'humble tertre [F]au mauso[E]lée, [Am]Avec toujours quel[G7]qu'un de[C]dans,[E7]
 
-[Am]J'ai des p'tites bosses plein [F]les allées,[E] Et j[Am]e suis triste, cependant...
+[Am]J'ai des p'tites bosses [F]plein les al[E]lées, [Am]Et je suis triste, cependant...
 
-[A]Car je n'en ai pas[F#7], et [Bm]ça m'agace[E7], Et ç[A]a défrise m[F#7]on bl[Bm]ason[E7],
+[A]Car je n'en ai [F#7]pas, [Bm]et ça m'a[E7]gace, [A]Et ça dé[F#7]frise [Bm]mon bla[E7]son,
 
-[A]Au cimet[F#7]ière [Bm]du Montparnasse[E7], A quatr[A]e pas de ma mai[A5]son, A quatre[D] pas de [Am]ma maison. [E7] [Am]
-
-
-J'en possède au Père-Lachaise, A Bagneux, à Thiais, à Pantin,
-
-Et jusque, ne vous en déplaise, Au fond du cimetière marin,
-
-A la ville comme à la campagne, Partout où l'on peut faire un trou,
-
-J'ai même des tombeaux en Espagne, Qu'on me jalouse peu ou prou...
-
-Mais j'n'en ai pas la moindre trace, Le plus humble petit soupçon,
-
-Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
+[A]Au cime[F#7]tière [Bm]du Montpar[E7]nasse, À [A]quatre pas [A5+]de ma mai[D]son, À [Am]quatre pas [E7]de ma mai[Am]son.
 
 
-Le jour des morts, je cours, le vole, Je vais infatigablement,
+[Am]J'en possède [F]au Père-La[E]chaise, [Am]À Bagneux, à Thiais, [G7]à Pan[C]tin,[E7]
 
-De nécropole en nécropole, De pierre tombale en monument.
+[Am]Et jusque, ne [F]vous en dé[E]plaise, [Am]Au fond du cimetière marin,
 
-On m'entrevoit sous une couronne, D'immortelles à Champerret,
+[Am]À la ville comme [F]à la cam[E]pagne, [Am]Partout où l'on peut [G7]faire un [C]trou,[E7]
 
-Un peu plus tard, c'est à Charonne, Qu'on m'aperçoit sous un cyprès...
+[Am]J'ai même des tom[F]beaux en Es[E]pagne, [Am]Qu'on me jalouse peu ou prou...
 
-Mais, seul, un fourbe aura l'audace, De dire : « J'l'ai vu à l'horizon,
+[A]Mais j'n'en ai [F#7]pas [Bm]la moindre [E7]trace, [A]Le plus [F#7]humble [Bm]petit soup[E7]çon,
 
-Du cimetière du Montparnasse, A quatre pas de sa maison, A quatre pas de sa maison ».
-
-
-Devant l'château d'ma grand-tante, La marquise de Carabas,
-
-Ma sainte famille languit d'attente : Mourra-t-elle, mourra-t-elle pas ?
-
-L'un veut son or, l'autre ses meubles, Qui ses bijoux, qui ses bib'lots,
-
-Qui ses forêts, qui ses immeubles, Qui ses tapis, qui ses tableaux...
-
-Moi je n'implore qu'une grâce, C'est qu'elle passe la morte-saison
-
-Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
+[A]Au cime[F#7]tière [Bm]du Montpar[E7]nasse, À [A]quatre pas [A5+]de ma mai[D]son, À [Am]quatre pas [E7]de ma ma[Am]ison.
 
 
-Ainsi chantait, la mort dans l'âme, Un jeune homme de bonne tenue,
+[Am]Le jour des morts, [F]je cours, le [E]vole, [Am]Je vais infati[G7]gable[C]ment,[E7]
 
-En train de ranimer la flamme, Du soldat qui lui était connu,
+[Am]De nécropole [F]en nécro[E]pole, [Am]De pierre tombale en monument.
 
-Or, il advint qu'le ciel eut marre de, L'entendre parler de ses caveaux.
+[Am]On m'entrevoit [F]sous une cou[E]ronne, [Am]D'immortelles à [G7]Champer[C]ret,[E7]
 
-Et Dieu fit signe à la camarde, De l'expédier rue Froidevaux...
+[Am]Un peu plus tard, [F]c'est à Cha[E]ronne, [Am]Qu'on m'aperçoit sous un cyprès...
 
-Mais les croque-morts, qui étaient de Chartres, Funeste erreur de livraison,
+[A]Mais, seul, un [F#7]fourbe [Bm]aura l'au[E7]dace, [A]De dire : « J'l'ai [F#7]vu [Bm]à l'hori[E7]zon,
 
-Menèrent sa dépouille à Montmartre, De l'autre côté de sa maison, De l'autre côté de sa maison.
+[A]Du cime[F#7]tière [Bm]du Montpar[E7]nasse, À [A]quatre pas [A5+]de sa mai[D]son, À [Am]quatre pas [E7]de sa mai[Am]son ».
 
 
+[Am]Devant l'château [F]d'ma grand-[E]tante, [Am]La marquise de [G7]Cara[C]bas,[E7]
+
+[Am]Ma sainte famille [F]languit d'at[E]tente : [Am]Mourra-t-elle, mourra-t-elle pas ?
+
+[Am]L'un veut son or, [F]l'autre ses [E]meubles, [Am]Qui ses bijoux, qui [G7]ses bib'[C]lots,[E7]
+
+[Am]Qui ses forêts, [F]qui ses im[E]meubles, [Am]Qui ses tapis, qui ses tableaux...
+
+[A]Moi je n'im[F#7]plo[Bm]re qu'une [E7]grâce, [A]C'est qu'elle [F#7]passe la [Bm]morte-sai[E7]son
+
+[A]Au cime[F#7]tière [Bm]du Montpar[E7]nasse, À [A]quatre pas [A5+]de ma mai[D]son, À [Am]quatre pas [E7]de ma mai[Am]son.
+
+
+[Am]Ainsi chantait, [F]la mort dans [E]l'âme, [Am]Un jeune homme de bon[G7]ne te[C]nue,[E7]
+
+[Am]En train de ra[F]nimer la [E]flamme, [Am]Du soldat qui lui était connu,
+
+[Am]Or, il advint [F]qu'le ciel eut [E]marre de, [Am]L'entendre parler de [G7]ses ca[C]veaux.[E7]
+
+[Am]Et Dieu fit signe [F]à la ca[E]marde, [Am]De l'expédier rue Froidevaux...
+
+[A]Mais les croque-[F#7]morts, [Bm]qui étaient de [E7]Chartres, [A]Funeste er[F#7]reur [Bm]de livrai[E7]son,
+
+[A]Menèrent sa [F#7]dé[Bm]pouille à Mont[E7]martre, De [A]l'autre côté [A5+]de sa mai[D]son, De [Am]l'autre côté [E7]de sa mai[Am]son.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Ballade.Des.Cimetieres.php?titre=%28La%29+ballade+des+cimeti%C3%A8res

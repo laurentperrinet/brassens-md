@@ -1,57 +1,59 @@
 ## L'amandier
 
 
-[Bm]J'avais l'plus bel ama[A7]ndier,[D] Du q[G]uartier, [D]
+J'avais [Bm]l'plus bel [A7]aman[D]dier, [G]Du quar[D]tier,
 
-J'avais l'p[Bm]lus bel aman[A7]dier, [D]Du qu[G]artier, [D]
+J'avais [Bm]l'plus bel [A7]aman[D]dier, [G]Du quar[D]tier,
 
-Et, pour la bo[A7]uche gour[D]mande, Des fil[G]les du monde en[C]tier,
+Et, pour [Bm]la bou[A7]che gour[D]mande, Des fil[G]les du monde en[C]tier,
 
-J'faisais [F7]pousser des a[Bb]mandes : Le beau, [F#7]le joli mé[Bm]tier !
-
-
-Un écureuil en jupon, Dans un bond,
-
-Un écureuil en jupon, Dans un bond,
-
-Vint me dire : « Je suis gourmande, Et mes lèvres sentent bon,
-
-Et, si tu m'donnes une amande, J'te donne un baiser fripon ! Grimpe aussi haut que tu veux, Que tu peux,
-
-Grimpe aussi haut que tu veux, Que tu peux,
-
-Et tu croques, et tu picores, Puis tu grignotes, et puis tu
-
-Redescends plus vite encore, Me donner le baiser dû ! » Quand la belle eut tout rongé, Tout mangé...
-
-Quand la belle eut tout rongé, Tout mangé...
-
-« Je te paierai, me dit-elle, A pleine bouche quand les
-
-Nigauds seront pourvus d'ailes, Et que tu sauras voler !
+J'faisais [F7]pousser des a[Bm7]mandes : Le beau, [Em]le jo[F#7]li mé[Bm]tier !
 
 
-« Monte m'embrasser si tu veux, Si tu peux...
+Un é[Bm]cureuil [A7]en ju[D]pon, [G]Dans un [D]bond,
 
-« Monte m'embrasser si tu veux, Si tu peux...
+Un é[Bm]cureuil [A7]en ju[D]pon, [G]Dans un [D]bond,
 
-Mais dis-toi que, si tu tombes, J'n'aurai pas la larme à l'œil
+Vint me [Bm]dire : « Je [A7]suis gour[D]mande, Et mes [G]lèvres sentent [C]bon,
 
-Dis-toi que, si tu succombes, Je n'porterai pas le deuil ! »
+Et, si [F7]tu m'donnes une a[Bm7]mande, J'te donne [Em]un bai[F#7]ser fri[Bm]pon ! Grimpe aus[Bm]si haut [A7]que tu [D]veux, [G]Que tu [D]peux,
 
+Grimpe aus[Bm]si haut [A7]que tu [D]veux, [G]Que tu [D]peux,
 
-Les avait, bien entendu, Toutes mordues,
+Et tu [Bm]croques, et [A7]tu pi[D]cores, Puis tu [G]grignotes, et puis [C]tu
 
-Les avait, bien entendu, Toutes mordues,
+Redes[F7]cends plus vite en[Bm7]core, Me don[Em]ner le [F#7]baiser [Bm]dû ! » Quand la [Bm]belle eut [A7]tout ron[D]gé, [G]Tout man[D]gé...
 
-Toutes grignotées, mes amandes, Ma récolte était perdue,
+Quand la [Bm]belle eut [A7]tout ron[D]gé, [G]Tout man[D]gé...
 
-Mais sa jolie bouche gourmande, En baisers m'a tout rendu ! Et la fête dura tant, Qu'le beau temps...
+« Je te [Bm]paierai, [A7]me dit-[D]elle, À pleine [G]bouche quand [C]les
 
-Et la fête dura tant, Qu'le beau temps...
-
-Mais vint l'automne, et la foudre, Et la pluie, et les autans
-
-Ont changé mon arbre en poudre... Et mon amour en même temps !
+Nigauds [F7]seront pourvus [Bm7]d'ailes, Et que [Em]tu sau[F#7]ras vo[Bm]ler !
 
 
+« Monte m'em[Bm]brasser [A7]si tu [D]veux, [G]Si tu [D]peux...
+
+« Monte m'em[Bm]brasser [A7]si tu [D]veux, [G]Si tu [D]peux...
+
+Mais dis-[Bm]toi que, [A7]si tu [D]tombes, J'n'aurai [G]pas la larme à [C]l'œil
+
+Dis-toi [F7]que, si tu suc[Bm7]combes, Je n'por[Em]terai [F#7]pas le [Bm]deuil ! »
+
+
+Les a[Bm]vait, bien [A7]enten[D]du, [G]Toutes mor[D]dues,
+
+Les a[Bm]vait, bien [A7]enten[D]du, [G]Toutes mor[D]dues,
+
+Toutes gri[Bm]gnotées, [A7]mes a[D]mandes, Ma ré[G]colte était per[C]due,
+
+Mais sa [F7]jolie bouche gour[Bm7]mande, En bai[Em]sers m'a [F#7]tout ren[Bm]du ! Et la [Bm]fête [A7]dura [D]tant, [G]Qu'le beau [D]temps...
+
+Et la [Bm]fête [A7]dura [D]tant, [G]Qu'le beau [D]temps...
+
+Mais vint [Bm]l'automne, [A7]et la [D]foudre, Et la [G]pluie, et les au[C]tans
+
+Ont chan[F7]gé mon arbre en [Bm7]poudre... Et mon [Em]amour [F#7]en même [Bm]temps[Bm] !
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Amandier.php?titre=%28L%27%29+amandier

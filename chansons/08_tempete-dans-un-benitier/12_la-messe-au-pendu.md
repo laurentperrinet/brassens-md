@@ -1,38 +1,38 @@
 ## La messe au pendu
 
-[C]Anticlérical fa[Dm]natique, Gro[Am]s mangeur d'ecclésiastiques, [E7]Cet aveu me c[Am]oûte beaucoup, [G7] [C]
+[C]Anticlérical [Dm]fanatique, [Am]Gros mangeur d'ecclé[E7]siastiques,[Am] Cet aveu me [G7]coûte beaucoup,[C]
 
-[Gm6]Mais ces hommes d'Église, héla[A7]s ! N[Dm]e sont [Am]pas tous des dégueulasses, T[E7]émoin le curé de c[Am]hez nous. [Em] [Am]
-
-
-Quand la foule qui se déchaîne, Pendit un homme au bout d'un chêne, Sans autre forme de remords,
-
-Ce ratichon fit un scandale, Et rugit à travers les stalles, « Mort à toute peine de mort ! »
+[Gm6]Mais ces hommes d'É[A7]glise, hé[Dm]las ! [Am]Ne sont pas tous des [E7]dégueulasses,[Am] Témoin le [Em]curé de chez nous.[Am]
 
 
-Puis, on le vit, étrange rite, Qui baptisait les marguerites, Avec l'eau de son bénitier
+[C]Quand la foule qui [Dm]se déchaîne, [Am]Pendit un homme au [E7]bout d'un chêne,[Am] Sans autre [G7]forme de remords,[C]
 
-Et qui prodiguait les hosties, Le pain bénit, l'Eucharistie, Aux petits oiseaux du moutier.
-
-
-Ensuite, il retroussa ses manches, Prit son goupillon des dimanches, Et, plein d'une sainte colère,
-
-Il partit comme à l'offensive, Dire une grand' messe exclusive, A celui qui dansait en l'air.
+[Gm6]Ce ratichon fit [A7]un scan[Dm]dale, [Am]Et rugit à tra[E7]vers les stalles, « [Am]Mort à tou[Em]te peine de mort[Am] ! »
 
 
-C'est à du gibier de potence, Qu'en cette triste circonstance, L'Hommage sacré fut rendu.
+[C]Puis, on le vit, é[Dm]trange rite, [Am]Qui baptisait les [E7]marguerites,[Am] Avec l'eau [G7]de son bénitier[C]
 
-Ce jour là, le rôle du Christ(e), Bonne aubaine pour le touriste, Était joué par un pendu.
-
-
-Et maintenant quand on croasse, Nous, les païens de sa paroisse, C'est pas lui qu'on veut dépriser.
-
-Quand on crie « A bas la calotte », A s'en faire péter la glotte, La sienne n'est jamais visée.
+[Gm6]Et qui prodiguait [A7]les hos[Dm]ties, [Am]Le pain bénit, l'Eu[E7]charistie,[Am] Aux petits [Em]oiseaux du moutier.[Am]
 
 
-Anticléricaux fanatiques, Gros mangeurs d'ecclésiastiques, Quand vous vous goinfrerez un plat
+[C]Ensuite, il retrous[Dm]sa ses manches, [Am]Prit son goupillon [E7]des dimanches,[Am] Et, plein d'u[G7]ne sainte colère,[C]
 
-De cureton, je vous exhorte, Camarades, à faire en sorte, Que ce ne soit pas celui-là.
+[Gm6]Il partit comme à [A7]l'offen[Dm]sive, [Am]Dire une grand' messe [E7]exclusive,[Am] À celui [Em]qui dansait en l'air.[Am]
+
+
+[C]C'est à du gibier [Dm]de potence, [Am]Qu'en cette triste [E7]circonstance,[Am] L'Hommage [G7]sacré fut ren[C]du.
+
+[Gm6]Ce jour là, le rô[A7]le du [Dm]Christ(e), [Am]Bonne aubaine pour [E7]le touriste,[Am] Était jou[Em]é par un pendu.[Am]
+
+
+[C]Et maintenant quand [Dm]on croasse, [Am]Nous, les païens de [E7]sa paroisse,[Am] C'est pas lui [G7]qu'on veut dépri[C]ser.
+
+[Gm6]Quand on crie « À bas [A7]la ca[Dm]lotte », [Am]À s'en faire pé[E7]ter la glotte,[Am] La sienne [Em]n'est jamais visée.[Am]
+
+
+[C]Anticléricaux [Dm]fanatiques, [Am]Gros mangeurs d'ecclé[E7]siastiques,[Am] Quand vous vous [G7]goinfrerez un plat[C]
+
+[Gm6]De cureton, je [A7]vous ex[Dm]horte, [Am]Camarades, à [E7]faire en sorte,[Am] Que ce ne [Em]soit pas celui-[Am]là.[Am]
 
 ### Notes
 

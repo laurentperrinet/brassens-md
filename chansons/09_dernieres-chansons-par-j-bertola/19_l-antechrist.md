@@ -1,85 +1,86 @@
 ## L'Antéchrist
 
 
-[C]Je ne suis pas du tout, l'antéchrist de[G7] service, [C]
+Je [C]ne suis pas du tout, l'anté[G7]christ de ser[C]vice,
 
-J'ai m[Am]ême pour Jésus et pour son sacrifi[E7]ce [Am]
+J'ai [Am]même pour Jésus et pour [E7]son sacri[Am]fice
 
-Un bri[F]n d'admiration, s[C]oit dit sans[B7] ironie, [E]
+Un [F]brin d'admira[C]tion, soit [B7]dit sans iro[E]nie,
 
-Car cel[A]a ne doit pas êtr[E]e une siné[A]cure, [E]
+Car [A]cela ne doit [E]pas être [A]une siné[E]cure,
 
-Non, que [F]de se laisser crac[C]her à la figure [E7] [A7]
+Non, [F]que de se lais[C]ser cracher [E7]à la fi[A7]gure
 
-Par la[F] can[F#dim]aille et[C] la racaille[E7] réu[Am]nies[G7].
-
-
-Bien sûr il est normal que la foule révère
-
-Ce héros qui jadis parti pour aller faire
-
-L'alpiniste avant l'heure, en haut du Golgotha,
-
-En portant sur l'épaule une croix accablante,
-
-En méprisant l'insulte et le remonte pente,
-
-Et sans aucun bravo qui le réconfortât !
+Par [F]la ca[F#dim]naille et [C]la racaille [E7]réu[Am]nies.[G7]
 
 
-Bien sûr autour du front la couronne d'épines,
+Bien [C]sûr il est normal que la [G7]foule ré[C]vère
 
-L'éponge trempée dans Dieu sait quelle bibine,
+Ce [Am]héros qui jadis parti [E7]pour aller [Am]faire
 
-Et les clous enfoncés, dans les pieds et les mains,
+L'al[F]piniste avant [C]l'heure, en [B7]haut du Golgo[E]tha,
 
-C'est très inconfortable et ça vous tarabuste,
+En [A]portant sur l'é[E]paule u[A]ne croix acca[E]blante,
 
-Même si l'on est brave et si l'on est robuste,
+En [F]méprisant l'in[C]sulte et le [E7]remonte [A7]pente,
 
-Et si le paradis est au bout du chemin.
-
-
-Bien sûr, mais il devait défendre son prestige,
-
-Car il était le fils du ciel, l'enfant prodige,
-
-Il était le Messie et ne l'ignorait pas.
-
-Entre son père et lui, c'était l'accord tacite :
-
-Tu montes sur la croix et je te ressuscite !
-
-On meurt de confiance avec un tel papa.
+Et [F]sans au[F#dim]cun bra[C]vo qui le ré[E7]confor[Am]tât[G7] !
 
 
-Il a donné sa vie sans doute mais son zèle
+Bien [C]sûr autour du front la cou[G7]ronne d'é[C]pines,
 
-Avait une portée quasi universelle
+L'é[Am]ponge trempée dans Dieu sait [E7]quelle bi[Am]bine,
 
-Qui rendait le supplice un peu moins douloureux.
+Et [F]les clous enfon[C]cés, dans [B7]les pieds et les [E]mains,
 
-Il savait que dans chaque église, il serait tête
+C'est [A]très inconfor[E]table et [A]ça vous tara[E]buste,
 
-D'affiche et qu'il aurait son portrait en vedette,
+Mê[F]me si l'on est [C]brave et si [E7]l'on est ro[A7]buste,
 
-Entouré des élus, des saints, des bienheureux.
+Et [F]si le [F#dim]para[C]dis est au bout [E7]du che[Am]min.[G7]
 
 
-En se sacrifiant il sauvait tous les hommes.
+Bien [C]sûr, mais il devait défen[G7]dre son pres[C]tige,
 
-Du moins le croyait-il ! Au point où nous en sommes,
+Car [Am]il était le fils du ciel, [E7]l'enfant pro[Am]dige,
 
-On peut considérer qu'il s'est fichu dedans.
+Il [F]était le Mes[C]sie et [B7]ne l'ignorait [E]pas.
 
-Le jeu si j'ose dire, en valait la chandelle.
+En[A]tre son père et [E]lui, c'é[A]tait l'accord ta[E]cite :
 
-Bon nombre de chrétiens et même d'infidèles,
+Tu [F]montes sur la [C]croix et je [E7]te ressu[A7]scite !
 
-Pour un but aussi noble en auraient fait autant
+On [F]meurt de [F#dim]confi[C]ance avec un [E7]tel pa[Am]pa.[G7]
+
+
+Il [C]a donné sa vie sans dou[G7]te mais son [C]zèle
+
+A[Am]vait une portée quasi [E7]univer[Am]selle
+
+Qui [F]rendait le sup[C]plice un [B7]peu moins doulou[E]reux.
+
+Il [A]savait que dans [E]chaque é[A]glise, il serait [E]tête
+
+D'af[F]fiche et qu'il au[C]rait son por[E7]trait en ve[A7]dette,
+
+En[F]touré [F#dim]des é[C]lus, des saints, [E7]des bienheu[Am]reux.[G7]
+
+
+En [C]se sacrifiant il sau[G7]vait tous les [C]hommes.
+
+Du [Am]moins le croyait-il ! Au point [E7]où nous en [Am]sommes,
+
+On [F]peut considé[C]rer qu'il [B7]s'est fichu de[E]dans.
+
+Le [A]jeu si j'ose [E]dire, en [A]valait la chan[E]delle.
+
+Bon [F]nombre de chré[C]tiens et mê[E7]me d'infi[A7]dèles,
+
+Pour [F]un but [F#dim]aussi [C]noble en auraient [E7]fait au[Am]tant
 
 
 (Cela dit je ne suis pas l'Antéchrist de service)
 
+### Notes
 
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Antechrist.php?titre=%28L%27%29+ant%C3%A9christ

@@ -1,37 +1,38 @@
 ## Tempête dans un bénitier
 
 
-[D]Tempête dans un bénitier, Le souverain pontife a[G]vecque, [Bm]Les évêques, [F#7]les ar[E7]chevêq[Am]ues, Nous font un sat[B7]ané chantier [E7] [A7] [D] [E]
+[D]Tempête dans un bénitier, Le sou[G]verain [Bm]pontife ave[F#7]cque,[E7] Les é[Am]vêques, les arche[B7]vêques, Nous [E7]font un sa[A7]tané chan[D]tier[E]
 
-[A]Ils ne savent pas ce[E7] qu'ils perden[A]t, Tous ces fichus calotins,[E7] Sans le l[A]atin, sans le latin, La messe nous emmerde [F#7] [Bm]
+[A]Ils ne savent [E7]pas ce qu'ils [A]perdent, Tous ces fi[E7]chus calo[A]tins, Sans le latin, sans le latin, La [F#7]messe nous em[Bm]merde
 
-A la fête[F#7] litur[Bm]gique, Plus de grandes pompes, s[F#7]oudain, Sans le [Bm]latin, sans le latin, Plus de mystère magique [E7] [E5] [A]
+À la fê[F#7]te litur[Bm]gique, Plus de grandes [F#7]pompes, sou[Bm]dain, Sans le latin, sans le latin, Plus [E7]de mys[E5+]tère ma[A]gique
 
-Le rite qu[E7]i nous envoûte,[A] S'avère alors anodin[E7], Sans le [A]latin, sans le latin, Et les fidèles s'en foute[A7]nt [D]
+Le rite [E7]qui nous en[A]voûte, S'avère a[E7]lors ano[A]din, Sans le latin, sans le latin, Et [A7]les fidèles s'en [D]foutent
 
-[Adim]O très Sainte Marie mère de, Dieu, dites[C#m] à ces putains, De moine[F#7]s qu'[B7]ils nous emmerdent, Sans le latin [E7] [A]
-
-
-Je ne suis pas le seul, morbleu, Depuis que ces règles sévissent, A ne plus me rendre à l'office, Dominical que quand il pleut
-
-Il ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
-
-En renonçant à l'occulte, Faudra qu'ils fassent tintin, Sans le latin, sans le latin, Pour le denier du culte
-
-A la saison printanière, Suisse, bedeau, sacristain, Sans le latin, sans le latin, F'ront l'église buissonnière
-
-O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin.
+[Adim]O très Sainte Marie [F#m]mère de, [C#m]Dieu, dites à ces pu[F#7]tains, [B7]De moines qu'ils nous emmerdent, [E7]Sans le la[A]tin
 
 
-Ces oiseaux sont des enragés, Ces corbeaux qui scient, rognent, tranchent, La saine et bonne vieille branche, De la croix où ils sont perchés
+[D]Je ne suis pas le seul, morbleu, Depuis [G]que ces [Bm]règles sé[F#7]vissent,[E7] À ne [Am]plus me rendre à l'of[B7]fice, Do[E7]minical [A7]que quand il [D]pleut[E]
 
-Ils ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
+[A]Il ne savent [E7]pas ce qu'ils [A]perdent, Tous ces fi[E7]chus calo[A]tins, Sans le latin, sans le latin, La [F#7]messe nous em[Bm]merde
 
-Le vin du sacré calice, Se change en eau de boudin, Sans le latin, sans le latin, Et ses vertus faiblissent
+En renon[F#7]çant à l'oc[Bm]culte, Faudra qu'ils [F#7]fassent tin[Bm]tin, Sans le latin, sans le latin, Pour [E7]le de[E5+]nier du [A]culte
 
-A Lourdes, Sète ou bien Parme, Comme à Quimper Corentin, Le presbytère sans le latin, A perdu de son charme
+À la sai[E7]son printa[A]nière, Suisse, be[E7]deau, sacris[A]tain, Sans le latin, sans le latin, [A7]F'ront l'église buisson[D]nière
 
-O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin
+[Adim]O très Sainte Marie [F#m]mère de, [C#m]Dieu, dites à ces pu[F#7]tains, [B7]De moines qu'ils nous emmerdent, [E7]Sans le la[A]tin.
 
 
+[D]Ces oiseaux sont des enragés, Ces cor[G]beaux qui [Bm]scient, rognent, [F#7]tranchent,[E7] La saine [Am]et bonne vieille [B7]branche, De [E7]la croix où [A7]ils sont per[D]chés[E]
 
+[A]Ils ne savent [E7]pas ce qu'ils [A]perdent, Tous ces fi[E7]chus calo[A]tins, Sans le latin, sans le latin, La [F#7]messe nous em[Bm]merde
+
+Le vin du [F#7]sacré ca[Bm]lice, Se change en [F#7]eau de bou[Bm]din, Sans le latin, sans le latin, Et [E7]ses ver[E5+]tus fai[A]blissent
+
+À Lourdes, [E7]Sète ou bien [A]Parme, Comme à [E7]Quimper Coren[A]tin, Le presbytère sans le latin, A [A7]perdu de son [D]charme
+
+[Adim]O très Sainte Marie [F#m]mère de, [C#m]Dieu, dites à ces pu[F#7]tains, [B7]De moines qu'ils nous emmerdent, [E7]Sans le la[A]tin[A]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Tempete.Dans.Un.Benitier.php?titre=Temp%C3%AAte+dans+un+b%C3%A9nitier

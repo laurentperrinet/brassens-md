@@ -1,45 +1,47 @@
 ## Le petit cheval
 
 
-[A]Le petit cheval dans le [D]mauvais [A]temps, Qu'il avait donc du courage [F#m] [E]
+[A]Le petit cheval dans le [D]mauvais [A]temps, Qu'il avait donc du cou[F#m]ra[E]ge
 
-[A]C'était un petit chev[D]al blanc, [A]Tous derrière, tous derrière, [F#m] [E]
+[A]C'était un petit [D]cheval [A]blanc, Tous derrière, tous der[F#m]riè[E]re,
 
-[A]C'était un petit chev[D]al blanc, [A]Tous derrière et lui devant [F#m] [E] [A]
-
-
-Il n'y avait jamais de beau temps, Dans ce pauvre paysage
-
-Il n'y avait jamais de printemps, Ni derrière, ni derrière
-
-Il n'y avait jamais de printemps, Ni derrière ni devant
+[A]C'était un petit [D]cheval [A]blanc, Tous derrière et [F#m]lui [E]de[A]vant
 
 
-Mais toujours il était content, Menant les gars du village
+[A]Il n'y avait jamais [D]de beau [A]temps, Dans ce pauvre pay[F#m]sa[E]ge
 
-A travers la pluie noire des champs, Tous derrière, tous derrière
+[A]Il n'y avait jamais [D]de prin[A]temps, Ni derrière, ni der[F#m]riè[E]re
 
-A travers la pluie noire des champs, Tous derrière et lui devant
-
-
-Sa voiture allait poursuivant, Sa belle petite queue sauvage
-
-C'est alors qu'il était content, Tous derrière, tous derrière
-
-C'est alors qu'il était content, Tous derrière et lui devant
+[A]Il n'y avait jamais [D]de prin[A]temps, Ni derrière [F#m]ni [E]de[A]vant
 
 
-Mais un jour, dans le mauvais temps, Un jour qu'il était si sage
+[A]Mais toujours il é[D]tait con[A]tent, Menant les gars du vil[F#m]la[E]ge
 
-Il est mort par un éclair blanc, Tous derrière, tous derrière
+[A]A travers la pluie [D]noire des [A]champs, Tous derrière, tous der[F#m]riè[E]re
 
-Il est mort par un éclair blanc, Tous derrière et lui devant
-
-
-Il est mort sans voir le beau temps, Qu'il avait donc du courage
-
-Il est mort sans voir le printemps, Ni derrière, ni derrière
-
-Il est mort sans voir le beau temps, Ni derrière ni devant
+[A]A travers la pluie [D]noire des [A]champs, Tous derrière et [F#m]lui [E]de[A]vant
 
 
+[A]Sa voiture allait [D]poursui[A]vant, Sa belle petite queue sau[F#m]va[E]ge
+
+[A]C'est alors qu'il é[D]tait con[A]tent, Tous derrière, tous der[F#m]riè[E]re
+
+[A]C'est alors qu'il é[D]tait con[A]tent, Tous derrière et [F#m]lui [E]de[A]vant
+
+
+[A]Mais un jour, dans le [D]mauvais [A]temps, Un jour qu'il était si [F#m]sa[E]ge
+
+[A]Il est mort par [D]un éclair [A]blanc, Tous derrière, tous der[F#m]riè[E]re
+
+[A]Il est mort par [D]un éclair [A]blanc, Tous derrière et [F#m]lui [E]de[A]vant
+
+
+[A]Il est mort sans voir [D]le beau [A]temps, Qu'il avait donc du cou[F#m]ra[E]ge
+
+[A]Il est mort sans voir [D]le prin[A]temps, Ni derrière, ni der[F#m]riè[E]re
+
+[A]Il est mort sans voir [D]le beau [A]temps, Ni derrière [F#m]ni [E]de[A]vant
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Petit.Cheval.php?titre=%28Le%29+petit+cheval

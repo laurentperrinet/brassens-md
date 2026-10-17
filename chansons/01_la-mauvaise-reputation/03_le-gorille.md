@@ -1,104 +1,104 @@
 ## Le gorille
 
-Ré et La7 en alternance, en barré au refrain
+[D]C'est à travers de larges grilles, que les femelles du can[A7]ton,
+
+Contemplaient un puissant gorille, sans soucis du qu'en dira-[D]t-on
+
+Avec impudeur ces commères, lorgnaient même un endroit pré[A7]cis
+
+Que rigoureusement ma mère, m'a défendu d'nommer i[D]ci
+
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
 
 
-C'est à travers de larges grilles, que les femelles du canton,
+[D]Tout à coup la prison bien close, Où vivait le bel ani[A7]mal
 
-Contemplaient un puissant gorille, sans soucis du qu'en dira-t-on
+S'ouvre on n'sait pourquoi j'suppose, Qu'on avait dû la fermer [D]mal
 
-Avec impudeur ces commères, lorgnaient même un endroit précis
+Le singe en sortant de sa cage, Dit c'est aujourd'hui que j'le [A7]perd
 
-Que rigoureusement ma mère, m'a défendu d'nommer ici
+Il parlait de son pucelage, Vous l'aviez deviné j'es[D]père
 
-Gare au goriiiiiiiiiiille
-
-
-Tout à coup la prison bien close, Où vivait le bel animal
-
-S'ouvre on n'sait pourquoi j'suppose, Qu'on avait dû la fermer mal
-
-Le singe en sortant de sa cage, Dit c'est aujourd'hui que j'le perd
-
-Il parlait de son pucelage, Vous l'aviez deviné j'espère
-
-Gare au goriiiiiiiiiiille
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
 
 
-L'patron de la ménagerie, Criait éperdu « non de non
+[D]L'patron de la ménagerie, Criait éperdu « non de [A7]non
 
-C'est assommant car mon gorille, N'a jamais connu de guenon »
+C'est assommant car mon gorille, N'a jamais connu de gue[D]non »
 
-Dès que la féminine engeance, sut que le singe était puceau
+Dès que la féminine engeance, sut que le singe était pu[A7]ceau
 
-Au lieu de profiter d'la chance, elle fit feu des deux fuseaux
+Au lieu de profiter d'la chance, elle fit feu des deux fu[D]seaux
 
-Gare au goriiiiiiiiiiille
-
-
-Celles-là même qui naguère, le couvaient d'un oeil décidé
-
-Fuirent prouvant qu'elles n'avaient guère, De la suite dans les idées
-
-D'autant plus vaine était leur crainte, Que le gorille est un luron
-
-Supérieur à l'homme dans l'étreinte, Bien des femmes vous le diront
-
-Gare au goriiiiiiiiiiille
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
 
 
-Tout le monde se précipite, Hors d'atteinte du singe en rut,
+[D]Celles-là même qui naguère, le couvaient d'un oeil déci[A7]dé
 
-Sauf une vieille décrépite, Et un jeune juge en bois brut
+Fuirent prouvant qu'elles n'avaient guère, De la suite dans les i[D]dées
 
-Voyant que toutes se dérobe, Le quadrumane accéléra,
+D'autant plus vaine était leur crainte, Que le gorille est un lu[A7]ron
 
-Son dandinement vers les robes, De la vieille et du magistrat
+Supérieur à l'homme dans l'étreinte, Bien des femmes vous le di[D]ront
 
-Gare au goriiiiiiiiiiille
-
-
-« Bah ! » Soupirait la centenaire, « Qu'on put encore me désirer,
-
-Ce serait extraordinaire, Et pour tout dire inespéré »
-
-Le juge pensait impassible, « Qu'on me prenne pour une guenon,
-
-C'est complètement impossible », La suite lui prouva que non
-
-Gare au goriiiiiiiiiiille
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
 
 
-Supposez qu'l'un de vous puisse être, Comme le singe obligé de,
+[D]Tout le monde se précipite, Hors d'atteinte du singe en [A7]rut,
 
-Violer un juge ou une ancêtre, Lequel choisirait-il des deux.
+Sauf une vieille décrépite, Et un jeune juge en bois [D]brut
 
-Qu'une alternative pareille, Un de ces quatre jours m'échoie
+Voyant que toutes se dérobe, Le quadrumane accélé[A7]ra,
 
-C'est j'en suis convaincu la vieille, Qui serait l'objet de mon choix
+Son dandinement vers les robes, De la vieille et du magis[D]trat
 
-Gare au goriiiiiiiiiiille
-
-
-Mais par malheur si le gorille, Aux jeux de l'amour vaut son prix,
-
-On sait qu'en revanche il ne brille, Ni par le goût ni par l'esprit,
-
-Lors au lieu d'opter pour la vieille, Comme aurait fait n'importe qui,
-
-Il saisit le juge à l'oreille, Et l'entraîna dans un maquis
-
-Gare au goriiiiiiiiiiille
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
 
 
-La suite serait délectable, Malheureusement je ne peux,
+« [D]Bah ! » Soupirait la centenaire, « Qu'on put encore me dési[A7]rer,
 
-Pas la dire et c'est regrettable, Ça nous aurait fait rire un peu.
+Ce serait extraordinaire, Et pour tout dire inespé[D]ré »
 
-Car le juge au moment suprême, Criait « Maman », pleurait beaucoup,
+Le juge pensait impassible, « Qu'on me prenne pour une gue[A7]non,
 
-Comme l'homme auquel le jour même, Il avait fait trancher le coup
+C'est complètement impossible », La suite lui prouva que [D]non
 
-Gare au goriiiiiiiiiiille
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
 
 
+[D]Supposez qu'l'un de vous puisse être, Comme le singe obligé [A7]de,
+
+Violer un juge ou une ancêtre, Lequel choisirait-il des [D]deux.
+
+Qu'une alternative pareille, Un de ces quatre jours m'é[A7]choie
+
+C'est j'en suis convaincu la vieille, Qui serait l'objet de mon [D]choix
+
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
+
+
+[D]Mais par malheur si le gorille, Aux jeux de l'amour vaut son [A7]prix,
+
+On sait qu'en revanche il ne brille, Ni par le goût ni par l'es[D]prit,
+
+Lors au lieu d'opter pour la vieille, Comme aurait fait n'importe [A7]qui,
+
+Il saisit le juge à l'oreille, Et l'entraîna dans un ma[D]quis
+
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
+
+
+[D]La suite serait délectable, Malheureusement je ne [A7]peux,
+
+Pas la dire et c'est regrettable, Ça nous aurait fait rire un [D]peu.
+
+Car le juge au moment suprême, Criait « Maman », pleurait beau[A7]coup,
+
+Comme l'homme auquel le jour même, Il avait fait trancher le [D]coup
+
+Gare au go[D]riii[A]iiii[D]iiiil[D]le
+
+### Notes
+
+ * Alterner D et A7, en accords barrés, sur le refrain.
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Gorille.php?titre=%28Le%29+gorille

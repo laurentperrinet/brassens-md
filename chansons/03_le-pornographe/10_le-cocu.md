@@ -1,73 +1,75 @@
 ## Le cocu
 
 
-[F]Comme elle n'aime pa[E]s beaucoup la[F] solitude, Cepend[E]ant que je[Dm] pêche et que j[Am]e m'ennoblis [F] [E] [F] [E]
+[F]Comme elle [E]n'aime pas [F]beaucoup la [E]solitude, [Dm]Cependant [Am]que je pêche et [F]que je m'enno[E]blis[E]
 
-[F]Ma femme sacrifi[E]e à sa vi[F]eille habitude,[E] De faire, à[Am] tout venan[G7]t, les h[C]onneurs de [Am]mon lit [F] [G7] [C] [G7] [C]
+[F][F]Ma femme [E]sacrifie [F]à sa vieille [E]habitude, De [Am]faire, à [G7]tout ve[C]nant, les [Am]honneurs [F]de [G7]mon [C]lit[C]
 
-De f[Am]aire, à t[G7]out vena[C]nt, les hon[Am]neurs de mo[F]n l[G7]it [Am] [E] [Am]
-
-
-Eh ! oui, je suis cocu, j'ai du cerf sur la tête, On fait force de trous dans ma lune de miel
-
-Ma bien-aimée ne m'invite plus à la fête, Quand elle va faire un tour jusqu'au septième ciel
-
-Quand elle va faire un tour jusqu'au septième ciel
+[G7]De [Am]faire, à [G7]tout ve[C]nant, les [Am]honneurs [F]de [G7]mon [Am]lit[Am]
 
 
-Au péril de mon cœur, la malheureuse écorne, Le pacte conjugal et me le déprécie
+[F][E]Eh ! oui, je [E]suis cocu, [F]j'ai du cerf [E]sur la tête, [Dm]On fait for[Am]ce de trous dans [F]ma lune de [E]miel[E]
 
-Que je ne sache plus où donner de la corne, Semble bien être le cadet de ses soucis
+[F][F]Ma bien-ai[E]mée ne m'in[F]vite plus [E]à la fête, Quand [Am]elle va [G7]faire un [C]tour jus[Am]qu'au sep[F]tiè[G7]me [C]ciel[C]
 
-Semble bien être le cadet de ses soucis
-
-
-Les galants de tout poil viennent boire en mon verre, Je suis la providence des écornifleurs
-
-On cueille dans mon dos la tendre primevère, Qui tenait le dessus de mon panier de fleurs
-
-Qui tenait le dessus de mon panier de fleurs
+[G7]Quand [Am]elle va [G7]faire un [C]tour jus[Am]qu'au sep[F]tiè[G7]me [Am]ciel[Am]
 
 
-En revenant fourbu de la pêche à la ligne, Je les surprends tout nus dans leurs débordements
+[F][E]Au péril [E]de mon cœur, [F]la malheu[E]reuse écorne, [Dm]Le pacte [Am]conjugal et [F]me le dépré[E]cie[E]
 
-Conseillez-leur le port de la feuille de vigne, Ils s'y refuseront avec entêtement
+[F][F]Que je ne [E]sache plus [F]où donner [E]de la corne, Sem[Am]ble bien [G7]être [C]le ca[Am]det de [F]ses [G7]sou[C]cis[C]
 
-Ils s'y refuseront avec entêtement
-
-
-Souiller mon lit nuptial, est-c'que ça les empêche, De garder les dehors de la civilité ?
-
-Qu'on me demande au moins si j'ai fait bonne pêche, Qu'on daigne s'enquérir enfin de ma santé
-
-Qu'on daigne s'enquérir enfin de ma santé
+[G7]Sem[Am]ble bien [G7]être [C]le ca[Am]det de [F]ses [G7]sou[Am]cis[Am]
 
 
-De grâce, un minimum d'attentions délicates, Pour ce pauvre mari qu'on couvre de safran
+[F][E]Les galants [E]de tout poil [F]viennent boire [E]en mon verre, [Dm]Je suis la [Am]providence [F]des écorni[E]fleurs[E]
 
-Le cocu, d'ordinaire, on le choie, on le gâte, On est en fin de compte un peu de ses parents
+[F][F]On cueille [E]dans mon dos [F]la tendre [E]primevère, Qui [Am]tenait [G7]le des[C]sus de [Am]mon pa[F]nier [G7]de [C]fleurs[C]
 
-On est en fin de compte un peu de ses parents
-
-
-A l'heure du repas, mes rivaux détestables, Ont encor ce toupet de lorgner ma portion
-
-Ça leur ferait pas peur de s'asseoir à ma table, Cocu, tant qu'on voudra, mais pas amphitryon
-
-Cocu, tant qu'on voudra, mais pas amphitryon
+[G7]Qui [Am]tenait [G7]le des[C]sus de [Am]mon pa[F]nier [G7]de [Am]fleurs[Am]
 
 
-Partager sa moitié, est-c'que cela comporte, Que l'on partage aussi la chère et la boisson ?
+[F][E]En reve[E]nant fourbu [F]de la pêche [E]à la ligne, [Dm]Je les sur[Am]prends tout nus dans [F]leurs déborde[E]ments[E]
 
-Je suis presque obligé de les mettre à la porte, Et bien content s'ils n'emportent pas mes poissons
+[F][F]Conseillez-[E]leur le port [F]de la feuil[E]le de vigne, Ils [Am]s'y re[G7]fuse[C]ront a[Am]vec en[F]tê[G7]te[C]ment[C]
 
-Et bien content s'ils n'emportent pas mes poissons
-
-
-Bien content qu'en partant ces mufles ne s'égarent, Pas à mettre le comble à leur ignominie
-
-En sifflotant « Il est cocu, le chef de gare... », Parc'que, le chef de gare, c'est mon meilleur ami
-
-Parc'que, le chef de gare, c'est mon meilleur ami
+[G7]Ils [Am]s'y re[G7]fuse[C]ront a[Am]vec en[F]tê[G7]te[Am]ment[Am]
 
 
+[F][E]Souiller mon [E]lit nuptial, [F]est-c'que ça [E]les empêche, [Dm]De garder [Am]les dehors de [F]la civili[E]té[E] ?
+
+[F][F]Qu'on me de[E]mande au moins [F]si j'ai fait [E]bonne pêche, Qu'on [Am]daigne [G7]s'enqué[C]rir en[Am]fin de [F]ma [G7]san[C]té[C]
+
+[G7]Qu'on [Am]daigne [G7]s'enqué[C]rir en[Am]fin de [F]ma [G7]san[Am]té[Am]
+
+
+[F][E]De grâce, un [E]minimum [F]d'attentions [E]délicates, [Dm]Pour ce pau[Am]vre mari qu'on [F]couvre de sa[E]fran[E]
+
+[F][F]Le cocu, [E]d'ordinaire, [F]on le choie, [E]on le gâte, On [Am]est en [G7]fin de [C]compte un [Am]peu de [F]ses [G7]pa[C]rents[C]
+
+[G7]On [Am]est en [G7]fin de [C]compte un [Am]peu de [F]ses [G7]pa[Am]rents[Am]
+
+
+[F][E]À l'heure [E]du repas, [F]mes rivaux [E]détestables, [Dm]Ont encor [Am]ce toupet de [F]lorgner ma por[E]tion[E]
+
+[F][F]Ça leur fe[E]rait pas peur [F]de s'asseoir [E]à ma table, Co[Am]cu, tant [G7]qu'on vou[C]dra, mais [Am]pas am[F]phi[G7]try[C]on[C]
+
+[G7]Co[Am]cu, tant [G7]qu'on vou[C]dra, mais [Am]pas am[F]phi[G7]try[Am]on[Am]
+
+
+[F][E]Partager [E]sa moitié, [F]est-c'que ce[E]la comporte, [Dm]Que l'on par[Am]tage aussi la [F]chère et la bois[E]son[E] ?
+
+[F][F]Je suis presque [E]obligé [F]de les mettre [E]à la porte, Et [Am]bien con[G7]tent s'ils [C]n'empor[Am]tent pas [F]mes [G7]pois[C]sons[C]
+
+[G7]Et [Am]bien con[G7]tent s'ils [C]n'empor[Am]tent pas [F]mes [G7]pois[Am]sons[Am]
+
+
+[F][E]Bien content [E]qu'en partant [F]ces mufles [E]ne s'égarent, [Dm]Pas à mettre [Am]le comble à [F]leur ignomi[E]nie[E]
+
+[F][F]En sifflo[E]tant « Il est [F]cocu, le [E]chef de gare... », Parc'[Am]que, le [G7]chef de [C]gare, c'est [Am]mon meil[F]leur [G7]a[C]mi[C]
+
+[G7]Parc'[Am]que, le [G7]chef de [C]gare, c'est [Am]mon meil[F]leur [G7]a[Am]mi[Am]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Cocu.php?titre=%28Le%29+cocu

@@ -1,43 +1,45 @@
 ## Le mauvais sujet repenti
 
 
-[A]Elle avait la taille faite au tour, Les hanches pleines, Et chassait l'mâle aux alentours, [C#m]De la Mad'leine [G#] [C#m]
+Elle avait [A]la taille faite au tour, Les hanches pleines, Et chassait l'[C#m]mâle aux alen[G#]tours, De la Mad'[C#m]leine
 
-A sa façon [B7]d'me dire : « Mon rat, Est-c'que j'te tente ? », Je vis que[C#m] j'avais affaire à, Une [D]débutante [A] [E7] [A]
-
-
-[A]L'avait l'don, c'est vrai, j'en conviens, L'avait l'génie, Mais sans technique, un don n'es[C#m]t rien, Qu'une sa[G#]le manie [C#m]
-
-Certes, on [B7]ne se fait pas putain, Comme on s'fait nonne, C'est du moin[C#m]s c'qu'on prêche, en latin, A l[D]a Sorbonne [A] [E7] [A]
+À sa fa[B7]çon d'me dire : « Mon rat, Est-c'que j'te [C#m]tente ? », Je vis que [D]j'avais affaire à, Une débu[A]tan[A]te
 
 
-[A]Me sentant rempli de pitié, Pour la donzelle, J'lui enseignai, de son métier, L[C#m]es p'tites ficell[G#]es [C#m]
+L'avait l'don, [A]c'est vrai, j'en conviens, L'avait l'génie, Mais sans tech[C#m]nique, un don n'est [G#]rien, Qu'une sale ma[C#m]nie
 
-J'lui ensei[B7]gnai l'moyen d'bientôt, Faire fortune, En bougea[C#m]nt l'endroit où le dos, [D]R'ssemble à la lune [A] [E7] [A]
-
-
-[A]Car, dans l'art de faire le trottoir, Je le confesse, Le difficile est d'bien savoir[C#m], Jouer des fesse[G#]s [C#m]
-
-On n'tortil[B7]le pas son popotin, D'la même manière, Pour un droguis[C#m]te, un sacristain, Un [D]fonctionnaire [A] [E7] [A]
+Certes, on ne [B7]se fait pas putain, Comme on s'fait [C#m]nonne, C'est du moins c'[D]qu'on prêche, en latin, À la Sor[A]bon[A]ne
 
 
-[A]Rapidement instruite par, Mes bons offices, Elle m'investit d'une part, De ses [C#m]bénéfices [G#] [C#m]
+Me sentant [A]rempli de pitié, Pour la donzelle, J'lui ensei[C#m]gnai, de son mé[G#]tier, Les p'tites fi[C#m]celles
 
-On s'aida m[B7]utuellement, Comme dit l'poète, Elle était [C#m]l'corps, naturellement, [D]Puis moi la tête [A] [E7] [A]
-
-
-[A]Un soir, à la suite de, Manœuvres douteuses, Elle tomba victime d'une, Maladie honteu[C#m]se [G#] [C#m]
-
-Lors, en to[B7]ut bien, toute amitié, En fille probe, Elle me [C#m]passa la moitié, [D]De ses microbes [A] [E7] [A]
+J'lui ensei[B7]gnai l'moyen d'bientôt, Faire for[C#m]tune, En bougeant [D]l'endroit où le dos, R'ssemble à la [A]l[E7]u[A]ne
 
 
-[A]Après des injections aiguës, D'antiseptique, J'abandonnai l'métier d'cocu, Sys[C#m]tématique [G#] [C#m]
+Car, dans l'art [A]de faire le trottoir, Je le confesse, Le diffi[C#m]cile est d'bien sa[G#]voir, Jouer des [C#m]fesses
 
-Elle eut be[B7]au pousser des sanglots, Braire à tue-tête, Comme je n'é[C#m]tais qu'un salaud, J'm[D]e fis honnête [A] [E7] [A]
-
-
-[A]Sitôt privée de ma tutelle, Ma pauvre amie, Courut essuyer du bordel, Les inf[C#m]amies [G#] [C#m]
-
-Paraît qu'e[B7]lle s'vend même à des flics, Quelle décadence, Y'a plus d'm[C#m]oralité publique, Dans notr[D]e France [A] [E7] [A]
+On n'tortille [B7]pas son popotin, D'la même ma[C#m]nière, Pour un dro[D]guiste, un sacristain, Un fonction[A]nai[A]re
 
 
+Rapide[A]ment instruite par, Mes bons offices, Elle m'inves[C#m]tit d'une part, [G#]De ses béné[C#m]fices
+
+On s'aida [B7]mutuellement, Comme dit l'po[C#m]ète, Elle était l'[D]corps, naturellement, Puis moi la [A]t[E7]ê[A]te
+
+
+Un soir, à [A]la suite de, Manœuvres douteuses, Elle tomba [C#m]victime d'une, [G#]Maladie hon[C#m]teuse
+
+Lors, en tout [B7]bien, toute amitié, En fille [C#m]probe, Elle me [D]passa la moitié, De ses mi[A]cro[A]bes
+
+
+Après des [A]injections aiguës, D'antiseptique, J'abandon[C#m]nai l'métier d'co[G#]cu, Systéma[C#m]tique
+
+Elle eut beau [B7]pousser des sanglots, Braire à tue-[C#m]tête, Comme je [D]n'étais qu'un salaud, J'me fis hon[A]nê[A]te
+
+
+Sitôt pri[A]vée de ma tutelle, Ma pauvre amie, Courut es[C#m]suyer du bor[G#]del, Les infa[C#m]mies
+
+Paraît qu'elle s'[B7]vend même à des flics, Quelle déca[C#m]dence, Y'a plus d'mo[D]ralité publique, Dans notre [A]Fran[A]ce
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Mauvais.Sujet.Repenti.php?titre=%28Le%29+mauvais+sujet+repenti

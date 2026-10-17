@@ -1,35 +1,37 @@
 ## Dans l'eau de la claire fontaine
 
 
-[C]Dans l'eau de la claire fontaine, E[E7]lle se[Am] baignait toute nue [C7]
+[C]Dans l'eau de la claire fon[E7]taine, [Am]Elle se baignait toute [C7]nue
 
-[F]Une saute de vent soudaine, Jet[E7]a ses [Am]habits dan[E7]s les nues [Am]
-
-
-En détresse, elle me fit signe, Pour la vêtir, d'aller chercher
-
-Des monceaux de feuilles de vigne, Fleurs de lis ou fleurs d'oranger
+Une [F]saute de vent sou[E7]daine, Je[Am]ta ses ha[E7]bits dans les [Am]nues
 
 
-Avec des pétales de roses, Un bout de corsage lui fis
+[C]En détresse, elle me fit [E7]signe, [Am]Pour la vêtir, d'aller cher[C7]cher
 
-La belle n'était pas bien grosse, Une seule rose a suffi
-
-
-Avec le pampre de la vigne, Un bout de cotillon lui fis
-
-Mais la belle était si petite, Qu'une seule feuille a suffi
+Des [F]monceaux de feuilles de [E7]vigne, Fleurs [Am]de lis ou [E7]fleurs d'oran[Am]ger
 
 
-Elle me tendit ses bras, ses lèvres, Comme pour me remercier
+[C]Avec des pétales de [E7]roses, [Am]Un bout de corsage lui [C7]fis
 
-Je les pris avec tant de fièvre, Qu'elle fut toute déshabillée
-
-
-Le jeu dut plaire à l'ingénue, Car, à la fontaine souvent
-
-Elle s'alla baigner toute nue, En priant Dieu qu'il fit du vent
-
-[G7]Qu'il fit du ve[C]nt...
+La [F]belle n'était pas bien [E7]grosse, Un[Am]e seule [E7]rose a suf[Am]fi
 
 
+[C]Avec le pampre de la [E7]vigne, [Am]Un bout de cotillon lui [C7]fis
+
+Mais la [F]belle était si pe[E7]tite, Qu'un[Am]e seule [E7]feuille a suf[Am]fi
+
+
+[C]Elle me tendit ses bras, ses [E7]lèvres, [Am]Comme pour me remerci[C7]er
+
+Je [F]les pris avec tant de [E7]fièvre, Qu'elle [Am]fut toute [E7]déshabil[Am]lée
+
+
+[C]Le jeu dut plaire à l'ingé[E7]nue, [Am]Car, à la fontaine sou[C7]vent
+
+Elle [F]s'alla baigner toute [E7]nue, En [Am]priant Dieu [E7]qu'il fit du [Am]vent
+
+[G7]Qu'il fit du [C]vent...
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Dans.L.Eau.De.La.Claire.Fontaine.php?titre=Dans+l%27eau+de+la+claire+fontaine

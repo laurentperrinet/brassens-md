@@ -1,36 +1,38 @@
 ## Maman, papa
 
 
-[Ebmaj7]Maman, m[Ebmaj7]aman, en[Ebmaj7] faisant [Bb7sus4]cette cha[G7]nson,[Cm7] Mama[Abmaj7]n, [Ab6/9]
+[Eb]Maman, [Ebdim]maman, [Eb]en faisant cet[Bb7]te chanson, [Cm]Maman,
 
-[Abm7]maman,[Ebmaj7] je r'de[Cm7]viens[Bb7sus4] petit ga[G7]rçon
+[G]maman, [Cm]je r'deviens pe[Ab]tit gar[G]çon
 
-Dom7           Sol7                     Dom7             Sol7 Dom7             Sol7aug5         Labmaj7 Labm7 Sib7
+Dom7 Sol7 Dom7 Sol7 Dom7 Sol7aug5 Labmaj7 Labm7 Sib7
 
-Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
+[Cm]Alors je suis [G]sage en classe, Et, [Cm]pour te faire plai[G7]sir, [Cm]J'obtiens les meil[G]leures places, [Cm]Ton [Bdim]dé[Bb7]sir
 
-[Ebmaj7]Maman, m[Ebmaj7]aman, je[Ebmaj7] préfère [Bb7sus4]à mes jeux [G7]fous,[Cm7] Mama[Abmaj7]n, maman[Ab6/9], demeur[Abm7]er sur[Ebmaj7] tes gen[Cm7]oux [Bb7sus4] [G7]
+[Eb]Maman, [Ebdim]maman, [Eb]je préfère à [Bb7]mes jeux fous, [Cm]Maman, [G]maman, [Cm]demeurer sur [Ab]tes ge[G]noux
 
-[Abmaj7]Et, sans un mot dire[Gm7], entendre tes r[Fm7]efrains charmants,
+[Ab]Et, sans un mot [C#]dire, entendre [Eb]tes refrains char[C7]mants,
 
-[Abmaj7]Maman, m[Fm7]aman,[Fbmaj7] maman, [Bb7sus4]maman [Eb]
-
-
-Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
-
-Et je t'entends sous l'orage, User tout ton humour, Pour redonner du courage, A nos cœurs lourds
-
-Papa, papa, il n'y eut pas entre nous, Papa, papa, de tendresse ou de mots doux
-
-Pourtant on s'aimait, bien qu'on ne se l'avouât pas, Papa, papa, papa, papa
+[Fm7]Maman, [B7]maman, [Bb7]maman, ma[Eb]man
 
 
-Maman, papa, en faisant cette chanson, Maman, papa, je r'deviens petit garçon
+[Eb]Papa, [Ebdim]papa, [Eb]en faisant cet[Bb7]te chanson, [Cm]Papa, [G]papa, [Cm]je r'deviens pe[Ab]tit gar[G]çon
 
-Et, grâce à cet artifice, Soudain je comprends, Le prix de vos sacrifices, Mes parents
+[Cm]Et je t'entends [G]sous l'orage, U[Cm]ser tout ton hu[G7]mour, [Cm]Pour redonner [G]du courage, À [Cm]nos [Bdim]cœurs [Bb7]lourds
 
-Maman, papa, toujours je regretterai, Maman, papa, de vous avoir fait pleurer
+[Eb]Papa, [Ebdim]papa, [Eb]il n'y eut pas [Bb7]entre nous, [Cm]Papa, [G]papa, [Cm]de tendresse ou [Ab]de mots [G]doux
 
-Au temps où nos cœurs ne se comprenaient encor pas, Maman, papa, maman, papa
+[Ab]Pourtant on s'ai[C#]mait, bien qu'on ne [Eb]se l'avouât [C7]pas, [Fm7]Papa, [B7]papa, [Bb7]papa, pa[Eb]pa
 
 
+[Eb]Maman, [Ebdim]papa, [Eb]en faisant cet[Bb7]te chanson, [Cm]Maman, [G]papa, [Cm]je r'deviens pe[Ab]tit gar[G]çon
+
+[Cm]Et, grâce à cet [G]artifice, [Cm]Soudain je com[G7]prends, [Cm]Le prix de vos [G]sacrifices, [Cm]Mes [Bdim]pa[Bb7]rents
+
+[Eb]Maman, [Ebdim]papa, [Eb]toujours je re[Bb7]gretterai, [Cm]Maman, [G]papa, [Cm]de vous avoir [Ab]fait pleu[G]rer
+
+[Ab]Au temps où nos [C#]cœurs ne se com[Eb]prenaient encor [C7]pas, [Fm7]Maman, [B7]papa, [Bb7]maman, pa[Eb]pa
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Maman.Papa.2.php?titre=Maman%2C+Papa

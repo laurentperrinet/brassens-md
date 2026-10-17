@@ -1,56 +1,57 @@
 ## Montélimar
 
 
-[Bm]Avec leurs gni[F#7]ards, Mignons [Bm]mignards, L[F#7]eur beau matou,[G] Leur gros[A7] toutou, [D] [B7]
+A[Bm]vec leurs [F#7]gniards, Mi[Bm]gnons mi[F#7]gnards, Leur [G]beau ma[A7]tou, Leur [D]gros tou[B7]tou,
 
-Les pha[Em]risie[A7]ns, Les béo[D]tiens, [B7]Les aoûtiens, [Em] [F#7]
+Les [Em]phari[A7]siens, Les [D]béotiens,[B7] Les aoû[Em]tiens,[F#7]
 
-Dans leur[Bm] aut[F#7]o, Roulent[Bm] prest[F#7]o, Tombeau o[G]uvert, Des[A7]cendant ver[D]s [B7]
+Dans [Bm]leur au[F#7]to, Rou[Bm]lent pres[F#7]to, Tom[G]beau ou[A7]vert, Des[D]cendant [B7]vers
 
-La gra[Em]nde mare,[A7] En passa[D]nt par, Monté[F#7]limar. [Bm]
+La [Em]grande [A7]mare, En [D]passant par,[F#7] Montéli[Bm]mar.[Em]
 
 
 Refrain :
 
-[Em]Dites d'urg[Bm]ence[F#7], A ces engea[Bm]nces, De malheur,[Bm] Et à leurs, Gniards [E] [Em]
+Dites d'ur[Bm]gence,[F#7] À ces en[Bm]geances, De malheur, Et à leurs, [E]Gniards[Em]
 
-[A7]Que chiens, chats, N'aimen[D]t, Pas l[F#7]'nougat, Même, Même ce[Bm]lui, D'Montélimar. [A] [Bm]
-
-
-Hélas, bientôt, Le mal d'auto, Va déranger, Les passagers.
-
-Le beau matou, Le gros toutou, Pas fiers du tout
-
-- Ça fait frémir -, S'en vont vomir, Et même pis, Sur les tapis,
-
-Et les coussins, A beaux dessins, C'est très malsain.
+[A7]Que chiens, chats, [D]N'aiment,[F#7] Pas l'nougat, [Bm]Même, Même celui,[A] D'Montéli[Bm]mar.
 
 
-Refrain
+Hé[Bm]las, bien[F#7]tôt, Le [Bm]mal d'au[F#7]to, Va [G]déran[A7]ger, Les [D]passa[B7]gers.
 
+Le [Em]beau ma[A7]tou, Le [D]gros tou[B7]tou, Pas [Em]fiers du [F#7]tout
 
-C'est très fâcheux, C'est plus du jeu, Et cætera. Et alors à
+- Ça [Bm]fait fré[F#7]mir -, S'en [Bm]vont vo[F#7]mir, Et [G]même [A7]pis, Sur [D]les ta[B7]pis,
 
-Montélimar, On en a marre, Du cauchemar.
-
-Boutant presto, Hors de l'auto, Le beau matou, Le gros toutou,
-
-Ces handicaps, Sur Digne, Gap, On met le cap.
+Et [Em]les cous[A7]sins, À [D]beaux dessins,[F#7] C'est très mal[Bm]sain.[Em]
 
 
 Refrain
 
 
-Alors tous ces, Petits poucets, Ces beaux matous, Ces gros toutous,
+C'est [Bm]très fâ[F#7]cheux, C'est [Bm]plus du [F#7]jeu, Et [G]cæte[A7]ra. Et [D]alors [B7]à
 
-En ribambelle, Ont sans appel, Droit au scalpel.
+Mon[Em]téli[A7]mar, On [D]en a [B7]marre, Du [Em]cauche[F#7]mar.
 
-Les aoûtiens, Les béotiens, Qui font ça n'ont, Pas d'âme, non,
+Bou[Bm]tant pres[F#7]to, Hors [Bm]de l'au[F#7]to, Le [G]beau ma[A7]tou, Le [D]gros tou[B7]tou,
 
-Que leur auto, Bute presto, Contre un poteau !
+Ces [Em]handi[A7]caps, Sur [D]Digne, Gap,[F#7] On met le [Bm]cap.[Em]
 
 
 Refrain
 
 
+A[Bm]lors tous [F#7]ces, Pe[Bm]tits pou[F#7]cets, Ces [G]beaux ma[A7]tous, Ces [D]gros tou[B7]tous,
 
+En [Em]ribam[A7]belle, Ont [D]sans ap[B7]pel, Droit [Em]au scal[F#7]pel.
+
+Les [Bm]aoû[F#7]tiens, Les [Bm]béo[F#7]tiens, Qui [G]font ça [A7]n'ont, Pas [D]d'âme, [B7]non,
+
+Que [Em]leur au[A7]to, Bu[D]te presto,[F#7] Contre un po[Bm]teau[Em] !
+
+
+Refrain
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Montelimar.php?titre=Mont%C3%A9limar

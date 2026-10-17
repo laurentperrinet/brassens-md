@@ -1,60 +1,61 @@
 ## Le progrès
 
 
-[C]Que le progrès[Em] soit salutaire[Am], C'[C]est entendu, c'[D7]est entendu. [G] [E7]
+[C]Que le pro[Em]grès soit salu[Am]taire,[C] C'est enten[D7]du, c'est enten[G]du.[E7]
 
-M[Am]ais ils feraient mieux de se taire, Ceux qui disent que le presbytère [E] [B7] [E] [G7]
+[Am]Mais ils feraient mieux de se taire, Ceux qui disent [E]que le [B7]presby[E]tè[G7]re
 
-[C]De son charme du vieux[C7] temps passé n'a rien pe[F]rdu, N'a r[Fm]ien p[C]erdu. [G7] [C]
-
-
-Supplantés par des betteraves, Les beaux lilas ! Les beaux lilas !
-
-Sans mentir, il faut être un brave, Fourbe pour dire d'un ton grave,
-
-Que le jardin du curé garde tout son éclat, Tout son éclat.
+[C]De son charme [C7]du vieux temps pas[F]sé n'a [Fm]rien per[C]du, N'a [G7]rien per[C]du.
 
 
-Entre les tours monumentales, Toujours croissant, toujours croissant,
+[C]Supplantés [Em]par des bette[Am]raves,[C] Les beaux li[D7]las ! Les beaux li[G]las[E7] !
 
-Qui cherche sa maison natale, Se perd comme dans un dédale.
+[Am]Sans mentir, il faut être un brave, Fourbe pour [E]dire [B7]d'un ton [E]gra[G7]ve,
 
-Au mal du pays, plus aucun remède à présent, Remède à présent.
-
-
-C'est de la malice certaine, C'est inhumain ! C'est inhumain !
-
-Ils ont asséché la fontaine, Où les belles samaritaines
-
-Nous faisaient boire, en été, l'eau fraîche dans leurs mains, Fraîche dans leurs mains.
+[C]Que le jardin [C7]du curé gar[F]de tout [Fm]son é[C]clat, Tout [G7]son é[C]clat.
 
 
-Ils ont abattu, les vandales, Et sans remords, et sans remords,
+[C]Entre les [Em]tours monumen[Am]tales,[C] Toujours crois[D7]sant, toujours crois[G]sant,[E7]
 
-L'arbre couvert en capitales, De noms d'amants : c'est un scandale !
+[Am]Qui cherche sa maison natale, Se perd com[E]me dans [B7]un dé[E]da[G7]le.
 
-Les amours mortes n'ont plus de monuments aux morts, Monuments aux morts.
-
-
-L'a fait des affaires prospères, Le ferrailleur, le ferrailleur,
-
-En fauchant les vieux réverbères. Maintenant quand on désespère,
-
-On est contraint et forcé d'aller se pendre ailleurs, Se pendre ailleurs.
+[C]Au mal du [C7]pays, plus aucun [F]remède [Fm]à pré[C]sent, Remède [G7]à pré[C]sent.
 
 
-Et c'est ce que j'ai fait sur l'heure, Et sans délai, et sans délai.
+[C]C'est de la [Em]malice cer[Am]taine,[C] C'est inhu[D7]main ! C'est [G]inhu[E7]main !
 
-Le coq du clocher n'est qu'un leurre, Une girouette de malheur(e).
+[Am]Ils ont asséché la fontaine, Où les bel[E]les sa[B7]mari[E]tai[G7]nes
 
-Ingrate patrie, tu n'auras pas mes feux follets, Mes feux follets.
-
-
-Que le progrès soit salutaire, C'est entendu, c'est entendu.
-
-Mais ils feraient mieux de se taire, Ceux qui disent que le presbytère
-
-De son charme du vieux temps passé n'a rien perdu, N'a rien perdu.
+[C]Nous faisaient boire, [C7]en été, l'eau [F]fraîche [Fm]dans leurs [C]mains, Fraîche [G7]dans leurs [C]mains.
 
 
+[C]Ils ont abat[Em]tu, les van[Am]dales,[C] Et sans re[D7]mords, et sans re[G]mords,[E7]
 
+[Am]L'arbre couvert en capitales, De noms d'a[E]mants : c'est [B7]un scan[E]da[G7]le !
+
+[C]Les amours mor[C7]tes n'ont plus de [F]monu[Fm]ments aux [C]morts, Monu[G7]ments aux [C]morts.
+
+
+[C]L'a fait des af[Em]faires pros[Am]pères,[C] Le ferrail[D7]leur, le ferrail[G]leur,[E7]
+
+[Am]En fauchant les vieux réverbères. Maintenant [E]quand on [B7]déses[E]pè[G7]re,
+
+[C]On est contraint [C7]et forcé d'al[F]ler se [Fm]pendre ail[C]leurs, Se [G7]pendre ail[C]leurs.
+
+
+[C]Et c'est ce [Em]que j'ai fait sur [Am]l'heure,[C] Et sans dé[D7]lai, et sans dé[G]lai.[E7]
+
+[Am]Le coq du clocher n'est qu'un leurre, Une gi[E]rouette [B7]de mal[E]heur([G7]e).
+
+[C]Ingrate pa[C7]trie, tu n'auras [F]pas mes [Fm]feux fol[C]lets, Mes [G7]feux fol[C]lets.
+
+
+[C]Que le pro[Em]grès soit salu[Am]taire,[C] C'est enten[D7]du, c'est enten[G]du.[E7]
+
+[Am]Mais ils feraient mieux de se taire, Ceux qui disent [E]que le [B7]presby[E]tè[G7]re
+
+[C]De son charme [C7]du vieux temps pas[F]sé n'a [Fm]rien per[C]du, N'a [G7]rien per[C]du.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Progres.php?titre=%28Le%29+progr%C3%A8s

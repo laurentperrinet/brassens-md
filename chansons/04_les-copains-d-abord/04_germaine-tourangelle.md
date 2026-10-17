@@ -28,4 +28,6 @@ Germaine Tourangelle, Ô vous la plus jolie.
 
 Le fluide arc-en-ciel s'égrenant sur mon cœur.
 
+### Notes
 
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Germaine.Tourangelle.php?titre=Germaine+Tourangelle

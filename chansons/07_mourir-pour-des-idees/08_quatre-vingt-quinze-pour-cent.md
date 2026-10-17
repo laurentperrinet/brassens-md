@@ -1,62 +1,63 @@
 ## Quatre-vingt quinze pour cent
 
 
-[F]La femme qui possède tout[G] en elle, Pour d[C]onn[Am]er l[Dm]e goût des fêtes charn[E]elles [Am]
+[F]La femme qui pos[G]sède tout en [C]el[Am]le, [Dm]Pour donner le goût [E]des fêtes char[Am]nelles
 
-[Dm]La femme qui suscite e[E]n nous tant de passi[Am]ons brutales, La femme est ava[B7]nt tout sentimentale [E]
+[Dm]La femme qui sus[E]cite en nous tant [Am]de passions brutales, [B7]La femme est avant tout sentimen[E]tale[E7]
 
-[F]Main dans la main les longues p[G]romenades, Les f[C]leu[Am]rs l[Dm]es billets doux les sérénade[E]s [Am]
+[F]Main dans la main les [G]longues prome[C]na[Am]des, [Dm]Les fleurs les billets [E]doux les séré[Am]nades
 
-[Dm]Les crimes les folies [E]que pour ses beaux y[Am]eux l'on commêt, La transporte mais... [B7] [E] [Am]
+[Dm]Les crimes les fo[E]lies que pour ses [Am]beaux yeux l'on commêt, [B7]La trans[E]porte [Am]mais...
 
 
 Refrain :
 
-[C]Quatre-vingt-quinze foi[G7]s sur cent, La femme s[C]'emmerde en baisant [E]
+[C]Quatre-vingt-quin[G7]ze fois sur cent, [C]La femme s'em[E]merde en baisant
 
-[Am]Qu'elle le taise ou [E]le confesse, C'est pa[Am]s tout les jours qu'on lui déride les fesses
+[Am]Qu'elle le taise [E]ou le confesse, [Am]C'est pas tout les jours qu'on lui déride les fesses
 
-[C]Les pauvre bougres conv[G7]aincus, Du contrair[C]e sont des cocus [E]
+[C]Les pauvre bou[G7]gres convaincus, [C]Du contraire [E]sont des cocus
 
-[F]À l'heure de l'œuv[G7]re de chaire, El[C]le est[Am] souvent triste Pe[Dm]uchè[G7]re [A7]
+[F]À l'heure de l'œu[G7]vre de [C]chaire, Elle [Am]est souvent [Dm]triste [G7]Peu[A7]chère
 
-[F]Si elle n'entend le [G7]cœur qui bat, Le [C]corps non-plu[Am]s ne bronche pas. [Dm] [G7] [C]
-
-
-Sauf quand elle aime un homme avec tendresse, Toujours sensible alors à ses caresses
-
-Toujours bien disposée, toujours encline à s'émouvoir, Elle s'emmerde sans s'en apercevoir.
-
-Ou quand elle a des besoins tyranniques, Qu'elle souffre de nymphomanie chronique
-
-C'est elle qui fait alors passer à ses adorateurs, De fichus quart d'heure.
+[F]Si elle n'entend le [G7]cœur qui [C]bat, Le [Am]corps non-plus ne [Dm]bron[G7]che [C]pas.
 
 
-Refrain
+[F]Sauf quand elle aime un [G]homme avec ten[C]dres[Am]se, [Dm]Toujours sensible a[E]lors à ses ca[Am]resses
 
+[Dm]Toujours bien dispo[E]sée, toujours en[Am]cline à s'émouvoir, [B7]Elle s'emmerde sans s'en aperce[E]voir.[E7]
 
-Les «encore», les «c'est bon», les «continue», Qu'elle crie pour simuler qu'elle monte aux nues
+[F]Ou quand elle a des [G]besoins tyran[C]ni[Am]ques, [Dm]Qu'elle souffre de nym[E]phomanie chro[Am]nique
 
-C'est pure charité les soupirs des anges ne sont, En vérité que de pieux mensonges
-
-C'est à seule fin que son partenaire, Se croit un amant extraordinaire
-
-Que le coq imbécile et prétentieux perché dessus, Ne soit pas déçu.
+[Dm]C'est elle qui fait a[E]lors passer à [Am]ses adorateurs, [B7]De fi[E]chus quart [Am]d'heure.
 
 
 Refrain
 
 
-J'entends aller bon train les commentaires, De ceux qui font des châteaux à Cythère :
+[F]Les «encore», les «c'est [G]bon», les «conti[C]nu[Am]e», [Dm]Qu'elle crie pour simu[E]ler qu'elle monte aux [Am]nues
 
-C'est parce que tu n'es qu'un malhabile, un maladroit, Qu'elle conserve toujours son sang froid
+[Dm]C'est pure chari[E]té les soupirs [Am]des anges ne sont, [B7]En vérité que de pieux men[E]songes[E7]
 
-Peut-être mais si les assauts vous pèsent, De ces petits m'as-tu-vu quand je baise
+[F]C'est à seule fin [G]que son parte[C]nai[Am]re, [Dm]Se croit un amant [E]extraordi[Am]naire
 
-Mesdames en vous laissant manger le plaisir sur le dos, Chantez in petto...
+[Dm]Que le coq imbé[E]cile et préten[Am]tieux perché dessus, [B7]Ne soit [E]pas dé[Am]çu.
 
 
 Refrain
 
 
+[F]J'entends aller bon [G]train les commen[C]tai[Am]res, [Dm]De ceux qui font des [E]châteaux à Cy[Am]thère :
 
+[Dm]C'est parce que tu [E]n'es qu'un malha[Am]bile, un maladroit, [B7]Qu'elle conserve toujours son sang [E]froid[E7]
+
+[F]Peut-être mais si [G]les assauts vous [C]pè[Am]sent, [Dm]De ces petits m'as-[E]tu-vu quand je [Am]baise
+
+[Dm]Mesdames en vous lais[E]sant manger le [Am]plaisir sur le dos, [B7]Chantez [E]in pet[Am]to...
+
+
+Refrain
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Quatre.Vingt.Quinze.Pour.Cent.php?titre=Quatre-vingt-quinze+pour+cent

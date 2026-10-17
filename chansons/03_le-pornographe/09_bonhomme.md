@@ -1,38 +1,40 @@
 ## Bonhomme
 
 
-[C]Malgré la bise [F]qui mord, L[C]a pauvre vieill[F]e de so[C]mme [G7]
+[C]Malgré la bi[F]se qui [C]mord, La pau[F]vre vieil[C]le de [G7]somme[C]
 
-[C]Va ramasser[D7] du bois mort,[G7] Pour c[C]hauffer Bonho[Am]mme [D7] [G7]
+Va ra[D7]masser du bois [G7]mort,[C] Pour chauf[Am]fer Bo[D7]nhom[G7]me
 
-[C7]Bonhomme [F]qui va mo[C7]urir, D[F]e mo[C]rt nature[Am]lle [D7] [C]
-
-
-Mélancolique, elle va, A travers la forêt blême
-
-Où jadis elle rêva, De celui qu'elle aime
-
-Qu'elle aime et qui va mourir, De mort naturelle
+[C7]Bonhom[F]me qui [C7]va mou[F]rir, [C]De mort [Am]natu[D7]rel[C]le
 
 
-Rien n'arrêtera le cours, De la vieille qui moissonne
+[C]Mélancolique, [F]elle [C]va, À tra[F]vers la [C]forêt [G7]blême[C]
 
-Le bois mort de ses doigts gourds, Ni rien ni personne
+Où ja[D7]dis elle rê[G7]va,[C] De ce[Am]lui qu'elle ai[G7]me
 
-Car Bonhomme va mourir, De mort naturelle
-
-
-Non, rien ne l'arrêtera, Ni cette voix de malheur
-
-Qui dit : « Quand tu rentreras, Chez toi, tout à l'heure
-
-Bonhomme sera déjà mort, De mort naturelle »
+[C7]Qu'elle aime [F]et qui [C7]va mou[F]rir, [C]De mort [Am]natu[D7]rel[C]le
 
 
-Ni cette autre et sombre voix, Montant du plus profond d'elle
+[C]Rien n'arrête[F]ra le [C]cours, De la [F]vieille [C]qui mois[G7]sonne[C]
 
-Lui rappeler que, parfois, Il fut infidèle
+Le bois [D7]mort de ses doigts [G7]gourds,[C] Ni rien [Am]ni per[D7]son[G7]ne
 
-Car Bonhomme, il va mourir, De mort naturelle
+[C7]Car Bo[F]nhomme [C7]va mou[F]rir, [C]De mort [Am]natu[D7]rel[C]le
 
 
+[C]Non, rien ne l'ar[F]rête[C]ra, Ni cet[F]te voix [C]de ma[G7]lheur
+
+Qui dit : « [D7]Quand tu rentre[G7]ras,[C] Chez toi, [Am]tout à [D7]l'heu[G7]re
+
+[C7]Bonhomme [F]sera [C7]déjà [F]mort, [C]De mort [Am]natu[D7]rel[C]le »
+
+
+[C]Ni cette autre et [F]sombre [C]voix, Montant [F]du plus [C]profond [G7]d'elle[C]
+
+Lui rap[D7]peler que, par[G7]fois,[C] Il fut [Am]infi[D7]dè[G7]le
+
+[C7]Car Bo[F]nhomme, il [C7]va mou[F]rir, [C]De mort [Am]natu[D7]rel[C]le
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Bonhomme.php?titre=Bonhomme

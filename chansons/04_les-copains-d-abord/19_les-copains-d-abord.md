@@ -2,64 +2,66 @@
 
 Non ce n'é[D]tait pas le radeau, De la méduse ce bateau,
 
-Qu'on se le di[E7]s' au fond des ports, Dise au fond des ports
+Qu'on se le [E7]dis' au fond des ports, Dise au fond des ports
 
-Il navig[G]uait en père peinard, Sur la grand-[F#]mare des can[F#7]ards
+Il navi[G]guait en père peinard, Sur la grand-[F#7]mare des canards
 
 Et s'appelait [Bm]les copains d'a[E7]bord, Les co[A7]pains d'a[D]bord
 
 
 Ses « fluctuat nec mergitur », C'était pas d'la littérature
 
-N'en déplaise aux jeteurs de sorts, Aux jeteurs de sorts
+N'en déplaise [E7]aux jeteurs de sorts, Aux jeteurs de sorts
 
-Son capitaine et ses matelots, N'étaient pas des enfants d'salauds
+Son capi[G]taine et ses matelots, N'étaient pas [F#7]des enfants d'salauds
 
-Mais des amis franco de port, Des copains d'abord
+Mais des a[Bm]mis franco de [E7]port, Des co[A7]pains d'a[D]bord
 
 
 C'étaient pas des amis de luxe, Des petits Castor et Pollux
 
-Des gens de Sodome et Gomorrhe, Sodome et Gomorrhe
+Des gens de [E7]Sodome et Gomorrhe, Sodome et Gomorrhe
 
-C'étaient pas des amis choisis, Par Montaigne et la Boétie
+C'étaient pas [G]des amis choisis, Par Montaigne [F#7]et la Boétie
 
-Sur le ventre ils se tapaient fort, Les copains d'abord
+Sur le ventre [Bm]ils se tapaient [E7]fort, Les co[A7]pains d'a[D]bord
 
 
 C'étaient pas des anges non plus, L'évangile ils l'avaient pas lu
 
-Mais ils s'aimaient toutes voiles dehors, Toutes voiles dehors
+Mais ils s'ai[E7]maient toutes voiles dehors, Toutes voiles dehors
 
-Jean, Pierre, Paul et compagnie, C'était leur seule litanie
+Jean, Pierre, [G]Paul et compagnie, C'était leur [F#7]seule litanie
 
-Leur credo leur confiteor, Aux copains d'abord
+Leur credo [Bm]leur confite[E7]or, Aux co[A7]pains d'a[D]bord
 
 
 Au moindre coup de Trafalgar, C'est l'amitié qui prenait l'quart
 
-C'est elle qui leur montrait le nord, Leur montrait le nord
+C'est elle qui [E7]leur montrait le nord, Leur montrait le nord
 
-Et quand ils étaient en détresse, Qu'leurs bras lançaient des S.O.S.
+Et quand ils [G]étaient en détresse, Qu'leurs bras lan[F#7]çaient des S.O.S.
 
-On aurait dit des sémaphores, Les copains d'abord
+On aurait [Bm]dit des séma[E7]phores, Les co[A7]pains d'a[D]bord
 
 
 Au rendez-vous des bons copains, Y avait pas souvent de lapins
 
-Quand l'un d'entre eux manquait à bord, C'est qu'il était mort
+Quand l'un d'entre [E7]eux manquait à bord, C'est qu'il était mort
 
-Oui mais jamais au grand jamais, Son trou dans l'eau n'se refermait
+Oui mais ja[G]mais au grand jamais, Son trou dans [F#7]l'eau n'se refermait
 
-Cent ans après coquin de sort, Il manquait encore
-
-
-Des  bateaux j'en ai pris beaucoup, Mais le seul qui ait tenu le coup
-
-Qui n'ait jamais viré de bord, Mais viré de bord
-
-Naviguait en père peinard, Sur la grand-mare des canards
-
-Et s'appelait les copains d'abord, Les copains d'abord
+Cent ans a[Bm]près coquin de [E7]sort, Il man[A7]quait en[D]core
 
 
+Des bateaux j'en ai pris beaucoup, Mais le seul qui ait tenu le coup
+
+Qui n'ait ja[E7]mais viré de bord, Mais viré de bord
+
+Naviguait [G]en père peinard, Sur la grand-[F#7]mare des canards
+
+Et s'appelait [Bm]les copains d'a[E7]bord, Les co[A7]pains d'a[D]bord
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Copains.D.Abord.php?titre=%28Les%29+copains+d%27abord

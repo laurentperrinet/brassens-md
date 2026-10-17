@@ -3,76 +3,78 @@
 
 Il vi[D]vait en de[Bm]hors des che[Em]mins fores[A7]tiers, Ce [D]n'était nulle[Bm]ment un arbre [Em]de mé-[A7]tier,
 
-Il n'a-[D]vait jamais [D7]vu l'om[G]bre d'un bûche[F#]ron, Ce [Bm]grand chêne fier [Em]sur son [D]tronc. [A7]
+Il n'a-[D]vait jamais [D7]vu l'om[G]bre d'un bûche[F#7]ron, Ce [Bm]grand chêne fier [Em]sur [A7]son [D]tronc.
 
 
-Il eût connu des jours filés d'or et de soie, Sans ses proches voisins, les pires gens qui soient ;
+Il eût [D]connu des [Bm]jours filés [Em]d'or et de [A7]soie, Sans [D]ses proches voi[Bm]sins, les pires [Em]gens qui [A7]soient ;
 
-Des roseaux mal pensant, pas même des bambous, S'amusant à le mettre à bout.
-
-
-Du matin jusqu'au soir ces petit rejetons, Tout juste canne à pêche, à peine mirlitons,
-
-Lui tournant tout autour chantaient, in extenso, L'histoire du chêne et du roseau.
+Des ro[D]seaux mal pen[D7]sant, pas [G]même des bam[F#7]bous, S'a[Bm]musant à le [Em]mettre [A7]à [D]bout.
 
 
-Et, bien qu'il fût en bois, les chênes, c'est courant, La fable ne le laissait pas indifférent.
+Du ma[D]tin jusqu'au [Bm]soir ces pe[Em]tit reje[A7]tons, Tout [D]juste canne à [Bm]pêche, à peine [Em]mirli[A7]tons,
 
-Il advint que lassé d'être en but aux lazzi, Il se résolut à l'exil.
-
-
-A grand-peine il sortit ses grands pieds de son trou, Et partit sans se retourner ni peu ni prou.
-
-Mais, moi qui l'ai connu, je sais bien qu'il souffrit, De quitter l'ingrate patrie
+Lui tour[D]nant tout au[D7]tour chan[G]taient, in exten[F#7]so, L'his[Bm]toire du chêne et [Em]du [A7]ro[D]seau.
 
 
-A l'orée des forêts, le chêne ténébreux, A lié connaissance avec deux amoureux.
+Et, bien [D]qu'il fût en [Bm]bois, les [Em]chênes, c'est cou[A7]rant, La [D]fable ne le [Bm]laissait pas in[Em]diffé[A7]rent.
 
-« Grand chêne, laisse-nous sur toi graver nos noms... » Le grand chêne n'a pas dit non.
-
-
-Quand ils eurent épuisé leur grand sac de baisers, Quand, de tant s'embrasser, leurs becs furent usés,
-
-Ils ouïrent alors, en retenant des pleurs, Le chêne contant ses malheurs.
+Il ad[D]vint que las[D7]sé d'être [G]en but aux laz[F#7]zi, Il [Bm]se résolut [Em]à l'[A7]e[D]xil.
 
 
-« Grand chêne, viens chez nous, tu trouveras la paix, Nos roseaux savent vivre et n'ont aucun toupet,
+A grand-[D]peine il sor[Bm]tit ses grands [Em]pieds de son [A7]trou, Et [D]partit sans se [Bm]retourner ni [Em]peu ni [A7]prou.
 
-Tu feras dans nos murs un aimable séjour, Arrosé quatre fois par jour. »
-
-
-Cela dit, tous les trois se mirent en chemin, Chaque amoureux tenant une racine en main.
-
-Comme il semblait content ! Comme il semblait heureux, Le chêne entre ses amoureux.
+Mais, moi [D]qui l'ai con[D7]nu, je [G]sais bien qu'il souf[F#7]frit, De [Bm]quitter l'ingra[Em]te [A7]pa[D]trie
 
 
-Au pied de leur chaumière ils le firent planter. Ce fut alors qu'il commença de déchanter
+À l'o[D]rée des fo[Bm]rêts, le [Em]chêne téné[A7]breux, A [D]lié connais[Bm]sance avec deux [Em]amou[A7]reux.
 
-Car, en fait d'arrosage, il n'eut rien que la pluie, Des chiens levant la patte sur lui.
-
-
-On a pris tous ses glands pour nourrir les cochons, Avec sa belle écorce on a fait des bouchons,
-
-Chaque fois qu'un arrêt de mort était rendu, C'est lui qui héritait du pendu.
+« Grand chê[D]ne, laisse-[D7]nous sur [G]toi graver nos [F#7]noms... » Le [Bm]grand chêne n'a [Em]pas [A7]dit [D]non.
 
 
-Puis ces mauvaises gens, vandales accomplis, Le coupèrent en quatre et s'en firent un lit.
+Quand ils [D]eurent épui[Bm]sé leur grand [Em]sac de bai[A7]sers, Quand, [D]de tant s'embras[Bm]ser, leurs becs fu[Em]rent u[A7]sés,
 
-Et l'horrible mégère ayant des tas d'amants, Il vieillit prématurément.
-
-
-Un triste jour, enfin, ce couple sans aveu, Le passa par la hache et le mit dans le feu.
-
-Comme du bois de caisse, amère destinée, Il périt dans la cheminée.
+Ils ou[D]ïrent a[D7]lors, en [G]retenant des [F#7]pleurs, Le [Bm]chêne contant [Em]ses [A7]mal[D]heurs.
 
 
-Le curé de chez nous, petit saint besogneux, Doute que sa fumée s'élève jusqu'à Dieu.
+« Grand chê[D]ne, viens chez [Bm]nous, tu trou[Em]veras la [A7]paix, Nos [D]roseaux savent [Bm]vivre et n'ont au[Em]cun tou[A7]pet,
 
-Qu'est-c'qu'il en sait, le bougre, et qui donc lui a dit, Qu'y a pas de chêne en para-
+Tu fe[D]ras dans nos [D7]murs un [G]aimable sé[F#7]jour, Ar[Bm]rosé quatre [Em]fois [A7]par [D]jour. »
+
+
+Cela [D]dit, tous les [Bm]trois se [Em]mirent en [A7]chemin, Chaque [D]amoureux te[Bm]nant une ra[Em]cine en [A7]main.
+
+Comme il [D]semblait con[D7]tent ! Comme [G]il semblait heu[F#7]reux, Le [Bm]chêne entre ses [Em]a[A7]mou[D]reux.
+
+
+Au pied [D]de leur chau[Bm]mière ils le [Em]firent plan[A7]ter. Ce [D]fut alors qu'il [Bm]commença de [Em]déchan[A7]ter
+
+Car, en [D]fait d'arro[D7]sage, il [G]n'eut rien que la [F#7]pluie, Des [Bm]chiens levant la [Em]patte [A7]sur [D]lui.
+
+
+On a [D]pris tous ses [Bm]glands pour nour[Em]rir les co[A7]chons, A[D]vec sa belle é[Bm]corce on a fait [Em]des bou[A7]chons,
+
+Chaque [D]fois qu'un ar[D7]rêt de [G]mort était ren[F#7]du, C'est [Bm]lui qui héritait [Em]du [A7]pen[D]du.
+
+
+Puis ces [D]mauvaises [Bm]gens, van[Em]dales accom[A7]plis, Le [D]coupèrent en [Bm]quatre et s'en fi[Em]rent un [A7]lit.
+
+Et l'hor[D]rible mé[D7]gère ay[G]ant des tas d'a[F#7]mants, Il [Bm]vieillit préma[Em]tu[A7]ré[D]ment.
+
+
+Un tris[D]te jour, en[Bm]fin, ce [Em]couple sans a[A7]veu, Le [D]passa par la [Bm]hache et le mit [Em]dans le [A7]feu.
+
+Comme [D]du bois de [D7]caisse, a[G]mère desti[F#7]née, Il [Bm]périt dans la [Em]che[A7]mi[D]née.
+
+
+Le cu[D]ré de chez [Bm]nous, petit [Em]saint beso[A7]gneux, Dou[D]te que sa fu[Bm]mée s'élève [Em]jusqu'à [A7]Dieu.
+
+Qu'est-c'qu'il [D]en sait, le [D7]bougre, et [G]qui donc lui a [F#7]dit, [Bm]Qu'y a pas de chêne en [Em]pa[A7]ra-
 
 
 -[F#]dis ?
 
-Qu'y a [Bm]pas de chêne en [Em]pa--[A7]ra--[D]dis [A7]? [D]
+[Bm]Qu'y a pas de chêne en [Em]pa--[A7]ra--[D]dis[D] ?
 
+### Notes
 
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Grand.Chene.php?titre=%28Le%29+grand+ch%C3%AAne

@@ -1,59 +1,61 @@
 ## Embrasse les tous
 
 
-[Dm]Tu n'es pas de celles qui meurent où elles s'attachent, Tu frottes ta joue à[Bb] toutes les moustaches,
+[Dm]Tu n'es pas de celles qui meurent où elles s'attachent, [Bb]Tu frottes ta joue à toutes les moustaches,
 
-[Dm]Faut s'lever de bon matin pour[A7] voir un ingénu, Qui n't'ai[Dm]t pas connue, [Bb] [A7]
+[Dm]Faut s'lever de bon ma[A7]tin pour voir un ingé[Dm]nu, Qui n't'ait [Bb]pas con[A7]nue,
 
-[Dm]Entrée libre à n'importe qui dans ta ronde, Cœur d'artichaut,[Bb] tu donnes une feuille à tout l'monde,
+[Dm]Entrée libre à n'importe qui dans ta ronde, [Bb]Cœur d'artichaut, tu donnes une feuille à tout l'monde,
 
-[Dm]Jamais, de mémoire d'homme, mo[A7]ulin n'avait été, Autant fréquen[Dm]té. [C7]
-
-
-[F]De Pierre à Paul[Dm], en passant pa[Am]r Jules et Félicien,
-
-[Bb]Embrasse-les tous, Embrasse les tous, Dieu reconnaîtra l[F]e sien !
-
-[Gm]Passe-les tous par tes armes, [C7]Passe-l[F]es tous par tes charmes,
-
-[E7]Jusqu'à c'que l'un d'eux, les bras en croix, Tourne de l'œil dans tes bras, [Am] [C7]
-
-[F]Des grands aux p'tits e[Dm]n allant j[Am]usqu'aux Lilliputiens,
-
-[Bb]Embrasse-les tous, Embrasse les tous, Dieu reconnaîtra l[Bb7]e sien ! [A7]
-
-[D7]Jusqu'à ce qu'amour s'ensuive, Qu'à son cœur[Gm] une plaie vive, [A7]
-
-[Dm]Le plus touché d'entre nous, D[G7]emande grâce à genoux[Gm7]. [C7] [F] [A7]
+[Dm]Jamais, de mémoire d'[A7]homme, moulin n'avait é[Dm]té, Au[C7]tant fréquenté.
 
 
-[Dm]En attendant le baiser qui fera mouche, Le baiser qu'on[Bb] garde pour la bonne bouche,
+[F]De Pierre à [Dm]Paul, en pas[Am]sant par Jules et Félicien,
 
-[Dm]En attendant de trouver, parmi[A7] tous ces galants, Le vrai [Dm]merle blanc, [Bb] [A7]
+[Bb]Embrasse-les tous, Embrasse les tous, [F]Dieu reconnaîtra le sien !
 
-[Dm]En attendant qu'le p'tit bonheur ne t'apporte, Celui derrière q[Bb]ui tu condamn'ras ta porte
+[Gm]Passe-les tous par tes [C7]armes, [F]Passe-les tous par tes charmes,
 
-[Dm]En marquant dessus « Fermé jus[A7]qu'à la fin des jours, Pour caus[Dm]e d'a[C7]mour »...
+[E7]Jusqu'à c'que l'un d'eux, les bras en croix, Tourne de l'[Am]œil dans tes [C7]bras,
 
+[F]Des grands aux [Dm]p'tits en al[Am]lant jusqu'aux Lilliputiens,
 
-[F]De Pierre à Paul[Dm], en passant pa[Am]r Jules et Félicien,
+[Bb]Embrasse-les tous, Embrasse les tous, [Bb7]Dieu reconnaîtra le [A7]sien !
 
-[Bb]Embrasse-les tous, Embrasse les tous, Dieu reconnaîtra l[F]e sien !
+[D7]Jusqu'à ce qu'amour s'ensuive, [Gm]Qu'à son cœur une plaie [A7]vive,
 
-[Gm]Passe-les tous par tes armes, [C7]Passe-l[F]es tous par tes charmes,
-
-[E7]Jusqu'à c'que l'un d'eux, les bras en croix, Tourne de l'œil dans tes bras, [Am] [C7]
-
-[F]Des grands aux p'tits e[Dm]n allant j[Am]usqu'aux Lilliputiens,
-
-[Bb]Embrasse-les tous, Embrasse les tous, Dieu reconnaîtra l[Bb7]e sien ! [A7]
-
-[D7]Alors toutes tes fredaines, Guilledou[Gm]s et prétentaines, [A7]
-
-[Dm]Tes écarts, tes grands écarts,[G7] Te seront pardonnés, c[Gm7]ar [A7]
-
-[D7]Les filles quand ça dit « Je t'aime », C'est comme[Gm] un second baptême, [A7]
-
-[Dm]Ça leur donne un cœur tout neuf, Comme[G7] au sortir de son œuf. [Gm7] [C7] [F]
+[Dm]Le plus touché d'entre [G7]nous, Demande [Gm7]grâce à [C7]ge[F]noux.[A7]
 
 
+[Dm]En attendant le baiser qui fera mouche, [Bb]Le baiser qu'on garde pour la bonne bouche,
+
+[Dm]En attendant de trou[A7]ver, parmi tous ces ga[Dm]lants, Le vrai [Bb]merle [A7]blanc,
+
+[Dm]En attendant qu'le p'tit bonheur ne t'apporte, [Bb]Celui derrière qui tu condamn'ras ta porte
+
+[Dm]En marquant dessus « Fer[A7]mé jusqu'à la fin des [Dm]jours, Pour [C7]cause d'amour »...
+
+
+[F]De Pierre à [Dm]Paul, en pas[Am]sant par Jules et Félicien,
+
+[Bb]Embrasse-les tous, Embrasse les tous, [F]Dieu reconnaîtra le sien !
+
+[Gm]Passe-les tous par tes [C7]armes, [F]Passe-les tous par tes charmes,
+
+[E7]Jusqu'à c'que l'un d'eux, les bras en croix, Tourne de l'[Am]œil dans tes [C7]bras,
+
+[F]Des grands aux [Dm]p'tits en al[Am]lant jusqu'aux Lilliputiens,
+
+[Bb]Embrasse-les tous, Embrasse les tous, [Bb7]Dieu reconnaîtra le [A7]sien !
+
+[D7]Alors toutes tes fredaines, [Gm]Guilledous et préten[A7]taines,
+
+[Dm]Tes écarts, tes grands é[G7]carts, Te seront [Gm7]pardonnés, [A7]car
+
+[D7]Les filles quand ça dit « Je t'aime », [Gm]C'est comme un second bap[A7]tême,
+
+[Dm]Ça leur donne un cœur tout [G7]neuf, Comme au sor[Gm7]tir de [C7]son [F]œuf.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Embrasse.Les.Tous.php?titre=Embrasse-les+tous

@@ -1,60 +1,61 @@
 ## Fernande
 
 
-[C]Une manie de vieux ga[C5]rçon, Moi j'ai pris l'[F]habitude [E7]
+U[C]ne manie de [C5+]vieux garçon, Moi [F]j'ai pris l'habi[E7]tude
 
-D'ag[Gm]rémenter[A7] ma soli[Dm]tude[E7], Aux acc[D7]ents de cette c[G7]hanson [C]
-
-
-[D7]Quand j[G]e pense à F[E7]ernand[Am]e, Je bande[D7], je ba[D5]nde [G]
-
-[G7]Quand j'pense à Félicie, Je [C]bande aussi [G]
-
-[G]Quand j'pense à Léonore, Mon di[C]eu je bande e[D]nco[D5]re [G]
-
-Mais quand[B7] j'pense à Lulu, Là j[Em7]e ne [Am7]bande[D7] plus [E7]
-
-La ba[B7]ndaison papa, [Em7]Ça n'se co[D7]mmande pas. [E7] [D7] [G7]
+D'a[Gm]grémen[A7]ter ma [Dm]soli[E7]tude, Aux [D7]accents de [G7]cette chan[C]son
 
 
-C'est une mâle ritournelle, Cette antienne virile
+[D7]Quand [G]je pense [E7]à Fer[Am]nande,[D7] Je bande, [D5+]je [G]bande
 
-Qui retentit dans la guérite, De la vaillante sentinelle.
+Quand [G7]j'pense à Féli[C]cie, Je bande aus[G]si
+
+Quand [G7]j'pense à Léo[C]nore, Mon [D]dieu je [D5+]bande en[G]core
+
+Mais [B7]quand j'pense à Lu[Em7]lu, Là [Am7]je ne [D7]bande [E7]plus
+
+La [B7]bandaison pa[Em7]pa, Ça [D7]n'se com[E7]man[D7]de [G]pas.[C]
 
 
-Refrain
+C'est [C]une mâle [C5+]ritournelle, Cette [F]antienne vi[E7]rile
 
-
-Afin de tromper son cafard, De voir la vie moins terne
-
-Tout en veillant sur sa lanterne, Chante ainsi le gardien de phare
+Qui [Gm]reten[A7]tit dans [Dm]la gué[E7]rite, De [D7]la vaillan[G7]te senti[C]nelle.
 
 
 Refrain
 
 
-Après la prière du soir, Comme il est un peu triste
+A[C]fin de tromper [C5+]son cafard, De [F]voir la vie moins [E7]terne
 
-Chante ainsi le séminariste, A genoux sur son reposoir.
-
-
-Refrain
-
-
-A l'Étoile où j'étais venu, Pour ranimer la flamme
-
-J'entendis ému jusqu'aux larmes, La voix du soldat inconnu.
+Tout [Gm]en veil[A7]lant sur [Dm]sa lan[E7]terne, Chante [D7]ainsi le [G7]gardien de [C]phare
 
 
 Refrain
 
 
-Et je vais mettre un point final, A ce chant salutaire
+A[C]près la priè[C5+]re du soir, Comme [F]il est un peu [E7]triste
 
-En suggérant au solitaire, D'en faire un hymne national.
+Chante [Gm]ainsi [A7]le sé[Dm]mina[E7]riste, À [D7]genoux sur [G7]son repo[C]soir.
 
 
 Refrain
 
 
+A [C]l'Étoile où j'é[C5+]tais venu, Pour [F]ranimer la [E7]flamme
 
+J'en[Gm]tendis [A7]ému [Dm]jusqu'aux [E7]larmes, La [D7]voix du sol[G7]dat incon[C]nu.
+
+
+Refrain
+
+
+Et [C]je vais mettre un [C5+]point final, À [F]ce chant salu[E7]taire
+
+En [Gm]suggé[A7]rant au [Dm]soli[E7]taire, D'en [D7]faire un hym[G7]ne natio[C]nal.
+
+
+Refrain
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Fernande.php?titre=Fernande

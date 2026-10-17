@@ -1,69 +1,71 @@
 ## Les sabots d'Hélène
 
 
-[C]Les sabots d'Hélène[Dm], étaie[G7]nt tout crottés, [C]
+[C]Les sabots d'Hé[F]lène, [G7]étaient tout crot[C]tés,
 
-[Am]Les trois capitai[Dm]nes l'auraient appe[G7]lée vilaine [C]
+Les trois [Am]capi[Dm]taines l'auraient [G7]appelée vi[C]laine
 
-Et la pauvre Hélène, éta[Dm]it c[G7]omme une âme en peine [E]
+Et la pauvre Hé[F]lène, était comme une [E7]âme en peine
 
-[Am]Ne cherche plus, longtemps de[E] fontaine, Toi qu[Am]i as besoin d'eau [Dm] [E]
+[Am]Ne cherche plus, long[E7]temps de fon[Am]taine, Toi qui as [F]besoin [E7]d'eau
 
-[Am]Ne cherche plus, aux larmes d[E]'Hélène, va-t-en[Am] remplir ton seau [Dm] [G7] [C]
-
-
-Moi j'ai pris la peine, de les déchausser,
-
-Les sabots d'Hélène moi qui ne suis pas capitaine
-
-Et j'ai vu ma peine, bien récompensée
-
-Dans les sabots, de la pauvre Hélène, Dans ses sabots crottés,
-
-Moi j'ai trouvé, les pieds d'une reine, Et je les ai gardés
+[Am]Ne cherche plus, aux [E7]larmes d'Hé[Am]lène, va-t-en rem[D7]plir [G7]ton [C]seau
 
 
-Le jupon d'Hélène, était tout mité,
+[C]Moi j'ai pris la [F]peine, [G7]de les déchaus[C]ser,
 
-Les trois capitaines l'auraient appelée vilaine
+Les sa[Am]bots d'Hé[Dm]lène moi qui ne [G7]suis pas capi[C]taine
 
-Et la pauvre Hélène, était comme une âme en peine
+Et j'ai vu ma [F]peine, bien récompen[E7]sée
 
-Ne cherche plus, longtemps de fontaine, Toi qui as besoin d'eau
+[Am]Dans les sabots, de [E7]la pauvre Hé[Am]lène, Dans ses sa[F]bots crot[E7]tés,
 
-Ne cherche plus, aux larmes d'Hélène, va-t-en remplir ton seau
-
-
-Moi j'ai pris la peine, de le retrousser,
-
-Son jupon de laine moi qui ne suis pas capitaine
-
-Et j'ai vu ma peine, bien récompensée
-
-Sous le jupon, de la pauvre Hélène, Sous son jupon mité,
-
-Moi j'ai trouvé, des jambes de reine, Et je les ai gardés
+[Am]Moi j'ai trouvé, les [E7]pieds d'une [Am]reine, Et je les [D7]ai [G7]gar[C]dés
 
 
-Et le cœur d'Hélène, n'savait pas chanter,
+Le jupon d'Hé[F]lène, [G7]était tout mi[C]té,
 
-Les trois capitaines l'auraient appelée vilaine
+Les trois [Am]capi[Dm]taines l'auraient [G7]appelée vi[C]laine
 
-Et la pauvre Hélène, était comme une âme en peine
+Et la pauvre Hé[F]lène, était comme une [E7]âme en peine
 
-Ne cherche plus, longtemps de fontaine, Toi qui as besoin d'eau
+[Am]Ne cherche plus, long[E7]temps de fon[Am]taine, Toi qui as [F]besoin [E7]d'eau
 
-Ne cherche plus, aux larmes d'Hélène, va-t-en remplir ton seau
-
-
-Moi j'ai pris la peine, de m'y arrêter,
-
-Dans le cœur d'Hélène moi qui ne suis pas capitaine
-
-Et j'ai vu ma peine, bien récompensée
-
-Car dans le cœur, de la pauvre Hélène, Qui avait jamais chanté,
-
-Moi j'ai trouvé, l'amour d'une reine, Et moi je l'ai gardé
+[Am]Ne cherche plus, aux [E7]larmes d'Hé[Am]lène, va-t-en rem[D7]plir [G7]ton [C]seau
 
 
+[C]Moi j'ai pris la [F]peine, [G7]de le retrous[C]ser,
+
+Son ju[Am]pon de [Dm]laine moi qui ne [G7]suis pas capi[C]taine
+
+Et j'ai vu ma [F]peine, bien récompen[E7]sée
+
+[Am]Sous le jupon, de [E7]la pauvre Hé[Am]lène, Sous son ju[F]pon mi[E7]té,
+
+[Am]Moi j'ai trouvé, des [E7]jambes de [Am]reine, Et je les [D7]ai [G7]gar[C]dés
+
+
+[C]Et le cœur d'Hé[F]lène, [G7]n'savait pas chan[C]ter,
+
+Les trois [Am]capi[Dm]taines l'auraient [G7]appelée vi[C]laine
+
+Et la pauvre Hé[F]lène, était comme une [E7]âme en peine
+
+[Am]Ne cherche plus, long[E7]temps de fon[Am]taine, Toi qui as [F]besoin [E7]d'eau
+
+[Am]Ne cherche plus, aux [E7]larmes d'Hé[Am]lène, va-t-en rem[D7]plir [G7]ton [C]seau
+
+
+[C]Moi j'ai pris la [F]peine, [G7]de m'y arrê[C]ter,
+
+Dans le [Am]cœur d'Hé[Dm]lène moi qui ne [G7]suis pas capi[C]taine
+
+Et j'ai vu ma [F]peine, bien récompen[E7]sée
+
+[Am]Car dans le cœur, de [E7]la pauvre Hé[Am]lène, Qui avait ja[F]mais chan[E7]té,
+
+[Am]Moi j'ai trouvé, l'a[E7]mour d'une [Am]reine, Et moi je [D7]l'ai [G7]gar[C]dé
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Sabots.D.Helene.php?titre=%28Les%29+sabots+d%27H%C3%A9l%C3%A8ne

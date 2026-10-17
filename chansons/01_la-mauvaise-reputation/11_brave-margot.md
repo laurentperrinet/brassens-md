@@ -1,59 +1,61 @@
 ## Brave Margot
 
 
-Margoton l[C]a jeune bergère trou[G7]vant dans l'herbe un petit chat, qui venait de perd[C]re sa mère l'a[Am]dopta [D7] [G7]
+Margo[C]ton la jeune ber[G7]gère trouvant dans l'herbe un petit [C]chat, qui ve[Am]nait de perdre sa mère l'adop[D7]ta[G7]
 
-Elle entrouvre sa collerette et le couche sur son sein, c'était tout c'[C]qu'elle avait p[Am]auvrette comme coussin [Dm] [G7] [C]
+Elle entrouvre sa collerette et le couche sur son [C]sein, c'était [Am]tout c'qu'elle avait pau[Dm]vrette [G7]comme cous[C]sin
 
-Le chat la [Am]prenant pour sa mère se m[Em]it à téter tou[Am]t de go, émue Mar[Em]got le laissa[Am] faire brave Margot [Em] [Am]
+Le chat [Am]la prenant pour sa [Em]mère se mit [Am]à téter tout de [Em]go, émue [Am]Margot le laissa [Em]faire brave Mar[Am]got
 
-Un croquant passant à la ronde trouvan[Em]t le tableau peu [Am]commun, s'en alla le dire à[Em] tout l'monde[Am] et le lendemain [Em] [D7] [G7]
-
-
-[C]Quand Margot dégrafait son corsage,[Am] pour donner la [C]gougoutte à son chat
-
-Tous les gars tous les gars du vil[A7]lage, [D7]étaie[G7]nt là là là là[C] là là là, étaient là là là là là[G#7] là
-
-Et Margot q[G7]u'était simple et très sage, présuma[C]it qu'c'était pour voir son chat [Am] [C]
-
-Qu'tous les gars qu'tous les gars du villag[A7]e, étai[D7]ent l[G7]à là là là là [C]là là, étaient là là là là là là [G#7]
+Un croquant passant à la [Em]ronde trouvant [Am]le tableau peu com[Em]mun, s'en al[Am]la le dire à tout l'[Em]monde et le lende[D7]main[G7]
 
 
-[G7]L'maître d'école et ses potaches, le maire, le bedeau, le bougnat, nég[C]ligeaient carr[Am]ément leur tâche pour voir ça [D7] [G7]
+Quand Margot dégrafait son cor[C]sage, pour donner la gou[Cdim]goutte à son [C]chat
 
-Le facteur d'ordinaire si preste pour voir ça ne distribuait plus les lettres que perso[C]nne au reste n'[Am]aurait lues [Dm] [G7] [C]
+Tous les gars tous les [A7]gars du vil[D7]la[G7]ge, étaient [C]là là là là là là là, étaient [G#7]là là là là là là
 
-Pour voir ç[Am]a Dieu le leur pardonne, [Em]les enfants de chœu[Am]r au milieu du saint sac[Em]rifice abandonnent[Am] le saint lieu [Em] [Am]
+Et Mar[G7]got qu'était simple et très [C]sage, présumait qu'c'était [Cdim]pour voir son [C]chat
 
-Les gendarmes même les gendarmes, qui [Em]sont par nature si balots, [Am]se laisse toucher[Em] par les char[Am]mes du joli tableau [Em] [D7] [G7]
-
-
-[C]Quand Margot dégrafait son corsage,[Am] pour donner la [C]gougoutte à son chat
-
-Tous les gars tous les gars du vil[A7]lage, [D7]étaie[G7]nt là là là là[C] là là là, étaient là là là là là[G#7] là
-
-Et Margot q[G7]u'était simple et très sage, présuma[C]it qu'c'était pour voir son chat [Am] [C]
-
-Qu'tous les gars qu'tous les gars du villag[A7]e, étai[D7]ent l[G7]à là là là là [C]là là, étaient là là là là là là [G#7]
+Qu'tous les gars qu'tous les [A7]gars du vil[D7]la[G7]ge, étaient [C]là là là là là là là, étaient [G#7]là là là là là là
 
 
-[G7]Mais les aut' femmes de la commune privées d'leurs époux d'leurs galants accumulèrent la [C]rancune patiem[Am]ment [D7] [G7]
+L'maître d'é[G7]cole et ses potaches, le maire, le bedeau, le bou[C]gnat, négli[Am]geaient carrément leur tâche pour voir [D7]ça[G7]
 
-Puis un jour ivres de colère elles s'armèrent de bâtons et farouches elles [C]immolèrent [Am]le chatons [Dm] [G7] [C]
+Le facteur d'ordinaire si preste pour voir ça ne distribuait [C]plus les let[Am]tres que personne au [Dm]reste [G7]n'aurait [C]lues
 
-La bergère [Am]après bien des larmes, po[Em]ur s'consoler [Am]prit un mari, et ne dévoil[Em]a plus ses ch[Am]armes que pour lui [Em] [Am]
+Pour voir [Am]ça Dieu le leur par[Em]donne, les en[Am]fants de chœur au mi[Em]lieu du saint [Am]sacrifice aban[Em]donnent le saint [Am]lieu
 
-Le temps passa sur les mémoires, on ou[Em]blia l'événement,[Am] seuls les vi[Em]eux racontent encor[Am]e à leur p'tits enfan[Em]ts [D7] [G7]
-
-
-[C]Quand Margot dégrafait son corsage,[Am] pour donner la [C]gougoutte à son chat
-
-Tous les gars tous les gars du vil[A7]lage, [D7]étaie[G7]nt là là là là[C] là là là, étaient là là là là là[G#7] là
-
-Et Margot q[G7]u'était simple et très sage, présuma[C]it qu'c'était pour voir son chat [Am] [C]
-
-Qu'tous les gars qu'tous les gars du villag[A7]e, étai[D7]ent l[G7]à là là là là [C]là là, étaient là là là là là là [G#7]
-
-Etaient là [C]là là là là là [G#7]là là là là là [C] [G7] [C]
+Les gendarmes même les gen[Em]darmes, qui sont [Am]par nature si ba[Em]lots, se lais[Am]se toucher par les [Em]charmes du joli ta[D7]bleau[G7]
 
 
+Quand Margot dégrafait son cor[C]sage, pour donner la gou[Cdim]goutte à son [C]chat
+
+Tous les gars tous les [A7]gars du vil[D7]la[G7]ge, étaient [C]là là là là là là là, étaient [G#7]là là là là là là
+
+Et Mar[G7]got qu'était simple et très [C]sage, présumait qu'c'était [Cdim]pour voir son [C]chat
+
+Qu'tous les gars qu'tous les [A7]gars du vil[D7]la[G7]ge, étaient [C]là là là là là là là, étaient [G#7]là là là là là là
+
+
+Mais les [G7]aut' femmes de la commune privées d'leurs époux d'leurs ga[C]lants accumu[Am]lèrent la rancune patiem[D7]ment[G7]
+
+Puis un jour ivres de colère elles s'armèrent de bâ[C]tons et fa[Am]rouches elles immo[Dm]lèrent [G7]le cha[C]tons
+
+La ber[Am]gère après bien des [Em]larmes, pour s'con[Am]soler prit un ma[Em]ri, et ne [Am]dévoila plus ses [Em]charmes que pour [Am]lui
+
+Le temps passa sur les mé[Em]moires, on ou[Am]blia l'événe[Em]ment, seuls les [Am]vieux racontent en[Em]core à leur p'tits en[D7]fants[G7]
+
+
+Quand Margot dégrafait son cor[C]sage, pour donner la gou[Cdim]goutte à son [C]chat
+
+Tous les gars tous les [A7]gars du vil[D7]la[G7]ge, étaient [C]là là là là là là là, étaient [G#7]là là là là là là
+
+Et Mar[G7]got qu'était simple et très [C]sage, présumait qu'c'était [Cdim]pour voir son [C]chat
+
+Qu'tous les gars qu'tous les [A7]gars du vil[D7]la[G7]ge, étaient [C]là là là là là là là, étaient [G#7]là là là là là là
+
+Etaient [C]là là là là là [G#7]là là là là là [C]là[C]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Brave.Margot.php?titre=Brave+Margot

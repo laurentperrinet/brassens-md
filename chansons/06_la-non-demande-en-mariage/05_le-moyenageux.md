@@ -1,80 +1,82 @@
 ## Le moyenâgeux
 
 
-[F#m]Le seul rep[B7]roche, au demeu[E]rant, Qu'aient pu mér[F#m]iter [B7]mes pa[E]rents,
+Le seul [F#m]re[B7]proche, au [E]demeurant, Qu'aient pu [F#m]mé[B7]riter [E]mes parents,
 
-C'est d'avoir[Em] pas[A7] joué p[D]lus tôt, Le jeu de la bê[E]te à deu[D]x dos. [E] [C#7]
+C'est d'a[Em]voir [A7]pas jou[D]é plus tôt, Le jeu [E]de la [D]bête à deux [E]dos.[C#7]
 
-Je suis n[F#m]é, mê[B7]me pas[E] bâtard, Avec cinq [F#m]siècl[B7]es de re[E]tard.
+Je suis [F#m]né, [B7]même [E]pas bâtard, Avec [F#m]cinq [B7]siècles [E]de retard.
 
-Pardonnez[Em]-moi[A7], Prince, s[D]i je, Suis foutrement m[E]oyenâgeux. [D] [E] [C#7]
-
-
-Ah ! que n'ai-je vécu, bon sang ! Entre quatorze et quinze cent.
-
-J'aurais retrouvé mes copains, Au Trou de la pomme de pin,
-
-Tous les beaux parleurs de jargon, Tous les promis de Montfaucon,
-
-Les plus illustres seigneuries, Du royaume de truanderie.
+Pardon[Em]nez-[A7]moi, Prin[D]ce, si je, Suis fou[E]trement [D]moyenâ[E]geux.[C#7]
 
 
-Après une franche repue, J'eusse aimé, toute honte bue,
+Ah ! que [F#m]n'ai-[B7]je vé[E]cu, bon sang ! Entre [F#m]qua[B7]torze et [E]quinze cent.
 
-Aller courir le cotillon, Sur les pas de François Villon,
+J'aurais [Em]re[A7]trouvé [D]mes copains, Au Trou [E]de la [D]pomme de [E]pin,[C#7]
 
-Troussant la gueuse et la forçant, Au cimetière des Innocents,
+Tous les [F#m]beaux [B7]parleurs [E]de jargon, Tous les [F#m]pro[B7]mis de [E]Montfaucon,
 
-Mes amours de ce siècle-ci, N'en aient aucune jalousie...
-
-
-J'eusse aimé le corps féminin, Des nonnettes et des nonnains
-
-Qui, dans ces jolis temps bénis, Ne disaient pas toujours « nenni »,
-
-Qui faisaient le mur du couvent, Qui, Dieu leur pardonne ! souvent,
-
-Comptaient les baisers, s'il vous plaît, Avec des grains de chapelet.
+Les plus [Em]il[A7]lustres [D]seigneuries, Du ro[E]yaume de [D]truande[E]rie.[C#7]
 
 
-Ces p'tit's sœurs, trouvant qu'à leur goût, Quatre Évangiles c'est pas beaucoup,
+Après [F#m]un[B7]e fran[E]che repue, J'eusse ai[F#m]mé, [B7]toute [E]honte bue,
 
-Sacrifiaient à un de plus : L'évangile selon Vénus.
+Aller [Em]cou[A7]rir le [D]cotillon, Sur les [E]pas de [D]François Vil[E]lon,[C#7]
 
-Témoin : l'abbesse de Pourras, Qui fut, qui reste et restera
+Troussant [F#m]la [B7]gueuse et [E]la forçant, Au ci[F#m]me[B7]tière des [E]Innocents,
 
-La plus glorieuse putain, De moine du quartier Latin.
-
-
-A la fin, les anges du guet, M'auraient conduit sur le gibet.
-
-Je serais mort, jambes en l'air, Sur la veuve patibulaire,
-
-En arrosant la mandragore, L'herbe aux pendus qui revigore,
-
-En bénissant avec les pieds, Les ribaudes apitoyées.
+Mes a[Em]mours [A7]de ce [D]siècle-ci, N'en aient [E]aucu[D]ne jalou[E]sie...[C#7]
 
 
-Hélas ! tout ça, c'est des chansons. Il faut se faire une raison.
+J'eusse ai[F#m]mé [B7]le corps [E]féminin, Des non[F#m]net[B7]tes et [E]des nonnains
 
-Les choux-fleurs poussent à présent, Sur le charnier des Innocents.
+Qui, dans [Em]ces [A7]jolis [D]temps bénis, Ne di[E]saient pas [D]toujours « nen[E]ni[C#7] »,
 
-Le Trou de la pomme de pin, N'est plus qu'un bar américain.
+Qui fai[F#m]saient [B7]le mur [E]du couvent, Qui, Dieu [F#m]leur [B7]pardon[E]ne ! souvent,
 
-Y a quelque chose de pourri, Au royaume de truanderie.
-
-
-Je mourrai pas à Montfaucon, Mais dans un lit, comme un vrai con,
-
-Je mourrai, pas même pendard, Avec cinq siècles de retard.
-
-Ma dernière parole soit, Quelques vers de Maître François,
-
-Et que j'emporte entre les dents, Un flocon des neiges d'antan...
+Comptaient [Em]les [A7]baisers, [D]s'il vous plaît, Avec [E]des grains [D]de chape[E]let.[C#7]
 
 
-Ma dernière parole soit, Quelques vers de Maître François...
+Ces p'tit's [F#m]sœurs, [B7]trouvant [E]qu'à leur goût, Quatre É[F#m]van[B7]giles c'est [E]pas beaucoup,
 
-Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
+Sacri[Em]fi[A7]aient à [D]un de plus : L'évan[E]gile [D]selon Vé[E]nus.[C#7]
+
+Témoin : [F#m]l'ab[B7]besse [E]de Pourras, Qui fut, [F#m]qui [B7]reste et [E]restera
+
+La plus [Em]glo[A7]rieu[D]se putain, De moi[E]ne du [D]quartier La[E]tin.[C#7]
 
 
+À la [F#m]fin, [B7]les an[E]ges du guet, M'auraient [F#m]con[B7]duit sur [E]le gibet.
+
+Je se[Em]rais [A7]mort, jam[D]bes en l'air, Sur la [E]veuve [D]patibu[E]laire,[C#7]
+
+En ar[F#m]ro[B7]sant la [E]mandragore, L'herbe aux [F#m]pen[B7]dus qui [E]revigore,
+
+En bé[Em]nis[A7]sant a[D]vec les pieds, Les ri[E]baudes [D]apito[E]yées.[C#7]
+
+
+Hélas ! [F#m]tout [B7]ça, c'est [E]des chansons. Il faut [F#m]se [B7]faire u[E]ne raison.
+
+Les choux-[Em]fleurs [A7]poussent [D]à présent, Sur le [E]charnier [D]des Inno[E]cents.[C#7]
+
+Le Trou [F#m]de [B7]la pom[E]me de pin, N'est plus [F#m]qu'un [B7]bar a[E]méricain.
+
+Y a quel[Em]que [A7]chose [D]de pourri, Au ro[E]yaume de [D]truande[E]rie.[C#7]
+
+
+Je mour[F#m]rai [B7]pas à [E]Montfaucon, Mais dans [F#m]un [B7]lit, comme [E]un vrai con,
+
+Je mour[Em]rai, [A7]pas mê[D]me pendard, Avec [E]cinq siè[D]cles de re[E]tard.[C#7]
+
+Ma der[F#m]niè[B7]re pa[E]role soit, Quelques [F#m]vers [B7]de Maî[E]tre François,
+
+Et que [Em]j'em[A7]porte en[D]tre les dents, Un flo[E]con des [D]neiges d'an[E]tan...[C#7]
+
+
+Ma der[F#m]niè[B7]re pa[E]role soit, Quelques [F#m]vers [B7]de Maî[E]tre François...
+
+Pardon[Em]nez-[A7]moi, Prin[D]ce, si je, Suis fou[E]trement [D]moyenâ[E]geux.[E]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Moyenageux.php?titre=%28Le%29+moyen%C3%A2geux

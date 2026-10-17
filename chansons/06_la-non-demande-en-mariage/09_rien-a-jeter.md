@@ -1,43 +1,45 @@
 ## Rien à jeter
 
 
-[Em]Sans ces cheveux qui volent, J[A7]'aurais, dorén[D]avant, Des di[E7]ffic[A7]ulté[Em]s folles, A v[A7]oir d'où [D]vient le vent. [E7] [A7]
+[Em]Sans ces cheveux qui [A7]volent, J'au[D]rais, doréna[E7]vant,[A7] [Em]Des difficultés [A7]folles, À [D]voir d'où vient le [E7]vent.[A7]
 
-[D]Tout est bon chez elle, y a[F#7] rien à jeter, [G]Sur l[F#7]'île [Bm]déserte il faut tout emporter. [E7] [A7] [D] [B7]
-
-
-Je me demande comme, Subsister sans ses joues ,M'offrant deux belles pommes, Nouvelles chaque jour.
-
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
 
 
-Sans sa gorge, ma tête, Dépourvue de coussin, Reposerait par terre, Et rien n'est plus malsain.
+[Em]Je me demande [A7]comme, Sub[D]sister sans ses [E7]joues[A7] ,[Em]M'offrant deux belles [A7]pommes, Nou[D]velles chaque [E7]jour.[A7]
 
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
-
-
-Sans ses hanches solides, Comment faire, demain, Si je perds l'équilibre, Pour accrocher mes mains ?
-
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
 
 
-Elle a mille autre choses, Précieuses encore, Mais en spectacle, j'ose, Pas donner tout son corps.
+[Em]Sans sa gorge, ma [A7]tête, Dé[D]pourvue de cous[E7]sin,[A7] [Em]Reposerait par [A7]terre, Et [D]rien n'est plus mal[E7]sain.[A7]
 
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
-
-
-Des charmes de ma mie, J'en passe et des meilleurs. Vos cours d'anatomie, Allez les prendre ailleurs.
-
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
 
 
-D'ailleurs, c'est sa faiblesse, Elle tient à ses os, Et jamais ne se laisse-rait couper en morceaux.
+[Em]Sans ses hanches so[A7]lides, Com[D]ment faire, de[E7]main,[A7] [Em]Si je perds l'équi[A7]libre, Pour [D]accrocher mes [E7]mains[A7] ?
 
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
-
-
-Elle est quelque peu fière, Et chatouilleuse assez, Et l'on doit tout entière, La prendre ou la laisser.
-
-Tout est bon chez elle, y a rien à jeter, Sur l'île déserte il faut tout emporter.
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
 
 
+[Em]Elle a mille autre [A7]choses, Pré[D]cieuses en[E7]core,[A7] [Em]Mais en spectacle, [A7]j'ose, Pas [D]donner tout son [E7]corps.[A7]
+
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
+
+
+[Em]Des charmes de ma [A7]mie, J'en [D]passe et des meil[E7]leurs.[A7] [Em]Vos cours d'anato[A7]mie, Al[D]lez les prendre ail[E7]leurs.[A7]
+
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
+
+
+[Em]D'ailleurs, c'est sa fai[A7]blesse, Ell[D]e tient à ses [E7]os,[A7] [Em]Et jamais ne se [A7]laisse-rait [D]couper en mor[E7]ceaux.[A7]
+
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.[B7]
+
+
+[Em]Elle est quelque peu [A7]fière, Et [D]chatouilleuse as[E7]sez,[A7] [Em]Et l'on doit tout en[A7]tière, La [D]prendre ou la lais[E7]ser.[A7]
+
+[D]Tout est bon chez [F#7]elle, y a rien [G]à je[F#7]ter, [Bm]Sur l'île déserte il faut tout [E7]em[A7]por[D]ter.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Rien.A.Jeter.php?titre=Rien+%C3%A0+jeter

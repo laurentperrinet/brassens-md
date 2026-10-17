@@ -1,80 +1,82 @@
 ## L'assassinat
 
 
-[Bm]C'est pas seuleme[Em]nt à P[F#7]aris,[Bm] Que le crime f[A7]leurit [D]
+[Bm]C'est pas seu[Em]lement [F#7]à Pa[Bm]ris, Que le cri[A7]me fleu[D]rit
 
-[Bm]Nous, au villag[D]e, aussi, l'on a, De[C#] beaux assassinats [Bm]
+[Bm]Nous, au vil[D]lage, aussi, l'on [C]a, De beaux as[Bm]sassinats
 
-[Bm]Nous, au villag[D]e, aussi, l'on a, De[C#] beaux assassinats [Bm] [F#m] [Bm]
-
-
-Il avait la tête chenue, Et le cœur ingénu
-
-Il eut un retour de printemps, Pour une de vingt ans
-
-Il eut un retour de printemps, Pour une de vingt ans
+[Bm]Nous, au vil[D]lage, aussi, l'on [C]a, De beaux as[Bm]sas[F#m]si[Bm]nats
 
 
-Mais la chair fraîche, la tendre chair, Mon vieux, ça coûte cher
+[Bm]Il avait [Em]la tê[F#7]te che[Bm]nue, Et le cœur [A7]ingé[D]nu
 
-Au bout de cinq à six baisers, Son or fut épuisé
+[Bm]Il eut un [D]retour de prin[C]temps, Pour une [Bm]de vingt ans
 
-Au bout de cinq à six baisers, Son or fut épuisé
-
-
-Quand sa menotte elle a tendue, Triste, il a répondu
-
-Qu'il était pauvre comme Job, Elle a remis sa robe
-
-Qu'il était pauvre comme Job, Elle a remis sa robe
+[Bm]Il eut un [D]retour de prin[C]temps, Pour une [Bm]de [F#m]vingt [Bm]ans
 
 
-Elle alla quérir son coquin, Qu'avait l'appât du gain
+[Bm]Mais la chair [Em]fraîche, [F#7]la tendre [Bm]chair, Mon vieux, ça [A7]coûte [D]cher
 
-Sont revenus chez le grigou, Faire un bien mauvais coup
+[Bm]Au bout de [D]cinq à six bai[C]sers, Son or fut [Bm]épuisé
 
-Sont revenus chez le grigou, Faire un bien mauvais coup
-
-
-Et pendant qu'il le lui tenait, Elle l'assassinait
-
-On dit que, quand il expira, La langue elle lui montra
-
-On dit que, quand il expira, La langue elle lui montra
+[Bm]Au bout de [D]cinq à six bai[C]sers, Son or fut [Bm]é[F#m]pui[Bm]sé
 
 
-Mirent tout sens dessus dessous, Trouvèrent pas un sou
+[Bm]Quand sa me[Em]notte [F#7]elle a ten[Bm]due, Triste, il a [A7]répon[D]du
 
-Mais des lettres de créanciers, Mais des saisies d'huissiers
+[Bm]Qu'il était [D]pauvre comme [C]Job, Elle a re[Bm]mis sa robe
 
-Mais des lettres de créanciers, Mais des saisies d'huissiers
-
-
-Alors, prise d'un vrai remords, Elle eut chagrin du mort
-
-Et, sur lui, tombant à genoux, Elle dit : « Pardonne-nous ! »
-
-Et, sur lui, tombant à genoux, Elle dit : « Pardonne-nous ! »
+[Bm]Qu'il était [D]pauvre comme [C]Job, Elle a re[Bm]mis [F#m]sa [Bm]robe
 
 
-Quand les gendarmes sont arrivés, En pleurs ils l'ont trouvée
+[Bm]Elle alla [Em]quérir [F#7]son co[Bm]quin, Qu'avait l'ap[A7]pât du [D]gain
 
-C'est une larme au fond des yeux, Qui lui valut les cieux
+[Bm]Sont reve[D]nus chez le gri[C]gou, Faire un bien [Bm]mauvais coup
 
-C'est une larme au fond des yeux, Qui lui valut les cieux
-
-
-Et le matin qu'on la pendit, Elle fut en paradis
-
-Certains dévots, depuis ce temps, Sont un peu mécontents
-
-Certains dévots, depuis ce temps, Sont un peu mécontents
+[Bm]Sont reve[D]nus chez le gri[C]gou, Faire un bien [Bm]mau[F#m]vais [Bm]coup
 
 
-C'est pas seulement à Paris, Que le crime fleurit
+[Bm]Et pendant [Em]qu'il le [F#7]lui te[Bm]nait, Elle l'as[A7]sassi[D]nait
 
-Nous, au village, aussi, l'on a, De beaux assassinats
+[Bm]On dit que, [D]quand il expi[C]ra, La langue elle [Bm]lui montra
 
-Nous, au village, aussi, l'on a, De beaux assassinats
+[Bm]On dit que, [D]quand il expi[C]ra, La langue elle [Bm]lui [F#m]mon[Bm]tra
 
 
+[Bm]Mirent tout [Em]sens des[F#7]sus des[Bm]sous, Trouvèrent [A7]pas un [D]sou
+
+[Bm]Mais des let[D]tres de créan[C]ciers, Mais des sai[Bm]sies d'huissiers
+
+[Bm]Mais des let[D]tres de créan[C]ciers, Mais des sai[Bm]sies [F#m]d'huis[Bm]siers
+
+
+[Bm]Alors, pri[Em]se d'un [F#7]vrai re[Bm]mords, Elle eut cha[A7]grin du [D]mort
+
+[Bm]Et, sur lui, [D]tombant à ge[C]noux, Elle dit : « Par[Bm]donne-nous ! »
+
+[Bm]Et, sur lui, [D]tombant à ge[C]noux, Elle dit : « Par[Bm]don[F#m]ne-[Bm]nous ! »
+
+
+[Bm]Quand les gen[Em]darmes [F#7]sont arri[Bm]vés, En pleurs ils [A7]l'ont trou[D]vée
+
+[Bm]C'est une [D]larme au fond des [C]yeux, Qui lui va[Bm]lut les cieux
+
+[Bm]C'est une [D]larme au fond des [C]yeux, Qui lui va[Bm]lut [F#m]les [Bm]cieux
+
+
+[Bm]Et le ma[Em]tin [F#7]qu'on la pen[Bm]dit, Elle fut en [A7]para[D]dis
+
+[Bm]Certains dé[D]vots, depuis ce [C]temps, Sont un peu [Bm]mécontents
+
+[Bm]Certains dé[D]vots, depuis ce [C]temps, Sont un peu [Bm]mé[F#m]con[Bm]tents
+
+
+[Bm]C'est pas seu[Em]lement [F#7]à Pa[Bm]ris, Que le cri[A7]me fleu[D]rit
+
+[Bm]Nous, au vil[D]lage, aussi, l'on [C]a, De beaux as[Bm]sassinats
+
+[Bm]Nous, au vil[D]lage, aussi, l'on [C]a, De beaux as[Bm]sas[F#m]si[Bm]nats
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Assassinat.php?titre=%28L%27%29+assassinat

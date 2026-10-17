@@ -27,5 +27,6 @@ Murmura : « Monsieur, qu'est-ce à dire ? Je crois que vous ne boitez pas. »
 
 Si je marche plus droit qu'un autre, C'est que je boite des deux pieds. »
 
+### Notes
 
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Roi.Boiteux.php?titre=%28Le%29+roi+boiteux

@@ -36,4 +36,6 @@ Montesquiou-Fezensac et Bibi-la-Purée
 
 Vos deux gardes du corps, entre tous moi dernier.
 
+### Notes
 
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Enterrement.De.Verlaine.php?titre=%28L%27%29+enterrement+de+Verlaine

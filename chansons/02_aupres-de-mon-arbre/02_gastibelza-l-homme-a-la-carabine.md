@@ -1,38 +1,40 @@
 ## Gastibelza "L'homme à la carabine"
 
 
-[A]Gastibelza, l'homme à la carabine, Chantai[D]t ainsi: « Qu[E7]elqu'un[A] a-t-il connu doña Sabine ? Quelqu'un d'ici ? [D] [E7] [A]
+[A]Gastibelza, l'homme à la cara[D]bine, [E7]Chantait ain[A]si: « Quelqu'un a-t-il connu doña Sa[D]bine ? [E7]Quelqu'un d'i[A]ci ?
 
-Chantez, dansez, v[F#7]illageois ! la nuit gagne Le mon[Bm]t Falu... -Le vent qui[C#7] vient à travers la mon[F#m]tagne Me rendra fou. [E7] [A]
-
-
-« Quelqu'un de vous a-t-il connu Sabine, Ma señora ? Sa mère était la vieille maugrabine D'Antequera,
-
-Qui chaque nuit criait dans la tour Magne Comme un hibou... -Le vent qui vient à travers la montagne Me rendra fou.
+Chantez, dan[F#7]sez, villageois ! la nuit [Bm]gagne Le mont Fa[C#7]lu... -Le vent qui [F#m]vient à travers la mon[E7]tagne Me rendra [A]fou.
 
 
-« Vraiment, la reine eût près d'elle été laide Quand, vers le soir, Elle passait sur le pont de Tolède En corset noir.
+« [A]Quelqu'un de vous a-t-il connu Sa[D]bine, [E7]Ma seño[A]ra ? Sa mère était la vieille maugra[D]bine [E7]D'Anteque[A]ra,
 
-Un chapelet du temps de Charlemagne Ornait son cou... -Le vent qui vient à travers la montagne Me rendra fou.
-
-
-Le roi disait, en la voyant si belle, A son neveu : « Pour un baiser, pour un sourire d'elle, Pour un cheveu,
-
-Infant don Ruy, je donnerais l'Espagne Et le Pérou ! Le vent qui vient à travers la montagne Me rendra fou.
+Qui chaque [F#7]nuit criait dans la tour [Bm]Magne Comme un hi[C#7]bou... -Le vent qui [F#m]vient à travers la mon[E7]tagne Me rendra [A]fou.
 
 
-« Je ne sais pas si j'aimais cette dame, Mais je sais bien Que, pour avoir un regard de son âme, Moi, pauvre chien,
+« [A]Vraiment, la reine eût près d'elle été [D]laide [E7]Quand, vers le [A]soir, Elle passait sur le pont de To[D]lède [E7]En corset [A]noir.
 
-J'aurais gaîment passé dix ans au bagne Sous les verrous... -Le vent qui vient à travers la montagne Me rendra fou.
-
-
-« Quand je voyais cette enfant, moi le pâtre De ce canton, Je croyais voir la belle Cléopâtre, Qui, nous dit-on,
-
-Menait César, empereur d'Allemagne, Par le licou... -Le vent qui vient à travers la montagne Me rendra fou.
+Un chape[F#7]let du temps de Charle[Bm]magne Ornait son [C#7]cou... -Le vent qui [F#m]vient à travers la mon[E7]tagne Me rendra [A]fou.
 
 
-[A]« Dansez, chantez, village[A5]ois, la nuit tombe. S[D]abine, u[E7]n jour, A tout [A]vendu, sa beauté de colombe,[A5] Tout son amour, [D] [E7] [A]
+[A]Le roi disait, en la voyant si [D]belle, [E7]À son ne[A]veu : « Pour un baiser, pour un sourire [D]d'elle, [E7]Pour un che[A]veu,
 
-Pour l'anneau d'or du [F#7]comte de Saldagne, Pour un[Bm] bijou... -Le vent qui [C#7]vient à travers la monta[F#m]gne M'a rendu fou. [E7] [A] [E] [A]
+Infant don [F#7]Ruy, je donnerais l'Es[Bm]pagne Et le Pé[C#7]rou ! Le vent qui [F#m]vient à travers la mon[E7]tagne Me rendra [A]fou.
 
 
+« [A]Je ne sais pas si j'aimais cette [D]dame, [E7]Mais je sais [A]bien Que, pour avoir un regard de son [D]âme, [E7]Moi, pauvre [A]chien,
+
+J'aurais gaî[F#7]ment passé dix ans au [Bm]bagne Sous les ver[C#7]rous... -Le vent qui [F#m]vient à travers la mon[E7]tagne Me rendra [A]fou.
+
+
+« [A]Quand je voyais cette enfant, moi le [D]pâtre [E7]De ce can[A]ton, Je croyais voir la belle Cléo[D]pâtre, [E7]Qui, nous dit-[A]on,
+
+Menait Cé[F#7]sar, empereur d'Alle[Bm]magne, Par le li[C#7]cou... -Le vent qui [F#m]vient à travers la mon[E7]tagne Me rendra [A]fou.
+
+
+« [A]Dansez, chantez, [A+]villageois, la nuit [D]tom[E7]be. Sabine, un [A]jour, A tout vendu, [A5+]sa beauté de co[D]lom[E7]be, Tout son a[A]mour,
+
+Pour l'anneau [F#7]d'or du comte de Sal[Bm]dagne, Pour un bi[C#7]jou... -Le vent qui [F#m]vient à travers la mon[E7]tagne M'a rendu [A]fou.[A]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Gastibelza.php?titre=Gastibelza

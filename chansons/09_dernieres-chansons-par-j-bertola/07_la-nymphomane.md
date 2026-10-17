@@ -1,69 +1,70 @@
 ## La nymphomane
 
 
-[D]Mânes de mes aïeux, protégez-moi, bons mânes ! Les joies charnelles me pe[A7]rdent, [D] [A7]
+[D]Mânes de mes aïeux, protégez-moi, bons mânes ! [A7]Les joies charnelles me [D]perdent,
 
-[D]La femme de ma vie, hélas ! est nymphomane, Les joies charnelles m'e[A7]mmerdent. {2x} [D] [A7] [D]
-
-
-Sous couleur de me donner une descendance, Les joies charnelles me perdent,
-
-Dans l'alcôve elle me fait passer mon existence, Les joies charnelles m'emmerdent. {2x}
+[D]La femme de ma vie, hélas ! est nymphomane, [A7]Les joies charnelles m'em[D]merdent. {2x}
 
 
-J'ai beau demander grâce, invoquer la migraine, Les joies charnelles me perdent,
+[D]Sous couleur de me donner une descendance, [A7]Les joies charnelles me [D]perdent,
 
-Sur l'autel conjugal, implacable, elle me traîne, Les joies charnelles m'emmerdent. {2x}
-
-
-Et je courbe l'échine en déplorant, morose, Les joies charnelles me perdent,
-
-Qu'on trouve plus les enfants dans les choux, dans les roses, Les joies charnelles m'emmerdent. {2x}
+[D]Dans l'alcôve elle me fait passer mon existence, [A7]Les joies charnelles m'em[D]merdent. {2x}
 
 
-Et je croque la pomme, après quoi, je dis pouce. Les joies charnelles me perdent,
+[D]J'ai beau demander grâce, invoquer la migraine, [A7]Les joies charnelles me [D]perdent,
 
-Quand la pomme est croquée, de plus belle elle repousse, Les joies charnelles m'emmerdent. {2x}
-
-
-Métamorphose inouïe, métempsycose infâme, Les joies charnelles me perdent,
-
-C'est le tonneau des Danaïdes changé en femme, Les joies charnelles m'emmerdent. {2x}
+[D]Sur l'autel conjugal, implacable, elle me traîne, [A7]Les joies charnelles m'em[D]merdent. {2x}
 
 
-J'en arrive à souhaiter qu'elle se dévergonde, Les joies charnelles me perdent,
+[D]Et je courbe l'échine en déplorant, morose, [A7]Les joies charnelles me [D]perdent,
 
-Qu'elle prenne un amant ou deux qui me secondent, Les joies charnelles m'emmerdent. {2x}
-
-
-Or, malheureusement, la bougresse est fidèle, Les joies charnelles me perdent,
-
-Pénélope est une roulure à côté d'elle, Les joies charnelles m'emmerdent. {2x}
+[D]Qu'on trouve plus les enfants dans les choux, dans les roses, [A7]Les joies charnelles m'em[D]merdent. {2x}
 
 
-Certains à coups de dents creusent leur sépulture, Les joies charnelles me perdent,
+[D]Et je croque la pomme, après quoi, je dis pouce. [A7]Les joies charnelles me [D]perdent,
 
-Moi j'use d'un outil de tout autre nature, Les joies charnelles m'emmerdent. {2x}
-
-
-Après que vous m'aurez emballé dans la bière, Les joies charnelles me perdent,
-
-Prenez la précaution de bien sceller la pierre, Les joies charnelles m'emmerdent. {2x}
+[D]Quand la pomme est croquée, de plus belle elle repousse, [A7]Les joies charnelles m'em[D]merdent. {2x}
 
 
-Car, même mort, je devrais céder à ses rites, Les joies charnelles me perdent,
+[B]Métamorphose inouïe, métempsychose infâme, [F#7]Les joies charnelles me [B]perdent,
 
-Et mes os n'auraient pas le repos qu'ils méritent, Les joies charnelles m'emmerdent. {2x}
-
-
-Qu'on m'incinère plutôt ! Elle n'os'ra pas descendre, Les joies charnelles me perdent,
-
-Sacrifier à Vénus, avec ma pauvre cendre, Les joies charnelles m'emmerdent. {2x}
+[B]C'est le tonneau des Danaïdes changé en femme, [F#7]Les joies charnelles m'em[B]merdent. {2x}
 
 
-Mânes de mes aïeux, protégez-moi, bons mânes ! Les joies charnelles me perdent,
+[B]J'en arrive à souhaiter qu'elle se dévergonde, [F#7]Les joies charnelles me [B]perdent,
 
-La femme de ma vie, hélas ! est nymphomane, Les joies charnelles m'emmerdent. {2x}
+[B]Qu'elle prenne un amant ou deux qui me secondent, [F#7]Les joies charnelles m'em[B]merdent. {2x}
 
 
+[B]Or, malheureusement, la bougresse est fidèle, [F#7]Les joies charnelles me [B]perdent,
 
+[B]Pénélope est une roulure à côté d'elle, [F#7]Les joies charnelles m'em[B]merdent. {2x}
+
+
+[C]Certains à coups de dents creusent leur sépulture, [G7]Les joies charnelles me [C]perdent,
+
+[C]Moi j'use d'un outil de tout autre nature, [G7]Les joies charnelles m'em[C]merdent. {2x}
+
+
+[C]Après que vous m'aurez emballé dans la bière, [G7]Les joies charnelles me [C]perdent,
+
+[C]Prenez la précaution de bien sceller la pierre, [G7]Les joies charnelles m'em[C]merdent. {2x}
+
+
+[C]Car, même mort, je devrais céder à ses rites, [G7]Les joies charnelles me [C]perdent,
+
+[C]Et mes os n'auraient pas le repos qu'ils méritent, [G7]Les joies charnelles m'em[C]merdent. {2x}
+
+
+[C]Qu'on m'incinère plutôt ! Elle n'os'ra pas descendre, [G7]Les joies charnelles me [C]perdent,
+
+[C]Sacrifier à Vénus, avec ma pauvre cendre, [G7]Les joies charnelles m'em[C]merdent. {2x}
+
+
+[C]Mânes de mes aïeux, protégez-moi, bons mânes ! [G7]Les joies charnelles me [C]perdent,
+
+[C]La femme de ma vie, hélas ! est nymphomane, [G7]Les joies charnelles m'em[C]merdent. {2x}
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Nymphomane.php?titre=%28La%29+nymphomane

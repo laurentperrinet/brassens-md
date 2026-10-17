@@ -1,66 +1,68 @@
 ## Les amours d'antan
 
 
-[D]Moi, mes amours d'antan c'était de la grisette, [C#m]
+[D]Moi, mes amours d'antan c'était de la gri[C#m]sette,
 
-[Em]Margot, la blanche caille, et Fanchon, la cousette, [F#7]
+Margot, la blanche [Em]caille, et Fanchon, la cou[F#7]sette,
 
-[E7]Pas la moindre noblesse, excusez-moi du peu, [A] [A7]
+[Bm]Pas la moindre no[E7]blesse, ex[E/C]cusez-moi du [A]peu,[A7]
 
-[D]C'étaient, me direz-vous, de grâces roturières, [C#m]
+[D]C'étaient, me direz-vous, de grâces rotu[C#m]rières,
 
-[Em]Des nymphes de ruisseau, des Vénus de barrière, [F#7]
+Des nymphes de ruis[Em]seau, des Vénus de bar[F#7]rière,
 
-[E7]Mon prince, on a les dames du temps jadis qu'on peut... Car le cœur à vi[A]ngt a[A7]ns se pose où l'œil se pose,
+[E7]Mon prince, on a les [E/C]dames du temps jadis qu'on [A]peut...[A7] [D]Car le cœur à vingt ans se pose où l'œil se [C#m]pose,
 
-Le premier cotillon venu vous en impose,
+Le premier cotil[Em]lon venu vous en im[F#7]pose,
 
-La plus humble bergère est un morceau de roi.
+[Bm]La plus humble ber[E7]gère est [E/C]un morceau de [A]roi.[A7]
 
-Ça manquait de marquise, on connut la soubrette,
+[D]Ça manquait de marquise, on connut la sou[C#m]brette,
 
-Faute de fleur de lys on eut la pâquerette,
+Faute de fleur de [Em]lys on eut la pâque[F#7]rette,
 
-Au printemps Cupidon fait flèche de tout bois... On rencontrait la belle aux Puces, le dimanche :
+[E7]Au printemps Cupi[E/C]don fait flèche de tout [A]bois...[A7] [D]On rencontrait la belle aux Puces, le di[C#m]manche :
 
-« Je te plais, tu me plais » et c'était dans la manche,
+« Je te plais, tu me [Em]plais » et c'était dans la [F#7]manche,
 
-Et les grands sentiments n'étaient pas de rigueur.
+[Bm]Et les grands senti[E7]ments n'é[E/C]taient pas de ri[A]gueur.[A7]
 
-« Je te plais, tu me plais, viens donc beau militaire. »
+« [D]Je te plais, tu me plais, viens donc beau mili[C#m]taire. »
 
-Dans un train de banlieue on partait pour Cythère,
+Dans un train de ban[Em]lieue on partait pour Cy[F#7]thère,
 
-On n'était pas tenu même d'apporter son cœur... Mimi, de prime abord, payait guère de mine,
+[E7]On n'était pas te[E/C]nu même d'apporter son [A]cœur...[A7] [D]Mimi, de prime abord, payait guère de [C#m]mine,
 
-Chez son fourreur sans doute on ignorait l'hermine,
+Chez son fourreur sans [Em]doute on ignorait l'her[F#7]mine,
 
-Son habit sortait point de l'atelier d'un dieu...
+[Bm]Son habit sortait [E7]point de [E/C]l'atelier d'un [A]dieu...[A7]
 
-Mais quand, par-dessus le moulin de la Galette,
+[D]Mais quand, par-dessus le moulin de la Ga[C#m]lette,
 
-Elle jetait pour vous sa parure simplette,
+Elle jetait pour [Em]vous sa parure sim[F#7]plette,
 
-C'est Psychée toute entière qui vous sautait aux yeux. Au second rendez-vous y'avait parfois personne,
+[E7]C'est Psychée toute en[E/C]tière qui vous sautait aux [A]yeux.[A7] [D]Au second rendez-vous y'avait parfois per[C#m]sonne,
 
-Elle avait fait faux bond, la petite amazone,
+Elle avait fait faux [Em]bond, la petite ama[F#7]zone,
 
-Mais l'on ne courait pas se pendre pour autant...
+[Bm]Mais l'on ne courait [E7]pas se [E/C]pendre pour au[A]tant...[A7]
 
-La marguerite commencée avec Suzette,
+[D]La marguerite commencée avec Su[C#m]zette,
 
-On finissait de l'effeuiller avec Lisette
+On finissait de [Em]l'effeuiller avec Li[F#7]sette
 
-Et l'amour y trouvait quand même son content. C'étaient, me direz-vous, des grâces roturières,
+[E7]Et l'amour y trou[E/C]vait quand même son con[A]tent.[A7] [D]C'étaient, me direz-vous, des grâces rotu[C#m]rières,
 
-Des nymphes de ruisseau, des Vénus de barrière,
+Des nymphes de ruis[Em]seau, des Vénus de bar[F#7]rière,
 
-Mais c'étaient mes amours, excusez-moi du peu,
+[Bm]Mais c'étaient mes a[E7]mours, ex[E/C]cusez-moi du [A]peu,[A7]
 
-Des Manon, des Mimi, des Suzon, des Lisette,
+[D]Des Manon, des Mimi, des Suzon, des Li[C#m]sette,
 
-Margot la blanche caille, et Fanchon, la cousette,
+Margot la blanche [Em]caille, et Fanchon, la cou[F#7]sette,
 
-Mon prince, on a les dames du temps jadis qu'on peut...
+[E7]Mon prince, on a les [E/C]dames du temps jadis qu'on [A]peut...[A7]
 
+### Notes
 
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Amours.D.Antan.php?titre=%28Les%29+amours+d%27antan

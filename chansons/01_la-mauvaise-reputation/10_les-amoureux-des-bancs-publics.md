@@ -10,7 +10,7 @@
 [A7]Pour accueillir quelques temps les amours débu[D]tants
 
 
-[Em]Les amoureux qui s'bécotent sur les [Bm]bancs publics, [A#dim]Bancs publics, [Bm]bancs publics
+Les amou[Em]reux qui s'bécotent sur les [Bm]bancs publics, [A#dim]Bancs publics, [Bm]bancs publics
 
 [C]En s'foutant pas mal du [G]r'gard oblique, [D7]Des passants hon[G]nêtes
 
@@ -19,39 +19,41 @@ Les amou[Em]reux qui s'bécotent sur les [Bm]bancs publics, [A#dim]Bancs publics
 [C]En s'disant des « je t'aime » [G]pathétiques, Ont [D7]des p'tites gueules bien sympa[G]thiques
 
 
-Ils se tiennent par la main, Parlent du lendemain, Du papier bleu d'azur
+[Bm]Ils se tiennent par la main, Parlent du lende[F#7]main, Du papier bleu d'azur
 
-Que revêtiront les murs de leur chambre à coucher
+[Bm]Que revêtiront les murs de leur chambre à coucher
 
-Ils se voient déjà douc'ment, Elle cousant, lui fumant, Dans un bien-être sûr
+[Am]Ils se voient déjà douc'ment, Elle cousant, lui fu[E7]mant, Dans un bien-être sûr
 
-Et choisissent les prénoms de leur premier bébé...
-
-
-Refrain
+[A7]Et choisissent les prénoms de leur premier bé[D]bé...
 
 
-Quand la sainte famille Machin, Croise sur son chemin, Deux de ces malappris
-
-Elle leur décroche hardiment des propos venimeux
-
-N'empêche que toute la famille, Le père, la mère, la fille, le fils, le saint-esprit
-
-Voudrait bien de temps en temps, Pouvoir s'conduire comme eux.
+[Em]Ref[G]rain
 
 
-Refrain
+[Bm]Quand la sainte famille Machin, Croise sur son che[F#7]min, Deux de ces malappris
+
+[Bm]Elle leur décroche hardiment des propos venimeux
+
+[Am]N'empêche que toute la famille, Le père, la mère, la [E7]fille, le fils, le saint-esprit
+
+[A7]Voudrait bien de temps en temps, Pouvoir s'conduire comme [D]eux.
 
 
-Quand les mois auront passé, Quand seront apaisés, Leur beaux rêves flambants
-
-Quand leur ciel se couvrira de gros nuages lourds
-
-Ils s'apercevront émus, Qu'c'est au hasard des rues, Sur un d'ces fameux bancs
-
-Qu'ils ont vécu le meilleur morceau de leur amour
+[Em]Ref[G]rain
 
 
-Refrain x 2
+[Bm]Quand les mois auront passé, Quand seront apai[F#7]sés, Leur beaux rêves flambants
+
+[Bm]Quand leur ciel se couvrira de gros nuages lourds
+
+[Am]Ils s'apercevront émus, Qu'c'est au hasard des [E7]rues, Sur un d'ces fameux bancs
+
+[A7]Qu'ils ont vécu le meilleur morceau de leur a[D]mour
 
 
+[Em]Ref[G]rain x 2
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Amoureux.Des.Bancs.Publics.php?titre=%28Les%29+amoureux+des+bancs+publics

@@ -1,53 +1,54 @@
 ## Si seulement elle était jolie
 
 
-Si seulement[F] elle était jolie, Je[F6] dirais : «[F] Tout n'est pas perdu. [F6]
+Si seule[F]ment elle était jolie, Je dirais : « Tout n'est pas perdu.
 
-Elle est fol[F]le, c'est entendu, Mai[F6]s quelle beauté accom[A7]plie ! »
+Elle est folle, c'est entendu, Mais quelle [A7]beauté accomplie ! »
 
-Hélas elle[Dm] est plus laide bientôt, Que les sept péchés capitaux, Que les sept[A7] péch[Dm]és capitaux. [C7] [F]
+Hélas [Dm]elle est plus laide bientôt, Que les sept péchés [A7]capi[Dm]taux, Que les sept péchés [C7]capi[F]taux.
 
 
 Si seulement elle avait des formes, Je dirais : « Tout n'est pas perdu,
 
-Elle est moche, c'est entendu, Mais c'est Vénus, copie conforme. »
+Elle est moche, c'est entendu, Mais c'est Vé[A7]nus, copie conforme. »
 
-Malheureusement, c'est désolant, C'est le vrai squelette ambulant, C'est le vrai squelette ambulant.
+Malheu[Dm]reusement, c'est désolant, C'est le vrai squelette [A7]ambu[Dm]lant, C'est le vrai squelette [C7]ambu[F]lant.
 
 
 Si seulement elle était gentille, Je dirais : « Tout n'est pas perdu,
 
-Elle est plate, c'est entendu, Mais c'est la meilleure des filles. »
+Elle est plate, c'est entendu, Mais c'est la [A7]meilleure des filles. »
 
-Malheureusement c'est un chameau, Un succube, tranchons le mot, Un succube, tranchons le mot.
+Malheu[Dm]reusement c'est un chameau, Un succube, tran[A7]chons le [Dm]mot, Un succube, tran[C7]chons le [F]mot.
 
 
 Si elle était intelligente, Je dirais : « Tout n'est pas perdu,
 
-Elle est vache, c'est entendu, Mais c'est une femme savante. »
+Elle est vache, c'est entendu, Mais c'est u[A7]ne femme savante. »
 
-Malheureusement elle est très bête, Et tout à fait analphabète, Et tout à fait analphabète.
+Malheu[Dm]reusement elle est très bête, Et tout à fait a[A7]nalpha[Dm]bète, Et tout à fait a[C7]nalpha[F]bète.
 
 
 Si seulement l'était cuisinière, Je dirais : « Tout n'est pas perdu,
 
-Elle est sotte, c'est entendu, Mais quelle artiste culinaire ! »
+Elle est sotte, c'est entendu, Mais quelle ar[A7]tiste culinaire ! »
 
-Malheureusement sa chère m'a, Pour toujours gâté l'estomac, Pour toujours gâté l'estomac.
+Malheu[Dm]reusement sa chère m'a, Pour toujours gâté [A7]l'esto[Dm]mac, Pour toujours gâté [C7]l'esto[F]mac.
 
 
 Si seulement elle était fidèle, Je dirais : « Tout n'est pas perdu,
 
-Elle m'empoisonne, c'est entendu, Mais c'est une épouse modèle. »
+Elle m'empoisonne, c'est entendu, Mais c'est une [A7]épouse modèle. »
 
-Malheureusement elle est, papa, Folle d'un cul qu'elle n'a pas, Folle d'un cul qu'elle n'a pas !
+Malheu[Dm]reusement elle est, papa, Folle d'un cul qu'el[A7]le n'a [Dm]pas, Folle d'un cul qu'el[C7]le n'a [F]pas !
 
 
 Si seulement l'était moribonde, Je dirais : « Tout n'est pas perdu,
 
-Elle me trompe, c'est entendu, Mais elle va quitter le monde. »
+Elle me trompe, c'est entendu, Mais elle [A7]va quitter le monde. »
 
-Malheureusement jamais elle tousse : Elle nous enterrera tous, Elle nous enterrera tous !
+Malheu[Dm]reusement jamais elle tousse : Elle nous enter[A7]rera [Dm]tous, Elle nous enter[C7]rera [F]tous !
 
+### Notes
 
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Si.Seulement.Elle.Etait.Jolie.2.php?titre=Si+seulement+elle+%C3%A9tait+jolie

@@ -4,69 +4,71 @@
 Intro : Mim La7 Ré Si7 Mi7 La7 Ré Fa#7
 
 
-[Bm]La petite presqu'île où jadis bien [F#7]tranquille moi je suis né nat[Bm]if [F#7]
+La petite presqu'île où ja[F#7]dis bien tranquille moi [Bm]je suis né na[F#7]tif
 
-Soit dit san[Bm]s couillonnades avait le nom d'un[A] ad-jectif démonst[F#7]ratif [Bm] [D] [G]
+Soit dit [Bm]sans couillonnades avait [A]le nom d'un [F#7]ad-jec[Bm]tif dé[D]monstra[G]tif
 
-Moi personnellement que je meurs si je mens[F#m] ça m'était bien égal [G] [F#7]
+Moi personnellement que je [F#m]meurs si je mens [G]ça m'était bien é[F#7]gal
 
-J'étais pas[Em] chatouillé j'étais pas hum[Bm]ilié dans mon h[A7]onneur local [F#7]
+J'étais [Em]pas chatouillé j'étais [Bm]pas humilié [A7]dans mon honneur lo[F#7]cal
 
-Mais voyant [Bm]d'l'infamie dans cette homonymie des b[F#7]ougres s'en sont pla[Bm]ints [F#7]
+Mais vo[Bm]yant d'l'infamie dans cette [F#7]homonymie des [Bm]bougres s'en sont [F#7]plaints
 
-Telleme[Bm]nt que bientôt on reforma l'ort[A]ho-graphe[F#7] du nom[Bm] du pate[F#7]lin [Bm] [A7]
-
-
-Et j'[D]eus ma première tr[A7]istesse,[D7] d'Olympio [G]
-
-[Em]Déférence gardée envers le [Gm]père Hugo [A7]
-
-Si f[D]aire se pe[A7]ut, atte[Bm]ndez un pe[F#m]u, Me[G]ssieurs les édiles [D] [B7]
-
-Que l'[Em]on soit passé,[A7] pour débapt[D]iser, n[B7]os pe[E]tites vil[A7]les [D] [F#7]
+Telle[Bm]ment que bientôt on reforma l'or[F#7]tho-[Bm]graphe du nom [F#7]du pate[Bm]lin[A7]
 
 
-[Bm]La chère vieille rue où mon père av[F#7]ait cru, on ne peut plus prop[Bm]ice [F#7]
+Et [D]j'eus ma pre[A7]mière tris[D7]tesse, d'Olym[G]pio
 
-D'aller cons[Bm]truire sa petite maison s'a-ppela[A]it rue de l'hospic[F#7]e [Bm] [D] [G]
+Dé[Em]férence gardée en[Gm]vers le père Hu[A7]go
 
-Se mettre en quête d'un nom d'rue plus oppo[F#m]rtun, ne se concevait [G]pas [F#7]
+Si [D]faire se [A7]peut, at[Bm]tendez un [F#m]peu, [G]Messieurs les é[D]diles[B7]
 
-On n'pouvai[Em]t trouver mieux vu qu'un as[Bm]ile de vieux, f[A7]lorissait dans le bas [F#7]
-
-Les anciens [Bm]combattants tous comme un seul sortant[F#7], de leur vieux trou[Bm] d'obus [F#7]
-
-Firent [Bm]tant qu'à la fin la rue d'l'hos[A]pice devi[F#7]nt, la [Bm]rue Henr[F#7]i Barbusse [Bm] [A7]
+Que [Em]l'on soit pas[A7]sé, pour [D]débapti[B7]ser, [E]nos pe[A7]tites [D]villes[Bm]
 
 
-Et j'[D]eus ma deuxième tr[A7]istesse,[D7] d'Olympio [G]
+[F#7]La chère vieille rue où mon [F#7]père avait cru, on [Bm]ne peut plus pro[F#7]pice
 
-[Em]Déférence gardée envers le [Gm]père Hugo [A7]
+D'aller [Bm]construire sa peti[A]te maison [F#7]s'a-ppe[Bm]lait rue [D]de l'hos[G]pice
 
-Si f[D]aire se pe[A7]ut, atte[Bm]ndez un pe[F#m]u, hé[G]ros incongrus [D] [B7]
+Se mettre en quête d'un nom d'rue [F#m]plus opportun, [G]ne se concevait [F#7]pas
 
-Que l'[Em]on soit passé,[A7] pour débapt[D]iser, n[B7]os pe[E]tites rue[A7]s [D] [F#7]
+On n'pou[Em]vait trouver mieux vu qu'un [Bm]asile de vieux, [A7]florissait dans le [F#7]bas
 
+Les an[Bm]ciens combattants tous comme [F#7]un seul sortant, de [Bm]leur vieux trou d'o[F#7]bus
 
-[Bm]Moi la première à qui mon cœur fut [F#7]tout acquis, s'appelait Jeann[Bm]e Martin [F#7]
-
-Patronyme qu[Bm]i fait pas tellement d'effet, dan[A]s le bottin mondai[F#7]n [Bm] [D] [G]
-
-Mais moi j'aimais comme un fou ce nom si co[F#m]mmun, n'en déplaise au[G]x minus [F#7]
-
-D'ailleurs [Em]de parti pris celle que je [Bm]chéris, s'appel[A7]le toujours Vénus [F#7]
-
-Hélas un béo[Bm]tien à la place du sien, lui proposa s[F#7]on blase [Bm] [F#7]
-
-Fameux [Bm]dans l'épicerie et cette renché[A]rie, refu[F#7]sa pas [Bm]hélas [F#7] [Bm] [A7]
+Firent [Bm]tant qu'à la fin la rue d'[A]l'hospice de[F#7]vint, [Bm]la rue Hen[F#7]ri Bar[Bm]busse[A7]
 
 
-Et j'[D]eus ma troisième t[A7]ristesse[D7], d'Olympio [G]
+Et [D]j'eus ma deu[A7]xième tris[D7]tesse, d'Olym[G]pio
 
-[Em]Déférence gardée envers le [Gm]père Hugo [A7]
+Dé[Em]férence gardée en[Gm]vers le père Hu[A7]go
 
-Si f[D]aire se pe[A7]ut, atte[Bm]ndez un pe[F#m]u, ci[G]nq minutes nos [D] [B7]
+Si [D]faire se [A7]peut, at[Bm]tendez un [F#m]peu, [G]héros incon[D]grus[B7]
 
-Gentes[Em] fiancées, que[A7] l'on soit p[D]assé, p[B7]our c[E]hanger de[A7] nom [D] [F#7]
+Que [Em]l'on soit pas[A7]sé, pour [D]débapti[B7]ser, [E]nos pe[A7]tites [D]rues[Bm]
 
 
+[F#7]Moi la première à qui mon cœur [F#7]fut tout acquis, s'ap[Bm]pelait Jeanne Mar[F#7]tin
+
+Patro[Bm]nyme qui fait pas tel[A]lement d'ef[F#7]fet, dans [Bm]le bot[D]tin mon[G]dain
+
+Mais moi j'aimais comme un fou ce [F#m]nom si commun, [G]n'en déplaise aux mi[F#7]nus
+
+D'ailleurs [Em]de parti pris celle [Bm]que je chéris, [A7]s'appelle toujours Vé[F#7]nus
+
+Hélas [Bm]un béotien à la [F#7]place du sien, lui [Bm]proposa son [F#7]blase
+
+Fameux [Bm]dans l'épicerie et cet[A]te renché[F#7]rie, [Bm]refusa [F#7]pas hé[Bm]las[A7]
+
+
+Et [D]j'eus ma troi[A7]sième tris[D7]tesse, d'Olym[G]pio
+
+Dé[Em]férence gardée en[Gm]vers le père Hu[A7]go
+
+Si [D]faire se [A7]peut, at[Bm]tendez un [F#m]peu, [G]cinq minutes [D]nos
+
+Gen[Em]tes fian[A7]cées, que [D]l'on soit pas[B7]sé, [E]pour chan[A7]ger de [D]nom
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Jeanne.Martin.php?titre=Jeanne+Martin

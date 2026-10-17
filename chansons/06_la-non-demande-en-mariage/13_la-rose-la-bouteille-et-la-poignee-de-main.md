@@ -1,77 +1,79 @@
 ## La rose, la bouteille et la poignée de main
 
 
-[F]Cette rose avait glissé[E7] de, La gerbe qu[A7]'un héros gâteux, Po[D]rtait au monum[Dm7]ent aux Mort[G7]s. [C]
+[F]Cette rose avait [E7]glissé de, La [A7]gerbe qu'un hé[D7]ros gâteux,[F] Portait au [G7]monument aux [C]Morts.
 
-[F]Comme tous les gens levaient le[E7]urs, Yeux pour voir hisser [A7]les couleurs, Je la r[D]ecueillis sans rem[Dm7]ords. [Am] [E7] [Am]
+[F]Comme tous les gens [E7]levaient leurs, [A7]Yeux pour voir hisser [D7]les couleurs,[F] Je la re[E7]cueillis sans re[Am]mords.
 
-[Am]Et je repris ma route et m'en allai quérir,[C] Au p'tit bo[F]nheur la chance[Em7], un cors[A7]age à f[Dm]leurir. [E7]
+[Am]Et je repris ma route et m'en al[C]lai quérir, [F]Au p'tit bo[G]nheur la [A7]chance, [Dm]un corsage [E7]à fleurir.
 
-[Am]Car c'est une des pires perversions qui s[C]oient, Que de garder u[D]ne rose par-devers soi[Am]. [B7] [E7] [Am]
+[Am]Car c'est une des pires perversi[C]ons qui soient, [D7]Que de garder u[C]ne rose par-[B7]de[E7]vers [Am]soi.
 
-[F]La première à qui je l'off[E7]ris, Tourna la tê[Am]te avec mépr[A7]is, [D]
+[F]La première à qui [E7]je l'offris, Tour[Am]na la tête a[D7]vec mépris,
 
-[Am]La deux[F]ième s'enfu[G7]it et cour[C]t, Enc[Am]ore en [F]criant « [G7]Au secours [C]! »
+[Am]La deuxiè[F]me s'en[G7]fuit et [C]court, [Am]Encore en [F]criant « [G7]Au se[C]cours ! »
 
-[F]Si la troisième m'a [E7]donné, Un coup d'om[A7]brelle sur le nez, [D]
+[F]Si la troisième [E7]m'a donné, Un [A7]coup d'ombrelle [D7]sur le nez,
 
-La quatrièm[Am]e, c'es[E7]t plus méchant, [Am]Se mit [D]en quête d'un[Am] age[E7]nt. [Am] [C7]
+[D]La quatri[C]ème, [E7]c'est plus mé[Am]chant, [D]Se mit en [C]quê[E7]te d'un a[Am]gent.
 
-[F]Car, aujourd'hui, c'est saugrenu[E7], Sans être louche, [A7]on ne peut pas [D]
+[F]Car, aujourd'hui, c'est [E7]saugrenu, Sans [A7]être louche, on [D7]ne peut pas
 
-[Dm7]Fleurir de bel[G7]les inconnue[C]s. On[F] est tombé bien [G7]bas, bien bas... [C]
+[F]Fleurir de [G7]belles incon[C]nues. On est [F]tombé bien [G7]bas, bien [C]bas...
 
-Et c[F]e pauvre petit bou[E7]ton, De rose a fleur[A7]i le veston [D]
+[F]Et ce pauvre pe[E7]tit bouton, De [A7]rose a fleuri [D7]le veston
 
-[F]D'un vague chien d[E7]e commissa[Am]ire, Quelle m[B7]isère ! [E7] [Am] [E7] [Am] [E7]
-
-
-Cette bouteille était tombée, De la soutane d'un abbé, Sortant de la messe ivre mort.
-
-Une bouteille de vin fin, Millésimé, béni, divin, Je la recueillis sans remords.
-
-Et je repris ma route en cherchant, plein d'espoir, Un brave gosier sec pour m'aider à la boire.
-
-Car c'est une des pires perversions qui soient, Que de garder du vin béni par-devers soi.
-
-Le premier refusa mon verre, En me lorgnant d'un œil sévère,
-
-Le deuxième m'a dit, railleur, De m'en aller cuver ailleurs.
-
-Si le troisième, sans retard, Au nez m'a jeté le nectar,
-
-Le quatrième, c'est plus méchant, Se mit en quête, d'un agent.
-
-Car, aujourd'hui, c'est saugrenu, Sans être louche, on ne peut pas
-
-Trinquer avec des inconnus. On est tombé bien bas, bien bas...
-
-Avec la bouteille de vin fin, Millésimé, béni, divin,
-
-Les flics se sont rincés la dalle, Un vrai scandale ! Cette pauvre poignée de main, Gisait, oubliée, en chemin,
-
-Par deux amis fâchés à mort. Quelque peu décontenancée,
-
-Elle était là, dans le fossé. Je la recueillis sans remords.
-
-Et je repris ma route avec l'intention, De faire circuler la virile effusion,
-
-Car c'est une des pires perversions qui soient, Qu'de garder une poignée de main par-devers soi.
-
-Le premier m'a dit: « Fous le camp ! J'aurais peur de salir mes gants. »
-
-Le deuxième, d'un air dévot, Me donna cent sous, d'ailleurs faux.
-
-Si le troisième, ours mal léché, Dans ma main tendue a craché,
-
-Le quatrième, c'est plus méchant, Se mit en quête d'un agent.
-
-Car, aujourd'hui, c'est saugrenu, Sans être louche, on ne peut pas
-
-Serrer la main des inconnus. On est tombé bien bas, bien bas...
-
-Et la pauvre poignée de main, Victime d'un sort inhumain,
-
-Alla terminer sa carrière, A la fourrière !
+[F]D'un vague [E7]chien de [Am]commissaire,[B7] Quel[E7]le mis[Am]ère !
 
 
+[F]Cette bouteille é[E7]tait tombée, De [A7]la soutane [D7]d'un abbé,[F] Sortant de [G7]la messe ivre [C]mort.
+
+[F]Une bouteille [E7]de vin fin, Mil[A7]lésimé, bé[D7]ni, divin,[F] Je la re[E7]cueillis sans re[Am]mords.
+
+[Am]Et je repris ma route en cherchant, [C]plein d'espoir, [F]Un brave [G]gosier [A7]sec [Dm]pour m'aider [E7]à la boire.
+
+[Am]Car c'est une des pires perversi[C]ons qui soient, [D7]Que de garder du [C]vin béni par-[B7]de[E7]vers [Am]soi.
+
+[F]Le premier refu[E7]sa mon verre, En [A]me lorgnant d'un [D7]œil sévère,
+
+[Am]Le deuxi[F]ème m'a [G7]dit, rail[C]leur, [Am]De m'en al[F]ler cu[G7]ver ail[C]leurs.
+
+[F]Si le troisième, [E7]sans retard, Au [A7]nez m'a jeté [D7]le nectar,
+
+[D]Le quatri[C]ème, [E7]c'est plus mé[Am]chant, [D]Se mit en [C]quê[E7]te, d'un a[Am]gent.
+
+[F]Car, aujourd'hui, c'est [E7]saugrenu, Sans [A7]être louche, on [D7]ne peut pas
+
+[F]Trinquer a[G7]vec des in[C]connus. On est [F]tombé bien [G7]bas, bien [C]bas...
+
+A[F]vec la bouteil[E7]le de vin fin, Mil[A7]lésimé, bé[D7]ni, divin,
+
+[F]Les flics se [E7]sont rin[Am]cés la dalle,[B7] Un [E7]vrai scan[Am]dale ! [F]Cette pauvre poi[E7]gnée de main, Gi[A7]sait, oubliée, [D7]en chemin,[F]
+
+Par deux a[G7]mis fâchés à [C]mort. [F]Quelque peu décon[E7]tenancée,
+
+Elle [A7]était là, dans [D7]le fossé.[F] Je la re[E7]cueillis sans re[Am]mords.
+
+[Am]Et je repris ma route avec l'in[C]tention, [F]De faire [G]circu[A7]ler [Dm]la virile [E7]effusion,
+
+[Am]Car c'est une des pires perversi[C]ons qui soient, [D7]Qu'de garder une poi[C]gnée de main par-[B7]de[E7]vers [Am]soi.
+
+[F]Le premier m'a dit: « [E7]Fous le camp ! J'au[A]rais peur de sa[D7]lir mes gants. »
+
+[Am]Le deuxiè[F]me, d'un [G7]air dé[C]vot, [Am]Me donna [F]cent sous, [G7]d'ailleurs [C]faux.
+
+[F]Si le troisième, ours [E7]mal léché, Dans [A]ma main tendue [D7]a craché,
+
+[D]Le quatri[C]ème, [E7]c'est plus mé[Am]chant, [D]Se mit en [C]quê[E7]te d'un a[Am]gent.
+
+[F]Car, aujourd'hui, c'est [E7]saugrenu, Sans [A7]être louche, on [D7]ne peut pas
+
+[F]Serrer la [G7]main des in[C]connus. On est [F]tombé bien [G7]bas, bien [C]bas...
+
+Et [F]la pauvre poi[E7]gnée de main, Vic[A7]time d'un sort [D7]inhumain,
+
+[F]Alla ter[E7]miner [Am]sa carrière,[B7] À [E7]la four[Am]rière !
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Rose.php?titre=%28La%29+rose+la+bouteille+et+la+poign%C3%A9e+de+main

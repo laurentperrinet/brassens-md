@@ -4,69 +4,71 @@
 Intro : Ré Sim Mim La7 Ré Sim Mim La7
 
 
-[D]Quand jou[Em]r de[A7] gloire [D]est a[Bm]rrivé, Comme tous les[Em] autres ét[A7]aient cre[D]vés,
+Quand [D]jour de [Em]gloire est [A7]arrivé,[D] Comme [Bm]tous les au[Em]tres é[A7]taient crevés,[D]
 
-[D7]Moi seul connu [G]le désho[F#]nneur,[Bm] De n'pas être mort au champ[E7] d'h[A7]onneur. [D] [C] [Bb] [C]
-
-
-[Dm]Je suis d'la mauvaise herbe, braves gens, braves gens. [A7]
-
-C'est pas moi qu'on rumine et c'est pas moi qu'on met en gerbe. [Dm]
-
-La mort faucha les autres, braves gens, braves gens, [A7]
-
-Et me fit grâce à moi, c'est immoral et c'est comme ça ! [Dm]
+[D7]Moi seul con[G]nu le [F#]déshonneur,[Bm] De n'pas être [E7]mort [A7]au champ d'hon[D]neur.[C]
 
 
-[Gm]La la la la la la [C7]la l[F]a l[Gm6]a la la l[A7]a la[Dm] la la la la
+[Bb][C][D][C][Bb][C]Je [Dm]suis d'la mauvaise herbe, braves gens, braves [A7]gens.
+
+C'est pas moi qu'on rumine et c'est pas moi qu'on met en [Dm]gerbe.
+
+La mort faucha les autres, braves gens, braves [A7]gens,
+
+Et me fit grâce à moi, c'est immoral et c'est comme [Dm]ça !
 
 
-[Gm]Et je m'demande pourquo[A7]i bon Dieu, Ça vous dérang[Dm]e que j'vive un peu.
-
-Et je m'demande pourquoi mon Dieu, Ça vous déra[Gm]nge que j'vive un peu. [A7] [Dm]
+[Gm]La la la la la [C7]la la [F]la [Gm6]la la la la la [A7]la la [Dm]la la
 
 
-La fille à tout l'monde a bon cœur, Elle me donne au petit bonheur,
+Et je m'demande pourquoi bon [Gm]Dieu, Ça vous dé[A7]range que j'vive un [Dm]peu.
 
-Les p'tits bouts d'sa peau bien cachés, Que les autres n'ont pas touché.
-
-
-Je suis d'la mauvaise herbe, braves gens, braves gens.
-
-C'est pas moi qu'on rumine et c'est pas moi qu'on met en gerbe,
-
-Elle se vend aux autres, braves gens, braves gens,
-
-Elle se donne à moi, c'est immoral et c'est comme ça !
+Et je m'demande pourquoi mon [Gm]Dieu, Ça vous dé[A7]range que j'vive un [D]peu.[A7]
 
 
-La la la la la la la la la la la la la la la la la
+[Em][Bm]La [D]fille à [Em]tout l'monde [A7]a bon cœur,[D] Elle [Bm]me donne [Em]au pe[A7]tit bonheur,[D]
+
+Les [D7]p'tits bouts [G]d'sa peau [F#]bien ca[Bm]chés, Que les au[E7]tres [A7]n'ont pas tou[D]ché.
 
 
-Et je m'demande pourquoi bon Dieu, Ça vous dérange qu'on m'aime un peu.
+[Bb][C][D][C][Bb][C]Je [Dm]suis d'la mauvaise herbe, braves gens, braves [A7]gens.
 
-Et je m'demande pourquoi mon Dieu, Ça vous dérange qu'on m'aime un peu.
+C'est pas moi qu'on rumine et c'est pas moi qu'on met en [Dm]gerbe,
 
+Elle se vend aux autres, braves gens, braves [A7]gens,
 
-Les hommes sont faits nous dit-on, Pour vivre en bande, comme les moutons.
-
-Moi j'vis seul et c'est pas demain, Que je suivrai leur droit chemin.
-
-
-Je suis d'la mauvaise herbe, braves gens, braves gens.
-
-C'est pas moi qu'on rumine et c'est pas moi qu'on met en gerbe,
-
-Je suis d'la mauvaise herbe, braves gens, braves gens,
-
-Je pousse en liberté dans les jardins mal fréquentés.
+Elle se donne à moi, c'est immoral et c'est comme [Dm]ça !
 
 
-La la la la la la la la la la la la la la la la la
+[Gm]La la la la la [C7]la la [F]la [Gm6]la la la la la [A7]la la [Dm]la la
 
 
-Et je m'demande pourquoi bon Dieu, Ça vous dérange que j'vive un peu.
+Et je m'demande pourquoi bon [Gm]Dieu, Ça vous dé[A7]range qu'on m'aime un [Dm]peu.
 
-Et je m'demande pourquoi mon Dieu, Ça vous dérange que j'vive un peu.
+Et je m'demande pourquoi mon [Gm]Dieu, Ça vous dé[A7]range qu'on m'aime un [D]peu.[A7]
 
 
+[Em][Bm]Les [D]hommes [Em]sont faits [A7]nous dit-[D]on, Pour [Bm]vivre en ban[Em]de, [A7]comme les moutons.[D]
+
+[D7]Moi j'vis seul [G]et c'est [F#]pas demain,[Bm] Que je suiv[E7]rai [A7]leur droit che[D]min.[C]
+
+
+[Bb][C][D][C][Bb][C]Je [Dm]suis d'la mauvaise herbe, braves gens, braves [A7]gens.
+
+C'est pas moi qu'on rumine et c'est pas moi qu'on met en [Dm]gerbe,
+
+Je suis d'la mauvaise herbe, braves gens, braves [A7]gens,
+
+Je pousse en liberté dans les jardins mal fréquen[Dm]tés.
+
+
+[Gm]La la la la la [C7]la la [F]la [Gm6]la la la la la [A7]la la [Dm]la la
+
+
+Et je m'demande pourquoi bon [Gm]Dieu, Ça vous dé[A7]range que j'vive un [Dm]peu.
+
+Et je m'demande pourquoi mon [Gm]Dieu, Ça vous dé[A7]range que j'vive un [Dm]peu.[Dm]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Mauvaise.Herbe.php?titre=%28La%29+mauvaise+herbe

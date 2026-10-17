@@ -1,54 +1,55 @@
 ## Stances à un cambrioleur
 
 
-[Dm]Prince des monte-en-l'air et de la cambriole, Toi qui eus le bo[G#dim/F]n goût de choisir ma maison [G#dim]
+[Dm]Prince des monte-en-l'air et de la cambriole,[Fdim] Toi qui eus le bon goût de choisir ma maison[G#dim]
 
-[G#dim/G#]Cependant que je colportais mes gaudrioles, En ton honneur [G#dim/B]j'ai composé cette chanson [E7] [Am]
-
-
-Sache que j'apprécie à sa valeur le geste, Qui te fit bien fermer la porte en repartant
-
-De peur que des rôdeurs n'emportassent le reste, Des voleurs comme il faut c'est rare de ce temps
+Cependant que je colportais mes gaudrioles,[Bdim] En ton honneur j'ai compo[E7]sé cette chan[Am]son
 
 
-Tu ne m'as dérobé que le strict nécessaire, Délaissant dédaigneux l'exécrable portrait
+[Dm]Sache que j'apprécie à sa valeur le geste,[Fdim] Qui te fit bien fermer la porte en repartant[G#dim]
 
-Que l'on m'avait offert à mon anniversaire, Quel bon critique d'art mon salaud tu ferais
-
-
-Autre signe indiquant toute absence de tare, Respectueux du brave travailleur tu n'as
-
-Pas cru décent de me priver de ma guitare, Solidarité sainte de l'artisanat
+De peur que des rôdeurs n'emportassent le reste,[Bdim] Des voleurs comme il faut c'est [E7]rare de ce [Am]temps
 
 
-Pour toutes ces raisons vois-tu, je te pardonne, Sans arrière-pensée après mûr examen
+[Dm]Tu ne m'as dérobé que le strict nécessaire,[Fdim] Délaissant dédaigneux l'exécrable portrait[G#dim]
 
-Ce que tu m'as volé, mon vieux, je te le donne, Ça pouvait pas tomber en de meilleures mains
-
-
-D'ailleurs moi qui te parle, avec mes chansonnettes, Si je n'avais pas dû rencontrer le succès
-
-J'aurais tout comme toi, pu virer malhonnête, Je serais devenu ton complice, qui sait
+Que l'on m'avait offert à mon anniversaire,[Bdim] Quel bon critique d'art mon [E7]salaud tu fe[Am]rais
 
 
-En vendant ton butin, prends garde au marchandage, Ne vas pas tout lâcher en solde aux receleurs
+[Dm]Autre signe indiquant toute absence de tare,[Fdim] Respectueux du brave travailleur tu n'as[G#dim]
 
-Tiens leur la dragée haute en évoquant l'adage, Qui dit que ces gens-là sont pis que les voleurs
-
-
-Fort de ce que je n'ai pas sonné les gendarmes, Ne te crois pas du tout tenu de revenir
-
-Ta moindre récidive abolirait le charme, Laisse-moi je t'en prie, sur un bon souvenir
+Pas cru décent de me priver de ma guitare,[Bdim] Solidarité sainte [E7]de l'artisa[Am]nat
 
 
-Monte-en-l'air, mon ami, que mon bien te profite, Que Mercure te préserve de la prison
+[Dm]Pour toutes ces raisons vois-tu, je te pardonne,[Fdim] Sans arrière-pensée après mûr examen[G#dim]
 
-Ait pas trop de remords, d'ailleurs nous sommes quittes, Après tout ne te dois-je pas une chanson
-
-
-Post-scriptum, si le vol est l'art que tu préfères, Ta seule vocation, ton unique talent
-
-Prends donc pignon sur rue, mets-toi dans les affaires, Et tu auras les flics même comme chalands
+Ce que tu m'as volé, mon vieux, je te le [Bdim]donne, Ça pouvait pas tomber en [E7]de meilleures [Am]mains
 
 
+[Dm]D'ailleurs moi qui te parle, avec mes chansonnettes,[Fdim] Si je n'avais pas dû rencontrer le succès[G#dim]
 
+J'aurais tout comme toi, pu virer malhonnête,[Bdim] Je serais devenu ton [E7]complice, qui [Am]sait
+
+
+[Dm]En vendant ton butin, prends garde au marchandage,[Fdim] Ne vas pas tout lâcher en solde aux receleurs[G#dim]
+
+Tiens leur la dragée haute en évoquant l'adage,[Bdim] Qui dit que ces gens-là sont [E7]pis que les vo[Am]leurs
+
+
+[Dm]Fort de ce que je n'ai pas sonné les gendarmes,[Fdim] Ne te crois pas du tout tenu de revenir[G#dim]
+
+Ta moindre récidive abolirait le charme,[Bdim] Laisse-moi je t'en prie, sur [E7]un bon souve[Am]nir
+
+
+[Dm]Monte-en-l'air, mon ami, que mon bien te profite,[Fdim] Que Mercure te préserve de la prison[G#dim]
+
+Ait pas trop de remords, d'ailleurs nous sommes quittes,[Bdim] Après tout ne te dois-je [E7]pas une chan[Am]son
+
+
+[Dm]Post-scriptum, si le vol est l'art que tu préfères,[Fdim] Ta seule vocation, ton unique talent[G#dim]
+
+Prends donc pignon sur rue, mets-toi dans les affaires,[Bdim] Et tu auras les flics mê[E7]me comme cha[Am]lands
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Stances.A.Un.Cambrioleur.php?titre=Stances+%C3%A0+un+cambrioleur

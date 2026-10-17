@@ -1,40 +1,41 @@
 ## Trompe-la-mort
 
 
-[Bm]Avec cette neige à fois[D]on, Q[E]ui co[G]iffe, coiffe ma toison, On peut m[F#7]e cro[Bm]ire à vue de nez, Blanchi sous le harnais [A7] [D] [F#7]
+[Bm]Avec cette neige [D]à foi[E]son, [G]Qui coiffe, coiffe ma toi[F#7]son, [Bm]On peut me croire à vue de nez, Blanchi sous [A7]le har[D]nais[F#7]
 
-[Bm]Eh bien, Mesdames et Messie[D]urs, C'es[E]t rien que[G] de la poudre aux yeux, C'est rien que de la [F#7]coméd[Bm]ie, Que de la parodie [F#7] [Bm] [B7]
+[Bm]Eh bien, Mesdames [D]et Mes[E]sieurs, [G]C'est rien que de la poudre aux [F#7]yeux, [Bm]C'est rien que de la comédie, Que [F#7]de la paro[Bm]die[B7]
 
-[Em]C'est pour tenter de couper court, A l'a[A7]vance[D] du temps qui court, De persuader c[B7]e vieux[Em] goujat, Que tout le mal est fait déj[A7]à [D] [B7]
+[Em]C'est pour tenter de couper [A7]court, [D]À l'avance du temps qui [B7]court, [Em]De persuader ce vieux gou[A7]jat, [D]Que tout le mal est fait dé[B7]jà
 
-[Em]Mais dessous la perruque j'ai, Mes [A7]vrai[D]s cheveux couleur de jais, C'est pas demain[F#7] la v[B7]eille, bon Dieu ! De mes ad[E]ieux [Em] [F#7] [Bm]
-
-
-Et si j'ai l'air moins guilleret, Moins solide sur mes jarrets, Si je chemine avec lenteur, D'un train de sénateur
-
-N'allez pas dire « Il est perclus », N'allez pas dire « Il n'en peut plus », C'est rien que de la comédie, Que de la parodie
-
-Histoire d'endormir le temps, Calculateur impénitent, De tout brouiller, tout embrouiller, Dans le fatidique sablier
-
-En fait, à l'envers du décor, Comme à vingt ans, je trotte encore, C'est pas demain la veille, bon Dieu, De mes adieux
+[Em]Mais dessous la perruque [A7]j'ai, [D]Mes vrais cheveux couleur de [F#7]jais, [B7]C'est pas demain la [E]veille, bon Dieu[G] ! De [F#7]mes a[Bm]dieux
 
 
-Et si mon cœur bat moins souvent, Et moins vite qu'auparavant, Si je chasse avec moins de zèle, Les gentes demoiselles
+[Bm]Et si j'ai l'air moins [D]guille[E]ret, [G]Moins solide sur mes jar[F#7]rets, [Bm]Si je chemine avec lenteur, D'un train de [A7]séna[D]teur[F#7]
 
-Pensez pas que je sois blasé, De leurs caresses, leurs baisers, C'est rien que de la comédie, Que de la parodie
+[Bm]N'allez pas dire « Il [D]est per[E]clus », [G]N'allez pas dire « Il n'en peut [F#7]plus », [Bm]C'est rien que de la comédie, Que [F#7]de la paro[Bm]die[B7]
 
-Pour convaincre le temps berné, Qu'mes fêtes galantes sont terminées, Que je me retire en coulisse, Que je n'entrerai plus en lice
+[Em]Histoire d'endormir le [A7]temps, [D]Calculateur impéni[B7]tent, [Em]De tout brouiller, tout embrouil[A7]ler, [D]Dans le fatidique sabli[B7]er
 
-Mais je reste un sacré gaillard, Toujours actif, toujours paillard, C'est pas demain la veille, bon Dieu, De mes adieux
-
-
-Et si jamais au cimetière, Un de ces quatre, on porte en terre, Me ressemblant à s'y tromper, Un genre de macchabée
-
-N'allez pas noyer le souffleur, En lâchant la bonde à vos pleurs, Ce sera rien que comédie, Rien que fausse sortie
-
-Et puis, coup de théâtre, quand, Le temps aura levé le camp, Estimant que la farce est jouée, Moi tout heureux, tout enjoué
-
-J'm'exhumerai du caveau, Pour saluer sous les bravos, C'est pas demain la veille, bon Dieu, De mes adieux
+[Em]En fait, à l'envers du dé[A7]cor, [D]Comme à vingt ans, je trotte en[F#7]core, [B7]C'est pas demain la [E]veille, bon Dieu,[G] De [F#7]mes a[Bm]dieux
 
 
+[Bm]Et si mon cœur bat [D]moins sou[E]vent, [G]Et moins vite qu'aupara[F#7]vant, [Bm]Si je chasse avec moins de zèle, Les gentes [A7]demoi[D]selles[F#7]
 
+[Bm]Pensez pas que je [D]sois bla[E]sé, [G]De leurs caresses, leurs bai[F#7]sers, [Bm]C'est rien que de la comédie, Que [F#7]de la paro[Bm]die[B7]
+
+[Em]Pour convaincre le temps ber[A7]né, [D]Qu'mes fêtes galantes sont termi[B7]nées, [Em]Que je me retire en cou[A7]lisse, [D]Que je n'entrerai plus en [B7]lice
+
+[Em]Mais je reste un sacré gail[A7]lard, [D]Toujours actif, toujours pail[F#7]lard, [B7]C'est pas demain la [E]veille, bon Dieu,[G] De [F#7]mes a[Bm]dieux
+
+
+[Bm]Et si jamais au [D]cime[E]tière, [G]Un de ces quatre, on porte en [F#7]terre, [Bm]Me ressemblant à s'y tromper, Un genre de [A7]maccha[D]bée[F#7]
+
+[Bm]N'allez pas noyer [D]le souf[E]fleur, [G]En lâchant la bonde à vos [F#7]pleurs, [Bm]Ce sera rien que comédie, Rien [F#7]que fausse sor[Bm]tie[B7]
+
+[Em]Et puis, coup de théâtre, [A7]quand, [D]Le temps aura levé le [B7]camp, [Em]Estimant que la farce est [A7]jouée, [D]Moi tout heureux, tout en[B7]joué
+
+[Em]J'm'exhumerai du ca[A7]veau, [D]Pour saluer sous les bra[F#7]vos, [B7]C'est pas demain la [E]veille, bon Dieu,[G] De [F#7]mes a[Bm]dieux
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Trompe.La.Mort.php?titre=Trompe+la+mort

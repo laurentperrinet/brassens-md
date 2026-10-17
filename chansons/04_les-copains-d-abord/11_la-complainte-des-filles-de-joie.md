@@ -1,68 +1,70 @@
 ## La complainte des filles de joie
 
 
-[Bm]Bien que ces vaches de bourgeois, Bien que ces vaches de bo[G]urgeois [F#]
+Bien [Bm]que ces vaches de bourgeois, Bien [G]que ces vaches [F#]de bourgeois
 
-[Bm]Les appellent des filles de joie, Les appellent des[G] filles de joie [F#]
+Les [Bm]appellent des filles de joie, Les [G]appellent des fil[F#]les de joie
 
-[D]C'est pas tous les jours qu'elles rigolent, Par[Em]ole, parol[Bm]e [F#]
+C'est [D]pas tous les [D#dim]jours qu'elles ri[Em]golent, Pa[Bm]role, pa[G]ro[F#]le
 
-[Bm]C'est pas tous les jours[Em] qu'elles rigolen[G7]t [F#7] [Bm]
-
-
-Car, même avec des pieds de grues, Faire les cents pas le long des rues
-
-C'est fatigant pour les guibolles, Parole, parole
-
-C'est fatigant pour les guibolles
+C'est [Bm]pas tous les [A]jours qu'elles ri[G7]g[F#7]o[Bm]lent
 
 
-Non seulement elles ont des cors, Des oeils-de-perdrix, mais encor
+Car, [G]même avec des [F#]pieds de grues, Faire [Bm]les cents pas le long des rues
 
-C'est fou ce qu'elles usent de grolles, Parole, parole
+C'est [D]fatigant [D#dim]pour les gui[Em]bolles, Pa[Bm]role, pa[G]ro[F#]le
 
-C'est fou ce qu'elles usent de grolles
-
-
-Y'a des clients, y'a des salauds, Qui se trempent jamais dans l'eau
-
-Faut pourtant qu'elles les cajolent, Parole, parole
-
-Faut pourtant qu'elles les cajolent
+C'est [Bm]fatigant [A]pour les gui[G7]bol[Bm]les
 
 
-Qu'elles leur fassent la courte échelle, Pour monter au septième ciel
+Non [Bm]seulement elles ont des cors, Des [G]oeils-de-perdrix, [F#]mais encor
 
-Les sous, croyez pas qu'elles les volent, Parole, parole
+C'est [D]fou ce qu'elles [D#dim]usent de [Em]grolles, Pa[Bm]role, pa[G]ro[F#]le
 
-Les sous, croyez pas qu'elles les volent
-
-
-Elles sont méprisées du public, Elles sont bousculées par les flics
-
-Et menacées de la vérole, Parole, parole
-
-Et menacées de la vérole
+C'est [Bm]fou ce qu'elles [A]usent de [G7]gr[F#7]ol[Bm]les
 
 
-Bien qu'toute la vie elles fassent l'amour, Qu'elles se marient vingt fois par jour
+Y'a [G]des clients, y'a [F#]des salauds, Qui [Bm]se trempent jamais dans l'eau
 
-La noce est jamais pour leur fiole, Parole, parole
+Faut [D]pourtant qu'el[D#dim]les les ca[Em]jolent, Pa[Bm]role, pa[G]ro[F#]le
 
-La noce est jamais pour leur fiole
-
-
-Fils de pécore et de minus, Ris par de la pauvre Vénus
-
-La pauvre vieille casserole, Parole, parole
-
-La pauvre vieille casserole
+Faut [Bm]pourtant qu'el[A]les les ca[G7]j[F#7]o[Bm]lent
 
 
-Il s'en fallait de peu, mon cher, Que cette putain ne fût ta mère
+Qu'elles [Bm]leur fassent la courte échelle, Pour [G]monter au sep[F#]tième ciel
 
-Cette putain dont tu rigoles, Parole, parole
+Les [D]sous, croyez [D#dim]pas qu'elles les [Em]volent, Pa[Bm]role, pa[G]ro[F#]le
 
-Cette putain dont tu rigoles
+Les [Bm]sous, croyez [A]pas qu'elles les [G7]v[F#7]o[Bm]lent
 
 
+Elles [Bm]sont méprisées du public, Elles [G]sont bousculées [F#]par les flics
+
+Et [D]menacées [D#dim]de la vé[Em]role, Pa[Bm]role, pa[G]ro[F#]le
+
+Et [Bm]menacées [A]de la vé[G7]ro[Bm]le
+
+
+Bien [G]qu'toute la vie elles [F#]fassent l'amour, Qu'elles [Bm]se marient vingt fois par jour
+
+La [D]noce est ja[D#dim]mais pour leur [Em]fiole, Pa[Bm]role, pa[G]ro[F#]le
+
+La [Bm]noce est ja[A]mais pour leur [G7]fio[Bm]le
+
+
+Fils [G]de pécore et [F#]de minus, Ris [Bm]par de la pau[F#]vre Vénus
+
+La [D]pauvre vieil[D#dim]le casse[Em]role, Pa[Bm]role, pa[G]ro[F#]le
+
+La [Bm]pauvre vieil[A]le casse[G7]ro[Bm]le
+
+
+Il [G]s'en fallait de [F#]peu, mon cher, Que [Bm]cette putain ne fût ta mère
+
+Cet[D]te putain [D#dim]dont tu ri[Em]goles, Pa[Bm]role, pa[Am]role
+
+Cet[C]te putain [C#dim]dont tu ri[Dm7]goles
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Complainte.Des.Filles.De.Joie.php?titre=%28La%29+complainte+des+filles+de+joie

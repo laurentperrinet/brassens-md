@@ -1,73 +1,76 @@
 ## Le vieux Léon
 
 
-Y'a tout à l'heure, [Bm]Quinze ans d'malheur, Mon vi[G]eux Léon [A7] [D]
+Y'a tout à [Bm]l'heure, Quinze ans d'mal[G]heur, [A7]Mon vieux Lé[D]on
 
-[Am]Que tu es parti[B7], Au[Em] para[Bm]dis, D'l'ac[G]cordéon [C#7] [F#]
+[Am]Que tu es par[B7]ti, [Em]Au para[Bm]dis, [G]D'l'accordé[C#7]on[F#]
 
-Parti bon train,[Bm] Voir si l'bastrin- g[G]ue et la ja[A7]va [D]
+Parti bon [Bm]train, Voir si l'bas[G]trin- [A7]gue et la ja[D]va
 
-[Am]Avaient gardé[B7], Dr[Em]oit de c[Bm]ité,[F#7] Chez Jéhova[Bm]h
+[Am]Avaient gar[B7]dé, [Em]Droit de ci[Bm]té, [F#7]Chez Jého[Bm]vah
 
-[F#7]Quinze ans bientô[Bm]t Qu'[A7]musique au dos, Tu t[D]'en[B7] allais [Em]
+[F#7]Quinze ans bien[Bm]tôt [A7]Qu'musique au [D]dos, [B7]Tu t'en al[Em]lais
 
-[A7]Mener le bal[D], A[G] l'amicale[C], Des feux follets [F#7]
+[A7]Mener le [D]bal, [G]À l'ami[C]cale, Des feux fol[F#7]lets
 
-En cet asil[Bm]e, P[A7]ar sainte Cécile[D], Pa[B7]rdonne-nous [Em]
+En cet a[Bm]sile, [A7]Par sainte Cé[D]cile, [B7]Pardonne-[Em]nous
 
-[A7]De n'avoir pas[D], S[G]u faire cas,[C] De[F#7] ton biniou [Bm]
-
-
-[Bm]C'est une erreur, Mais [G]les joue[A7]urs, D'accordéo[D]n
-
-[Am]Au grand jamais[B7], On[Em] ne l[Bm]es met, Au [G]Panthéon [C#7] [F#]
-
-Mon vieux, tu as dû, T[Bm]'contenter du, Champ [G]de navets [A7] [D]
-
-[Am]Sans grandes pom-pes [B7]et sans pom[Em]pons, Et[Bm] san[F#7]s ave [Bm]
-
-[F#7]Mais les copains,[Bm] Suiv[A7]aient l'sapi[D]n, [B7]Le cœur serré [Em]
-
-[A7]En rigolant,[D] Po[G]ur faire s[C]emblant, De n'pas p[F#7]leurer
-
-Et dans nos cœurs, Pauvr[Bm]e jo[A7]ueur, D'acc[D]ordé[B7]on [Em]
-
-[A7]Il fait ma [D]foi[G], Beaucoup moins froid, Qu[C]'au[F#7] Panthéon [Bm]
+[A7]De n'avoir [D]pas, [G]Su faire [C]cas, [F#7]De ton bi[Bm]niou
 
 
-[Bm]Depuis mon vieux, Qu'au fond[G] des cie[A7]ux, Tu as fait [D]ton trou
+C'est une er[Bm]reur, Mais les jou[G]eurs, [A7]D'accordé[D]on
 
-[Am]Il a [B7]coul[Em]é, De l'eau sous[Bm] les, [G]Ponts de c[C#7]hez nou[F#]s
+[Am]Au grand ja[B7]mais, [Em]On ne les [Bm]met, [G]Au Panthé[C#7]on[F#]
 
-Les bons enfants[Bm], D'la rue de Van-ves à [G]la Gaîté [A7] [D]
+Mon vieux, tu as [Bm]dû, T'contenter [G]du, [A7]Champ de na[D]vets
 
-[Am]L'un comme l'au-tre a[B7]u gr[Em]é des flots, [Bm]Fure[F#7]nt emportés [Bm]
+[Am]Sans grandes [B7]pom-pes [Em]et sans pom[Bm]pons, [F#7]Et sans a[Bm]ve
 
-[F#7]Mais aucun d'eux,[Bm] N'a [A7]fait fi de[D], S[B7]on temps jadi[Em]s
+[F#7]Mais les co[Bm]pains, [A7]Suivaient l'sa[D]pin, [B7]Le cœur ser[Em]ré
 
-[A7]Tous sont restés,[D] Du[G] parti des[C], Myosotis [F#7]
+[A7]En rigo[D]lant, [G]Pour faire sem[C]blant, De n'pas pleu[F#7]rer
 
-Tous ces pierrots, On[Bm]t le[A7] cœur gros, Mon [D]vieu[B7]x Léon [Em]
+Et dans nos [Bm]cœurs, [A7]Pauvre jou[D]eur, [B7]D'accordé[Em]on
 
-[A7]En entendant, [D]Le [G]moindre chan[C]t, [F#7]D'accordéon [Bm]
+[A7]Il fait ma f[D]oi, [G]Beaucoup moins [C]froid, [F#7]Qu'au Panthé[Bm]on
 
 
-[Bm]Quel temps fait-il,[G] Chez le[A7]s gentils, De l[D]'au-delà
+Depuis mon [Bm]vieux, Qu'au fond des [G]cieux, [A7]Tu as fait ton [D]trou
 
-[Am]Les musicie[B7]ns, [Em]Ont-ils en[Bm]fin, Tro[G]uvé le la [C#7] [F#]
+[Am]Il a cou[B7]lé, [Em]De l'eau sous [Bm]les, [G]Ponts de chez [C#7]nous[F#]
 
-Et le p'tit bleu[Bm], Est-c'que ça n'le, [G]Rend pa[A7]s meilleur [D]
+Les bons en[Bm]fants, D'la rue de [G]Van-ves [A7]à la Gaî[D]té
 
-[Am]D'être se[B7]rvi,[Em] Au sein des[Bm] vi-[F#7]gnes du Seig[Bm]neur
+[Am]L'un comme [B7]l'au-tre [Em]au gré des [Bm]flots, [F#7]Furent empor[Bm]tés
 
-[F#7]Si d'temps en tem[Bm]ps, U[A7]ne dame d'antan, S'l[D]ais[B7]se embrasser [Em]
+[F#7]Mais aucun [Bm]d'eux, [A7]N'a fait fi [D]de, [B7]Son temps ja[Em]dis
 
-[A7]Sûr'ment papa,[D] Qu[G]e tu regrettes pas, D'ê[C]tre passé [F#7]
+[A7]Tous sont res[D]tés, [G]Du parti [C]des, Myoso[F#7]tis
 
-Et si l'bon Dieu,[Bm] Aim[A7]e tant soit peu, L'[D]acco[B7]rdéon [Em]
+Tous ces pier[Bm]rots, [A7]Ont le cœur [D]gros, [B7]Mon vieux Lé[Em]on
 
-[A7]Au firmament, [D]Tu [G]t'plais sûr'[C]ment, Mon v[F#7]ieux Léon [Bm]
+[A7]En enten[D]dant, [G]Le moindre [C]chant, [F#7]D'accordé[Bm]on
+
+
+Quel temps fait-[Bm]il, Chez les gen[G]tils, [A7]De l'au-de[D]là
+
+[Am]Les musi[B7]ciens, [Em]Ont-ils en[Bm]fin, [G]Trouvé le [C#7]la[F#]
+
+Et le p'tit [Bm]bleu, Est-c'que ça [G]n'le, [A7]Rend pas meil[D]leur
+
+[Am]D'être ser[B7]vi, [Em]Au sein des [Bm]vi-[F#7]gnes du Sei[Bm]gneur
+
+[F#7]Si d'temps en [Bm]temps, [A7]Une dame d'an[D]tan, [B7]S'laisse embras[Em]ser
+
+[A7]Sûr'ment pa[D]pa, [G]Que tu regrettes [C]pas, D'être pas[F#7]sé
+
+Et si l'bon [Bm]Dieu, [A7]Aime tant soit [D]peu, [B7]L'accordé[Em]on
+
+[A7]Au firma[D]ment, [G]Tu t'plais sûr'[C]ment, [F#7]Mon vieux Lé[Bm]on
 
 
 ##
 
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Vieux.Leon.php?titre=%28Le%29+vieux+L%C3%A9on

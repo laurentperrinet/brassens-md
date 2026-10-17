@@ -1,28 +1,30 @@
 ## La cane de Jeanne
 
 
-[E7]La c[A]ane[F#m], De [Bm]Jean[E7]ne, Es[A]t morte au g[F#m]ui l'a[Bm]n neuf,
+[E7]La [A]cane,[F#m] De [Bm]Jeanne,[E7] Est [A]morte au [F#m]gui l'an [Bm]neuf,
 
-Elle avai[E7]t fait la v[A]eil[F#m]le, Mer[Bm]veil[E7]le ! U[A]n œ[F#m]uf [Bm] [E7]
-
-
-[A]La [F#m]cane,[Bm] De [E7]Jeanne, [A]Est mort[F#m]e d'av[Bm]oir fait,
-
-Du moins on le [E7]présume, [A]Un [F#m]rhume, [Bm]Mauv[E7]ais [A] [G#7]
+Elle a[E7]vait fait la [A]veille,[F#m] Mer[Bm]veille[E7] ! Un [A]œuf[E7]
 
 
-[C#m]La cane,[G#7] De Jeanne, Es[C#m]t mor[C#7]te sur so[F#m]n œuf,
+[Bm][F#m]La [A]cane,[F#m] De [Bm]Jeanne,[E7] Est [A]morte [F#m]d'avoir [Bm]fait,
 
-Et dans son [G#7]beau costume, D[C#m]e plumes, [C#7]Tout [G#7]neuf [C#m] [F#m] [Bm] [E7]
-
-
-[A]La [F#m]cane,[Bm] De [E7]Jeanne, [A]Ne laiss[F#m]ant pa[Bm]s de veuf,
-
-C'est nous autre[E7]s qui eûmes, [A]Les[F#m] plumes,[Bm] Et [E7]l'œuf [A] [F#m] [Bm] [E7]
+Du moins [E7]on le pré[A]sume,[F#m] Un [Bm]rhume,[E7] Mau[A]vais[G#7]
 
 
-[A]Tous,[F#m] toutes,[Bm] San[E7]s doute,[A] Gardero[F#m]ns longtem[Bm]ps le,
+La [C#m]cane, De [G#7]Jeanne, Est [C#m]morte [C#7]sur son [F#m]œuf,
 
-Souvenir [E7]de la cane[A], D[F#m]e Jean[Bm]ne, [E7]Morbleu [A] [D] [A]
+Et dans [G#7]son beau cos[C#m]tume, De [C#7]plumes,[G#7] Tout [C#m]neuf[E7]
 
 
+[Bm][F#m]La [A]cane,[F#m] De [Bm]Jeanne,[E7] Ne [A]laissant [F#m]pas de [Bm]veuf,
+
+C'est nous [E7]autres qui [A]eûmes,[F#m] Les [Bm]plumes,[E7] Et [A]l'œuf[E7]
+
+
+[Bm][F#m]Tous, [A]toutes,[F#m] Sans [Bm]doute,[E7] Gar[A]derons [F#m]longtemps [Bm]le,
+
+Souve[E7]nir de la [A]cane,[F#m] De [Bm]Jeanne,[E7] Mor[A]bleu[A]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Cane.De.Jeanne.php?titre=%28La%29+cane+de+Jeanne

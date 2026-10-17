@@ -1,66 +1,68 @@
 ## La fessée
 
 
-[Am]La veuve et l'orphelin, quoi de plus émouvant ? Un vieux [Dm]copain [Am]d'école étant mort sans [F]enfants, [B7] [E]
+[Am]La veuve et l'orphelin, quoi de plus émou[Dm]vant ? [Am]Un vieux copain d'é[F]cole étant mort sans en[B7]fants,[E]
 
-[Am]Abandonnant au monde un[F]e épouse épatante, J'allai r[G]endr[C]e v[E]isi[Am]te à la désespérée. [Dm]
+[Am]Abandonnant au [F]monde une épouse épa[G]tan[C]te,[E] [Am]J'allai rendre visite à la désespé[Dm]rée.
 
-[Am]Et puis, ne sachant plus o[F]ù finir ma soirée, J[B7]e lu[E]i t[Am]ins compagnie dans la [B7]chapelle ardente[E]. [Am]
-
-
-Pour endiguer ses pleurs, pour apaiser ses maux, Je me mis à blaguer, à sortir des bons mots,
-
-Tous les moyens sont bons au médecin de l'âme... Bientôt, par la vertu de quelques facéties,
-
-La veuve se tenait les côtes, Dieu merci ! Ainsi que des bossus, tous deux nous rigolâmes.
+[Am]Et puis, ne sachant [F]plus où finir ma soi[B7]rée,[E] [Am]Je lui tins compa[B7]gnie dans la [E]chapelle ar[Am]dente.
 
 
-Ma pipe dépassait un peu de mon veston. Aimable, elle m'encouragea : « Bourrez-la donc,
+[Am]Pour endiguer ses pleurs, pour apaiser ses [Dm]maux, [Am]Je me mis à bla[F]guer, à sortir des bons [B7]mots,[E]
 
-Qu'aucun impératif moral ne vous arrête, Si mon pauvre mari détestait le tabac,
+[Am]Tous les moyens sont [F]bons au médecin de [G]l'â[C]me...[E] [Am]Bientôt, par la vertu de quelques facé[Dm]ties,
 
-Maintenant la fumée ne le dérange pas ! Mais où diantre ai-je mis mon porte-cigarettes ? »
-
-
-A minuit, d'une voix douce de séraphin, Elle me demanda si je n'avais pas faim.
-
-« Ça le ferait-il revenir, ajouta-t-elle, De pousser la piété jusqu'à l'inanition :
-
-Que diriez-vous d'une frugale collation ? » Et nous fîmes un petit souper aux chandelles.
+[Am]La veuve se te[F]nait les côtes, Dieu mer[B7]ci[E] ! [Am]Ainsi que des bos[B7]sus, tous deux [E]nous rigo[Am]lâmes.
 
 
-« Regardez s'il est beau ! Dirait-on point qu'il dort ? Ce n'est certes pas lui qui me donnerait tort
+[Am]Ma pipe dépassait un peu de mon ves[Dm]ton. [Am]Aimable, elle m'en[F]couragea : « Bourrez-la [B7]donc,[E]
 
-De noyer mon chagrin dans un flot de champagne. » Quand nous eûmes vidé le deuxième magnum,
+[Am]Qu'aucun impéra[F]tif moral ne vous ar[G]rê[C]te,[E] [Am]Si mon pauvre mari détestait le ta[Dm]bac,
 
-La veuve était émue, nom d'un petit bonhomme ! Et son esprit se mit à battre la campagne...
-
-
-« Mon Dieu, ce que c'est tout de même que de nous ! » Soupira-t-elle, en s'asseyant sur mes genoux.
-
-Et puis, ayant collé sa lèvre sur ma lèvre, « Me voilà rassurée, fit-elle, j'avais peur
-
-Que, sous votre moustache en tablier d' sapeur, Vous ne cachiez coquettement un bec-de-lièvre... »
+[Am]Maintenant la fu[F]mée ne le dérange [B7]pas[E] ! [Am]Mais où diantre ai-je [B7]mis mon por[E]te-ciga[Am]rettes ? »
 
 
-Un tablier de sapeur, ma moustache, pensez ! Cette comparaison méritait la fessée.
+[Am]À minuit, d'une voix douce de séra[Dm]phin, [Am]Elle me deman[F]da si je n'avais pas [B7]faim.[E]
 
-Retroussant l'insolente avec nulle tendresse, Conscient d'accomplir, somme toute, un devoir,
+« [Am]Ça le ferait-il [F]revenir, ajouta-t-el[C]le,[E] [Am]De pousser la piété jusqu'à l'inani[Dm]tion :
 
-Mais en fermant les yeux pour ne pas trop en voir. Paf ! j'abattis sur elle une main vengeresse !
-
-
-« Aïe ! vous m'avez fêlé le postérieur en deux ! » Se plaignit-elle, et je baissai le front, piteux,
-
-Craignant avoir frappé de façon trop brutale. Mais j'appris, par la suite, et j'en fus bien content,
-
-Que cet état de choses durait depuis longtemps : Menteuse ! la fêlure était congénitale.
+[Am]Que diriez-vous d'u[F]ne frugale colla[B7]tion[E] ? » [Am]Et nous fîmes un [B7]petit sou[E]per aux chan[Am]delles.
 
 
-Quand je levai la main pour la deuxième fois, Le cœur n'y était plus, j'avais perdu la foi,
+« [Am]Regardez s'il est beau ! Dirait-on point qu'il [Dm]dort ? [Am]Ce n'est certes pas [F]lui qui me donnerait [B7]tort[E]
 
-Surtout qu'elle s'était enquise, la bougresse : « Avez-vous remarqué que j'avais un beau cul ? »
+[Am]De noyer mon cha[F]grin dans un flot de cham[G]pa[C]gne.[E] » [Am]Quand nous eûmes vidé le deuxième mag[Dm]num,
 
-Et ma main vengeresse est retombée, vaincue ! Et le troisième coup ne fut qu'une caresse...
+[Am]La veuve était é[F]mue, nom d'un petit bo[B7]nhomme[E] ! [Am]Et son esprit se [B7]mit à bat[E]tre la cam[Am]pagne...
 
 
+« [Am]Mon Dieu, ce que c'est tout de même que de [Dm]nous ! » [Am]Soupira-t-elle, en [F]s'asseyant sur mes ge[B7]noux.[E]
+
+[Am]Et puis, ayant col[F]lé sa lèvre sur ma [G]lè[C]vre,[E] « [Am]Me voilà rassurée, fit-elle, j'avais [Dm]peur
+
+[Am]Que, sous votre mous[F]tache en tablier d' sa[B7]peur,[E] [Am]Vous ne cachiez co[B7]quettement [E]un bec-de-[Am]lièvre... »
+
+
+[Am]Un tablier de sapeur, ma moustache, pen[Dm]sez ! [Am]Cette comparai[F]son méritait la fes[B7]sée.[E]
+
+[Am]Retroussant l'inso[F]lente avec nulle ten[G]dres[C]se,[E] [Am]Conscient d'accomplir, somme toute, un de[Dm]voir,
+
+[Am]Mais en fermant les [F]yeux pour ne pas trop en [B7]voir.[E] [Am]Paf ! j'abattis sur [B7]elle une [E]main venge[Am]resse !
+
+
+« [Am]Aïe ! vous m'avez fêlé le postérieur en [Dm]deux ! » [Am]Se plaignit-elle, et [F]je baissai le front, pi[B7]teux,[E]
+
+[Am]Craignant avoir frap[F]pé de façon trop bru[G]ta[C]le.[E] [Am]Mais j'appris, par la suite, et j'en fus bien con[Dm]tent,
+
+[Am]Que cet état de [F]choses durait depuis long[B7]temps[E] : [Am]Menteuse ! la fê[B7]lure était [E]congéni[Am]tale.
+
+
+[Am]Quand je levai la main pour la deuxième [Dm]fois, [Am]Le cœur n'y était [F]plus, j'avais perdu la [B7]foi,[E]
+
+[Am]Surtout qu'elle s'é[F]tait enquise, la bou[G]gres[C]se[E] : « [Am]Avez-vous remarqué que j'avais un beau [Dm]cul ? »
+
+[Am]Et ma main venge[F]resse est retombée, vain[B7]cue[E] ! [Am]Et le troisième [B7]coup ne fut [E]qu'une ca[Am]resse...
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Fessee.php?titre=%28La%29+fess%C3%A9e

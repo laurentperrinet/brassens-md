@@ -1,40 +1,41 @@
 ## Chansonnette à celle qui reste pucelle
 
 
-Ja[Am]dis la mineure perdait so[E]n honneur au moindre f[A]aux pas [Dm]
+Ja[Am]dis la mineure per[E]dait son honneur [A]au moindre faux [Dm]pas
 
-Ces mœurs[G7] n'ont plus cours, de nos jours, c'e[C]st la gourde qui ne le fait pas [B7] [E]
+Ces [G7]mœurs n'ont plus cours, de nos [C]jours, c'est la gourde[B7] qui ne le fait [E]pas[E7]
 
-[A]Toute ton école petite ri[Dm]gole, qu'encor[G7]e à quinze ans [C] [F#m7]
+Tou[A]te ton école pe[Dm]tite rigole,[G7] qu'encore à quinze [C]ans[A7/C#]
 
-Tu so[Dm]is vierge et sage, fidèle à[Am] l'usage caduc à pré[E]sent [Am]
-
-
-Malg[Am]ré les exemples de gosses plu[E]s amples informées qu[A]e toi [Dm]
-
-Et qu'o[G7]n dépucelle avec leur cr[C]écelle au bout de[B7] leurs doigts [E]
-
-Chacun [A]te brocarde de ce que tu [Dm]gardes ta fleur d'o[G7]ranger [C] [F#m7]
-
-Pour l[Dm]a bonne cause et chacune glose [Am]sur tes préjugés [E] [Am]
+Tu [Dm]sois vierge et sage, fi[Am]dèle à l'usage[E] caduc à pré[Am]sent
 
 
-Et t[Am]u sers de cible, mais reste [E]insensible aux prop[A]os moqueurs [Dm]
+Mal[Am]gré les exemples de [E]gosses plus amples [A]informées que [Dm]toi
 
-Aux tr[G7]aits à la gomme, comporte toi c[C]omme te le dit ton c[B7]œur [E]
+Et [G7]qu'on dépucelle a[C]vec leur crécelle[B7] au bout de leurs [E]doigts[E7]
 
-Quoi que[A] l'on raconte, y'a pas plus [Dm]de honte à se refuser [G7] [C] [F#m7]
+Cha[A]cun te brocarde de [Dm]ce que tu gardes[G7] ta fleur d'oran[C]ger[A7/C#]
 
-Ni pl[Dm]us de mérite, d'ailleurs [Am]ma petite, qu'à se f[E]aire baiser [Am]
-
-
-Certes,[Am] s'il te presse la soif [E]de caresses, cours, saut[A]e avec les [Dm]
-
-Vénu[G7]s de Panurge, va mais s[C]i rien n'urge, faut pas t'[B7]emballer [E]
-
-Mais, si[A] tu succombes, sache surtout [Dm]qu'on peut être passée par [G7] [C] [F#m7]
-
-Onze [Dm]mille verges et demeure[Am]r vierge, paradoxe à[E] part [Am]
+Pour [Dm]la bonne cause et [Am]chacune glose[E] sur tes préju[Am]gés
 
 
+Et [Am]tu sers de cible, mais [E]reste insensible [A]aux propos mo[Dm]queurs
 
+Aux [G7]traits à la gomme, com[C]porte toi comme[B7] te le dit ton [E]cœur[E7]
+
+Quoi [A]que l'on raconte, y'a [Dm]pas plus de honte[G7] à se refu[C]ser[A7/C#]
+
+Ni [Dm]plus de mérite, d'ail[Am]leurs ma petite,[E] qu'à se faire bai[Am]ser
+
+
+Cer[Am]tes, s'il te presse la [E]soif de caresses, [A]cours, saute avec [Dm]les
+
+Vé[G7]nus de Panurge, va [C]mais si rien n'urge,[B7] faut pas t'embal[E]ler[E7]
+
+Mais, [A]si tu succombes, sa[Dm]che surtout qu'on peut[G7] être passée [C]par[A7/C#]
+
+On[Dm]ze mille verges et [Am]demeurer vierge,[E] paradoxe à [Am]part
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Chansonnette.A.Celle.Qui.Reste.Pucelle.php?titre=Chansonnette+%C3%A0+celle+qui+reste+pucelle

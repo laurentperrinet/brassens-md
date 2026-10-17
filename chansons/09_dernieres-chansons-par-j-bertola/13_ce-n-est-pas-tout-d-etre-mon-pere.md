@@ -1,72 +1,73 @@
 ## Ce n'est pas tout d'être mon père
 
 
-[D]Du fait qu'un couple de fieffés, Mina[A7]bles [D]a pris le café [A7]
+[D]Du fait qu'un couple de fief[A7]fés, [D]Minables a pris le ca[A7]fé
 
-[D]Du pauvre, on naît et nous voilà, Contrain[A7]ts d'esti[G]mer ces gens-l[D]à. [G] [D]
+[D]Du pauvre, on naît et nous voi[A7]là, [G]Contraints d'es[D]timer [G]ces gens-[D]là.
 
-[D]Parce qu'un minus de cinq à sept, Chevauch[A7]e une[D] pauvre mazette [A7]
+[D]Parce qu'un minus de cinq à [A7]sept, [D]Chevauche une pauvre ma[A7]zette
 
-[D]Qui resta froide, sortit du, Né[A7]ant un [G]qui n'aur[D]ait pas d[G]û. [D]
+[D]Qui resta froide, sortit [A7]du, [G]Néant un [D]qui n'au[G]rait pas [D]dû.
 
-[Em]Ce n[E#dim]'est pa[D]s tout[B7] d'être mon père, Il fau[Em]t au[A7]ssi me pla[D]ire[B7].
+[Em]Ce [E#dim]n'est [D]pas tout d'ê[B7]tre mon père, Il [Em]faut aus[A7]si me [D]plai[B7]re.
 
-[Em]Être[E#dim] mon fi[D]ls ce n'e[B7]st pas tout, Il faut [Em]me pla[A7]ire i[D]tou.
+[Em]Être [E#dim]mon [D]fils ce n'est [B7]pas tout, Il faut [Em]me plaire [A7]i[D]tou.
 
-[Em]Trou[E#dim]ver son[D] père [B7]sympathique, C'est [Em]pas autom[A7]atique. [D] [B7]
+[Em]Trou[E#dim]ver [D]son père [B7]sympathique, C'est [Em]pas au[A7]toma[D]ti[B7]que.
 
-[Em]Avoi[E#dim]r un fi[D]ls qui [B7]nous agrée, Ce n'[Em]est pas [A7]assuré[D].
-
-
-Quand on s'avise de venir, Sur terre, il faut se prémunir
-
-Contre la tentation facile, D'être un rejeton d'imbécile.
-
-Ne pas mettre au monde un connard, C'est malcommode et c'est un art
-
-Que ne pratique pas souvent, La majorité des vivants.
-
-Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
-
-Être mon fils ce n'est pas tout, Il faut me plaire itou.
-
-Trouver son père sympathique, C'est pas automatique.
-
-Avoir un fils qui nous agrée, Ce n'est pas assuré.
+[Em]A[E#dim]voir [D]un fils qui [B7]nous agrée, Ce [Em]n'est pas [A7]assu[D]ré.
 
 
-L'enfant naturel, l'orphelin, Est malheureux et je le plains,
+[D]Quand on s'avise de ve[A7]nir, [D]Sur terre, il faut se prému[A7]nir
 
-Mais, du moins, il n'est pas tenu, Au respect d'un père inconnu.
+[D]Contre la tentation fa[A7]cile, [G]D'être un re[D]jeton [G]d'imbé[D]cile.
 
-Jésus, lui, fut plus avisé, Et plutôt que de s'exposer
+[D]Ne pas mettre au monde un con[A7]nard, [D]C'est malcommode et c'est un [A7]art
 
-A prendre un crétin pour papa, Il aima mieux n'en avoir pas.
+[D]Que ne pratique pas sou[A7]vent, [G]La majo[D]rité [G]des vi[D]vants.
 
-Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
+[Em]Ce [E#dim]n'est [D]pas tout d'ê[B7]tre mon père, Il [Em]faut aus[A7]si me [D]plai[B7]re.
 
-Être mon fils ce n'est pas tout, Il faut me plaire itou.
+[Em]Être [E#dim]mon [D]fils ce n'est [B7]pas tout, Il faut [Em]me plaire [A7]i[D]tou.
 
-Trouver son père sympathique, C'est pas automatique.
+[Em]Trou[E#dim]ver [D]son père [B7]sympathique, C'est [Em]pas au[A7]toma[D]ti[B7]que.
 
-Avoir un fils qui nous agrée, Ce n'est pas assuré.
-
-
-C'est pas un compte personnel, Que je règle ; mon paternel,
-
-Brave vieux, me plaisait beaucoup, Était tout à fait à mon goût.
-
-Quant à moi qui, malgré des tas, De galipettes de fada,
-
-N'ai point engendré de petits, J'n'ai pas pu faire d'abrutis.
-
-Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
-
-Être mon fils ce n'est pas tout, Il faut me plaire itou.
-
-Trouver son père sympathique, C'est pas automatique.
-
-Avoir un fils qui nous agrée, Ce n'est pas assuré.
+[Em]A[E#dim]voir [D]un fils qui [B7]nous agrée, Ce [Em]n'est pas [A7]assu[D]ré.
 
 
+[D]L'enfant naturel, l'orphe[A7]lin, [D]Est malheureux et je le [A7]plains,
 
+[D]Mais, du moins, il n'est pas te[A7]nu, [G]Au respect [D]d'un père [G]incon[D]nu.
+
+[D]Jésus, lui, fut plus avi[A7]sé, [D]Et plutôt que de s'expo[A7]ser
+
+[D]À prendre un crétin pour pa[A7]pa, [G]Il aima [D]mieux n'en [G]avoir [D]pas.
+
+[Em]Ce [E#dim]n'est [D]pas tout d'ê[B7]tre mon père, Il [Em]faut aus[A7]si me [D]plai[B7]re.
+
+[Em]Être [E#dim]mon [D]fils ce n'est [B7]pas tout, Il faut [Em]me plaire [A7]i[D]tou.
+
+[Em]Trou[E#dim]ver [D]son père [B7]sympathique, C'est [Em]pas au[A7]toma[D]ti[B7]que.
+
+[Em]A[E#dim]voir [D]un fils qui [B7]nous agrée, Ce [Em]n'est pas [A7]assu[D]ré.
+
+
+[D]C'est pas un compte person[A7]nel, [D]Que je règle ; mon pa[A7]ternel,
+
+[D]Brave vieux, me plaisait beau[A7]coup, [G]Était tout [D]à fait [G]à mon [D]goût.
+
+[D]Quant à moi qui, malgré des [A7]tas, [D]De galipettes de fa[A7]da,
+
+[D]N'ai point engendré de pe[A7]tits, [G]J'n'ai pas pu [D]faire [G]d'abru[D]tis.
+
+[Em]Ce [E#dim]n'est [D]pas tout d'ê[B7]tre mon père, Il [Em]faut aus[A7]si me [D]plai[B7]re.
+
+[Em]Être [E#dim]mon [D]fils ce n'est [B7]pas tout, Il faut [Em]me plaire [A7]i[D]tou.
+
+[Em]Trou[E#dim]ver [D]son père [B7]sympathique, C'est [Em]pas au[A7]toma[D]ti[B7]que.
+
+[Em]A[E#dim]voir [D]un fils qui [B7]nous agrée, Ce [Em]n'est pas [A7]assu[D]ré.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Ce.N.Est.Pas.Tout.D.Etre.Mon.Pere.php?titre=Ce+n%27est+pas+tout+d%27%C3%AAtre+mon+p%C3%A8re

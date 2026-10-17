@@ -1,42 +1,44 @@
 ## Le temps passé
 
 
-[F#7]Dans les comptes d'apothicaire, Ving[B]t ans, [E7]c'est une somme de bonheur [A]
+[F#7]Dans les comptes d'apothi[B]caire, [E7]Vingt ans, c'est une somme de bo[A]nheur
 
-[D7]Mes vingt ans sont morts à la guerre, De l[G]'autre côté du champ d'honn[F#]eur [G] [F#]
+[D7]Mes vingt ans sont morts à la [G]guerre, De l'autre cô[F#]té [G]du champ d'hon[F#]neur
 
-[F#7]Si j'connus un temps de chien, certes, C'e[B]st bien l[E7]e temps de mes vingt ans ! [A]
+[F#7]Si j'connus un temps de chien, [B]certes, [E7]C'est bien le temps de mes vingt [A]ans !
 
-[D7]Cependant, je pleure sa perte, Il[G] est mort, c'éta[F#]it l[G]e bon temps ! [F#] [E] [G] [F#]
+[D7]Cependant, je pleure sa [G]perte, Il est [F#]mort, c'é[G]tait le bon [F#]temps[F#] !
 
-[Bm]Il est toujours joli, [E]le te[Bm]mps passé, U[E]ne f[Bm]ois qu'ils ont cassé leur pi[E]pe [G] [D]
+[Bm][G][E]Il est toujours jo[E]li, le [Bm]temps pas[E]sé, [Bm]Une fois qu'ils ont cas[E]sé leur [G]p[A7]i[D]pe[F#7]
 
-[Bm]On pardonne à tous ceux qui n[E]ous ont offensés :[Bm] Les morts [E]sont[Bm] tous des braves types [E] [G] [A7] [B]
-
-
-Dans ta petite mémoire de lièvre, Bécassine, il t'est souvenu
-
-De notre amour du coin des lèvres, Amour nul et non avenu
-
-Amour d'un sou qui n'allait, certes, Guère plus loin que le bout d'son lit
-
-Cependant, nous pleurons sa perte, Il est mort, il est embelli !
-
-Il est toujours joli, le temps passé, Une fois qu'ils ont cassé leur pipe
-
-On pardonne à tous ceux qui nous ont offensés : Les morts sont tous des braves types
+[Bm]On pardonne à tous [E]ceux qui nous [Bm]ont offen[E]sés : [Bm]Les morts sont tous des [E]braves [G]t[A7]y[B]pes
 
 
-J'ai mis ma tenue la plus sombre, Et mon masque d'enterrement
+[F#7]Dans ta petite mémoire de [B]lièvre, [E7]Bécassine, il t'est souve[A]nu
 
-Pour conduire au royaume des ombres, Un paquet de vieux ossements
+[D7]De notre amour du coin des [G]lèvres, Amour [F#]nul et [G]non ave[F#]nu
 
-La terre n'a jamais produit, certes, De canaille plus consommée
+[F#7]Amour d'un sou qui n'allait, [B]certes, [E7]Guère plus loin que le bout d'son [A]lit
 
-Cependant, nous pleurons sa perte, Elle est morte, elle est embaumée !
+[D7]Cependant, nous pleurons sa [G]perte, Il est [F#]mort, il [G]est embel[F#]li[F#] !
 
-Il est toujours joli, le temps passé, Une fois qu'ils ont cassé leur pipe
+[Bm][G][E]Il est toujours jo[E]li, le [Bm]temps pas[E]sé, [Bm]Une fois qu'ils ont cas[E]sé leur [G]p[A7]i[D]pe[F#7]
 
-On pardonne à tous ceux qui nous ont offensés : Les morts sont tous des braves types
+[Bm]On pardonne à tous [E]ceux qui nous [Bm]ont offen[E]sés : [Bm]Les morts sont tous des [E]braves [G]t[A7]y[B]pes
 
 
+[F#7]J'ai mis ma tenue la plus [B]sombre, [E7]Et mon masque d'enterre[A]ment
+
+[D7]Pour conduire au royaume des [G]ombres, Un pa[F#]quet de [G]vieux osse[F#]ments
+
+[F#7]La terre n'a jamais produit, [B]certes, [E7]De canaille plus consom[A]mée
+
+[D7]Cependant, nous pleurons sa [G]perte, Elle est [F#]morte, elle [G]est embau[F#]mée[F#] !
+
+[Bm][G][E]Il est toujours jo[E]li, le [Bm]temps pas[E]sé, [Bm]Une fois qu'ils ont cas[E]sé leur [G]p[A7]i[D]pe[F#7]
+
+[Bm]On pardonne à tous [E]ceux qui nous [Bm]ont offen[E]sés : [Bm]Les morts sont tous des [E]braves [G]t[A7]y[B]pes
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Temps.Passe.php?titre=%28Le%29+temps+pass%C3%A9

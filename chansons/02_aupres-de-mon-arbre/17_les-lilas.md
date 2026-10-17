@@ -1,73 +1,75 @@
 ## Les lilas
 
 
-[D]Quand je vais chez la fleuriste, Je n'achète que de[Bm7]s lilas [E7] [A7]
+Quand je [D]vais chez la fleuriste, Je [Bm7]n'achète [E7]que des li[A7]las
 
-Quand je v[D]ais chez la fleuriste, Je n'achète que des [B7]lilas [E7]
+Quand je [D]vais chez la fleuriste, Je [B7]n'achète que des li[E7]las
 
-Si ma chan[A7]son chante t[D]riste, C'est que[Bm7] l'amour n'e[G]st plus là [D]
-
-
-Comme j'étais, en quelque sorte, Amoureux de ces fleurs-là
-
-Comme j'étais, en quelque sorte, Amoureux de ces fleurs-là
-
-Je suis entré par la porte, Par la porte des Lilas
+Si ma [A7]chanson chante [D]triste, [Bm7]C'est que [G]l'a[A7]mour n'est plus [D]là
 
 
-Des lilas, y'en avait guère, Des lilas, y'en avait pas
+Comme j'é[D]tais, en quelque sorte, A[Bm7]moureux de [E7]ces fleurs-[A7]là
 
-Des lilas, y'en avait guère, Des lilas, y'en avait pas
+Comme j'é[D]tais, en quelque sorte, A[B7]moureux de ces fleurs-[E7]là
 
-Z'étaient tous morts à la guerre, Passés de vie à trépas
-
-
-J'suis tombé sur une belle, Qui fleurissait un peu là
-
-J'suis tombé sur une belle, Qui fleurissait un peu là
-
-J'ai voulu greffer sur elle, Mon amour pour les lilas
+Je suis [A7]entré par la [D]porte, [Bm7]Par la [G]por[A7]te des Li[D]las
 
 
-J'ai marqué d'une croix blanche, Le jour où l'on s'envola
+Des li[D]las, y'en avait guère, Des [Bm7]lilas, [E7]y'en avait [A7]pas
 
-J'ai marqué d'une croix blanche, Le jour où l'on s'envola
+Des li[D]las, y'en avait guère, Des [B7]lilas, y'en avait [E7]pas
 
-Accrochés à une branche, Une branche de lilas
-
-
-Pauvre amour, tiens bon la barre, Le temps va passer par là
-
-Pauvre amour, tiens bon la barre, Le temps va passer par là
-
-Et le temps est un barbare, Dans le genre d'Attila
+Z'étaient [A7]tous morts à la [D]guerre, [Bm7]Passés [G]de [A7]vie à tré[D]pas
 
 
-Aux cœurs où son cheval passe, L'amour ne repousse pas
+J'suis tom[D]bé sur une belle, Qui fleu[Bm7]rissait [E7]un peu [A7]là
 
-Aux cœurs où son cheval passe, L'amour ne repousse pas
+J'suis tom[D]bé sur une belle, Qui fleu[B7]rissait un peu [E7]là
 
-Aux quatre coins de l'espace, Il fait le désert sous ses pas
-
-
-Alors, nos amours sont mortes, Envolées dans l'au-delà
-
-Alors, nos amours sont mortes, Envolées dans l'au-delà
-
-Laissant la clé sous la porte, Sous la porte des Lilas
+J'ai vou[A7]lu greffer sur [D]elle, [Bm7]Mon a[G]mour [A7]pour les li[D]las
 
 
-La fauvette des dimanches, Celle qui me donnait le la
+J'ai mar[D]qué d'une croix blanche, Le jour [Bm7]où l'on [E7]s'envo[A7]la
 
-La fauvette des dimanches, Celle qui me donnait le la
+J'ai mar[D]qué d'une croix blanche, Le jour [B7]où l'on s'envo[E7]la
 
-S'est perchée sur d'autres branches, D'autres branches de lilas
-
-
-Quand je vais chez la fleuriste, Je n'achète que des lilas
-
-Quand je vais chez la fleuriste, Je n'achète que des lilas
-
-Si ma chanson chante triste, C'est que l'amour n'est plus là
+Accro[A7]chés à une [D]branche, [Bm7]Une [G]bran[A7]che de li[D]las
 
 
+Pauvre a[D]mour, tiens bon la barre, Le temps [Bm7]va pas[E7]ser par [A7]là
+
+Pauvre a[D]mour, tiens bon la barre, Le temps [B7]va passer par [E7]là
+
+Et le [A7]temps est un bar[D]bare, [Bm7]Dans le [G]gen[A7]re d'Atti[D]la
+
+
+Aux cœurs [D]où son cheval passe, L'a[Bm7]mour ne [E7]repousse [A7]pas
+
+Aux cœurs [D]où son cheval passe, L'a[B7]mour ne repousse [E7]pas
+
+Aux qua[A7]tre coins de l'es[D]pace, [Bm7]Il fait le [G]dé[A7]sert sous ses [D]pas
+
+
+Alors, [D]nos amours sont mortes, En[Bm7]volées [E7]dans l'au-de[A7]là
+
+Alors, [D]nos amours sont mortes, En[B7]volées dans l'au-de[E7]là
+
+Laissant [A7]la clé sous la [D]porte, [Bm7]Sous la [G]por[A7]te des Li[D]las
+
+
+La fau[D]vette des dimanches, Celle [Bm7]qui me [E7]donnait le [A7]la
+
+La fau[D]vette des dimanches, Celle [B7]qui me donnait le [E7]la
+
+S'est [A7]perchée sur d'autres [D]branches, [Bm7]D'autres [G]bran[A7]ches de li[D]las
+
+
+Quand je [D]vais chez la fleuriste, Je [Bm7]n'achète [E7]que des li[A7]las
+
+Quand je [D]vais chez la fleuriste, Je [B7]n'achète que des lil[E7]as
+
+Si ma [A7]chanson chante [D]triste, [Bm7]C'est que [G]l'a[A7]mour n'est plus [D]là
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Lilas.php?titre=%28Les%29+lilas

@@ -1,69 +1,71 @@
 ## Vénus callipyge
 
 
-[F]Que jamais l'art abstrait, qui sévit[F7] maintenant, N'enlèv[Bb]e à vo[Gm7]s attraits c[C7]e volu[F]me éto[Dm]nnan[Gm]t [C7] [F]
+[F]Que jamais l'art abstrait, [F7]qui sévit mainte[Bb]nant, [Gm7]N'enlève à [C7]vos a[F]ttraits [Dm]ce vo[Gm]lume [C7]éton[F]nant
 
-[F]Au temps où les faux culs sont la maj[F7]orité, Gloire à[Bb] celui[Gm7] qui dit t[C7]oute la[F] vé[Dm]rité [Gm] [C7] [F]
-
-
-[G7]Votre dos perd son nom avec si bonne grâce, Qu'on ne peut[A] s'empêc[Am]her de lui donner raison [D] [Am] [D]
-
-[G7]Que ne suis-je, madame, un poète de race, Pour dire à [A]sa louange un i[F]mmortel[G7] blaso[C]n, [A7] [Dm] [G] [E]
-
-[F]Pour dire à sa [G7]louange[C] un i[A7]mmor[Dm]tel [G7]blason [C]
+[F]Au temps où les faux culs [F7]sont la majori[Bb]té, [Gm7]Gloire à ce[C7]lui qui [F]dit [Dm]toute [Gm]la [C7]véri[F]té
 
 
-En le voyant passer, j'en eus la chair de poule, Enfin, je vins au monde et, depuis, je lui voue
+[C]Votre dos perd son [G7]nom avec si bonne [A]grâce, Qu'on [Am]ne peut s'empê[D]cher de [Am]lui donner rai[D]son
 
-Un culte véritable et, quand je perds aux boules, En embrassant Fanny, je ne pense qu'à vous,
+[G7]Que ne suis-je, madame, un poète de [A]race, Pour [F]dire à [G7]sa lou[C]ange [A7]un i[Dm]mmor[G]tel bla[E]son,
 
-En embrassant Fanny, je ne pense qu'à vous
-
-
-Pour obtenir, madame, un galbe de cet ordre, Vous devez torturer les gens de votre entour
-
-Donner aux couturiers bien du fil à retordre, Et vous devez crever votre dame d'atour,
-
-Et vous devez crever votre dame d'atour
+[F]Pour dire à [G7]sa lou[C]ange [A7]un i[Dm]mmor[G7]tel bla[C]son
 
 
-C'est le duc de Bordeaux qui s'en va, tête basse, Car il ressemble au mien comme deux gouttes d'eau
+En le voyant pas[G7]ser, j'en eus la chair de [A]poule, En[Am]fin, je vins au [D]monde et, [Am]depuis, je lui [D]voue
 
-S'il ressemblait au vôtre, on dirait, quand il passe, « C'est un joli garçon que le duc de Bordeaux ! »,
+[G7]Un culte véritable et, quand je perds aux [A]boules, En [F]embra[G7]ssant Fan[C]ny, [A7]je ne [Dm]pens[G]e qu'à [E]vous,
 
-« C'est un joli garçon que le duc de Bordeaux ! »
-
-
-Ne faites aucun cas des jaloux qui professent, Que vous avez placé votre orgueil un peu bas
-
-Que vous présumez trop, en somme de vos fesses, Et surtout, par faveur, ne vous asseyez pas,
-
-Et surtout, par faveur, ne vous asseyez pas
+[F]En embras[G7]sant Fan[C]ny, [A7]je ne [Dm]pens[G7]e qu'à [C]vous
 
 
-Laissez-les raconter qu'en sortant de calèche, La brise a fait voler votre robe et qu'on vit
+Pour obtenir, ma[G7]dame, un galbe de cet [A]ordre, Vous [Am]devez tortu[D]rer les [Am]gens de votre en[D]tour
 
-Écrite dans un cœur transpercé d'une flèche, Cette expression triviale : « A Julot pour la vie »,
+[G7]Donner aux couturiers bien du fil à re[A]tordre, Et [F]vous de[G7]vez cre[C]ver [A7]votre [Dm]dam[G]e d'a[E]tour,
 
-Cette expression triviale : « A Julot pour la vie »
-
-
-Laissez-les dire encor qu'à la cour d'Angleterre, Faisant la révérence aux souverains anglois
-
-Vous êtes, patatras ! tombée assise à terre, La loi d'la pesanteur est dure, mais c'est la loi,
-
-La loi d'la pesanteur est dure, mais c'est la loi
+[F]Et vous de[G7]vez cre[C]ver [A7]votre [Dm]dam[G7]e d'a[C]tour
 
 
-Nul ne peut aujourd'hui trépasser sans voir Naples, A l'assaut des chefs-d'œuvre ils veulent tous courir
+C'est le duc de Bor[G7]deaux qui s'en va, tête [A]basse, Car [Am]il ressemble au [D]mien com[Am]me deux gouttes [D]d'eau
 
-Mes ambitions à moi sont bien plus raisonnables : Voir votre académie, madame, et puis mourir,
+[G7]S'il ressemblait au vôtre, on dirait, quand il [A]passe, « C'est [F]un jo[G7]li gar[C]çon [A7]que le [Dm]duc [G]de Bor[E]deaux ! »,
 
-Voir votre académie, madame, et puis mourir
-
-
-Que jamais l'art abstrait, qui sévit maintenant, N'enlève à vos attraits ce volume étonnant
-
-Au temps où les faux culs sont la majorité, Gloire à celui qui dit toute la vérité
+« [F]C'est un jo[G7]li gar[C]çon [A7]que le [Dm]duc [G7]de Bor[C]deaux ! »
 
 
+Ne faites aucun [G7]cas des jaloux qui pro[A]fessent, Que [Am]vous avez pla[D]cé votre [Am]orgueil un peu [D]bas
+
+[G7]Que vous présumez trop, en somme de vos [A]fesses, Et [F]surtout, [G7]par fa[C]veur, [A7]ne vous [Dm]asse[G]yez [E]pas,
+
+[F]Et surtout, [G7]par fa[C]veur, [A7]ne vous [Dm]asse[G7]yez [C]pas
+
+
+Laissez-les racon[G7]ter qu'en sortant de ca[A]lèche, La [Am]brise a fait vo[D]ler votr[Am]e robe et qu'on [D]vit
+
+[G7]Écrite dans un cœur transpercé d'une [A]flèche, Cette [F]expres[G7]sion tri[C]viale : « [A7]À Ju[Dm]lot [G]pour la [E]vie »,
+
+[F]Cette expres[G7]sion tri[C]viale : « [A7]À Ju[Dm]lot [G7]pour la [C]vie »
+
+
+Laissez-les dire en[G7]cor qu'à la cour d'Angle[A]terre, Fai[Am]sant la révé[D]rence aux [Am]souverains an[D]glois
+
+[G7]Vous êtes, patatras ! tombée assise à [A]terre, La [F]loi d'la [G7]pesan[C]teur [A7]est dur[Dm]e, mais [G]c'est la [E]loi,
+
+[F]La loi d'la [G7]pesan[C]teur [A7]est dur[Dm]e, mais [G7]c'est la [C]loi
+
+
+Nul ne peut aujour[G7]d'hui trépasser sans voir [A]Naples, À [Am]l'assaut des chefs-[D]d'œuvre ils [Am]veulent tous cou[D]rir
+
+[G7]Mes ambitions à moi sont bien plus raison[A]nables : [F]Voir votre [G7]acadé[C]mie, [A7]madam[Dm]e, et [G]puis mou[E]rir,
+
+[F]Voir votre [G7]acadé[C]mie, [A7]madam[Dm]e, et [G7]puis mou[C]rir
+
+
+[F]Que jamais l'art abstrait, [F7]qui sévit mainte[Bb]nant, [Gm7]N'enlève à [C7]vos at[F]traits [Dm]ce vo[Gm]lume [C7]éton[F]nant
+
+[F]Au temps où les faux culs [F7]sont la majori[Bb]té, [Gm7]Gloire à ce[C7]lui qui [F]dit [Dm]toute [Gm]la [C7]véri[F]té
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Venus.Callipyge.php?titre=V%C3%A9nus+Callipyge

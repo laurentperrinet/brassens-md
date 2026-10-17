@@ -1,45 +1,47 @@
 ## Saturne
 
 
-Il est m[B7]orne, il est taciturne,[Em] Il préside a[D7]ux choses du temps [G]
+Il est [B7]morne, il est taci[Em]turne, Il pré[D7]side aux choses du [G]temps
 
-Il porte un [B7]joli nom, « Saturne », [C]Mais c'est un Dieu fort inquié[Am]tant [D7] [G]
+Il porte [B7]un joli nom, « Sa[C]turne », Mais c'est un [Am]Dieu [D7]fort inquié[G]tant
 
-Il porte un [B7]joli nom, « Saturne », [C]Mais c'est un Dieu[Em] fort inquiétant[B7]. [Em]
-
-
-En allant son chemin, morose, Pour se désennuyer un peu
-
-Il joue à bousculer les roses, Le temps tue le temps comme il peut.
-
-Il joue à bousculer les roses, Le temps tue le temps comme il peut.
+Il porte [B7]un joli nom, « Sa[C]turne », Mais [Em]c'est un Dieu [B7]fort inquié[Em]tant.
 
 
-Cette saison, c'est toi, ma belle, Qui a fait les frais de son jeu,
+En al[B7]lant son chemin, mo[Em]rose, Pour se [D7]désennuyer un [G]peu
 
-Toi qui a dû payer la gabelle, Un grain de sel dans tes cheveux.
+Il joue [B7]à bousculer les [C]roses, Le [Am]temps tue le [D7]temps comme il [G]peut.
 
-Toi qui a dû payer la gabelle, Un grain de sel dans tes cheveux.
-
-
-C'est pas vilain, les fleurs d'automne, Et tous les poètes l'ont dit.
-
-Je te regarde et je te donne, Mon billet qu'ils n'ont pas menti.
-
-Je te regarde et je te donne, Mon billet qu'ils n'ont pas menti.
+Il joue [B7]à bousculer les [C]roses, Le [Em]temps tue le [B7]temps comme il [Em]peut.
 
 
-Viens encor, viens ma favorite, Descendons ensemble au jardin,
+Cette sai[B7]son, c'est toi, ma [Em]belle, Qui a [D7]fait les frais de son [G]jeu,
 
-Viens effeuiller la marguerite, De l'été de la Saint-Martin.
+Toi qui [B7]a dû payer la ga[C]belle, Un grain de [Am]sel [D7]dans tes che[G]veux.
 
-Viens effeuiller la marguerite, De l'été de la Saint-Martin.
-
-
-Je sais par cœur toutes tes grâces, Et pour me les faire oublier,
-
-Il faudra que Saturne en fasse, Des tours d'horloge, de sablier !
-
-Et la petite pisseuse d'en face, Peut bien aller se rhabiller.
+Toi qui [B7]a dû payer la ga[C]belle, Un [Em]grain de sel [B7]dans tes che[Em]veux.
 
 
+C'est pas vi[B7]lain, les fleurs d'au[Em]tomne, Et tous [D7]les poètes l'ont [G]dit.
+
+Je te re[B7]garde et je te [C]donne, Mon bil[Am]let qu'ils [D7]n'ont pas men[G]ti.
+
+Je te re[B7]garde et je te [C]donne, Mon [Em]billet qu'ils [B7]n'ont pas men[Em]ti.
+
+
+Viens encor, [B7]viens ma favo[Em]rite, Descen[D7]dons ensemble au jar[G]din,
+
+Viens effeuil[B7]ler la margue[C]rite, De l'é[Am]té de [D7]la Saint-Mar[G]tin.
+
+Viens effeuil[B7]ler la margue[C]rite, De [Em]l'été de [B7]la Saint-Mar[Em]tin.
+
+
+Je sais par [B7]cœur toutes tes [Em]grâces, Et pour [D7]me les faire oubli[G]er,
+
+Il fau[B7]dra que Saturne en [C]fasse, Des tours d'hor[Am]loge, [D7]de sabli[G]er !
+
+Et la pe[B7]tite pisseuse d'en [C]face, Peut [Em]bien aller [B7]se rhabil[Em]ler.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Saturne.php?titre=Saturne

@@ -1,31 +1,32 @@
 ## Jehan l'Advenu
 
 
-[C#m]Puis il revint comme il était parti : Bon[F#7] pied, bo[B]n oeil, personne d'averti. [E7]
+[C#m]Puis il revint comme il était parti[B] : Bon pied, bon oeil, personne d'averti.[A]
 
-[A]Aux dents, toujours la vive marguerite, Aux yeux, toujour[G#]s la flamme qui crépite.
+Aux dents, toujours la vive marguerite, Aux [G#]yeux, toujours la flamme qui crépite.
 
-[E]Mit sur ta lèvre, Aline, un long baiser, Mit sur la tabl[B]e un peu d'or étranger
+[E]Mit sur ta lèvre, Aline, un long baiser, [B]Mit sur la table un peu d'or étranger
 
-[A]Chanta, chanta deux chansons de marine, S'alla dormir dans la[G#] chambre enfantine. [C#m] [B] [A] [G#]
-
-
-Puis il revint comme il était parti : Bon pied, bon oeil, personne d'averti.
-
-Aux dents, toujours la vive marguerite, Aux yeux, toujours la flamme qui crépite.
-
-Rêva tout haut d'écume et de cavale, S'entortilla dans d'étranges rafales.
-
-Puis au réveil, quand l'aube se devine, Chanta, chanta deux chansons de marine.
+[A]Chanta, chanta deux chansons de marine, [G#]S'alla dormir dans la chambre enfan[C#m]tine.[G#]
 
 
-Puis il revint comme il était parti : Bon pied, bon oeil, personne d'averti.
+[C#m][A][B]Puis il revint comme il était parti[B] : Bon pied, bon oeil, personne d'averti.[A]
 
-Aux dents, toujours la vive marguerite, Aux yeux, toujours la flamme qui crépite.
+Aux dents, toujours la vive marguerite, Aux [G#]yeux, toujours la flamme qui crépite.
 
-Fit au pays son adieu saugrenu, Et s'en alla comme il était venu.
+[E]Rêva tout haut d'écume et de cavale, S'en[B]tortilla dans d'étranges rafales.
 
-Fit au pays son adieu saugrenu, Et s'en alla comme il était venu.
+[A]Puis au réveil, quand l'aube se devine, [G#]Chanta, chanta deux chansons de ma[C#m]rine.
 
 
+[C#m]Puis il revint comme il était parti[B] : Bon pied, bon oeil, personne d'averti.[A]
 
+Aux dents, toujours la vive marguerite, Aux [G#]yeux, toujours la flamme qui crépite.
+
+[E]Fit au pays son adieu saugrenu, [B]Et s'en alla comme il était venu.
+
+[A]Fit au pays son adieu saugrenu, [G#]Et s'en alla comme il était ve[C#m]nu.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Jehan.L.Advenu.php?titre=Jehan+l%27Advenu

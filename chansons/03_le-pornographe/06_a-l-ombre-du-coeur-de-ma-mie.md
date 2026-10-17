@@ -1,45 +1,47 @@
 ## À l'ombre du cœur de ma mie
 
 
-[Bm]A l'ombre du cœur de ma mie, A l'ombr[Em]e du cœur de ma mie[Bm], [F#7] [Bm]
+[Bm]À l'ombre du cœur de ma [Em]mie, À l'ombre [Bm]du cœur [F#7]de ma [Bm]mie,
 
-Un oiseau s'était endormi, Un oise[Em]au s'était endormi [Bm] [F#7] [Bm]
+Un oiseau s'était endor[Em]mi, Un oiseau [Bm]s'était [F#7]endor[Bm]mi
 
-Un jou[Em]r qu'elle faisait semblant, D'être la [A]Belle au boi[D]s dormant [F#7] [Bm]
-
-
-Et moi, me mettant à genoux, Et moi, me mettant à genoux,
-
-Bonnes fées, sauvegardez-nous, Bonnes fées, sauvegardez-nous,
-
-Sur ce cœur j'ai voulu poser, Une manière de baiser
+Un [Em]jour qu'elle faisait sem[A]blant, D'être la [D]Belle au [F#7]bois dor[Bm]mant
 
 
-Alors cet oiseau de malheur, Alors cet oiseau de malheur,
+[Bm]Et moi, me mettant à ge[Em]noux, Et moi, me [Bm]mettant [F#7]à ge[Bm]noux,
 
-Se mit à crier « Au voleur », Se mit à crier « Au voleur »,
+Bonnes fées, sauvegardez-[Em]nous, Bonnes fées, [Bm]sauve[F#7]gardez-[Bm]nous,
 
-« Au voleur » et « A l'assassin », Comme si j'en voulais à son sein
-
-
-Aux appels de cet étourneau, Aux appels de cet étourneau,
-
-Grand branle-bas dans Landerneau, Grand branle-bas dans Landerneau,
-
-Tout le monde et son père accourt, Aussitôt lui porter secours
+Sur [Em]ce cœur j'ai voulu po[A]ser, Une ma[D]nière [F#7]de bai[Bm]ser
 
 
-Tant de rumeurs, de grondements, Tant de rumeurs, de grondements,
+[Bm]Alors cet oiseau de ma[Em]lheur, Alors cet [Bm]oiseau [F#7]de ma[Bm]lheur,
 
-Ont fait peur aux enchantements, Ont fait peur aux enchantements,
+Se mit à crier « Au vo[Em]leur », Se mit à [Bm]crier « [F#7]Au vo[Bm]leur »,
 
-Et la belle désabusée, Ferma son cœur à mon baiser
-
-
-Et c'est depuis ce temps, ma sœur, Et c'est depuis ce temps, ma sœur,
-
-Que je suis devenu chasseur, Que je suis devenu chasseur
-
-Que mon arbalète à la main, Je cours les bois et les chemins
+« Au [Em]voleur » et « À l'assas[A]sin », Comme si j'en [D]voulais [F#7]à son [Bm]sein
 
 
+[Bm]Aux appels de cet étour[Em]neau, Aux appels [Bm]de cet [F#7]étour[Bm]neau,
+
+Grand branle-bas dans Lander[Em]neau, Grand branle-[Bm]bas dans [F#7]Lander[Bm]neau,
+
+Tout [Em]le monde et son père ac[A]court, Aussitôt [D]lui por[F#7]ter se[Bm]cours
+
+
+[Bm]Tant de rumeurs, de gronde[Em]ments, Tant de ru[Bm]meurs, de [F#7]gronde[Bm]ments,
+
+Ont fait peur aux enchante[Em]ments, Ont fait peur [Bm]aux en[F#7]chante[Bm]ments,
+
+Et [Em]la belle désabu[A]sée, Ferma son [D]cœur à [F#7]mon bai[Bm]ser
+
+
+[Bm]Et c'est depuis ce temps, ma [Em]sœur, Et c'est de[Bm]puis ce [F#7]temps, ma [Bm]sœur,
+
+Que je suis devenu chas[Em]seur, Que je suis [Bm]deve[F#7]nu chas[Bm]seur
+
+Que [Em]mon arbalète à la [A]main, Je cours les [D]bois et [F#7]les che[Bm]mins
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.A.L.Ombre.Du.Coeur.De.Ma.Mie.php?titre=A+l%27ombre+du+c%C5%93ur+de+ma+mie

@@ -1,68 +1,70 @@
 ## La marguerite
 
 
-[A]La petite, Marguerite, Est tombé[E7]e, [A]
+[A]La petite, Marguerite, [E7]Est tom[A]bée,
 
-Singulière, Du bréviaire, De l'abbé [E7] [A] [A7]
+Singulière, Du bréviaire, [E7]De l'ab[A]bé[A7]
 
-[D]Trois pétales, De scandale, Sur l'autel, [A]
+[D]Trois pétales, De scandale, [A]Sur l'autel,
 
-[Bm]Indiscrète, Pâ[E7]querette, D'où [F#7]vient-elle ?
+[Bm]Indiscrète, [E7]Pâquerette, [F#7]D'où vient-elle ?
 
-[Bm]Trois pétales, De s[E7]candale, Sur l'au[A]tel,
+[Bm]Trois pétales, [E7]De scandale, [A]Sur l'autel,
 
-[Bm]Indiscrète, Pâ[E7]querette, D'où [A]vient-elle ?
-
-
-Dans l'enceinte, Sacro-sainte, Quel émoi,
-
-Quelle affaire, Oui, ma chère, Croyez-moi,
-
-La frivole, Fleur qui vole, Arrive en,
-
-Contrebande, Des plates-bandes, Du couvent,
-
-La frivole, Fleur qui vole, Arrive en,
-
-Contrebande, Des plates-bandes, Du couvent
+[Bm]Indiscrète, [E7]Pâquerette, [A]D'où vient-elle ?
 
 
-Notre Père, Qui, j'espère, Êtes aux cieux,
+[A]Dans l'enceinte, Sacro-sainte, [E7]Quel é[A]moi,
 
-N'ayez cure, Des murmures, Malicieux,
+Quelle affaire, Oui, ma chère, [E7]Croyez-[A]moi,[A7]
 
-La légère, Fleur, peuchère, Ne vient pas,
+[D]La frivole, Fleur qui vole, [A]Arrive en,
 
-De nonnettes, De cornettes, En sabbat,
+[Bm]Contrebande, [E7]Des plates-bandes, [F#7]Du couvent,
 
-La légère, Fleur, peuchère, Ne vient pas,
+[Bm]La frivole, [E7]Fleur qui vole, [A]Arrive en,
 
-De nonnettes, De cornettes, En sabbat
-
-
-Sachez, diantre, Qu'un jour, entre, Deux ave,
-
-Sur la pierre, D'un calvaire, Il l'a trouvée,
-
-Et l'a mise, Chose admise, Par le ciel,
-
-Sans ambages, Dans les pages, Du missel,
-
-Et l'a mise, Chose admise, Par le ciel,
-
-Sans ambages, Dans les pages, Du missel
+[Bm]Contrebande, [E7]Des plates-bandes, [A]Du couvent
 
 
-Que ces messes, Basses cessent, Je vous en prie,
+[A]Notre Père, Qui, j'espère, [E7]Êtes aux [A]cieux,
 
-Non, le prêtre, N'est pas traître, A Marie,
+N'ayez cure, Des murmures, [E7]Mali[A]cieux,[A7]
 
-Que personne, Ne soupçonne, Puis jamais,
+[D]La légère, Fleur, peuchère, [A]Ne vient pas,
 
-La petite, Marguerite, Ah ! ça mais...
+[Bm]De nonnettes, [E7]De cornettes, [F#7]En sabbat,
 
-Que personne, Ne soupçonne, Puis jamais,
+[Bm]La légère, [E7]Fleur, peuchère, [A]Ne vient pas,
 
-La petite, Marguerite, Ah ! ça mais...
+[Bm]De nonnettes, [E7]De cornettes, [A]En sabbat
 
 
+[A]Sachez, diantre, Qu'un jour, entre, [E7]Deux a[A]ve,
+
+Sur la pierre, D'un calvaire, Il [E7]l'a trou[A]vée,[A7]
+
+[D]Et l'a mise, Chose admise, [A]Par le ciel,
+
+[Bm]Sans ambages, [E7]Dans les pages, [F#7]Du missel,
+
+[Bm]Et l'a mise, [E7]Chose admise, [A]Par le ciel,
+
+[Bm]Sans ambages, [E7]Dans les pages, [A]Du missel
+
+
+[A]Que ces messes, Basses cessent, [E7]Je vous en [A]prie,
+
+Non, le prêtre, N'est pas traître, [E7]À Ma[A]rie,[A7]
+
+[D]Que personne, Ne soupçonne, [A]Puis jamais,
+
+[Bm]La petite, [E7]Marguerite, [F#7]Ah ! ça mais...
+
+[Bm]Que personne, [E7]Ne soupçonne, [A]Puis jamais,
+
+[Bm]La petite, [E7]Marguerite, [A]Ah ! ça mais...
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Marguerite.php?titre=%28La%29+marguerite

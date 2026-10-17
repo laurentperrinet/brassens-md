@@ -3,67 +3,69 @@
 
 [D]Depuis que l'homme écrit l'Histoire, Depuis qu'il bataille à cœur joie
 
-Entre mille et une guerres notoires, Si j'é[D7]tais t'nu de faire un choix
+Entre [D7]mille et une guerres notoires, Si j'étais t'nu de faire un choix
 
-A l'encon[G]tre du vieil H[A7]omère, J[D]e déclarerais tout [G]de suit[C#7]e : [F#m]
+A l'en[G]contre du [A7]vieil Ho[D]mère, Je dé[C#7]clarerais tout de [F#m]suite :
 
-[D7]« Moi, mon colon, c[G]elle que j'[A7]préfère, [Bm7]C'est[B7] la guerre de quatorz[Em]e-dix-[A7]huit ! », [D]
+« Moi, mon co[G]lon, celle [A7]que j'pré[D]fère, [B7]C'est la guerre [Em]de qua[A7]torze-dix-[D]huit ! »,
 
-[D7]« Moi, mon colon, c[G]elle que j'[A7]préfère, [Bm7]C'est [D]la guerre de quatorz[Em]e-dix-[A7]huit ! » [D]
-
-
-Est-ce à dire que je méprise, Les nobles guerres de jadis
-
-Que je m'soucie comme d'une cerise, De celle de soixante-dix ?
-
-Au contraire, je la révère, Et lui donne un satisfecit
-
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit,
-
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit
+« Moi, mon co[G]lon, celle [A7]que j'pré[D]fère, C'est la [Em]guerre de qua[A7]torze-dix-[D]huit ! »
 
 
-Je sais que les guerriers de Sparte, Plantaient pas leurs épées dans l'eau
+[D]Est-ce à dire que je méprise, Les nobles guerres de jadis
 
-Que les grognards de Bonaparte, Tiraient pas leur poudre aux moineaux
+Que je m'sou[D7]cie comme d'une cerise, De celle de soixante-dix ?
 
-Leurs faits d'armes sont légendaires, Au garde-à-vous, je les félicite
+Au con[G]traire, je [A7]la ré[D]vère, Et lui donne [C#7]un satisfe[F#m]cit
 
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit,
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, [B7]C'est la guerre [Em]de qua[A7]torze-dix-[D]huit,
 
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit
-
-
-Bien sûr, celle de l'an quarante, Ne m'a pas tout à fait déçu
-
-Elle fut longue et massacrante, Et je ne crache pas dessus
-
-Mais à mon sens, elle ne vaut guère, Guère plus qu'un premier accessit
-
-Moi, mon colon, celle que j' préfère, C'est la guerre de quatorze-dix-huit,
-
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, C'est la [Em]guerre de qua[A7]torze-dix-[D]huit
 
 
-Mon but n'est pas de chercher noise, Aux guérillas, non, fichtre, non
+[D]Je sais que les guerriers de Sparte, Plantaient pas leurs épées dans l'eau
 
-Guerres saintes, guerres sournoises, Qui n'osent pas dire leur nom,
+Que les gro[D7]gnards de Bonaparte, Tiraient pas leur poudre aux moineaux
 
-Chacune a quelque chose pour plaire, Chacune a son petit mérite
+Leurs faits [G]d'armes sont [A7]légen[D]daires, Au garde-à-[C#7]vous, je les féli[F#m]cite
 
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit,
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, [B7]C'est la guerre [Em]de qua[A7]torze-dix-[D]huit,
 
-Mais, mon colon, celle que j'préfère, C'est la guerre de quatorze-dix-huit
-
-
-Du fond de son sac à malices, Mars va sans doute, à l'occasion,
-
-En sortir une, un vrai délice, Qui me fera grosse impression
-
-En attendant je persévère, A dire que ma guerre favorite
-
-Celle, mon colon, que j'voudrais faire, C'est la guerre de quatorze-dix-huit,
-
-Celle, mon colon, que j'voudrais faire, C'est la guerre de quatorze-dix-huit
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, C'est la [Em]guerre de qua[A7]torze-dix-[D]huit
 
 
+[D]Bien sûr, celle de l'an quarante, Ne m'a pas tout à fait déçu
+
+Elle fut [D7]longue et massacrante, Et je ne crache pas dessus
+
+Mais à mon [G]sens, elle [A7]ne vaut [D]guère, Guère plus qu'un [C#7]premier acces[F#m]sit
+
+Moi, mon co[G]lon, celle [A7]que j' pré[D]fère, [B7]C'est la guerre [Em]de qua[A7]torze-dix-[D]huit,
+
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, C'est la [Em]guerre de qua[A7]torze-dix-[D]huit
+
+
+[D]Mon but n'est pas de chercher noise, Aux guérillas, non, fichtre, non
+
+Guerres [D7]saintes, guerres sournoises, Qui n'osent pas dire leur nom,
+
+Chacune a [G]quelque [A7]chose pour [D]plaire, Chacune a [C#7]son petit mé[F#m]rite
+
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, [B7]C'est la guerre [Em]de qua[A7]torze-dix-[D]huit,
+
+Mais, mon co[G]lon, celle [A7]que j'pré[D]fère, C'est la [Em]guerre de qua[A7]torze-dix-[D]huit
+
+
+[D]Du fond de son sac à malices, Mars va sans doute, à l'occasion,
+
+En sortir [D7]une, un vrai délice, Qui me fera grosse impression
+
+En atten[G]dant je [A7]persé[D]vère, À dire que [C#7]ma guerre favo[F#m]rite
+
+Celle, mon co[G]lon, que [A7]j'voudrais [D]faire, [B7]C'est la guerre [Em]de qua[A7]torze-dix-[D]huit,
+
+Celle, mon co[G]lon, que [A7]j'voudrais [D]faire, C'est la [Em]guerre de qua[A7]torze-dix-[D]huit
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Guerre.De.14.18.php?titre=%28La%29+guerre+de+14-18

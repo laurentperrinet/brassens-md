@@ -1,58 +1,59 @@
 ## Le vieux normand
 
 
-[Bm]Depuis que je commence à faire de vieux[Em] os,[E7] Avide d[A]e c[A7]onse[D]ils, souvent un jouvenceau [Em] [A]
+[Bm]Depuis que je commence à faire [Em]de [E7]vieux [A]os,[A7] [D]Avide de conseils, sou[Em]vent un jouven[A]ceau
 
-[Am]Me demande l[F#7]a mar[B7]che à suivre et s'[Em]il est bon, D'aller p[Bm]ar-ci, par-là, scrupuleux [F#7]je réponds : [Bm]
+[Am]Me deman[F#7]de la [B7]marche à [Em]suivre et s'il est bon, [Bm]D'aller par-ci, par-[F#7]là, scrupuleux je ré[Bm]ponds :
 
-[A7]Crosse en l'a[D]ir ou bien fleur au [Bm]fusil, C[A]'est à toi d'en[D] décider, choisi[Bm]s ! [F#7]
+[A7]Crosse en [D]l'air ou bien fleur [Bm]au fu[A]sil, C'est à [D]toi d'en déci[Bm]der, choi[F#7]sis !
 
-A toi seu[Bm]l de trancher s[Em]'il vaut mieux,[F#7] Dire « amen » ou[Bm] « me[F#7]rde à Dieu ». [Bm] [F#7]
-
-
-Et le brave petit blâme ma position, M'accuse de danser la valse hésitation.
-
-Cet âge exècre l'attitude des Normands, Les seuls à lui parler en fait honnêtement.
-
-Crosse en l'air ou bien fleur au fusil, C'est à toi d'en décider, choisis !
-
-A toi seul de trancher s'il vaut mieux, Dire « amen » ou « merde à Dieu ».
+À toi [Bm]seul de tran[Em]cher s'il vaut [F#7]mieux, Dire « a[Bm]men » [F#7]ou « merde à [Bm]Dieu ».
 
 
-Facile d'entraîner de jeunes innocents ! Puisqu'il est interdit d'interdire à présent,
+[Bm]Et le brave petit blâme ma [Em]po[E7]si[A]tion,[A7] [D]M'accuse de danser la [Em]valse hésita[A]tion.
 
-Lors, en bonne justice, il est déconseillé, De donner des conseils, surtout s'ils sont payés.
+[Am]Cet âge e[F#7]xècre [B7]l'attitude [Em]des Normands, [Bm]Les seuls à lui par[F#7]ler en fait honnête[Bm]ment.
 
-Crosse en l'air ou bien fleur au fusil, C'est à toi d'en décider, choisis !
+[A7]Crosse en [D]l'air ou bien fleur [Bm]au fu[A]sil, C'est à [D]toi d'en déci[Bm]der, choi[F#7]sis !
 
-A toi seul de trancher s'il vaut mieux, Dire « amen » ou « merde à Dieu ».
-
-
-A gauche, à droite, au centre ou alors à l'écart, Je ne puis t'indiquer où tu dois aller, car
-
-Moi le fil d'Ariane me fait un peu peur, Et je ne m'en sers plus que pour couper le beurre.
-
-Crosse en l'air ou bien fleur au fusil, C'est à toi d'en décider, choisis !
-
-A toi seul de trancher s'il vaut mieux, Dire « amen » ou « merde à Dieu ».
+À toi [Bm]seul de tran[Em]cher s'il vaut [F#7]mieux, Dire « a[Bm]men » [F#7]ou « merde à [Bm]Dieu ».
 
 
-Quand tous les rois Pétaud crient « Vive la république », Que « Mort aux vaches » même est un slogan de flic,
+[Bm]Facile d'entraîner de jeunes [Em]in[E7]no[A]cents[A7] ! [D]Puisqu'il est interdit d'in[Em]terdire à pré[A]sent,
 
-Que l'on parle de paix le cul sur des canons, Bienheureux celui qui s'y retrouve, moi non !
+[Am]Lors, en bon[F#7]ne jus[B7]tice, il est dé[Em]conseillé, [Bm]De donner des conseils, [F#7]surtout s'ils sont pa[Bm]yés.
 
-Crosse en l'air ou bien fleur au fusil, C'est à toi d'en décider, choisis !
+[A7]Crosse en [D]l'air ou bien fleur [Bm]au fu[A]sil, C'est à [D]toi d'en déci[Bm]der, choi[F#7]sis !
 
-A toi seul de trancher s'il vaut mieux, Dire « amen » ou « merde à Dieu ».
-
-
-La vérité d'ailleurs flotte au gré des saisons. Tout fier dans son sillage, on part, on a raison.
-
-Mais au cours du voyage, elle a viré de bord, Elle a changé de cap, on arrive : on a tort.
-
-Crosse en l'air ou bien fleur au fusil, C'est à toi d'en décider, choisis !
-
-A toi seu[Bm]l de trancher s[Em]'il vaut mieux,[F#7] Dire « amen » ou[Bm] « me[F#7]rde à Dieu ». [Bm] [E] [B]
+À toi [Bm]seul de tran[Em]cher s'il vaut [F#7]mieux, Dire « a[Bm]men » [F#7]ou « merde à [Bm]Dieu ».
 
 
+[Bm]À gauche, à droite, au centre ou alors [Em]à [E7]l'é[A]cart,[A7] [D]Je ne puis t'indiquer où [Em]tu dois aller, [A]car
 
+[Am]Moi le fil [F#7]d'Ari[B7]ane me fait [Em]un peu peur, [Bm]Et je ne m'en sers [F#7]plus que pour couper le [Bm]beurre.
+
+[A7]Crosse en [D]l'air ou bien fleur [Bm]au fu[A]sil, C'est à [D]toi d'en déci[Bm]der, choi[F#7]sis !
+
+À toi [Bm]seul de tran[Em]cher s'il vaut [F#7]mieux, Dire « a[Bm]men » [F#7]ou « merde à [Bm]Dieu ».
+
+
+[Bm]Quand tous les rois Pétaud crient « Vive la [Em]ré[E7]pu[A]blique[A7] », [D]Que « Mort aux vaches » même est [Em]un slogan de [A]flic,
+
+[Am]Que l'on par[F#7]le de [B7]paix le cul sur [Em]des canons, [Bm]Bienheureux celui [F#7]qui s'y retrouve, moi [Bm]non !
+
+[A7]Crosse en [D]l'air ou bien fleur [Bm]au fu[A]sil, C'est à [D]toi d'en déci[Bm]der, choi[F#7]sis !
+
+À toi [Bm]seul de tran[Em]cher s'il vaut [F#7]mieux, Dire « a[Bm]men » [F#7]ou « merde à [Bm]Dieu ».
+
+
+[Bm]La vérité d'ailleurs flotte au gré [Em]des [E7]sai[A]sons.[A7] [D]Tout fier dans son sillage, on [Em]part, on a rai[A]son.
+
+[Am]Mais au cours [F#7]du voy[B7]age, elle a vi[Em]ré de bord, [Bm]Elle a changé de [F#7]cap, on arrive : on a [Bm]tort.
+
+[A7]Crosse en [D]l'air ou bien fleur [Bm]au fu[A]sil, C'est à [D]toi d'en déci[Bm]der, choi[F#7]sis !
+
+À toi [Bm]seul de tran[Em]cher s'il vaut [F#7]mieux, Dire « a[Bm]men » [F#7]ou « merde à [Bm]Dieu ».
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Vieux.Normand.php?titre=%28Le%29+vieux+Normand

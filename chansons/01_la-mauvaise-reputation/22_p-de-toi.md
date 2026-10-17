@@ -1,61 +1,63 @@
 ## P... de toi
 
 
-[A]En ce temps-là, je[E] vivais da[A]ns la lune, Les[E] bonheurs d'ici[D]-bas m'étaient t[E]ous défen[D]dus [E]
+[A]En ce temps-[E]là, je vi[A]vais dans la [E]lune, Les bo[D]nheurs d'ici-[E]bas m'é[D]taient tous défen[E]dus
 
-[A]Je semais des viol[E]ettes et chantais pour [A]des prunes, Et tend[E]ais la patte aux c[D]hats pe[E]rdus. [A]
+Je se[A]mais des vio[E]lettes et chan[A]tais pour des [E]prunes, Et ten[D]dais la [E]patte aux [A]chats perdus.
 
 
 Refrain :
 
-[A]Ah ah ah ah [C#7]putain de toi, Ah ah [D]ah ah [E]ah pauvre de moi[A]...
+[A]Ah ah ah [C#7]ah putain de toi, [E]Ah ah ah ah ah [A]pauvre de moi...
 
 
-Un soir de pluie v'là qu'on gratte à ma porte, Je m'empresse d'ouvrir, sans doute un nouveau chat !
+[A]Un soir de [E]pluie v'là qu'on [A]gratte à ma [E]porte, Je m'em[D]presse d'ou[E]vrir, sans [D]doute un nouveau [E]chat !
 
-Nom de dieu l'beau félin que l'orage m'apporte, C'était toi, c'était toi, c'était toi.
-
-
-Refrain
-
-
-Les yeux fendus et couleur de pistache, T'as posé sur mon cœur ta patte de velours
-
-Fort heureusement pour moi t'avais pas de moustache, Et ta vertu ne pesait pas trop lourd.
+Nom de [A]dieu l'beau fé[E]lin que l'or[A]age m'ap[E]porte, C'était [D]toi, c'é[E]tait toi, c'[A]était toi.
 
 
 Refrain
 
 
-Aux quatre coins de ma vie de bohème, T'as prom'né, t'as prom'né le feu de tes vingt ans.
+[A]Les yeux fen[E]dus et cou[A]leur de pis[E]tache, T'as po[D]sé sur mon [E]cœur ta [D]patte de [E]velours
 
-Et pour moi, pour mes chats, pour mes fleurs, mes poèmes, C'était toi la pluie et le beau temps...
-
-
-Refrain
-
-
-Mais le temps passe et fauche à l'aveuglette. Notre amour mûrissait à peine que déjà,
-
-Tu brûlais mes chansons, crachais sur mes viollettes, Et faisais des misères à mes chats.
+Fort heu[A]reusement pour [E]moi t'avais [A]pas de mous[E]tache, Et ta ver[D]tu ne [E]pesait [A]pas trop lourd.
 
 
 Refrain
 
 
-Le comble enfin, misérable salope, Comme il n'restait plus rien dans le garde-manger,
+[A]Aux quatre [E]coins de ma [A]vie de bo[E]hème, T'as prom'[D]né, t'as prom'[E]né le [D]feu de tes vingt [E]ans.
 
-T'as couru sans vergogne, et pour une escalope, Te jeter dans le lit du boucher.
-
-
-Refrain
-
-
-C'était fini, t'avais passé les bornes. Et, r'nonçant aux amours frivoles d'ici-bas,
-
-J'suis r'monté dans la lune en emportant mes cornes, Mes chansons, et mes fleurs, et mes chats.
+Et pour [A]moi, pour mes [E]chats, pour mes [A]fleurs, mes po[E]èmes, C'était [D]toi la [E]pluie et [A]le beau temps...
 
 
 Refrain
 
 
+[A]Mais le temps [E]passe et fauche [A]à l'aveug[E]lette. Notre a[D]mour mûris[E]sait à [D]peine que dé[E]jà,
+
+Tu brû[A]lais mes chan[E]sons, crachais [A]sur mes vio[E]lettes, Et fai[D]sais des [E]misères [A]à mes chats.
+
+
+Refrain
+
+
+[A]Le comble en[E]fin, misé[A]rable sa[E]lope, Comme il n'[D]restait plus [E]rien dans [D]le garde-man[E]ger,
+
+T'as cou[A]ru sans ver[E]gogne, et pour [A]une esca[E]lope, Te je[D]ter dans [E]le lit [A]du boucher.
+
+
+Refrain
+
+
+[A]C'était fi[E]ni, t'avais [A]passé les [E]bornes. Et, r'non[D]çant aux a[E]mours fri[D]voles d'ici-[E]bas,
+
+J'suis r'mon[A]té dans la [E]lune en empor[A]tant mes [E]cornes, Mes chan[D]sons, et [E]mes fleurs, [A]et mes chats.
+
+
+Refrain
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.P.De.Toi.php?titre=P...+de+toi

@@ -4,135 +4,137 @@
 Intro : Ré La7 Ré La7
 
 
-[D]En notre tour de Babel, La[A7]quelle est la plus [D]belle [A7]
+[D]En notre tour de Ba[A7]bel, Laquelle [D]est la plus [A7]belle
 
-[D]La plus aimable parmi, Les[A7] femmes de nos amis ? [D] [F#7]
+[D]La plus aimable par[A7]mi, Les femmes [D]de nos a[F#7]mis ?
 
-Laquelle est notre vrai nou[Bm]nou, La p'tite sœu[F#7]r des pauvres de nous [G]
+Laquelle est notre [Bm]vrai nounou, [F#7]La p'tite sœur des pau[G]vres de nous
 
-Dans le guignon toujours présente, Quelle est cette f[F#7]ée bienfaisante ?
+Dans le guignon toujours présente,[F#7] Quelle est cette fée bienfaisante ?
 
 
-[Em]C'est pas la fe[F#7]mme de Bertrand, [Bm]Pas la femme de Gontran [F#7]
+[Em]C'est pas la [F#7]femme de Ber[Bm]trand, Pas la femme de Gon[F#7]tran
 
-Pas la femme de Pamphile, C'est p[Bm]as la [Em]femme de Firmi[A7]n [D]
+Pas la femme de Pam[Bm]phile, [Em]C'est pas la [A7]femme de Fir[D]min
 
-[Em]Pas la femme de Germain, Ni[A7] celle de Benjamin [D]
+Pas la [Bm]femme de Ger[Em]main, Ni celle [A7]de Benja[D]min
 
-[G]C'est pas la femm[A7]e d'Honoré, Ni ce[D]lle de Désiré [B7] [Em]
+[G]C'est pas la [A7]femme d'Hono[D]ré, Ni celle [B7]de Dési[Em]ré
 
-[F#7]Ni celle de Théophile,[Bm] Encor[Em]e moins [F#7]la femme de N[Bm]estor
+Ni celle [F#7]de Théo[Bm]phile, [Em]Encore [F#7]moins la fem[Bm]me de Nestor
 
-Non, c'es[F#7]t la f[Bm]emme d'Hector. [A7]
+Non, [F#7]c'est la [Bm]femme d'Hector.[A7]
 
 
-Comme nous dansons devant, Le buffet bien souvent
+[D]Comme nous dansons de[A7]vant, Le buf[D]fet bien sou[A7]vent
 
-On a toujours peu ou prou, Les bas criblés de trous.
+[D]On a toujours peu ou [A7]prou, Les bas [D]criblés de [F#7]trous.
 
-Qui raccommode ces malheurs, De fils de toutes les couleurs
+Qui raccommode [Bm]ces malheurs, [F#7]De fils de toutes [G]les couleurs
 
-Qui brode, divine cousette, des arcs-en-ciel à nos chaussettes ?
+Qui brode, divine cousette,[F#7] des arcs-en-ciel à nos chaussettes ?
 
 
-C'est pas la femme de Bertrand, Pas la femme de Gontran
+[Em]C'est pas la [F#7]femme de Ber[Bm]trand, Pas la femme de Gon[F#7]tran
 
-Pas la femme de Pamphile, C'est pas la femme de Firmin
+Pas la femme de Pam[Bm]phile, [Em]C'est pas la [A7]femme de Fir[D]min
 
-Pas la femme de Germain, Ni celle de Benjamin
+Pas la [Bm]femme de Ger[Em]main, Ni celle [A7]de Benja[D]min
 
-C'est pas la femme d'Honoré, Ni celle de Désiré
+[G]C'est pas la [A7]femme d'Hono[D]ré, Ni celle [B7]de Dési[Em]ré
 
-Ni celle de Théophile, Encore moins la femme de Nestor
+Ni celle [F#7]de Théo[Bm]phile, [Em]Encore [F#7]moins la fem[Bm]me de Nestor
 
-Non, c'est la femme d'Hector.
+Non, [F#7]c'est la [Bm]femme d'Hector.[A7]
 
 
-Quand on nous prend la main, Sacré bon dieu dans un sac
+[D]Quand on nous prend la main, Sac[A7]ré bon [D]dieu dans un [A7]sac
 
-Et qu'on nous envoie planter, Des choux à la santé
+[D]Et qu'on nous envoie plan[A7]ter, Des choux [D]à la san[F#7]té
 
-Quelle est celle qui, prenant modèle, Sur les vertus des chiens fidèles
+Quelle est celle qui, pre[Bm]nant modèle, [F#7]Sur les vertus des [G]chiens fidèles
 
-Reste à l'arrêt devant la porte, En attendant que l'on ressorte ?
+Reste à l'arrêt devant la porte,[F#7] En attendant que l'on ressorte ?
 
 
-C'est pas la femme de Bertrand, Pas la femme de Gontran
+[Em]C'est pas la [F#7]femme de Ber[Bm]trand, Pas la femme de Gon[F#7]tran
 
-Pas la femme de Pamphile, C'est pas la femme de Firmin
+Pas la femme de Pam[Bm]phile, [Em]C'est pas la [A7]femme de Fir[D]min
 
-Pas la femme de Germain, Ni celle de Benjamin
+Pas la [Bm]femme de Ger[Em]main, Ni celle [A7]de Benja[D]min
 
-C'est pas la femme d'Honoré, Ni celle de Désiré
+[G]C'est pas la [A7]femme d'Hono[D]ré, Ni celle [B7]de Dési[Em]ré
 
-Ni celle de Théophile, Encore moins la femme de Nestor
+Ni celle [F#7]de Théo[Bm]phile, [Em]Encore [F#7]moins la fem[Bm]me de Nestor
 
-Non, c'est la femme d'Hector.
+Non, [F#7]c'est la [Bm]femme d'Hector.[A7]
 
 
-Et quand l'un d'entre nous meurt, Qu'on nous met en demeure
+[D]Et quand l'un d'entre nous [A7]meurt, Qu'on nous [D]met en de[A7]meure
 
-De débarrasser l'hôtel, De ses restes mortels
+[D]De débarrasser l'hô[A7]tel, De ses [D]restes mor[F#7]tels
 
-Quelle est celle qui r'mue tout paris, Pour qu'on lui fasse, au plus bas prix
+Quelle est celle qui r'mue [Bm]tout paris, [F#7]Pour qu'on lui fasse, au [G]plus bas prix
 
-Des funérailles gigantesques, Pas nationales, non, mais presque ?
+Des funérailles gigantesques,[F#7] Pas nationales, non, mais presque ?
 
 
-C'est pas la femme de Bertrand, Pas la femme de Gontran
+[Em]C'est pas la [F#7]femme de Ber[Bm]trand, Pas la femme de Gon[F#7]tran
 
-Pas la femme de Pamphile, C'est pas la femme de Firmin
+Pas la femme de Pam[Bm]phile, [Em]C'est pas la [A7]femme de Fir[D]min
 
-Pas la femme de Germain, Ni celle de Benjamin
+Pas la [Bm]femme de Ger[Em]main, Ni celle [A7]de Benja[D]min
 
-C'est pas la femme d'Honoré, Ni celle de Désiré
+[G]C'est pas la [A7]femme d'Hono[D]ré, Ni celle [B7]de Dési[Em]ré
 
-Ni celle de Théophile, Encore moins la femme de Nestor
+Ni celle [F#7]de Théo[Bm]phile, [Em]Encore [F#7]moins la fem[Bm]me de Nestor
 
-Non, c'est la femme d'Hector.
+Non, [F#7]c'est la [Bm]femme d'Hector.[A7]
 
 
-Et quand vient le mois de mai, Le joli temps d'aimer
+[D]Et quand vient le mois de [A7]mai, Le jo[D]li temps d'ai[A7]mer
 
-Que sans écho, dans les cours, Nous hurlons à l'amour
+[D]Que sans écho, dans les [A7]cours, Nous hur[D]lons à l'a[F#7]mour
 
-Quelle est celle qui nous plaint beaucoup ? Quelle est celle qui nous saute au cou
+Quelle est celle qui nous [Bm]plaint beaucoup ? [F#7]Quelle est celle qui nous [G]saute au cou
 
-Qui nous dispense sa tendresse, Toutes ses économies d'caresses ?
+Qui nous dispense sa tendresse,[F#7] Toutes ses économies d'caresses ?
 
 
-C'est pas la femme de Bertrand, Pas la femme de Gontran
+[Em]C'est pas la [F#7]femme de Ber[Bm]trand, Pas la femme de Gon[F#7]tran
 
-Pas la femme de Pamphile, C'est pas la femme de Firmin
+Pas la femme de Pam[Bm]phile, [Em]C'est pas la [A7]femme de Fir[D]min
 
-Pas la femme de Germain, Ni celle de Benjamin
+Pas la [Bm]femme de Ger[Em]main, Ni celle [A7]de Benja[D]min
 
-C'est pas la femme d'Honoré, Ni celle de Désiré
+[G]C'est pas la [A7]femme d'Hono[D]ré, Ni celle [B7]de Dési[Em]ré
 
-Ni celle de Théophile, Encore moins la femme de Nestor
+Ni celle [F#7]de Théo[Bm]phile, [Em]Encore [F#7]moins la fem[Bm]me de Nestor
 
-Non, c'est la femme d'Hector.
+Non, [F#7]c'est la [Bm]femme d'Hector.[A7]
 
 
-Ne jetons pas les morceaux, De nos cœurs aux pourceaux
+[D]Ne jetons pas les mor[A7]ceaux, De nos [D]cœurs aux pour[A7]ceaux
 
-Perdons pas notre latin, Au profit des pantins
+[D]Perdons pas notre la[A7]tin, Au pro[D]fit des pan[F#7]tins
 
-Chantons pas la langue des dieux, Pour les balourds, les fesses mathieux
+Chantons pas la lan[Bm]gue des dieux, [F#7]Pour les balourds, les [G]fesses mathieux
 
-Les paltoquets, ni les bobèches, Les foutriquets, ni les pimbêches
+Les paltoquets, ni les bobèches,[F#7] Les foutriquets, ni les pimbêches
 
 
-Ni pour la femme de Bertrand, Pour la femme de Gontran
+[Em]Ni pour la [F#7]femme de Ber[Bm]trand, Pour la femme de Gon[F#7]tran
 
-Pour la femme de Pamphile, Ni pour la femme de Firmin
+Pour la femme de Pam[Bm]phile, [Em]Ni pour la [A7]femme de Fir[D]min
 
-Pour la femme de Germain, Pour celle de Benjamin
+Pour la [Bm]femme de Germ[Em]ain, Pour celle [A7]de Benja[D]min
 
-Ni pour la femme d'Honoré, La femme de Désiré
+[G]Ni pour la [A7]femme d'Hono[D]ré, La femme [B7]de Dési[Em]ré
 
-La femme de Théophile, Encore moins pour la femme de Nestor
+La femme [F#7]de Théo[Bm]phile, [Em]Encore [F#7]moins pour la [Bm]femme de Nestor
 
-[F#7]Mais p[Bm]our la femme d'Hector.
+Mais [F#7]pour la [Bm]femme d'Hector.
 
+### Notes
 
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Femme.D.Hector.php?titre=%28La%29+femme+d%27Hector

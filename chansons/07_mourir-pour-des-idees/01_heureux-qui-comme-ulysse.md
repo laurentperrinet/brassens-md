@@ -1,46 +1,47 @@
 ## Heureux qui comme Ulysse
 
 
-[Bm]Heureux qui comme Ulysse, A fai[E]t un beau v[G]oyage [Bm]
+[Bm]Heureux qui comme U[E]lysse, A [G]fait un [A]beau vo[Bm]yage
 
-Heureux qui comme Ulysse, A vu cen[E]t paysages [G] [D]
+Heureux qui comme U[E]lysse, A [G]vu [A]cent pay[D]sages
 
-Et pu[F#]is a retrouvé, [Bm]Après maintes[F#] traversées, Le pa[Bm]ys des vert[G]es années [D] [F#]
+Et [F#]puis a retrou[Bm]vé, Après [F#]maintes traver[Bm]sées, Le pa[G]ys des [D]vertes an[F#]nées
 
-Par un petit matin d'été, Quan[Bm]d le soleil vous c[F#]hante au cœur [E]
+Par un petit ma[Bm]tin d'été, Quand [F#]le soleil vous [Bm]chante au cœur
 
-Qu'elle est belle la liberté[A7], La liberté
-
-
-[F#]Quand on est mieux ici qu'ai[A]lleurs, Quand un ami fait le bonheur
-
-Qu'elle est belle la liberté, La liberté
+Qu'elle [E]est belle la [A]liberté, [F#m]La liber[C#7]té
 
 
-Avec le soleil et le vent, Avec la pluie et le beau temps, On vivait bien contents,
+Quand [F#]on est mieux i[E]ci qu'ailleurs, Quand [D]un ami fait [A]le bonheur
 
-Mon cheval, ma Provence et moi, Mon cheval, ma Provence et moi
-
-
-Heureux qui comme Ulysse, A fait un beau voyage
-
-Heureux qui comme Ulysse, A vu cent paysages
-
-Et puis a retrouvé, Après Maintes traversées, Le pays des vertes années
-
-Par un joli matin d'été, Quand le soleil vous chante au cœur
-
-Qu'elle est belle la liberté, La liberté
+[D]Qu'elle est [Bm]belle [E]la liber[A]té, [E]La [C#7]liber[F#m]té
 
 
-Quand c'en est fini des malheurs, Quand un ami sèche vos pleurs
+A[Bm]vec le soleil [E]et le vent, A[G]vec la [A]pluie et [Bm]le beau temps, On vivait bien con[E]tents,
 
-Qu'elle est belle la liberté, La liberté
-
-
-Battus de soleil et de vent, Perdus au milieu des étangs, On vivra bien contents,
-
-Mon cheval, ma Camargue et moi, Mon cheval, ma Camargue et moi
+Mon che[G]val, [A]ma Pro[D]vence et moi, [Bm]Mon che[E]val, ma Pro[F#]vence et [Bm]moi
 
 
+Heu[Bm]reux qui comme U[E]lysse, A [G]fait un [A]beau vo[Bm]yage
 
+Heureux qui comme U[E]lysse, A [G]vu [A]cent pay[D]sages
+
+Et [F#]puis a retrou[Bm]vé, Après [F#]Maintes traver[Bm]sées, Le [G]pays des [D]vertes an[F#]nées
+
+Par un joli ma[Bm]tin d'été, Quand [F#]le soleil vous [Bm]chante au cœur
+
+Qu'elle [E]est belle la [A7]liberté, [F#m]La liber[C#7]té
+
+
+Quand [F#]c'en est fini [E]des malheurs, Quand [D]un ami sè[A]che vos pleurs
+
+[D]Qu'elle est [Bm]belle [E]la liber[A]té, [E]La [C#7]liber[F#m]té
+
+
+Bat[Bm]tus de soleil [E]et de vent, Per[G]dus au [A]milieu [Bm]des étangs, On vivra bien con[E]tents,
+
+Mon che[G]val, [A]ma Ca[D]margue et moi, [Bm]Mon che[E]val, ma Ca[F#]margue et [Bm]moi
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Heureux.Qui.Comme.Ulysse.php?titre=Heureux+qui+comme+Ulysse

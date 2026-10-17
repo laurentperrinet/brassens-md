@@ -1,85 +1,87 @@
 ## Le fantôme
 
 
-[G]C'était tremblant, c'était troublant, C'était vêtu [E7]d'un drap tout blanc,
+C'é[G]tait tremblant, c'était troublant, [E7]C'était vêtu d'un drap tout blanc,
 
-Ça prés[Am]entait[D7] tous les symptômes, [G]Tous les dehors de[C] la vision, [G]
+Ça [Am]présentait [D7]tous les symp[G]tômes,[G7] Tous [C]les dehors de [G]la vision,
 
-Les fa[B7]ux airs de l'appa[Em]rition,[C] En[G] un [Em]mot,[Am] c'é[D7]tait[G] un fantôme !
-
-
-A sa manière d'avancer, A sa façon de balancer
-
-Les hanches quelque peu convexes, Je compris que j'avais affaire
-
-A quelqu'un du genre que j'préfère : A un fantôme du beau sexe.
+Les [B7]faux airs de l'ap[Em]parition,[C] En un mot, c'était [G]un [Em]fan[Am]tô[G]me !
 
 
-« Je suis un p'tit poucet perdu, Me dit-elle, d'une voix morfondue,
+A [G]sa manière d'avancer, [E7]À sa façon de balancer
 
-Un pauvre fantôme en déroute. Plus de trace des feux follets,
+Les [Am]hanches quelque [D7]peu con[G]vexes,[G7] Je [C]compris que j'a[G]vais affaire
 
-Plus de trace des osselets, Dont j'avais jalonné ma route ! »
-
-
-« Des poètes sans inspiration, Auront pris - quelle aberration ! -
-
-Mes feux follets pour des étoiles. De pauvres chiens de commissaire
-
-Auront croqué - quelle misère ! - Mes osselets bien garnis de moelle. »
+À [B7]quelqu'un du genre [Em]que j'préfère[C] : À un fantôme [G]du [Em]beau [Am]s[D7]e[G]xe.
 
 
-« A l'heure où le coq chantera, J'aurai bonne mine avec mon drap
+« Je [G]suis un p'tit poucet perdu, [E7]Me dit-elle, d'une voix morfondue,
 
-Plein de faux plis et de coutures ! Et dans ce siècle profane où
+Un [Am]pauvre fantôme [D7]en dé[G]route.[G7] Plus [C]de trace des [G]feux follets,
 
-Les gens ne croient plus guère à nous, On va crier à l'imposture. »
-
-
-Moi, qu'un chat perdu fait pleurer, Pensez si j'eus le cœur serré
-
-Devant l'embarras du fantôme. « Venez, dis-je en prenant sa main,
-
-Que je vous montre le chemin, Que je vous reconduise at home »
+Plus [B7]de trace des [Em]osselets,[C] Dont j'avais jalon[G]né [Em]ma [Am]r[D7]ou[G]te ! »
 
 
-L'histoire finirait ici, Mais la brise, et je l'en r'mercie,
+« Des [G]poètes sans inspiration, [E7]Auront pris - quelle aberration ! -
 
-Troussa le drap d'ma cavalière... Dame, il manquait quelques osselets,
+Mes [Am]feux follets [D7]pour des é[G]toiles.[G7] De [C]pauvres chiens de [G]commissaire
 
-Mais le reste, loin d'être laid, Était d'une grâce singulière.
-
-
-Mon Cupidon, qui avait la, Flèche facile en ce temps-là,
-
-Fit mouche et, le feu sur les tempes, Je conviai, sournoisement,
-
-La belle à venir un moment, Voir mes icônes, mes estampes...
+Au[B7]ront croqué - quel[Em]le misère[C] ! - Mes osselets bien gar[G]nis [Em]de [Am]mo[D7]el[G]le. »
 
 
-« Mon cher, dit-elle, vous êtes fou ! J'ai deux mille ans de plus que vous... »
+« A l'[G]heure où le coq chantera, [E7]J'aurai bonne mine avec mon drap
 
-« Le temps, madame, que nous importe ! » - Mettant le fantôme sous mon bras,
+Plein [Am]de faux plis [D7]et de cou[G]tures[G7] ! Et [C]dans ce siècle [G]profane où
 
-Bien enveloppé dans son drap, Vers mes pénates je l'emporte !
-
-
-Eh bien, messieurs, qu'on se le dise : Ces belles dames de jadis
-
-Sont de satanées polissonnes, Plus expertes dans le déduit
-
-Que certaines dames d'aujourd'hui, Et je ne veux nommer personne !
+Les [B7]gens ne croient plus [Em]guère à nous,[C] On va crier à l'[G]im[Em]pos[Am]tu[G]re. »
 
 
-Au p'tit jour on m'a réveillé, On secouait mon oreiller
+Moi, [G]qu'un chat perdu fait pleurer, [E7]Pensez si j'eus le cœur serré
 
-Avec une fougue pleine de promesses. Mais, foin des délices de Capoue !
+De[Am]vant l'embarras [D7]du fan[G]tôme.[G7] « Ve[C]nez, dis-je en pre[G]nant sa main,
 
-C'était mon père criant : « Debout ! Vains dieux, tu vas manquer la messe ! »
-
-
-Mais, foin des délices de Capoue !
-
-C'était mon père criant : « Debout ! Vains dieux, tu vas manquer la messe ! »
+Que [B7]je vous montre [Em]le chemin,[C] Que je vous recon[G]duise [Em]at [Am]h[D7]o[G]me »
 
 
+L'his[G]toire finirait ici, [E7]Mais la brise, et je l'en r'mercie,
+
+Trous[Am]sa le drap [D7]d'ma cava[G]lière...[G7] Dame, [C]il manquait quel[G]ques osselets,
+
+Mais [B7]le reste, loin [Em]d'être laid,[C] Était d'une grâce [G]sin[Em]gu[Am]liè[G]re.
+
+
+Mon [G]Cupidon, qui avait la, [E7]Flèche facile en ce temps-là,
+
+Fit [Am]mouche et, le [D7]feu sur les [G]tempes,[G7] Je [C]conviai, sour[G]noisement,
+
+La [B7]belle à venir [Em]un moment,[C] Voir mes icônes, [G]mes [Em]es[Am]tam[G]pes...
+
+
+« Mon [G]cher, dit-elle, vous êtes fou ! [E7]J'ai deux mille ans de plus que vous... »
+
+« Le [Am]temps, madame, [D7]que nous im[G]porte[G7] ! » - Met[C]tant le fantôme [G]sous mon bras,
+
+Bien [B7]enveloppé [Em]dans son drap,[C] Vers mes pénates [G]je [Em]l'em[Am]por[G]te !
+
+
+Eh [G]bien, messieurs, qu'on se le dise : [E7]Ces belles dames de jadis
+
+[Am]Sont de sata[D7]nées polis[G]sonnes,[G7] Plus [C]expertes dans [G]le déduit
+
+Que [B7]certaines dames [Em]d'aujourd'hui,[C] Et je ne veux nom[G]mer [Em]per[Am]son[G]ne !
+
+
+Au [G]p'tit jour on m'a réveillé, [E7]On secouait mon oreiller
+
+A[Am]vec une fougue [D7]pleine de pro[G]messes.[G7] Mais, [C]foin des délices [G]de Capoue !
+
+C'é[B7]tait mon père cri[Em]ant : « Debout[C] ! Vains dieux, tu vas man[G]quer la [Am]m[D7]es[G]se ! »
+
+
+Mais, [C]foin des délices [G]de Capoue !
+
+C'é[B7]tait mon père cri[Em]ant : « Debout[C] ! Vains dieux, tu vas man[G]quer [Em]la [Am]m[D7]es[G]se ! »
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Fantome.php?titre=%28Le%29+fant%C3%B4me

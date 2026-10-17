@@ -1,45 +1,46 @@
 ## Le roi
 
 
-[Bm]Non certes, elle n'est [F#m]pas bâtie, Non cert[Bm]es, elle n'est pas bât[F#m]ie [Bm]
+[Bm]Non certes, elle [F#m]n'est pas bâtie, [Bm]Non certes, elle [F#m]n'est pas bâ[Bm]tie
 
-[Bm]Sur du sable, sa d[F#m]ynastie, Sur d[Bm]u sable, sa dynas[F#m]tie. [Bm]
+[Bm]Sur du sable, [F#m]sa dynastie, [Bm]Sur du sable, [F#m]sa dynas[Bm]tie.
 
-[Em]Il y a peu[A7] de ch[D]ances qu'o[Bm]n, Détrône le ro[Em]i de[F#7]s cons. [Bm]
+[Em]Il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons.
 
-Il peut dormir, ce souverain, Il peut dormir, ce souverain,
+[Bm]Il peut dormir, [F#m]ce souverain, [Bm]Il peut dormir, [F#m]ce souve[Bm]rain,
 
-Sur ses deux oreilles, serein, Sur ses deux oreilles, serein.
+[Bm]Sur ses deux o[F#m]reilles, serein, [Bm]Sur ses deux o[F#m]reilles, se[Bm]rein.
 
-Il y a peu de chances qu'on, Détrône le roi des cons. Je, tu, il, elle, nous, vous, ils, Je, tu, il, elle, nous, vous, ils,
+[Em]Il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Je, tu, il, el[F#m]le, nous, vous, ils, [Bm]Je, tu, il, el[F#m]le, nous, vous, [Bm]ils,
 
-Tout le monde le suit, docile, Tout le monde le suit, docile
+[Bm]Tout le monde [F#m]le suit, docile, [Bm]Tout le monde [F#m]le suit, do[Bm]cile
 
-Il y a peu de chances qu'on, Détrône le roi des cons. Il est possible, au demeurant, Il est possible, au demeurant,
+[Em]Il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Il est possible, [F#m]au demeurant, [Bm]Il est possible, [F#m]au demeu[Bm]rant,
 
-Qu'on déloge le shah d'Iran, Qu'on déloge le shah d'Iran,
+[Bm]Qu'on déloge [F#m]le shah d'Iran, [Bm]Qu'on déloge [F#m]le shah d'I[Bm]ran,
 
-Mais il y a peu de chances qu'on, Détrône le roi des cons. Qu'un jour on dise : « C'est fini », Qu'un jour on dise: « C'est fini »
+[Em]Mais il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Qu'un jour on di[F#m]se : « C'est fini », [Bm]Qu'un jour on di[F#m]se: « C'est fi[Bm]ni »
 
-Au petit roi de Jordanie, Au petit roi de Jordanie,
+[Bm]Au petit roi [F#m]de Jordanie, [Bm]Au petit roi [F#m]de Jorda[Bm]nie,
 
-Mais il y a peu de chances qu'on, Détrône le roi des cons. Qu'en Abyssinie on récuse, Qu'en Abyssinie on récuse,
+[Em]Mais il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Qu'en Abyssi[F#m]nie on récuse, [Bm]Qu'en Abyssi[F#m]nie on ré[Bm]cuse,
 
-Le roi des rois, le bon Négus, Le roi des rois, le bon Négus,
+[Bm]Le roi des rois, [F#m]le bon Négus, [Bm]Le roi des rois, [F#m]le bon Né[Bm]gus,
 
-Mais il y a peu de chances qu'on, Détrône le roi des cons. Que, sur un air de fandango, Que, sur un air de fandango,
+[Em]Mais il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Que, sur un air [F#m]de fandango, [Bm]Que, sur un air [F#m]de fandan[Bm]go,
 
-On congédie le vieux Franco, On congédie le vieux Franco,
+[Bm]On congédie [F#m]le vieux Franco, [Bm]On congédie [F#m]le vieux Fran[Bm]co,
 
-Mais il y a peu de chances qu'on, Détrône le roi des cons. Que la couronne d'Angleterre, Que la couronne d'Angleterre,
+[Em]Mais il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Que la couron[F#m]ne d'Angleterre, [Bm]Que la couron[F#m]ne d'Angle[Bm]terre,
 
-Ce soir, demain, roule par terre, Ce soir, demain, roule par terre,
+[Bm]Ce soir, demain, [F#m]roule par terre, [Bm]Ce soir, demain, [F#m]roule par [Bm]terre,
 
-Mais il y a peu de chances qu'on, Détrône le roi des cons. Que, ça c'est vu dans le passé, Que, ça c'est vu dans le passé,
+[Em]Mais il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons. [Bm]Que, ça c'est vu [F#m]dans le passé, [Bm]Que, ça c'est vu [F#m]dans le pas[Bm]sé,
 
-Marianne soit renversée, Marianne soit renversée
+[Bm]Marianne [F#m]soit renversée, [Bm]Marianne [F#m]soit renver[Bm]sée
 
-Mais il y a peu de chances qu'on, Détrône le roi des cons.
+[Em]Mais il y [A7]a peu [D]de chances [Bm]qu'on, Détrô[Em]ne le [F#7]roi des [Bm]cons.
 
+### Notes
 
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Roi.php?titre=%28Le%29+roi

@@ -1,93 +1,95 @@
 ## Les oiseaux de passage
 
 
-[Dm]Ô vie heureuse des bourgeois, Qu'avril bourgeonne [C]
+[Dm]Ô vie heureuse des bourgeois, Qu'avril bour[C]geonne
 
-Ou que décembre gèle, Ils son[Bb]t fiers et contents [A]
+Ou que décembre [Bb]gèle, Ils sont fiers et con[A]tents
 
-Ce pigeon est aimé, Troi[Dm]s jours par sa pigeonne [C]
+Ce pigeon est ai[Dm]mé, Trois jours par sa pi[C]geonne
 
-ça lui suffit il sait[Bb], Que l'amou[A]r n'a qu'un temps [Dm]
-
-
-Ce dindon a toujours, Béni sa destinée
-
-Et quand vient le moment, De mourir il faut voir
-
-Cette jeune oie en pleurs : « C'est là que je suis née
-
-Je meurs près de ma mère, Et j'ai fait mon devoir »
+ça lui suffit il [Bb]sait, Que [A]l'amour n'a qu'un [Dm]temps
 
 
-Elle a fait son devoir, C'est-à-dire que Onques
+[Dm]Ce dindon a toujours, Béni sa desti[C]née
 
-Elle n'eut de souhait, Impossible elle n'eut
+Et quand vient le mo[Bb]ment, De mourir il faut [A]voir
 
-Aucun rêve de lune, Aucun désir de jonque
+Cette jeune oie en [Dm]pleurs : « C'est là que je suis [C]née
 
-L'emportant sans rameurs, Sur un fleuve inconnu
-
-
-Et tous sont ainsi faits, Vivre la même vie
-
-Toujours pour ces gens là, Cela n'est point hideux
-
-Ce canard n'a qu'un bec, Et n'eut jamais envie
-
-Ou de n'en plus avoir, Ou bien d'en avoir deux
+Je meurs près de ma [Bb]mère, Et [A]j'ai fait mon de[Dm]voir »
 
 
-Ils n'ont aucun besoin, De baiser sur les lèvres
+[Dm]Elle a fait son devoir, C'est-à-dire que [C]Onques
 
-Et loin des songes vains, Loin des soucis cuisants
+Elle n'eut de sou[Bb]hait, Impossible elle [A]n'eut
 
-Possèdent pour tout cœur, Un viscère sans fièvre
+Aucun rêve de [Dm]lune, Aucun désir de [C]jonque
 
-Un coucou régulier, Et garanti dix ans
-
-
-Ô les gens bien heureux, Tout à coup dans l'espace
-
-Si haut qu'ils semblent aller, Lentement en grand vol
-
-En forme de triangle, Arrivent planent, et passent
-
-Où vont ils ? ... qui sont-ils ? Comme ils sont loin du sol
+L'emportant sans ra[Bb]meurs, Sur [A]un fleuve incon[Dm]nu
 
 
-Regardez les passer, eux, Ce sont les sauvages
+[Dm]Et tous sont ainsi faits, Vivre la même [C]vie
 
-Ils vont où leur désir, Le veut par dessus monts
+Toujours pour ces gens [Bb]là, Cela n'est point hi[A]deux
 
-Et bois, et mers, et vents, Et loin des esclavages
+Ce canard n'a qu'un [Dm]bec, Et n'eut jamais en[C]vie
 
-L'air qu'ils boivent, Ferait éclater vos poumons
-
-
-Regardez les avant, D'atteindre sa chimère
-
-Plus d'un l'aile rompue, Et du sang plein les yeux
-
-Mourra. Ces pauvres gens, Ont aussi femme et mère
-
-Et savent les aimer, Aussi bien que vous, mieux
+Ou de n'en plus a[Bb]voir, Ou [A]bien d'en avoir [Dm]deux
 
 
-Pour choyer cette femme, Et nourrir cette mère
+[Dm]Ils n'ont aucun besoin, De baiser sur les [C]lèvres
 
-Ils pouvaient devenir, Volailles comme vous
+Et loin des songes [Bb]vains, Loin des soucis cui[A]sants
 
-Mais ils sont avant tout, Des fils de la chimère
+Possèdent pour tout [Dm]cœur, Un viscère sans [C]fièvre
 
-Des assoiffés d'azur, Des poètes des fous
-
-
-Regardez les vieux coqs, Jeune Oie édifiante
-
-Rien de vous ne pourra, monter aussi haut qu'eux
-
-Et le peu qui viendra, D'eux à vous c'est leur fiente,
-
-Les bourgeois sont troublés, De voir passer les gueux (couplet bis)
+Un coucou régu[Bb]lier, Et [A]garanti dix [Dm]ans
 
 
+[Dm]Ô les gens bien heureux, Tout à coup dans l'es[C]pace
+
+Si haut qu'ils semblent al[Bb]ler, Lentement en grand [A]vol
+
+En forme de tri[Dm]angle, Arrivent planent, et [C]passent
+
+Où vont ils ? ... qui sont-[Bb]ils ? Comme [A]ils sont loin du [Dm]sol
+
+
+[Dm]Regardez les passer, eux, Ce sont les sau[C]vages
+
+Ils vont où leur dé[Bb]sir, Le veut par dessus [A]monts
+
+Et bois, et mers, et [Dm]vents, Et loin des escla[C]vages
+
+L'air qu'ils boivent, Fe[Bb]rait é[A]clater vos pou[Dm]mons
+
+
+[Dm]Regardez les avant, D'atteindre sa chi[C]mère
+
+Plus d'un l'aile rom[Bb]pue, Et du sang plein les [A]yeux
+
+Mourra. Ces pauvres [Dm]gens, Ont aussi femme et [C]mère
+
+Et savent les ai[Bb]mer, Aus[A]si bien que vous, [Dm]mieux
+
+
+[Dm]Pour choyer cette femme, Et nourrir cette [C]mère
+
+Ils pouvaient deve[Bb]nir, Volailles comme [A]vous
+
+Mais ils sont avant [Dm]tout, Des fils de la chi[C]mère
+
+Des assoiffés d'a[Bb]zur, Des [A]poètes des [Dm]fous
+
+
+[Dm]Regardez les vieux coqs, Jeune Oie édifi[C]ante
+
+Rien de vous ne pour[Bb]ra, monter aussi haut [A]qu'eux
+
+Et le peu qui vien[Dm]dra, D'eux à vous c'est leur [C]fiente,
+
+Les bourgeois sont trou[Bb]blés, De [A]voir passer les [Dm]gueux (couplet bis)
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Oiseaux.De.Passage.php?titre=%28Les%29+oiseaux+de+passage

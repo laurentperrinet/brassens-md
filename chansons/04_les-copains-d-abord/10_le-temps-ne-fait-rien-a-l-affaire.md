@@ -1,43 +1,43 @@
 ## Le temps ne fait rien à l'affaire
 
 
-[Am]Quand ils sont tout neuf[G]s, qu'ils sortent de l'œuf, du coc[F]on [E] [Am]
+[Am]Quand ils sont tout [G]neufs, qu'ils sortent de [F]l'œuf, [E]du co[Am]con
 
-[Am]Tout les jeunes blancs-becs pr[G]ennent les vieux mecs pour des con[F]s [G7] [C] [E]
+[Am]Tout les jeunes blancs-[G]becs prennent les vieux [F]mecs [G7]pour des [C]cons[E]
 
-[Am]Quand ils sont dev'nus d[G]es têtes chenues, des gr[F]isons [E] [Am]
+[Am]Quand ils sont dev'[G]nus des têtes che[F]nues, [E]des gri[Am]sons
 
-[Am]Tous les vieux fourneaux p[G]rennent les jeunots pour des c[F]ons [Em] [Am]
+[Am]Tous les vieux four[G]neaux prennent les jeu[F]nots [Em]pour des [Am]cons
 
-[A7]Moi, qui balance entre deux âges, j'leur[Dm] adresse à tous un messag[G7]e [C] [Dm6] [E]
+[A7]Moi, qui balance entre deux [Dm]âges, j'leur adresse [G7]à tous un mes[C]sa[E]ge
 
 
 Refrain :
 
-[A]Le temps ne fait rien à l'affaire, quand on est con on est con [F#7] [Bm]
+[A]Le temps ne fait rien à l'affaire, quand on est [F#7]con on est [Bm]con
 
-[Bm]Qu'on ait vingt ans qu'on soit grand père, quand on est con on est con [E] [E5] [A]
+[Bm]Qu'on ait vingt ans qu'on soit grand père, quand on est [E]con [E5+]on est [A]con
 
-[A]Entre nous plus de controverse, cons caducs ou cons débutan[A7]ts [A5] [D]
+[A]Entre nous plus de controverse, cons ca[A7]ducs [A5+]ou cons dé[D]butants
 
-[D]Petits cons [Dm6]d'la der[A]nière averse, vi[Bm]eux cons des neiges d'antan [C#]
+[D]Petits cons [Dm6]d'la der[A]nière averse,[Bm] vieux cons des [E7]neiges d'an[C#]tan
 
-[D]Petits cons d[Dm6]'la der[A]nière a[F#7]verse[Bm], vieux cons des nei[E7]ges d'antan [Am]
+[D]Petits cons [Dm6]d'la der[A]nière a[F#7]verse,[Bm] vieux cons des [E7]neiges d'an[Am]tan
 
 
-[Am]Vous, les cons naissants,[G] les cons innocents, les je[F]unes con[E]s [Am]
+[Am]Vous, les cons nais[G]sants, les cons inno[F]cents, [E]les jeunes [Am]cons
 
-[Am]Qui, n'le niez pa[G]s, prenez les papas pou[F]r des [G7]cons [C] [E]
+[Am]Qui, n'le niez [G]pas, prenez les pa[F]pas [G7]pour des [C]cons[E]
 
-[Am]Vous, les cons âgés, l[G]es cons usagés, les vi[F]eux co[E]ns [Am]
+[Am]Vous, les cons â[G]gés, les cons usa[F]gés, [E]les vieux [Am]cons
 
-[Am]Qui, confessez-le, p[G]renez les p'tits bleus pour [F]des c[Em]ons [Am]
+[Am]Qui, confessez-[G]le, prenez les p'tits [F]bleus [Em]pour des [Am]cons
 
-[A7]Méditez l'impartial message, [Dm]d'un qui balance entre de[G7]ux âges [C] [Dm6] [E]
+[A7]Méditez l'impartial mes[Dm]sage, d'un qui ba[G7]lance entre deux [Dm6]â[E]ges
 
 
 Refrain avec La Mi7 La à la fin
 
+### Notes
 
-
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Temps.Ne.Fait.Rien.A.L.Affaire.php?titre=%28Le%29+temps+ne+fait+rien+%C3%A0+l%27affaire

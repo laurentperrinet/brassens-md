@@ -1,44 +1,45 @@
 ## Le pêcheur
 
 
-[Bm]On dirait un fanatique, De la cause halieutique, Avec sa belle canne et, So[G]n mo[F#7]ulinet. [Bm] [B7]
+On di[Bm]rait un fanatique, De la cause halieutique, Avec sa [G]bel[F#7]le canne [Bm]et, Son mouli[B7]net.
 
-Mais s'il pêc[Em]he, c'est pour rire, Et l'on peut être c[A7]ertain, Que jama[D]is sa poêle à f[G]rire, Vit le plus men[Em6]u fretin. [F#7] [Bm] [Em6] [F#7]
-
-
-La pêche, à ce qu'on raconte, Pour lui n'est en fin de compte, Qu'un prétexte, un alibi, On connaît pis
-
-Un truc, un moyen plausible, De fuir un peu son chez-soi, Où sévit la plus nuisible, Des maritornes qui soient.
+Mais s'il [Em]pêche, c'est pour rire, Et l'on [A7]peut être cer[D]tain, Que ja[G]mais sa poêle à [Em6]frire, Vit le [F#7]plus menu fre[Bm]tin.
 
 
-Avec une joie maligne, Il monte au bout de sa ligne, Tout un tas d'objets divers, Des bouts de fer,
+La pêche, [Bm]à ce qu'on raconte, Pour lui n'est en fin de compte, Qu'un prétexte, un [G]ali[F#7]bi, On [Bm]connaît [B7]pis
 
-Des paillassons, des sandales, Des vieilles chaussettes à clous, Des noyés faisant scandale, Aussitôt qu'on les renfloue.
-
-
-Si, déçu par une blonde, Pensant faire un trou dans l'onde, Tu tiens plus à te noyer, Qu'à te mouiller,
-
-Désespéré, fais en sorte, D'aller piquer ton plongeon, De peur qu'il ne te ressorte, A l'écart de son bouchon.
+Un truc, [Em]un moyen plausible, De fuir [A7]un peu son chez-[D]soi, Où sé[G]vit la plus nui[Em6]sible, Des ma[F#7]ritornes qui [Bm]soient.
 
 
-Quand un goujon le taquine, Qu'un gardon d'humeur coquine, Se laisse pour badiner, Hameçonner,
+Avec [Bm]une joie maligne, Il monte au bout de sa ligne, Tout un [G]tas [F#7]d'objets di[Bm]vers, Des bouts de [B7]fer,
 
-Le bonhomme lui reproche, Sa conduite puérile, Puis à sa queue il accroche, Un petit poisson d'avril.
-
-
-Mais s'il attrape une ondine, L'une de ces gourgandines, Femme mi-chair mi-poisson, Le polisson
-
-Coup de théâtre, dévore, Tout cru le bel animal : Une cure de phosphore, Ça peut pas faire de mal.
+Des pail[Em]lassons, des sandales, Des vieil[A7]les chaussettes à [D]clous, Des no[G]yés faisant scan[Em6]dale, Aussi[F#7]tôt qu'on les ren[Bm]floue.
 
 
-Quand il mourra, quand la Parque, L'emmènera dans sa barque, En aval et en amont, Truites, saumons,
+Si, dé[Bm]çu par une blonde, Pensant faire un trou dans l'onde, Tu tiens [G]plus [F#7]à te no[Bm]yer, Qu'à te mouil[B7]ler,
 
-Le crêpe à la queue sans doute, L'escorteront chagrinés, Laissant la rivière toute, Vide, désempoissonnée.
-
-
-Lors, tombés dans la disette, Repliant leurs épuisettes, Tout penauds, tout pleurnicheurs, Les vrais pêcheurs
-
-Rentreront chez eux bredouilles, Danser devant le buffet, Se faisant traiter d'andouilles, Par leur compagne. Bien fait !
+Déses[Em]péré, fais en sorte, D'aller [A7]piquer ton plon[D]geon, De peur [G]qu'il ne te res[Em6]sorte, À l'é[F#7]cart de son bou[Bm]chon.
 
 
+Quand un [Bm]goujon le taquine, Qu'un gardon d'humeur coquine, Se lais[G]se [F#7]pour badi[Bm]ner, Hameçon[B7]ner,
 
+Le bon[Em]homme lui reproche, Sa con[A7]duite pué[D]rile, Puis à [G]sa queue il ac[Em6]croche, Un pe[F#7]tit poisson d'a[Bm]vril.
+
+
+Mais s'il [Bm]attrape une ondine, L'une de ces gourgandines, Femme [G]mi-[F#7]chair mi-pois[Bm]son, Le polis[B7]son
+
+Coup de [Em]théâtre, dévore, Tout cru [A7]le bel ani[D]mal : Une [G]cure de phos[Em6]phore, Ça peut [F#7]pas faire de [Bm]mal.
+
+
+Quand il [Bm]mourra, quand la Parque, L'emmènera dans sa barque, En a[G]val [F#7]et en a[Bm]mont, Truites, sau[B7]mons,
+
+Le crêpe [Em]à la queue sans doute, L'escor[A7]teront chagri[D]nés, Laissant [G]la rivière [Em6]toute, Vide, [F#7]désempoisson[Bm]née.
+
+
+Lors, tom[Bm]bés dans la disette, Repliant leurs épuisettes, Tout pe[G]nauds, [F#7]tout pleurni[Bm]cheurs, Les vrais pê[B7]cheurs
+
+Rentre[Em]ront chez eux bredouilles, Danser [A7]devant le buf[D]fet, Se fai[G]sant traiter d'an[Em6]douilles, Par leur [F#7]compagne. Bien [Bm]fait !
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Pecheur.php?titre=%28Le%29+p%C3%AAcheur

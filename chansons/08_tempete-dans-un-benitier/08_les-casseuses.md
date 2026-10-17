@@ -1,51 +1,52 @@
 ## Les casseuses
 
 
-[Bb]Tant qu'elle a besoin du matou[F7], Ma chatte est tendre comme tout, [Bb]
+[Bb]Tant qu'elle a besoin [F7]du matou, Ma chatte est tendre comme [Bb]tout,
 
-[Bb]Quand elle est comblée, aussitôt, E[F7]lle griffe, elle mord, elle fait l'gros dos. [Bb]
+Quand elle est comblée, [F7]aussitôt, Elle griffe, elle mord, elle fait l'gros [Bb]dos.
 
 
 Refrain :
 
-Quand vous ne nous [G7]les caressez, Pas, ché[F]ries,[A] vous nous [A7]les cassez. [Bb]
+Quand vous [C]ne nous les cares[F]sez, [A]Pas, ché[A7]ries, vous nous les cas[Bb]sez.
 
-Oubliez[F]-les, si fair[C7]e se peut[F], Qu'e[G7]lles se reposent. [C7]
+Oubli[F]ez-les, si faire se [F]peut, [G7]Qu'elles se re[C7]posent.
 
-Quand vous nous les[C] dorlotez pas, Vous nous[F] les [A]passez à tabac. [A7] [Bb]
+Quand vous [C]nous les dorlotez [F]pas, [A]Vous nous [A7]les passez à ta[Bb]bac.
 
-Oubliez[F]-les, si faire se peut, Qu'el[Cm]les se reposent un peu, [D7]
+Oubli[F]ez-les, si faire se peut, [Cm]Qu'elles se reposent un [D7]peu,
 
-Qu'elles se reposent. [G7] [C7] [F7]
-
-
-Enamourée, ma femme est douce, Mes amis vous le diront tous.
-
-Après l'étreinte, en moins de deux, Ell' r'devient un bâton merdeux.
+Qu'elles se re[G7]p[C7]o[F7]sent.
 
 
-Refrain
+[Bb]Enamourée, ma [F7]femme est douce, Mes amis vous le diront [Bb]tous.
 
-
-Dans l'alcôve, on est bien reçus, Par la voisine du dessus.
-
-Une fois son désir assouvi, Ingrate, elle nous les crucifie.
+Après l'étreinte, en [F7]moins de deux, Ell' r'devient un bâton mer[Bb]deux.
 
 
 Refrain
 
 
-Quand elle passe en revue les zouaves, Ma sœur est câline et suave.
+[Bb]Dans l'alcôve, on est [F7]bien reçus, Par la voisine du des[Bb]sus.
 
-Dès que s'achève l'examen, Gare à qui tombe sous sa main.
+Une fois son désir [F7]assouvi, Ingrate, elle nous les cruci[Bb]fie.
 
 
 Refrain
 
 
-Si tout le monde en ma maison, Reste au lit plus que de raison,
+[Bb]Quand elle passe en re[F7]vue les zouaves, Ma sœur est câline et su[Bb]ave.
 
-C'est pas qu'on soit lubriques, c'est qu'il, Y a guère que là qu'on est tranquille.
+Dès que s'achève [F7]l'examen, Gare à qui tombe sous sa [Bb]main.
 
 
+Refrain
 
+
+[Bb]Si tout le monde en [F7]ma maison, Reste au lit plus que de rai[Bb]son,
+
+C'est pas qu'on soit lu[F7]briques, c'est qu'il, Y a guère que là qu'on est tran[Bb]quille.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Casseuses.php?titre=%28Les%29+casseuses

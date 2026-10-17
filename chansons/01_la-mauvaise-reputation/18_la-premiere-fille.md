@@ -1,45 +1,47 @@
 ## La première fille
 
 
-[D]J'ai tout oublié des campagnes, d'Austerlitz et[F#] de Waterloo [Bm]
+[D]J'ai tout oublié des campagnes, [F#]d'Austerlitz et de Water[Bm]loo
 
-[G]D'Italie de Prusse et d'Es[F#]pagne, d[Bm]e Ponto[E]ise et de Lander[A7]neau [D] [E]
-
-
-[A]Jamais de la vie, On ne l'oub[E7]liera, La première fi[A]lle qu'on a pris dans ses bras [F#m] [C#m]
-
-La pr[D]emière étrangère, A[A] qui l'[D]on a dit tu, Mon[C#7] cœur[F#m] t'en souviens-tu, Comme elle nous était chè[Bm]re ? [E7]
-
-Qu'elle soi[A]t fille honnête, Ou fille de r[E7]ien, Qu'elle soit pucelle, O[A]u qu'elle soit putain, [F#m] [C#m]
-
-On se[D] souvient d'elle, O[A]n s'en sou[D]viendra, La pre[C#7]mière[F#m] fille, Qu'on[Bm] a pris dans ses bras. [E7] [A]
+[G]D'Italie [A]de Prusse [F#]et d'Es[Bm]pagne,[E] de Pontoise [A7]et de Lander[D]neau[E]
 
 
-Ils sont partis à tire-d'aile, Mes souvenirs de la Suzon,
+Ja[A]mais de la vie, On [Adim]ne l'oublie[A]ra, La première fille qu'on a [F#m]pris dans ses [C#m]bras
 
-Et ma mémoire est infidèle, A Julie, Rosette ou Lison !
+La [D]première étran[A]gère, À [D]qui l'on a dit [C#7]tu, [F#m]Mon cœur t'en souviens-tu, Comme [Bm]elle nous était [E7]chère ?
 
+Qu'elle [A]soit fille honnête, Ou [Adim]fille de [A]rien, Qu'elle soit pucelle, Ou qu'el[F#m]le soit pu[C#m]tain,
 
-Jamais de la vie, On ne l'oubliera, La première fille, Qu'on a pris dans ses bras,
-
-C'était une bonne affaire, Mon cœur t'en souviens-tu ? J'ai changé ma vertu Contre une primevère
-
-Qu'ce soit en grande pompe, Comme les gens biens, Ou bien dans la rue, Comme les pauvres et les chiens,
-
-On se souvient d'elle, On s'en souviendra, D'la première fille, Qu'on a pris dans ses bras.
+[D]On se souvient [A]d'elle, [D]On s'en souvien[C#7]dra, La première [Bm]fille, Qu'on a pris [E7]dans ses [A]bras.
 
 
-Toi, qui m'as donné le baptême, D'amour et de septième ciel,
+[D]Ils sont partis à tire-d'aile, [F#]Mes souvenirs de la Su[Bm]zon,
 
-Moi je te garde et moi je t'aime, Dernier cadeau du père noël
-
-
-Jamais de la vie, On ne l'oubliera, La première fille, Qu'on a pris dans ses bras
-
-On a beau faire le brave, Quand elle s'est mise nue, Mon cœur t'en souviens-tu, On n'en menait pas large ?
-
-Bien d'autres sans doutes, Depuis, sont venues, Oui, mais entre toutes, Celles qu'on a connues,
-
-Elle est la dernière, Que l'on oubliera, La première fille, Qu'on a pris dans ses bras.
+[G]Et ma mé[A]moire est [F#]infi[Bm]dèle,[E] À Julie, [A7]Rosette ou Li[D]son[E] !
 
 
+Ja[A]mais de la vie, On [Adim]ne l'oublie[A]ra, La première fille, Qu'on a [F#m]pris dans ses [C#m]bras,
+
+C'é[D]tait une bonne af[A]faire, Mon [D]cœur t'en souviens-[C#7]tu ? [F#m]J'ai changé ma vertu Contre [Bm]une prime[E7]vère
+
+Qu'ce [A]soit en grande pompe, Com[Adim]me les gens [A]biens, Ou bien dans la rue, Comme les [F#m]pauvres et les [C#m]chiens,
+
+[D]On se souvient [A]d'elle, [D]On s'en souvien[C#7]dra, [F#m]D'la première [Bm]fille, Qu'on a pris [E7]dans ses [A]bras.
+
+
+[D]Toi, qui m'as donné le baptême, [F#]D'amour et de septième [Bm]ciel,
+
+[G]Moi je te [A]garde et [F#]moi je [Bm]t'aime,[E] Dernier ca[A7]deau du père [D]noël[E]
+
+
+Ja[A]mais de la vie, On [Adim]ne l'oublie[A]ra, La première fille, Qu'on a [F#m]pris dans ses [C#m]bras
+
+On [D]a beau faire le [A]brave, Quand [D]elle s'est mise [C#7]nue, [F#m]Mon cœur t'en souviens-tu, On [Bm]n'en menait pas [E7]large ?
+
+Bien [A]d'autres sans doutes, De[Adim]puis, sont ve[A]nues, Oui, mais entre toutes, Celles [F#m]qu'on a con[C#m]nues,
+
+[D]Elle est la der[A]nière, [D]Que l'on oublie[C#7]ra, [F#m]La première [Bm]fille, Qu'on a pris [E7]dans ses [A]bras.[A]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Premiere.Fille.php?titre=%28La%29+premi%C3%A8re+fille

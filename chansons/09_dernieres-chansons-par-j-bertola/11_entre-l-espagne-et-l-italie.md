@@ -1,45 +1,46 @@
 ## Entre l'Espagne et l'Italie
 
 
-[A]Le géographe était pris de f[E7]olie, Quand il ima[A]gina de tendre, [E7]
+[A]Le géographe était [E7]pris de folie, Quand [A]il imagina de [E7]tendre,
 
-[A]Tout juste entre l'Espagne et l'Italie, Ma ca[E7]rte du Tendr[A]e. [E7]
+[A]Tout juste entre l'Espagne [E7]et l'Italie, Ma [A]carte du [E7]Tendre.
 
-Avec moi C[A7]upidon se surmène, Dans mon cœ[D]ur d'artichaut il piq[Bb]ua [A]
+Avec [A7]moi Cupidon se sur[D]mène, Dans mon [Bb]cœur d'artichaut il pi[A]qua
 
-Deux flèche[A7]s : l'une au nom de Carmen(e), La seconde a[D]u nom de Francesca. [Dm] [E7]
+Deux flè[A7]ches : l'une au nom de Car[D]men(e), La se[Dm]conde au nom de Frances[E7]ca.
 
-Les soirs de bal, j'enlace tour à tour, Je fais danser chacune d'elles :
+[A]Les soirs de bal, j'enla[E7]ce tour à tour, Je [A]fais danser chacune [E7]d'elles :
 
-Un pied pour la séguedille, un pied pour, La gaie tarentelle.
+[A]Un pied pour la ségue[E7]dille, un pied pour, La [A]gaie taren[E7]telle.
 
-Avec moi Cupidon se surmène, Dans mon cœur d'artichaut il piqua
+Avec [A7]moi Cupidon se sur[D]mène, Dans mon [Bb]cœur d'artichaut il pi[A]qua
 
-Deux flèches : l'une au nom de Carmen(e), La seconde au nom de Francesca. Sans guère songer à ce que demain, Le coquin de sort me destine,
+Deux flè[A7]ches : l'une au nom de Car[D]men(e), La se[Dm]conde au nom de Frances[E7]ca. [A]Sans guère songer à [E7]ce que demain, Le [A]coquin de sort me des[E7]tine,
 
-J'avance en tenant ferme à chaque main, Mes deux sœurs latines.
+[A]J'avance en tenant ferme [E7]à chaque main, Mes [A]deux sœurs la[E7]tines.
 
-Avec moi Cupidon se surmène, Dans mon cœur d'artichaut il piqua
+Avec [A7]moi Cupidon se sur[D]mène, Dans mon [Bb]cœur d'artichaut il pi[A]qua
 
-Deux flèches : l'une au nom de Carmen(e), La seconde au nom de Francesca. Si jamais l'une d'elles un jour apprend, Qu'elle n'est pas tout à fait seule,
+Deux flè[A7]ches : l'une au nom de Car[D]men(e), La se[Dm]conde au nom de Frances[E7]ca. [A]Si jamais l'une d'elles [E7]un jour apprend, Qu'el[A]le n'est pas tout à fait [E7]seule,
 
-J'ai plus qu'à courir chez le tisserand, Choisir un linceul
+[A]J'ai plus qu'à courir chez [E7]le tisserand, [A]Choisir un lin[E7]ceul
 
-Avec moi Cupidon se surmène, Dans mon cœur d'artichaut il piqua
+Avec [A7]moi Cupidon se sur[D]mène, Dans mon [Bb]cœur d'artichaut il pi[A]qua
 
-Deux flèches : l'une au nom de Carmen(e), La seconde au nom de Francesca. On me verrait pris dans cette hypothèse Entre deux mégères ardentes,
+Deux flè[A7]ches : l'une au nom de Car[D]men(e), La se[Dm]conde au nom de Frances[E7]ca. [A]On me verrait pris dans [E7]cette hypothèse En[A]tre deux mégères ar[E7]dentes,
 
-Entre deux feux : l'enfer de Cervantès Et l'enfer de Dante !
+[A]Entre deux feux : l'enfer [E7]de Cervantès Et [A]l'enfer de [E7]Dante !
 
-Avec moi Cupidon se surmène, Dans mon coeur d'artichaut il piqua
+Avec [A7]moi Cupidon se sur[D]mène, Dans mon [Bb]coeur d'artichaut il pi[A]qua
 
-Deux flèches : l'une au nom de Carmen(e), La seconde au nom de Francesca. Devant la faucheuse s'il faut plus tard, Pauvre de moi, que je m'incline,
+Deux flè[A7]ches : l'une au nom de Car[D]men(e), La se[Dm]conde au nom de Frances[E7]ca. [A]Devant la faucheuse [E7]s'il faut plus tard, Pau[A]vre de moi, que je m'in[E7]cline,
 
-Qu'on me porte en terre au son des guitares Et des mandolines !
+[A]Qu'on me porte en terre au [E7]son des guitares [A]Et des mando[E7]lines !
 
-[A7]Avec moi Cupidon se surmène, D[D]ans mon coeur d'artic[Bb]haut il piqua [A]
+Avec [A7]moi Cupidon se sur[D]mène, Dans mon [Bb]coeur d'artichaut il pi[A]qua
 
-[A7]Deux flèches : l'une au nom de Carmen(e), L[D]a seconde au nom de Francesca[Bm]. [E7] [A]
+Deux flè[A7]ches : l'une au nom de Car[D]men(e), La se[Bm]conde au nom [E7]de Frances[A]ca.
 
+### Notes
 
-
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Entre.L.Espagne.Et.L.Italie.php?titre=Entre+l%27Espagne+et+l%27Italie

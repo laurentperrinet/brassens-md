@@ -1,39 +1,41 @@
 ## La chasse aux papillons
 
 
-[A]Un bon petit diable à la fleur de[A5] l'âge, L[D]a j[E7]ambe légère et l'[A]œil polisson [D] [A] [E7]
+[A]Un bon petit diable à la [A5+]fleur de l'[D]âge, [E7]La jambe lé[A]gère et l'œil [D]po[A]lis[E7]son
 
-[A]Et la bouche pleine de joyeux ramage[A5]s, Alla[D]it à la[E7] chasse aux[A] papillon[F#7]s [Bm] [E7] [A]
+[A]Et la bouche pleine de jo[A5+]yeux ra[D]mages, [E7]Allait à la [A]chasse [F#7]aux [Bm]pa[E7]pil[A]lons
 
-[A]Comme il atteignait l'orée du vil[A5]lage, Fil[D]ant[E7] sa quenouille, i[A]l vit Cendrillo[D]n [A] [E7]
+[A]Comme il atteignait l'orée [A5+]du vil[D]lage, [E7]Filant sa que[A]nouille, il vit [D]Cen[A]dril[E7]lon
 
-[A]Il lui dit : « Bonjour, que Dieu te [A5]ménage,[D] J't'em[E7]mène à la chasse aux papil[A]lon[F#7]s » [Bm] [E7] [A]
+[A]Il lui dit : « Bonjour, que Dieu [A5+]te mé[D]nage, [E7]J't'emmène à la [A]chasse [F#7]aux [Bm]pa[E7]pil[A]lons »
 
-[A7]Cendrillon ravie[D] de quitter [A7]sa cage,[D] Met s[A7]a robe neuve et s[D]es bottillons [A7] [D]
+[A7]Cendrillon ra[D]vie de quit[A7]ter sa [D]cage, [A7]Met sa robe [D]neuve et ses [A7]bottil[D]lons
 
-[F#7]Et bras d'ssus bras d'ssous ve[Bm]rs les frais boca[F#7]ges, Il[Bm]s vont [F#m]à la chasse au[G#7]x papillons [C#] [E7]
+[F#7]Et bras d'ssus bras d's[Bm]sous vers les [F#7]frais bo[Bm]cages, [F#m]Ils vont à la [G#7]chasse aux papil[C#]lons[E7]
 
-[A]Ils ne savaient pas que sous les omb[A5]rages, Se[D] cacha[E7]it l'amour et son[A] aiguillon [D] [A] [E7]
+[A]Ils ne savaient pas que sous [A5+]les om[D]brages, [E7]Se cachait l'a[A]mour et son [D]ai[A]guil[E7]lon
 
-[A]Et qu'il transperçait les cœurs de l[A5]eur âge[D], Les cœurs[E7] des chasseurs de papillons [A] [F#7] [Bm] [E7] [A]
-
-
-[A]Quand il se fit tendre, elle lui dit : « J'[A5]présage, [D]Qu'[E7]c'est pas dans les plis de [A]mon cotillon [D] [A] [E7]
-
-[A]Ni dans l'échancrure de mon corsage,[A5] Qu'on [D]va à la[E7] chasse aux[A] papillon[F#7]s » [Bm] [E7] [A]
-
-[A7]Sur sa bouche en feu qu[D]i criait : «[A7] Sois sage ! » [D]Il pos[A7]a sa bouche en gu[D]ise de bâillon [A7] [D]
-
-[F#7]Et c'fut l'plus charm[Bm]ant des remue-mén[F#7]age, Qu[Bm]'on ait[F#m] vu d'mémoire [G#7]de papillon [C#] [E7]
-
-[A]Un volcan dans l'âme, ils r'vinrent au villa[A5]ge, En se[D] pr[E7]omettant d'aller [A]des millions [D] [A] [E7]
-
-[A]Des milliards de fois, et même davan[A5]tage, E[D]nsemble[E7] à la chass[A]e aux pap[F#7]illon[Bm]s [E7] [A]
-
-[A]Mais tant qu'ils s'aimeront, tant que les nuages[A5], Porteur[D]s d[E7]e chagrins, les é[A]pargneront [D] [A] [E7]
-
-[A]Il f'ra bon voler dans les fr[A5]ais bocages, [D]Ils f'[E7]ront pas la chasse aux p[A]apillons [G#]
-
-[D]Pas la chasse aux papill[A]ons [E] [A] [E] [A]
+[A]Et qu'il transperçait les cœurs [A5+]de leur [D]âge, [E7]Les cœurs des chas[A]seurs [F#7]de [Bm]pa[E7]pil[A]lons[F]
 
 
+[Bb]Quand il se fit tendre, elle lui [Bb5+]dit : « J'pré[Eb]sage, [F7]Qu'c'est pas dans les [Bb]plis de mon [Gm]co[Cm]til[F7]lon
+
+[Bb]Ni dans l'échancrure de [Bb5+]mon cor[Eb]sage, [F7]Qu'on va à la [Bb]chasse [Gm]aux [Cm]pa[F7]pil[Bb]lons »
+
+[Bb]Sur sa bouche en feu qui cri[Bb5+]ait : « Sois [Eb]sage ! » [F7]Il posa sa [Bb]bouche en guise [Gm]de [Cm]bâil[F7]lon
+
+[Bb]Et c'fut l'plus charmant des re[Bb5+]mue-mé[Eb]nage, [F7]Qu'on ait vu d'mé[Bb]moire [Gm]de [Cm]pa[F7]pil[Bb]lon
+
+Un volcan dans [Eb]l'âme, ils r'vinrent [Bb]au vil[Eb]lage, [Bb]En se promet[Eb]tant d'aller [Bb]des mil[Eb]lions
+
+[G]Des milliards de [Cm]fois, et même [G]davan[Cm]tage, [Gm]Ensemble à la [A]chasse aux papil[D7]lons[F7]
+
+[Bb]Mais tant qu'ils s'aimeront, tant que [Bb5+]les nu[Eb]ages, [F7]Porteurs de cha[Bb]grins, les é[Gm]par[Cm]gne[F7]ront
+
+[Bb]Il f'ra bon voler dans les [Bb5+]frais bo[Eb]cages, [F7]Ils f'ront pas la [Bb]chasse [A]aux papil[D]lons
+
+[Eb]Pas la chasse aux [Bb]pa[F7]pil[Bb]lons[Bb]
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Chasse.Aux.Papillons.php?titre=%28La%29+chasse+aux+papillons

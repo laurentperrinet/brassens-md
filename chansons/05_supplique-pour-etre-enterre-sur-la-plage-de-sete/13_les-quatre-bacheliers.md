@@ -1,48 +1,50 @@
 ## Les quatre bacheliers
 
 
-[A]Nous étions quatre b[F#m]acheliers[Bm], San[D]s v[F#m]ergogne[Bm7], La [E7]vrai[A]e crème des écoliers, [F#m]Des éc[Bm]olie[F#m]rs. [E7] [A] [G7]
+[A]Nous étions qua[F#m]tre bache[Bm]liers, [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]La vraie crème [F#m]des éco[Bm]liers,[F#m] Des [E7]éco[A]liers.[G7]
 
-[C]Pour offrir aux fill[Am]es des fle[Dm]urs, [F]San[Am]s  ver[Dm7]gogne[G7], Nou[C]s nous fîmes un peu voleu[Am]rs, Un pe[Dm]u vo[Am]leur[G7]s. [C] [E7]
-
-
-Les sycophantes du pays, Sans vergogne, Aux gendarmes nous ont trahis, Nous ont trahis.
-
-Et l'on vit quatre bacheliers, Sans vergogne, Qu'on emmène, les mains liées, Les mains liées.
+[C]Pour offrir aux [Am]filles des [Dm]fleurs, [F]S[Am]ans ver[Dm7]go[G7]gne, [C]Nous nous fîmes [Am]un peu vo[Dm]leurs,[Am] Un [G7]peu vo[C]leurs.[E7]
 
 
-On fit venir à la prison, Sans vergogne, Les parents des mauvais garçons, Mauvais garçons.
+[A]Les sycophantes [F#m]du pays,[Bm] [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]Aux gendarmes [F#m]nous ont tra[Bm]his,[F#m] Nous [E7]ont tra[A]his.[G7]
 
-Les trois premiers pères, les trois, Sans vergogne, En perdirent tout leur sang-froid, Tout leur sang-froid.
-
-
-Comme un seul ils ont déclaré, Sans vergogne, Qu'on les avait déshonorée, Déshonorés.
-
-Comme un seul ont dit : « C'est fini », Sans vergogne, « Fils indigne, je te renie, Je te renie. »
+[C]Et l'on vit qua[Am]tre bache[Dm]liers, [F]S[Am]ans ver[Dm7]go[G7]gne, [C]Qu'on emmène, [Am]les mains li[Dm]ées,[Am] Les [G7]mains li[C]ées.[E7]
 
 
-Le quatrième des parents, Sans vergogne, C'était le plus gros, le plus grand, Le plus grand.
+[A]On fit venir à [F#m]la prison,[Bm] [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]Les parents des [F#m]mauvais gar[Bm]çons,[F#m] Mau[E7]vais gar[A]çons.[G7]
 
-Quand il vint chercher son voleur, Sans vergogne, On s'attendait à un malheur, A un malheur.
-
-
-Mais il n'a pas déclaré, non, Sans vergogne, Que l'on avait sali son nom, Sali son nom.
-
-Dans le silence on l'entendit, Sans vergogne, Qui lui disait : « Bonjour, petit, Bonjour petit. »
+[C]Les trois premiers [Am]pères, les [Dm]trois, [F]S[Am]ans ver[Dm7]go[G7]gne, [C]En perdirent [Am]tout leur sang-[Dm]froid,[Am] Tout [G7]leur sang-[C]froid.[E7]
 
 
-On le vit, on le croirait pas, Sans vergogne, Lui tendre sa blague à tabac, Blague à tabac.
+[A]Comme un seul ils [F#m]ont décla[Bm]ré, [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]Qu'on les avait dé[F#m]shonorée, [Bm]Dé[E7]shono[A]rés.[G7]
 
-Je ne sais pas s'il eut raison, Sans vergogne, D'agir d'une telle façon, Telle façon.
-
-
-Mais je sais qu'un enfant perdu, Sans vergogne, A de la corde de pendu, De pendu,
-
-A de la chance quand il a, Sans vergogne, Un père de ce tonneau-là, Ce tonneau-là.
+[C]Comme un seul ont [Am]dit : « C'est fi[Dm]ni », [F]S[Am]ans ver[Dm7]go[G7]gne, « [C]Fils indigne, [Am]je te re[Dm]nie,[Am] Je [G7]te re[C]nie.[E7] »
 
 
-Et si les chrétiens du pays, Sans vergogne, Jugent que cet homme a failli, Homme a failli.
+[A]Le quatrième [F#m]des parents,[Bm] [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]C'était le plus [F#m]gros, le plus [Bm]grand,[F#m] Le plus [A]grand.[G7]
 
-Ça laisse à penser que, pour eux, Sans vergogne, L'Évangile, c'est de l'hébreu, C'est de l'hébreu.
+[C]Quand il vint cher[Am]cher son vo[Dm]leur, [F]S[Am]ans ver[Dm7]go[G7]gne, [C]On s'attendait à [Am]un malheur,[Am] [Dm]À [G7]un mal[C]heur.[E7]
 
 
+[A]Mais il n'a pas dé[F#m]claré, [Bm]non, [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]Que l'on avait sa[F#m]li son nom,[F#m] [Bm]Sa[E7]li son [A]nom.[G7]
+
+[C]Dans le silence on [Am]l'entendit,[Dm] [F]S[Am]ans ver[Dm7]go[G7]gne, [C]Qui lui disait : « Bon[Am]jour, petit,[Am] [Dm]Bon[G7]jour pe[C]tit.[E7] »
+
+
+[A]On le vit, on [F#m]le croirait [Bm]pas, [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]Lui tendre sa [F#m]blague à ta[Bm]bac,[F#m] Blague [E7]à ta[A]bac.[G7]
+
+[C]Je ne sais pas s'il [Am]eut raison,[Dm] [F]S[Am]ans ver[Dm7]go[G7]gne, [C]D'agir d'une [Am]telle fa[Dm]çon,[Am] Tel[G7]le fa[C]çon.[E7]
+
+
+[A]Mais je sais qu'un [F#m]enfant per[Bm]du, [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]A de la corde [F#m]de pendu,[F#m] [Bm]De pen[A]du,[G7]
+
+[C]A de la chance [Am]quand il a,[Dm] [F]S[Am]ans ver[Dm7]go[G7]gne, [C]Un père de [Am]ce tonneau-[Dm]là,[Am] Ce [G7]tonneau-[C]là.[E7]
+
+
+[A]Et si les chré[F#m]tiens du [Bm]pays, [D]S[F#m]ans ver[Bm7]go[E7]gne, [A]Jugent que cet [F#m]homme a fail[Bm]li,[F#m] Homme [E7]a fail[A]li.[G7]
+
+[C]Ça laisse à pen[Am]ser que, pour [Dm]eux, [F]S[Am]ans ver[Dm7]go[G7]gne, [C]L'Évangile, [Am]c'est de l'hé[Dm]breu,[Am] C'est [G7]de l'hé[C]breu.
+
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Quatre.Bacheliers.php?titre=%28Les%29+quatre+bacheliers

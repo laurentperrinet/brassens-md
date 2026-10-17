@@ -1,100 +1,101 @@
 ## À l'ombre des maris
 
 
-[C]Les dragons de vertu n'e[G7]n pren[C]nent pas ombrage, Si j'[G7]avais eu l'[C]honneur de commander à bord [E7]
+[C]Les dragons de ver[G7]tu n'en [C]prennent pas om[G7]brage, [C]Si j'avais eu l'honneur de commander à [E7]bord
 
-[Am]A bord du Titanic[E7] quan[Am]d il a fait naufra[E7]ge, J'aura[Am]is crié : « les femmes adultères d'abord ! » [E7]
-
-
-[Am]Ne jetez pas la pierr[E7]e à la femme adultère, Je sui[Am]s derrière [G7]
+[Am]À bord du Tita[E7]nic quand [Am]il a fait nau[E7]frage, [Am]J'aurais crié : « les femmes adultères d'a[E7]bord ! »
 
 
-Car pour combler les vœux calmer la fièvre ardente, Du pauvre solitaire et qui n'est pas de bois
-
-Nulle n'est comparable à l'épouse inconstante, Femmes de chefs de gare c'est vous la fleur des pois
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Car pour combler les [G7]vœux cal[C]mer la fièvre ar[G7]dente, [C]Du pauvre solitaire et qui n'est pas de [E7]bois
+
+[Am]Nulle n'est compa[E7]rable à [Am]l'épouse incons[E7]tante, [Am]Femmes de chefs de gare c'est vous la fleur des [E7]pois
 
 
-Quant à vous Messeigneurs aimez à votre guise, En ce qui me concerne ayant un jour compris
-
-Qu'une femme adultère est plus qu'une autre exquise, Je cherche mon bonheur à l'ombre des maris
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Quant à vous Messei[G7]gneurs ai[C]mez à votre [G7]guise, [C]En ce qui me concerne ayant un jour com[E7]pris
+
+[Am]Qu'une femme adul[E7]tère est [Am]plus qu'une autre ex[E7]quise, [Am]Je cherche mon bonheur à l'ombre des ma[E7]ris
 
 
-A l'ombre des maris mais cela va sans dire, Pas n'importe lesquels je les trie les choisis
-
-Si madame Dupont d'aventure m'attire, Il faut que de surcroît Dupont me plaise aussi
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]À l'ombre des ma[G7]ris mais [C]cela va sans [G7]dire, [C]Pas n'importe lesquels je les trie les choi[E7]sis
+
+[Am]Si madame Du[E7]pont d'a[Am]venture m'at[E7]tire, [Am]Il faut que de surcroît Dupont me plaise aus[E7]si
 
 
-Il convient que le bougre ait une bonne poire, Sinon me ravisant je détale à grands pas
-
-Car je suis difficile et me refuse à boire, Dans le verre d'un monsieur qui ne me revient pas
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Il convient que le [G7]bougre ait [C]une bonne [G7]poire, [C]Sinon me ravisant je détale à grands [E7]pas
+
+[Am]Car je suis diffi[E7]cile et [Am]me refuse à [E7]boire, [Am]Dans le verre d'un monsieur qui ne me revient [E7]pas
 
 
-Ils sont loin mes débuts ou manquant de pratique, Sur des femmes de flics je mis mon dévolu
-
-Je n'était pas encore ouvert à l'esthétique, Cette faute de goût je ne la commets plus
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Ils sont loin mes dé[G7]buts ou [C]manquant de pra[G7]tique, [C]Sur des femmes de flics je mis mon dévo[E7]lu
+
+[Am]Je n'étais pas en[E7]core ou[Am]vert à l'esthé[E7]tique, [Am]Cette faute de goût je ne la commets [E7]plus
 
 
-Oui je suis tatillon pointilleux mais j'estime, Que le mari doit être un gentleman complet
-
-Car on finit tous deux par devenir intimes, A force à force de se passer le relais
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Oui je suis tatil[G7]lon poin[C]tilleux mais j'es[G7]time, [C]Que le mari doit être un gentleman com[E7]plet
+
+[Am]Car on finit tous [E7]deux par [Am]devenir in[E7]times, [Am]À force à force de se passer le re[E7]lais
 
 
-Mais si l'on tombe hélas sur des maris infâmes, Certains sont si courtois si bons si chaleureux
-
-Que même après avoir cessé d'aimer leur femme, Ont fait encore semblant uniquement pour eux
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Mais si l'on tombe hé[G7]las sur [C]des maris in[G7]fâmes, [C]Certains sont si courtois si bons si chaleu[E7]reux
+
+[Am]Que même après a[E7]voir ces[Am]sé d'aimer leur [E7]femme, [Am]Ont fait encore semblant uniquement pour [E7]eux
 
 
-C'est mon cas ces temps-ci je suis triste malade, Quand je dois faire honneur à certaine pécore
-
-Mais son mari et moi c'est Oreste et Pylade, Et pour garder l'ami je la cajole encore
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]C'est mon cas ces temps-[G7]ci je [C]suis triste ma[G7]lade, [C]Quand je dois faire honneur à certaine pé[E7]core
+
+[Am]Mais son mari et [E7]moi c'est [Am]Oreste et Py[E7]lade, [Am]Et pour garder l'ami je la cajole en[E7]core
 
 
-Non contente de me déplaire elle me trompe, Et les jours ou furieux voulant tout mettre à bas
-
-Je crie : « La coupe est pleine il est temps que je rompe », Le mari me supplie : « Non ne me quittez pas »
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Non contente de [G7]me dé[C]plaire elle me [G7]trompe, [C]Et les jours ou furieux voulant tout mettre à [E7]bas
+
+[Am]Je crie : « La coupe est [E7]pleine il [Am]est temps que je [E7]rompe », [Am]Le mari me supplie : « Non ne me quittez [E7]pas »
 
 
-Et je reste et tous deux ensemble on se flagorne, Moi je lui dis : « C'est vous mon cocu préféré »
-
-Il me réplique alors : « Entre toutes mes cornes, Celles que je vous dois mon cher me sont sacrées »
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère, Je suis derrière
+[C]Et je reste et tous [G7]deux en[C]semble on se fla[G7]gorne, [C]Moi je lui dis : « C'est vous mon cocu préfé[E7]ré »
+
+[Am]Il me réplique a[E7]lors : « En[Am]tre toutes mes [E7]cornes, [Am]Celles que je vous dois mon cher me sont sa[E7]crées »
 
 
-Et je reste et parfois lorsque cette pimbêche, S'attarde en compagnie de son nouvel amant
-
-Que la nurse est sortie le mari à la pêche, C'est moi pauvre de moi qui garde les enfants
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère, Je suis der[G7]rière
 
 
-Ne jetez pas la pierre à la femme adultère.
+[C]Et je reste et par[G7]fois lors[C]que cette pim[G7]bêche, [C]S'attarde en compagnie de son nouvel a[E7]mant
+
+[Am]Que la nurse est sor[E7]tie le [Am]mari à la [E7]pêche, [Am]C'est moi pauvre de moi qui garde les en[E7]fants
 
 
+[Am]Ne jetez pas la [E7]pierre à la femme adul[Am]tère.[Am]
 
+### Notes
+
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.A.L.Ombre.Des.Maris.php?titre=A+l%27ombre+des+maris
