@@ -647,7 +647,8 @@ def liste_chansons(table, ancre_album):
         if niveau == 1:
             dedans = ancre == ancre_album
         elif dedans:
-            chansons.append(f'<li><a href="#{ancre}">{en_ligne(titre)}</a></li>')
+            # track number on the record: songs follow the order of the album
+            chansons.append(f'<li>{len(chansons) + 1}. <a href="#{ancre}">{en_ligne(titre)}</a></li>')
     return '<nav class="toc"><ul>' + ''.join(chansons) + '</ul></nav>'
 
 
