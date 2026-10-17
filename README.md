@@ -50,8 +50,31 @@ The files are however **not strict `.pro` files**: they are Markdown with ChordP
 | chorus | plain text such as `Refrain :`, repeated by a bare `Refrain` | `{start_of_chorus}` … `{end_of_chorus}` |
 | comments | `### Notes` section, not interpreted | `{comment: ...}` or `#` lines |
 | tablature | fenced block between two ```` ``` ```` lines | `{start_of_tab}` … `{end_of_tab}` |
+| chord grid | `Grille : \|: Dm . . \| A7 . . :\|`, or a line starting with `\|` | `{start_of_grid}` … `{end_of_grid}` |
 
-Conversion to a strict `.pro` file only needs these headings to be turned into directives. Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
+Conversion to a strict `.pro` file only needs these headings to be turned into directives (a grid goes between `{start_of_grid}` and `{end_of_grid}`). Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
+| recurring tablature | `Interlude :` followed by the fenced block, then a bare `Interlude` wherever it is played again | `{start_of_tab}` … `{end_of_tab}`, repeated |
+
+### Chord grids and bar lines
+
+Inline `[Chord]` markers carry no notion of time. Where the bars matter (an introduction, a bridge, an instrumental), write a chord grid with the ChordPro 6 grid symbols, on a line of its own:
+
+```
+Grille : |: Dm . . | A7 . . :|
+|| C~G . . | % . . |.
+```
+
+| Symbol | Meaning |
+|--------|---------|
+| `\|` | bar line |
+| `\|:` and `:\|` | start and end of a repeat |
+| `\|\|` | double bar line |
+| `\|.` | final bar line |
+| `.` | the previous chord goes on for one beat |
+| `%` | repeat the previous bar |
+| `~` | two chords on the same beat (`C~G`) |
+
+A grid is recognised in the lyrics when the line starts with `Grille :` (like `Refrain :`) or with a bar line `|` and holds no `[Chord]`. The rendered page sets it apart from the sung lines with a green "Grille" badge (the "Refrain" badge is blue), in a monospace font, with the bar lines dimmed. A tablature stays in a fenced block, where its own `|` are left alone.
 
 The site is built and published by the workflow at every push on `master` (or manually from the Actions tab): <https://laurentperrinet.github.io/brassens-md/>.
 It needs Settings > Pages > Source set to "GitHub Actions".

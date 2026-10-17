@@ -7,7 +7,10 @@ Accepted input, which is all the song sources use:
     [Am]Au villa[E]ge, [Am]sans ...     -> one lyric line; each [Chord] is shown above the lyrics (<ruby>)
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
-    *Refrain :*                         -> <em>
+    Refrain :   Intro : [Am] ...        -> the keyword (Refrain, Intro, Interlude, Pont, ...) is a badge, set apart from the lyrics
+    *Refrain :*                         -> same badge
+    Grille : |: Dm . . | A7 . . :|      -> chord grid (green badge, monospace, bar lines dimmed); a line
+                                           starting with `|` and holding no [Chord] is a grid too
     <!-- source: chansons/.../x.md -->   -> (written by assembler.py) gives the next song title an "éditer" link to GitHub
     ### Notes                           -> collapsed <details> up to the next `#` / `##` title
     ```  ...  ```                       -> a monospace <pre> block (a tablature), in the lyrics or in the notes
@@ -32,6 +35,11 @@ from urllib.parse import quote
 
 ACCORD = re.compile(r'\[([^\]]+)\]([^\s\[<*]*)')  # a chord and the word fragment it sits above
 EMPHASE = re.compile(r'\*([^*]+)\*')
+# A structure keyword opening a line ("Refrain :", "Intro : [Am] ...", "*Refrain :*"), set apart from the lyrics.
+MOT_CLE = re.compile(r'^\*?(Refrain|Intro|Interlude|Pont|Outro|Coda|Solo|Final|Grille)(?:\s*:\*?|\*?\s*$)(.*)$')
+# A chord grid written without keyword: it starts with a bar line and has no inline [Chord].
+GRILLE = re.compile(r'^\|[^\[\]]*$')
+BARRE = re.compile(r':\||\|[:.|]?')  # `|`, `|:`, `:|`, `||`, `|.`
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
@@ -44,6 +52,19 @@ YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
 
 FAVICON_SVG = Path(__file__).parent / 'favicon.svg'  # a cat in front of a guitar
+
+
+def en_grille(texte):
+    """Return the HTML of a chord grid, its bar lines wrapped in a dimmed `<span>`.
+
+    Args:
+        texte: the grid as written, e.g. `|: Dm . . | A7 . . :|` (str).
+
+    Returns:
+        HTML fragment (str).
+    """
+    barres = BARRE.sub(lambda m: f'\0{m.group(0)}\1', texte)
+    return html.escape(barres).replace('\0', '<span class="barre">').replace('\1', '</span>')
 
 
 def favicon():
@@ -64,9 +85,15 @@ body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; line-height: 2.1; }
+.section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
+           text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
+           color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
+.section.grille { color: light-dark(#1d6b3c, #8fd6a6); background: light-dark(#dcf3e3, #1d3b2a); }
+.grille-texte { font-family: ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; }
+.grille-texte .barre { color: light-dark(#7a8a80, #6f8478); font-weight: 700; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
 .notes p, .notes ul { margin: 0.4em 0; }
@@ -689,7 +716,20 @@ def rendre_corps(lignes):
                 fermer_strophe()
                 sortie.append(f'<ul><li>{en_ligne(ligne[3:])}</li></ul>')
             else:
-                strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
+                mot = MOT_CLE.match(ligne)
+                if GRILLE.match(ligne):
+                    strophe.append(f'<p class="line"><span class="section grille">Grille</span> '
+                                   f'<span class="grille-texte">{en_grille(ligne)}</span></p>')
+                elif mot:
+                    # The keyword gets its own class so it cannot be mistaken for a sung line.
+                    grille = mot.group(1) == 'Grille'
+                    reste = en_grille(mot.group(2).strip()) if grille else en_ligne(mot.group(2).strip())
+                    if reste and grille:
+                        reste = f'<span class="grille-texte">{reste}</span>'
+                    strophe.append(f'<p class="line"><span class="section{" grille" if grille else ""}">'
+                                   f'{mot.group(1)}</span>{" " + reste if reste else ""}</p>')
+                else:
+                    strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
     fermer_strophe()
     fermer_notes()
     return '\n'.join(sortie), table
