@@ -41,7 +41,9 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .notes p, .notes ul { margin: 0.4em 0; }
 .video iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
-b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: bold; }
+b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
+          color: light-dark(#5a3a00, #ffd966); background: light-dark(#fff1b8, #4a3a10);
+          padding: 0.05em 0.3em; margin: 0 0.1em; border-radius: 0.25em; }
 html { scroll-behavior: smooth; }
 h1, h2 { scroll-margin-top: 3.5em; }
 .bar { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 0.6em;
