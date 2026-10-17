@@ -33,6 +33,16 @@ A song may end with a `### Notes` line followed by free comments, links or bulle
 
 Favourites: every song title in the HTML pages has a star (or press `f` for the song under the top bar). The list is stored in the browser (`localStorage`, one list per browser and device, no synchronisation) and shown as the "Favoris" album on `docs/favoris.html`, which is filled in from the anthology page when it loads. It therefore needs the site to be served over http(s); opened as a `file://` page, it only shows a message.
 
+Vidéo d'apprentissage : un en-tête (front matter) `youTubeId` placé entre deux lignes `---`, juste sous le titre, intègre dans la page le lecteur YouTube de la vidéo, avec un lien de secours si l'intégration est refusée. On y met de préférence le tuto de la chaîne [Brassens à la guitare](https://www.youtube.com/@Brassensàlaguitare), et les autres versions vont en puces dans les `### Notes`.
+
+```markdown
+## La marine
+
+---
+youTubeId: 7m2njJXYabA
+---
+```
+
 ```markdown
 ### Notes
 
@@ -53,8 +63,6 @@ The files are however **not strict `.pro` files**: they are Markdown with ChordP
 | comments | `### Notes` section, not interpreted | `{comment: ...}` or `#` lines |
 | tablature | fenced block between two ```` ``` ```` lines | `{start_of_tab}` … `{end_of_tab}` |
 | chord grid | `Grille : \|: Dm . . \| A7 . . :\|`, or a line starting with `\|` | `{start_of_grid}` … `{end_of_grid}` |
-
-Conversion to a strict `.pro` file only needs these headings to be turned into directives (a grid goes between `{start_of_grid}` and `{end_of_grid}`). Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
 | recurring tablature | `Interlude :` followed by the fenced block, then a bare `Interlude` wherever it is played again | `{start_of_tab}` … `{end_of_tab}`, repeated |
 
 ### Chord grids and bar lines
@@ -62,8 +70,10 @@ Conversion to a strict `.pro` file only needs these headings to be turned into d
 Inline `[Chord]` markers carry no notion of time. Where the bars matter (an introduction, a bridge, an instrumental), write a chord grid with the ChordPro 6 grid symbols, on a line of its own:
 
 ```
-Grille : |: Dm . . | A7 . . :|
-|| C~G . . | % . . |.
+Grille :
+
+|: Dm . | C . | Bb7 A7 | Dm . :|
+| D7 . | Gm . | C7 . | F . |.
 ```
 
 | Symbol | Meaning |

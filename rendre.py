@@ -7,7 +7,10 @@ Accepted input, which is all the song sources use:
     [Am]Au villa[E]ge, [Am]sans ...     -> one lyric line; each [Chord] is shown above the lyrics (<ruby>)
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
-    *Refrain :*                         -> <em>
+    Refrain :   Intro : [Am] ...        -> the keyword (Refrain, Intro, Interlude, Pont, ...) is a badge, set apart from the lyrics
+    *Refrain :*                         -> same badge
+    Grille :  then  | Dm . | C . |      -> chord grid: one box per bar, set under a green badge; consecutive
+                                           rows (lines starting with `|`, no [Chord]) form one block
     <!-- source: chansons/.../x.md -->   -> (written by assembler.py) gives the next song title an "éditer" link to GitHub
     ### Notes                           -> collapsed <details> up to the next `#` / `##` title
     ```  ...  ```                       -> a monospace <pre> block (a tablature), in the lyrics or in the notes
@@ -31,6 +34,11 @@ from urllib.parse import quote
 
 ACCORD = re.compile(r'\[([^\]]+)\]([^\s\[<*]*)')  # a chord and the word fragment it sits above
 EMPHASE = re.compile(r'\*([^*]+)\*')
+# A structure keyword opening a line ("Refrain :", "Intro : [Am] ...", "*Refrain :*"), set apart from the lyrics.
+MOT_CLE = re.compile(r'^\*?(Refrain|Intro|Interlude|Pont|Outro|Coda|Solo|Final|Grille)(?:\s*:\*?|\*?\s*$)(.*)$')
+# A chord grid written without keyword: it starts with a bar line and has no inline [Chord].
+GRILLE = re.compile(r'^\|[^\[\]]*$')
+BARRE = re.compile(r':\||\|[:.|]?')  # `|`, `|:`, `:|`, `||`, `|.`
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
@@ -42,14 +50,81 @@ YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
 
+def en_rang(texte):
+    """Return the HTML of one grid row: one box per bar, chords sharing the beats.
+
+    A chord followed by `.` lasts one more beat per dot (`Dm . .` is one chord of three beats),
+    so the chord boxes are laid out with `flex` weights rather than with fixed columns.
+
+    Args:
+        texte: the row as written, e.g. `|: Dm . | A7 Dm :|` (str).
+
+    Returns:
+        `<div class="rang">` with one `<span class="mesure">` per bar, or the escaped text when it
+        holds no bar line (str).
+    """
+    barres = list(BARRE.finditer(texte))
+    if len(barres) < 2:
+        return f'<div class="rang">{html.escape(texte)}</div>'
+    mesures = []
+    for gauche, droite in zip(barres, barres[1:]):
+        temps = []  # [chord, number of beats]
+        for mot in texte[gauche.end():droite.start()].split():
+            if mot == '.' and temps:
+                temps[-1][1] += 1
+            else:
+                temps.append([mot, 1])
+        classes = ['mesure']
+        if gauche.group(0) == '|:':
+            classes.append('debut-reprise')
+        classes.append({':|': 'fin-reprise', '||': 'double', '|.': 'finale'}.get(droite.group(0), ''))
+        cases = ''.join(f'<span class="temps" style="flex-grow:{n}">{en_accords_grille(c)}</span>' for c, n in temps)
+        mesures.append(f'<span class="{" ".join(c for c in classes if c)}">{cases}</span>')
+    marge = html.escape(texte[barres[-1].end():].strip())  # text after the last bar line, as in ChordPro
+    return f'<div class="rang">{"".join(mesures)}{f"<span class=marge>{marge}</span>" if marge else ""}</div>'
+
+
+def en_accords_grille(mot):
+    """Return the HTML of one beat of a grid: a chord, two chords joined by `~`, or `%` (repeat).
+
+    Args:
+        mot: the token as written, e.g. `Bb7`, `C~G` or `%` (str).
+
+    Returns:
+        HTML fragment (str).
+    """
+    if mot == '%':
+        return '<span class="repete" title="Répéter la mesure précédente">%</span>'
+    return '<span class="liaison">&#8255;</span>'.join(
+        f'<b class="chord">{html.escape(accord)}</b>' for accord in mot.split('~'))
+
+
 CSS = """\
 body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; line-height: 2.1; }
+.section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
+           text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
+           color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
+.section.grille { color: light-dark(#1d6b3c, #8fd6a6); background: light-dark(#dcf3e3, #1d3b2a); }
+.grille-accords { margin: 0.2em 0 0.8em; }
+.rang { display: flex; align-items: stretch; margin-top: -1px; }
+.mesure { flex: 1 1 0; display: flex; gap: 0.3em; align-items: center; min-width: 0; padding: 0.25em 0.6em;
+          border: 1px solid color-mix(in srgb, CanvasText 45%, transparent); border-width: 1px 1px 1px 0; }
+.rang .mesure:first-child { border-left-width: 1px; }
+.temps { flex-basis: 0; min-width: 0; }
+.mesure.double { border-right: 4px double color-mix(in srgb, CanvasText 45%, transparent); }
+.mesure.finale { border-right: 4px solid color-mix(in srgb, CanvasText 70%, transparent); }
+.mesure.fin-reprise { border-right: 4px double color-mix(in srgb, CanvasText 70%, transparent); }
+.mesure.debut-reprise { border-left: 4px double color-mix(in srgb, CanvasText 70%, transparent); }
+.mesure.fin-reprise::after { content: ":"; font-weight: 700; }
+.mesure.debut-reprise::before { content: ":"; font-weight: 700; }
+.liaison, .repete, .marge { color: light-dark(#7a8a80, #8fa398); }
+.marge { align-self: center; padding-left: 0.6em; font-size: 0.85em; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
 .notes p, .notes ul { margin: 0.4em 0; }
@@ -514,6 +589,7 @@ def rendre_corps(lignes):
     sortie, table = [], []
     album, chanson = 0, 0  # number of the current album, rank of the current song in it
     strophe = []   # lines of the stanza being collected (HTML strings)
+    rangs = []     # rows of the chord grid being collected (HTML strings)
     vides = 0      # consecutive blank lines seen
     sauter = 0     # number of lines already consumed as part of a header block
     notes = False  # inside a `### Notes` section
@@ -533,7 +609,14 @@ def rendre_corps(lignes):
             sortie.append('</details>')
             notes = False
 
+    def vider_grille():
+        # consecutive grid rows form one block, closed by the first line that is not a grid row
+        if rangs:
+            strophe.append('<div class="grille-accords">' + ''.join(rangs) + '</div>')
+            rangs.clear()
+
     def fermer_strophe():
+        vider_grille()
         if strophe:
             sortie.append('<div class="stanza">\n' + '\n'.join(strophe) + '\n</div>')
             strophe.clear()
@@ -609,7 +692,27 @@ def rendre_corps(lignes):
                 fermer_strophe()
                 sortie.append(f'<ul><li>{en_ligne(ligne[3:])}</li></ul>')
             else:
-                strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
+                mot = MOT_CLE.match(ligne)
+                grille = GRILLE.match(ligne) or (mot and mot.group(1) == 'Grille')
+                if not grille:
+                    vider_grille()
+                if GRILLE.match(ligne):
+                    if not rangs and not (strophe and strophe[-1].endswith('>Grille</span></p>')):
+                        strophe.append('<p class="line"><span class="section grille">Grille</span></p>')
+                    rangs.append(en_rang(ligne))
+                elif mot:
+                    # The keyword gets its own class so it cannot be mistaken for a sung line.
+                    reste = mot.group(2).strip()
+                    if grille:
+                        vider_grille()
+                        strophe.append('<p class="line"><span class="section grille">Grille</span></p>')
+                        if reste:
+                            rangs.append(en_rang(reste))
+                    else:
+                        strophe.append(f'<p class="line"><span class="section">{mot.group(1)}</span>'
+                                       f'{" " + en_ligne(reste) if reste else ""}</p>')
+                else:
+                    strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
     fermer_strophe()
     fermer_notes()
     return '\n'.join(sortie), table
