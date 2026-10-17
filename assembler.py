@@ -61,7 +61,7 @@ def assembler():
     (CONSTRUCTION / 'albums').mkdir(parents=True)
 
     anthologie = ''
-    entrees = [('Anthologie en un fichier', 'brassens.html')]
+    entrees = [('Anthologie en un fichier', 'brassens.html'), ('Favoris', 'favoris.html')]
     for dossier_album in dossiers_albums():
         n, titre, texte = assembler_album(dossier_album)
         (CONSTRUCTION / 'albums' / f'brassens_{n}.md').write_text(texte, encoding='utf-8')
@@ -81,6 +81,8 @@ def rendre_site(entrees):
     rendre.rendre_index(entrees, DOCS / 'index.html', titre='Anthologie Georges Brassens')
     rendre.rendre_fichier(CONSTRUCTION / 'brassens.md', DOCS / 'brassens.html',
                           titre='Anthologie Georges Brassens', accueil='index.html')
+    rendre.rendre_favoris(DOCS / 'favoris.html', titre='Favoris', accueil='index.html',
+                          anthologie='brassens.html')
     for md in sorted((CONSTRUCTION / 'albums').glob('*.md')):
         titre = re.search(r'^# (.+)$', md.read_text(encoding='utf-8'), re.M).group(1)
         rendre.rendre_fichier(md, DOCS / 'albums' / md.with_suffix('.html').name,

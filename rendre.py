@@ -3,15 +3,21 @@
 Accepted input, which is all the song sources use:
 
     # 1) ALBUM TITLE                    -> <h1>
-    ## SONG TITLE                       -> <h2>, listed in the table of contents
+    ## SONG TITLE                       -> <h2>, listed under its album title
     [Am]Au villa[E]ge, [Am]sans ...     -> one lyric line; each [Chord] is a bold monospace <b>
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
     *Refrain :*                         -> <em>
     ### Notes                           -> collapsed <details> up to the next `#` / `##` title
+    ```  ...  ```                       -> in the notes only: a monospace <pre> block (a tablature)
 
 The `### Notes` section closes a song: free comments and links (no chords, no stanzas),
-hidden until the reader clicks on "Notes".
+hidden until the reader clicks on "Notes" (a link on the right of the song title, or the
+triangle below the score).
+
+Favourites: every song title gets a star button (and the `f` key toggles the current song).
+They are kept in the browser (`localStorage`) and collected on `favoris.html`, which behaves as
+one more album built in the browser from the anthology page.
 
 A single blank line between two lines is only a separator; two or more blank lines
 mark a break between stanzas.
@@ -26,6 +32,7 @@ EMPHASE = re.compile(r'\*([^*]+)\*')
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
+CLOTURE = '```'  # opens and closes a monospace block inside the notes
 ARTICLE = re.compile(r"^(?:l['’]|d['’]|(?:le|la|les|un|une|des|du)\s)", re.IGNORECASE)  # ignored when filing a title
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
@@ -39,13 +46,17 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
 .notes p, .notes ul { margin: 0.4em 0; }
-.video iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
+.notes pre { margin: 0.8em 0; overflow-x: auto; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.85em; line-height: 1.25; }
+.video iframe { width: min(100%, calc(70vh * 16 / 9)); aspect-ratio: 16 / 9; border: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
           color: light-dark(#5a3a00, #ffd966); background: light-dark(#fff1b8, #4a3a10);
           padding: 0.05em 0.3em; margin: 0 0.1em; border-radius: 0.25em; }
 html { scroll-behavior: smooth; }
 h1, h2 { scroll-margin-top: 3.5em; }
+h2 { display: flex; align-items: baseline; gap: 0.4em; }
+.notes-lien { font: inherit; font-size: 0.6em; margin-left: auto; padding: 0 0.3em; border: 0; background: none;
+              color: LinkText; text-decoration: underline; cursor: pointer; white-space: nowrap; }
 .bar { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; gap: 0.6em;
        padding: 0.4em 0; background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent);
        touch-action: none; }
@@ -54,6 +65,10 @@ h1, h2 { scroll-margin-top: 3.5em; }
 .crumbs .sep { opacity: 0.5; padding: 0 0.3em; }
 .up { font-size: 1.2em; line-height: 1; padding: 0.2em 0.5em; cursor: pointer; }
 .transpose { margin: 0; white-space: nowrap; }
+.fav { font: inherit; font-size: 0.8em; padding: 0 0.3em; border: 0; background: none; color: inherit;
+       cursor: pointer; opacity: 0.55; }
+.fav:hover, .fav[aria-pressed="true"] { opacity: 1; }
+.fav[aria-pressed="true"] { color: goldenrod; }
 .az summary { cursor: pointer; font-weight: bold; white-space: nowrap; }
 .az-panel { position: absolute; top: 100%; right: 0; width: min(100%, 32em); max-height: 70vh; overflow-y: auto;
             box-sizing: border-box; padding: 0.5em 0.8em; background: Canvas;
@@ -64,6 +79,20 @@ h1, h2 { scroll-margin-top: 3.5em; }
 .az-group h3 { margin: 0.3em 0 0; }
 .az-group ul { columns: 1; margin: 0; padding-left: 1.2em; list-style: none; }
 .az-panel[data-js] .az-group[hidden] { display: none; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must not inflate text on rotation */
+/* Touch devices (phone, tablet): fill the screen instead of keeping a desktop-width column. The
+   text size follows the viewport width, and in landscape the stanzas flow into as many columns
+   as fit. Headings, video, notes and lists span all the columns, so reading order stays
+   top to bottom within each section. */
+@media (pointer: coarse) {
+  body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
+         padding-left: max(1em, env(safe-area-inset-left));
+         padding-right: max(1em, env(safe-area-inset-right)); }
+}
+@media (pointer: coarse) and (orientation: landscape) {
+  main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
+  main > h1, main > h2, main > hr, main > ul, main > nav, main > .video, main > .notes { column-span: all; }
+}
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -102,16 +131,140 @@ SCRIPT = """\
     return out;
   }
 
-  var chords = Array.prototype.slice.call(document.querySelectorAll('b.chord'));
-  chords.forEach(function (el) { el.setAttribute('data-original', el.textContent); });
-
+  // chords are looked up at each change, since the favourites page fills itself after loading
   select.addEventListener('change', function () {
     var shift = parseInt(select.value, 10);
-    chords.forEach(function (el) {
+    Array.prototype.forEach.call(document.querySelectorAll('b.chord'), function (el) {
+      if (!el.hasAttribute('data-original')) el.setAttribute('data-original', el.textContent);
       el.textContent = transposeChord(el.getAttribute('data-original'), shift);
     });
   });
   document.getElementById('transpose').hidden = false;  // without JavaScript, stays hidden
+})();
+"""
+
+# Favourites: a song is identified by its title (anchors such as `a3-s2` change when songs are
+# added or reordered). The list lives in `localStorage` and is shared by every page of the site.
+# `favoris.html` holds an empty `main[data-source]`: it fetches the anthology page and copies the
+# favourite songs from it, in anthology order. Without JavaScript the stars do not appear.
+SCRIPT_FAVORIS = """\
+(function () {
+  var KEY = 'brassens-favoris';
+  var main = document.querySelector('main[data-source]');  // set on the favourites page only
+  var bar = document.getElementById('bar');
+  var source = null, rendered = [];
+
+  function read() {
+    try { var v = JSON.parse(localStorage.getItem(KEY)); return Array.isArray(v) ? v : []; }
+    catch (e) { return []; }
+  }
+
+  function write(list) {
+    try { localStorage.setItem(KEY, JSON.stringify(list)); } catch (e) {}
+  }
+
+  function mark(button, on) {
+    button.textContent = on ? '★' : '☆';
+    button.setAttribute('aria-pressed', on ? 'true' : 'false');
+    button.title = on ? 'Retirer des favoris (touche f)' : 'Ajouter aux favoris (touche f)';
+  }
+
+  function toggle(title) {
+    var list = read(), i = list.indexOf(title);
+    if (i < 0) list.push(title); else list.splice(i, 1);
+    write(list);
+    Array.prototype.forEach.call(document.querySelectorAll('h2[data-titre]'), function (h) {
+      mark(h.querySelector('.fav'), list.indexOf(h.getAttribute('data-titre')) >= 0);
+    });
+    if (main && source) render();
+  }
+
+  function decorate(h2) {
+    var title = h2.textContent.trim();
+    h2.setAttribute('data-titre', title);
+    var button = document.createElement('button');
+    button.type = 'button'; button.className = 'fav';
+    mark(button, read().indexOf(title) >= 0);
+    button.addEventListener('click', function () { toggle(title); });
+    h2.appendChild(button);
+
+    // A song with notes gets a link on the right of its title that opens them, where they are:
+    // after the score. The "Notes" summary below the score keeps working, and both stay in step.
+    var details = null;
+    for (var n = h2.nextElementSibling; n && !/^H[12]$/.test(n.tagName); n = n.nextElementSibling) {
+      if (n.classList.contains('notes')) { details = n; break; }
+    }
+    if (!details) return;
+    var link = document.createElement('button');
+    link.type = 'button'; link.className = 'notes-lien';
+    function sync() {
+      link.textContent = details.open ? 'Notes ▾' : 'Notes ▸';
+      link.setAttribute('aria-expanded', details.open ? 'true' : 'false');
+    }
+    link.addEventListener('click', function () {
+      details.open = !details.open;
+      if (details.open) details.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+    });
+    details.addEventListener('toggle', sync);
+    sync();
+    h2.appendChild(link);
+  }
+
+  function render() {
+    rendered.forEach(function (node) { node.remove(); });
+    rendered = [];
+    var wanted = read(), nodes = [], list = document.createElement('ul');
+    Array.prototype.forEach.call(source.querySelectorAll('main > h2'), function (h2) {
+      if (wanted.indexOf(h2.textContent.trim()) < 0) return;
+      var item = document.createElement('li'), link = document.createElement('a');
+      link.href = '#' + h2.id; link.textContent = h2.textContent.trim();
+      item.appendChild(link); list.appendChild(item);
+      for (var n = h2; n && (n === h2 || !/^H[12]$/.test(n.tagName)); n = n.nextElementSibling) {
+        nodes.push(document.importNode(n, true));
+      }
+    });
+    document.getElementById('vide').hidden = nodes.length > 0;
+    if (nodes.length) {
+      var toc = document.createElement('nav');
+      toc.className = 'toc'; toc.appendChild(list);
+      nodes.unshift(toc);
+    }
+    nodes.forEach(function (node) {
+      main.appendChild(node); rendered.push(node);
+      if (node.tagName === 'H2') decorate(node);
+    });
+    var select = document.getElementById('transpose-select');
+    if (select && select.value !== '0') select.dispatchEvent(new Event('change'));
+    window.dispatchEvent(new Event('scroll'));  // refreshes the breadcrumb
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('main > h2'), decorate);
+
+  if (main) {
+    fetch(main.getAttribute('data-source'))
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(function (text) {
+        source = new DOMParser().parseFromString(text, 'text/html');
+        render();
+      })
+      .catch(function () {
+        document.getElementById('vide').textContent =
+          "Impossible de charger l'anthologie (le site doit être ouvert en http, pas en file://).";
+      });
+  }
+
+  // `f` toggles the song under the sticky bar
+  document.addEventListener('keydown', function (e) {
+    var tag = e.target.tagName;
+    if (e.key !== 'f' || e.ctrlKey || e.metaKey || e.altKey || tag === 'SELECT' || tag === 'INPUT') return;
+    var limit = (bar ? bar.offsetHeight : 0) + 8, found = null;
+    var songs = document.querySelectorAll('h2[data-titre]');
+    for (var i = 0; i < songs.length; i++) {
+      if (songs[i].getBoundingClientRect().top > limit) break;
+      found = songs[i];
+    }
+    if (found) toggle(found.getAttribute('data-titre'));
+  });
 })();
 """
 
@@ -124,8 +277,6 @@ SCRIPT_NAVIGATION = """\
 (function () {
   var bar = document.getElementById('bar');
   if (!bar) return;
-  var albums = Array.prototype.slice.call(document.querySelectorAll('h1[id]'));
-  var songs = Array.prototype.slice.call(document.querySelectorAll('h2[id]'));
   var crumbAlbum = document.getElementById('crumb-album');
   var crumbSong = document.getElementById('crumb-song');
   var up = document.getElementById('up');
@@ -147,20 +298,22 @@ SCRIPT_NAVIGATION = """\
     sep.className = 'sep'; sep.textContent = '\u203a';
     var a = document.createElement('a');
     a.href = '#' + heading.id;
-    a.textContent = strip ? heading.textContent.replace(/^\\d+\\)\\s*/, '') : heading.textContent;
+    var text = heading.getAttribute('data-titre') || heading.textContent;  // without the star
+    a.textContent = strip ? text.replace(/^\\d+\\)\\s*/, '') : text;
     target.appendChild(sep); target.appendChild(a);
   }
 
   function refresh() {
-    var album = passed(albums), song = passed(songs);
+    // looked up at each scroll: the favourites page gets its headings after loading
+    var album = passed(document.querySelectorAll('h1[id]')), song = passed(document.querySelectorAll('h2[id]'));
     if (album !== current.album) crumb(crumbAlbum, album, true);
     if (song !== current.song) crumb(crumbSong, song, false);
     current = {album: album, song: song};
   }
 
   function goUp() {
-    if (current.song && current.album) {
-      current.album.scrollIntoView();
+    if (current.song) {
+      if (current.album) current.album.scrollIntoView(); else window.scrollTo(0, 0);
     } else if (current.album && bar.getAttribute('data-anthologie')) {
       window.scrollTo(0, 0);
     } else {
@@ -324,9 +477,17 @@ def rendre_corps(lignes):
     vides = 0      # consecutive blank lines seen
     sauter = 0     # number of lines already consumed as part of a header block
     notes = False  # inside a `### Notes` section
+    bloc = None    # lines (HTML-escaped) of the monospace block being collected in the notes
+
+    def fermer_bloc():
+        nonlocal bloc
+        if bloc is not None:
+            sortie.append('<pre>' + '\n'.join(bloc) + '</pre>')
+            bloc = None
 
     def fermer_notes():
         nonlocal notes
+        fermer_bloc()
         if notes:
             sortie.append('</details>')
             notes = False
@@ -340,6 +501,12 @@ def rendre_corps(lignes):
         ligne = ligne.rstrip()
         if sauter:
             sauter -= 1
+        elif bloc is not None:
+            # everything up to the closing fence is kept as is (spaces matter in a tablature)
+            if ligne == CLOTURE:
+                fermer_bloc()
+            else:
+                bloc.append(html.escape(ligne, quote=False))
         elif (ligne == '---' and i + 2 < len(lignes) and ENTETE.match(lignes[i + 1])
               and lignes[i + 2].rstrip() == '---'):
             # `---` / `key: value` / `---` header; any other `---` is a stanza separator
@@ -353,7 +520,9 @@ def rendre_corps(lignes):
             sortie.append('<details class="notes">\n<summary>Notes</summary>')
             notes = True
         elif notes and not ligne.startswith(('# ', '## ')):
-            if ligne.lstrip().startswith(('* ', '- ')):
+            if ligne == CLOTURE:
+                bloc = []
+            elif ligne.lstrip().startswith(('* ', '- ')):
                 sortie.append(f'<ul><li>{en_note(ligne.lstrip()[2:])}</li></ul>')
             elif ligne:
                 sortie.append(f'<p>{en_note(ligne)}</p>')
@@ -408,7 +577,7 @@ def page(titre, contenu, script=''):
     """
     balise = f'<script>\n{script}</script>\n' if script else ''
     return ('<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n'
-            '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
             f'<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
             f'{contenu}\n{balise}</body>\n</html>\n')
 
@@ -505,7 +674,7 @@ def index_alphabetique(table):
             '</details>')
 
 
-def fil_ariane(table, accueil, anthologie):
+def fil_ariane(table, accueil, anthologie, libelle='Anthologie'):
     """Return the sticky bar: breadcrumb, "up" button, alphabetical index and transposition menu.
 
     The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
@@ -514,6 +683,7 @@ def fil_ariane(table, accueil, anthologie):
         table: (anchor id, title, level) entries of the page (list of tuples).
         accueil: relative link to the index page (str).
         anthologie: relative link to the anthology page, or None on the anthology itself (str).
+        libelle: text of the second crumb, the page that holds the albums (str).
 
     Returns:
         HTML fragment (str).
@@ -526,7 +696,7 @@ def fil_ariane(table, accueil, anthologie):
         haut, attribut_anthologie, lien = accueil, ' data-anthologie="1"', '#'
     return (f'<header class="bar" id="bar" data-haut="{html.escape(haut)}"{attribut_anthologie}>\n'
             f'<span class="crumbs"><a href="{html.escape(accueil)}">Index</a>'
-            f'<span class="sep">&rsaquo;</span><a href="{html.escape(lien)}">Anthologie</a>'
+            f'<span class="sep">&rsaquo;</span><a href="{html.escape(lien)}">{html.escape(libelle)}</a>'
             '<span id="crumb-album"></span><span id="crumb-song"></span></span>\n'
             '<button class="up" id="up" type="button" hidden '
             'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
@@ -554,8 +724,9 @@ def rendre_fichier(source, destination, titre, accueil, anthologie=None):
             titre_html = f'<h1 id="{ancre}">{en_ligne(titre_album)}</h1>'
             corps = corps.replace(titre_html, f'{titre_html}\n{liste_chansons(table, ancre)}', 1)
     destination.write_text(
-        page(titre, f'{fil_ariane(table, accueil, anthologie)}\n{liste_albums(table)}{corps}',
-             script=SCRIPT + SCRIPT_NAVIGATION),
+        page(titre, f'{fil_ariane(table, accueil, anthologie)}\n'
+                    f'<main>\n{liste_albums(table)}{corps}\n</main>',
+             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
@@ -572,3 +743,23 @@ def rendre_index(entrees, destination, titre):
     destination.write_text(
         page(titre, f'<h1>{html.escape(titre)}</h1>\n<ul>\n{elements}\n</ul>'),
         encoding='utf-8')
+
+
+def rendre_favoris(destination, titre, accueil, anthologie):
+    """Write the favourites page: an album filled in the browser with the starred songs.
+
+    The page is static and empty; `SCRIPT_FAVORIS` fetches the anthology and copies the songs
+    whose title is in the `localStorage` list.
+
+    Args:
+        destination: HTML file to write (Path).
+        titre: page title, also used as heading (str).
+        accueil: relative link to the index page (str).
+        anthologie: URL of the anthology page, relative to `destination` (str).
+    """
+    contenu = (f'{fil_ariane([], accueil, None, libelle=titre)}\n'
+               f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
+               '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
+               '(ou touche f) pour l\'ajouter ici.</p>\n</main>')
+    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
+                           encoding='utf-8')
