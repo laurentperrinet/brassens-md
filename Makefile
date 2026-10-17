@@ -1,13 +1,11 @@
 default: compile
 
-install:
-	npm i -g markdown-it-music
-
 assemble:
-	python3 build.py
+	python3 assembler.py
 
 compile:
-	python3 build.py --render
+	python3 assembler.py --rendre
 
-publish: compile
-	git add -A docs songs && git commit -m'update' ; git push
+# the site itself is built and deployed on GitHub by .github/workflows/pages.yml
+publie:
+	git add -A chansons assembler.py rendre.py .github && git commit -m'update' ; git push

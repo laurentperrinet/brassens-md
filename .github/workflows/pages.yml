@@ -1,0 +1,43 @@
+name: Build and deploy the site
+
+# Builds `docs/` from `chansons/` on the server and publishes it with GitHub Pages.
+# Requires Settings > Pages > Source = "GitHub Actions".
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:   # manual run from the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a running one is allowed to finish
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build the HTML pages in docs/
+        run: python3 assembler.py --rendre
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
