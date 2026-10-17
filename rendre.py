@@ -123,10 +123,10 @@ h2[id], h3[id] { scroll-margin-top: 3em; }
 .az-index { columns: 2 18em; list-style: none; padding: 0; }
 .az-index li { break-inside: avoid; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must not inflate text on rotation */
-/* Touch devices (phone, tablet): fill the screen instead of keeping a desktop-width column. The
-   text size follows the viewport width, and in landscape the stanzas flow into as many columns
-   as fit. Headings, video, notes and lists span all the columns, so reading order stays
-   top to bottom within each section. */
+/* Touch devices (phone, tablet) and full-screen mode (`html.ample`, set by the bar's button): fill
+   the screen instead of keeping a desktop-width column. The text size follows the viewport width,
+   and in landscape the stanzas flow into as many columns as fit. Headings, video, notes and lists
+   span all the columns, so reading order stays top to bottom within each section. */
 @media (pointer: coarse) {
   body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
          padding-left: max(1em, env(safe-area-inset-left));
@@ -136,6 +136,19 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must no
   main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
   main > h1, main > h2, main > hr, main > ul, main > nav, main > .video, main > .notes, main > pre.tab { column-span: all; }
 }
+html.ample body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
+                  padding-left: max(1em, env(safe-area-inset-left));
+                  padding-right: max(1em, env(safe-area-inset-right)); }
+@media (orientation: landscape) {
+  html.ample main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
+  html.ample main > h1, html.ample main > h2, html.ample main > hr, html.ample main > ul, html.ample main > nav,
+  html.ample main > .video, html.ample main > .notes, html.ample main > pre.tab { column-span: all; }
+}
+.plein-ecran { padding: 0.2em 0.4em; line-height: 1; cursor: pointer; color: inherit; background: none; border: 0; }
+.plein-ecran svg { width: 1.2em; height: 1.2em; display: block; fill: none; stroke: currentColor; stroke-width: 2;
+                   stroke-linecap: round; stroke-linejoin: round; }
+.plein-ecran .reduire, .plein-ecran[aria-pressed="true"] .agrandir { display: none; }
+.plein-ecran[aria-pressed="true"] .reduire { display: block; }
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -321,6 +334,42 @@ SCRIPT_FAVORIS = """\
 })();
 """
 
+# Full screen: the bar's button hides the browser chrome (Fullscreen API) and sets `html.ample`,
+# which gives the text the whole width, like on a touch device. Where the API is missing (iPhone
+# Safari) the button still widens the text. `fullscreenchange` keeps the state in step when the
+# user leaves with Esc.
+SCRIPT_PLEIN_ECRAN = """\
+(function () {
+  var button = document.getElementById('plein-ecran');
+  if (!button) return;
+  var root = document.documentElement;
+  var request = root.requestFullscreen || root.webkitRequestFullscreen;
+  var exit = document.exitFullscreen || document.webkitExitFullscreen;
+
+  function active() { return !!(document.fullscreenElement || document.webkitFullscreenElement); }
+
+  function show(on) {
+    root.classList.toggle('ample', on);
+    button.setAttribute('aria-pressed', on);
+    button.title = on ? 'Quitter le plein écran' : 'Plein écran';
+    window.dispatchEvent(new Event('scroll'));  // the breadcrumb depends on the layout
+  }
+
+  button.addEventListener('click', function () {
+    var on = !root.classList.contains('ample');
+    show(on);
+    try {
+      var done = on ? request && request.call(root) : active() && exit.call(document);
+      if (done && done.catch) done.catch(function () {});  // refused: the wide layout stays
+    } catch (e) {}
+  });
+  ['fullscreenchange', 'webkitfullscreenchange'].forEach(function (name) {
+    document.addEventListener(name, function () { show(active()); });
+  });
+  button.hidden = false;  // without JavaScript, stays hidden
+})();
+"""
+
 # Hierarchy navigation: Index > Anthology > Album > Song. The anthology holds every album, so
 # going up from a song means scrolling to its album heading, and going up from an album means
 # scrolling to the top (anthology) or leaving for the anthology (album page). The current album
@@ -456,6 +505,20 @@ def selecteur_transposition():
     return ('<span class="transpose" id="transpose" hidden>'
             '<label for="transpose-select">Transposer : </label>'
             f'<select id="transpose-select">\n{options}\n</select></span>')
+
+
+def bouton_plein_ecran():
+    """Return the HTML of the full-screen button (hidden until the script runs).
+
+    Returns:
+        HTML fragment (str).
+    """
+    trace = 'viewBox="0 0 24 24" aria-hidden="true"'
+    return ('<button class="plein-ecran" id="plein-ecran" type="button" hidden aria-pressed="false" '
+            'title="Plein écran" aria-label="Plein écran">'
+            f'<svg class="agrandir" {trace}><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>'
+            f'<svg class="reduire" {trace}><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>'
+            '</button>')
 
 
 def en_ligne(texte):
@@ -744,7 +807,7 @@ def index_alphabetique(table):
 
 
 def fil_ariane(table, accueil, album, libelle='Anthologie complète'):
-    """Return the sticky bar: breadcrumb, "up" button, alphabetical index and transposition menu.
+    """Return the sticky bar: breadcrumb, "up" button, alphabetical index, full-screen button and transposition menu.
 
     The first crumb, "Brassens", is the index page, which lists the albums and their songs.
     The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
@@ -773,6 +836,7 @@ def fil_ariane(table, accueil, album, libelle='Anthologie complète'):
             'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
             'aria-label="Monter d\'un niveau">&uarr;</button>\n'
             f'{index_alphabetique(table)}\n'
+            f'{bouton_plein_ecran()}\n'
             f'{selecteur_transposition()}\n</header>')
 
 
@@ -796,7 +860,7 @@ def rendre_fichier(source, destination, titre, accueil, album=False):
     destination.write_text(
         page(titre, f'{fil_ariane(table, accueil, album)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
-             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
+             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_PLEIN_ECRAN + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
@@ -899,5 +963,5 @@ def rendre_favoris(destination, titre, accueil, anthologie):
                f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
                '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
                '(ou touche f) pour l\'ajouter ici.</p>\n</main>')
-    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
+    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_PLEIN_ECRAN + SCRIPT_NAVIGATION),
                            encoding='utf-8')
