@@ -36,6 +36,22 @@ Favourites: every song title in the HTML pages has a star (or press `f` for the 
  * Tablature : https://tabs.ultimate-guitar.com/tab/georges-brassens/la-marine-chords-2504772
 ```
 
+## Song format (ChordPro subset)
+
+[ChordPro](https://www.chordpro.org) is a plain-text format where a chord name in square brackets is written inline, right before the syllable on which it is played: `La femme qui pos[G]sède` puts `G` on "sède". The lyric lines of this repository are valid ChordPro as they stand (several chords per line, chords inside a word, suffixes such as `B7`, `Am`, `E7`).
+
+The files are however **not strict `.pro` files**: they are Markdown with ChordPro lyric lines.
+
+| Element | Here | Strict ChordPro |
+|---------|------|-----------------|
+| title | `## TITLE` | `{title: TITLE}` |
+| chord | `[Am]` inline, in English letters (`Dm`, `Bb`, `E7`) | same |
+| chorus | plain text such as `Refrain :`, repeated by a bare `Refrain` | `{start_of_chorus}` … `{end_of_chorus}` |
+| comments | `### Notes` section, not interpreted | `{comment: ...}` or `#` lines |
+| tablature | fenced block between two ```` ``` ```` lines | `{start_of_tab}` … `{end_of_tab}` |
+
+Conversion to a strict `.pro` file only needs these headings to be turned into directives. Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
+
 The site is built and published by the workflow at every push on `master` (or manually from the Actions tab): <https://laurentperrinet.github.io/brassens-md/>.
 It needs Settings > Pages > Source set to "GitHub Actions".
 
