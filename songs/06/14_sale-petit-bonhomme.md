@@ -7,13 +7,9 @@ Plus de [A]bandeau sur l'œil et d'un huissier modèle, [F#7]
 
 [Bm]Arborait le[G]s sombres habits [Em] [F#7]
 
-Sim
+[Bm]Dès qu'il avait connu le krach, la banqueroute,
 
-Dès qu'il avait connu le krach, la banqueroute,
-
-Mi7  La
-
-De nos affaires de cœur, il s'était mis en route
+[E7]De no[A]s affaires de cœur, il s'était mis en route
 
 [G]Pour recouvrer [F#7]tout son fourbi. [Bm]
 

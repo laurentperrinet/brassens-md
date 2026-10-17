@@ -1,9 +1,7 @@
 ## L'ÉPAVE
 
 
-La
-
-J'en appelle à Bacchus ! A Bacchus j'en appelle ! Le tavernier du coin vient d'me la bailler belle.
+[A]J'en appelle à Bacchus ! A Bacchus j'en appelle ! Le tavernier du coin vient d'me la bailler belle.
 
 De son[A7] établiss'ment j'étais l'meilleur pilier. Quand j'eus bu tous mes so[D]us, il me mit à la porte [G#7]
 

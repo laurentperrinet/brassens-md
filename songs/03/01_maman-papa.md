@@ -1,15 +1,13 @@
 ## MAMAN, PAPA
 
 
-Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4 Sol7 Dom7 Labmaj7 Lab6/9
+[Ebmaj7]Maman, m[Ebmaj7]aman, en[Ebmaj7] faisant [Bb7sus4]cette cha[G7]nson,[Cm7] Mama[Abmaj7]n, [Ab6/9]
 
-Maman, maman, en faisant cette chanson, Maman,
+[Abm7]maman,[Ebmaj7] je r'de[Cm7]viens[Bb7sus4] petit ga[G7]rçon
 
-Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7
+Dom7           Sol7                     Dom7             Sol7 Dom7             Sol7aug5         Labmaj7 Labm7 Sib7
 
-maman, je r'deviens petit garçon
-
-[Cm7]Alors je suis s[G7]age en classe, Et, pour t[Cm7]e faire plaisir, [G7]J'obt[Cm7]iens les meilleur[G7aug5]es places, Ton dé[Abmaj7]sir [Abm7] [Bb7]
+Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
 
 [Ebmaj7]Maman, m[Ebmaj7]aman, je[Ebmaj7] préfère [Bb7sus4]à mes jeux [G7]fous,[Cm7] Mama[Abmaj7]n, maman[Ab6/9], demeur[Abm7]er sur[Ebmaj7] tes gen[Cm7]oux [Bb7sus4] [G7]
 

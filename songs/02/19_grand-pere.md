@@ -21,9 +21,7 @@ Comme on était léger[Bm] d'argent, Le marchand nous reçut à bras fermés. [E
 Les morts de basse condition, [F#7]C'est[Bm] pas de ma j[Em]uridict[F#7]ion ! » [Bm] [F#7] [Bm]
 
 
-La7
-
-Or, j'avais hérité d'Grand-Père, Une paire de bottes pointues
+[A7]Or, j'avais hérité d'Grand-Père, Une paire de bottes pointues
 
 S'il y a des coups d'pied que'qu'part qui s'perdent, C'lui-là toucha son but !
 

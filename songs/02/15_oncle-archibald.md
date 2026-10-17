@@ -5,6 +5,7 @@ O vous, les [C]arracheurs de dents, Tous les cafards, les charlatans, Les pro[F]
 
 [C7]Comptez plus [F]sur oncle Archibald, Pour payer [E]les violons du [Am]bal, A vos [Dm]fê--[G7]ê----[C]tes, A vos [Dm]fê---[G7]ê----[C]tes
 
+
 En courant sus à un voleur, Qui venait de lui chiper l'heure, A sa montre
 
 Oncle Archibald, coquin de sort ! Fit, de Sa Majesté la Mort, La rencontre, La rencontre

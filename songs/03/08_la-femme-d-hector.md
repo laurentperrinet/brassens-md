@@ -133,8 +133,6 @@ Ni pour la femme d'Honoré, La femme de Désiré
 
 La femme de Théophile, Encore moins pour la femme de Nestor
 
-Fa#7  Sim
-
-Mais pour la femme d'Hector.
+[F#7]Mais p[Bm]our la femme d'Hector.
 
 

@@ -1,9 +1,7 @@
 ## LA GUERRE DE 14-18
 
 
-Ré
-
-Depuis que l'homme écrit l'Histoire, Depuis qu'il bataille à cœur joie
+[D]Depuis que l'homme écrit l'Histoire, Depuis qu'il bataille à cœur joie
 
 Entre mille et une guerres notoires, Si j'é[D7]tais t'nu de faire un choix
 

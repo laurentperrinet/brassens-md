@@ -1,8 +1,6 @@
 ## L'ORAGE
 
-Lam
-
-... ...
+[Am]... ...
 
 Parlez-[Dm]moi de la pluie et non pas du beau temps, Le beau [G7]temps me dégoûte, me fait grincer les dents
 

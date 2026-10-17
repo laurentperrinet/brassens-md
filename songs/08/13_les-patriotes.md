@@ -8,8 +8,7 @@ Intro : Do Mi7 Lam Sol7
 
 [G7]Mais [C]de ne plus pouvoir retourner au champ de b[E7]ataille, Le rameau d'olivier n'es[Am]t pas notre symbole, non ! [E7] [Am]
 
-Sol7 Do Mi7 Lam Sol7
-
+[G7] [C] [E7] [Am] [G7]
 
 Ce que par dessus tout, nos aveuglent déplorent, C'est pas d'être hors d'état d'se rincer l'œil, cré nom de nom,
 

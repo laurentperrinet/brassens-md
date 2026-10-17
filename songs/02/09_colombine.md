@@ -26,10 +26,8 @@
 [B]Gardent ses appas, Et[E] disent : « [F#7]A bas Les [B]pattes ! » [C#7] [F#7] [B] [A]
 
 
-Ré Sol La Ré Sim Mi7 La
-
-Ré Sol La Ré Fa# Fa#7
-
+[D] [G] [A] [D] [Bm] [E7] [A]
+[D] [G] [A] [D] [F#] [F#7]
 
 [B]L'implacable enfant, Pr[E]este et relevant, [F#7]Ses j[B]upes, [C#7] [F#7]
 

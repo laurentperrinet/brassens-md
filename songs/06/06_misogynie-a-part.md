@@ -1,8 +1,7 @@
 ## MISOGYNIE A PART
 
 
-Sol
-
+[G]
 Misogyni[D7]e à part, le sage avait raison, Il y a les emmerdantes,[E] on en trouve à foison, En foule elles se pressent [A7] [D]
 
 Il y a l[D7]es emmerdeuses, un peu plus raffinées, Et puis, très nettement au-des[E]sus du panier, Y'a les emmerderesses [A7] [D7] [G]

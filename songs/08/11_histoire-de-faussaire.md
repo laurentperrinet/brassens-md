@@ -49,8 +49,7 @@ Fausse vierge, fausse pudeur, Fausse fièvre, simulateurs,
 Ces anges artificiels, Venus d'un faux septième ciel.
 
 
-Ré Do7
-
+[D] [C7]
 
 
 [F]La seule chose un peu sincère, Dans cette histoire de faussaire [A7]

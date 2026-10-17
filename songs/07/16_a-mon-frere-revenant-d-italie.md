@@ -5,8 +5,7 @@
 
 [Am]De ces beaux lieux où l'oranger, Naquit pour nous dédommager, Du péché d'Ève. [D7] [G7] [C]
 
-Fa Do Fa Sol7 Do Fa Do Fa Sol7 Do
-
+[F] [C] [F] [G7] [C] [F] [C] [F] [G7] [C]
 
 Tu l'as vu, ce fantôme altier, Qui jadis eut le monde entier, Sous son empire.
 

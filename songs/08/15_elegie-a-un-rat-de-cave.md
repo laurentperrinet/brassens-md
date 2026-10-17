@@ -14,9 +14,7 @@ Maintenant ma mie qu'on te séquestre, Au sein des cieux [B]
 
 [Dm]Que je me déguise en chanteur d'orchestre, Pour tes beaux yeux [A7]
 
-Ré7
-
-En partant ma mie je te l'assure, Tu as fichu le noir au fond de nous
+[D7]En partant ma mie je te l'assure, Tu as fichu le noir au fond de nous
 
 [Ab]Quoiqu'on n'ait pas mis de crêpe sur, Nos putains de binious [G]
 
@@ -24,9 +22,7 @@ En partant ma mie je te l'assure, Tu as fichu le noir au fond de nous
 
 [Dm]Faire un boeuf avec des croque-notes, C'est en ton honneur [A7]
 
-Ré7
-
-Sache aussi qu'en écoutant Béchet(e), Foll'gamberge, on voit la nuit tombée
+[D7]Sache aussi qu'en écoutant Béchet(e), Foll'gamberge, on voit la nuit tombée
 
 Ton fantôme qui sautille e[C]n cachette, Rue du Vieux Colombier [Bb] [A7]
 

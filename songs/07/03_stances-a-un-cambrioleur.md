@@ -3,7 +3,7 @@
 
 [Dm]Prince des monte-en-l'air et de la cambriole, Toi qui eus le bo[G#dim/F]n goût de choisir ma maison [G#dim]
 
-[G#dim/G#]Cependant que je colportais mes gaudrioles, En ton honneu[G#dim/B]r j'ai composé cette chanson [E7] [Am]
+[G#dim/G#]Cependant que je colportais mes gaudrioles, En ton honneur [G#dim/B]j'ai composé cette chanson [E7] [Am]
 
 
 Sache que j'apprécie à sa valeur le geste, Qui te fit bien fermer la porte en repartant

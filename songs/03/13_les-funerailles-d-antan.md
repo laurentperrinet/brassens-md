@@ -22,25 +22,19 @@
 
 [C]Mais où sont les funérailles d'antan ? [Dm7] [G7]
 
-Do
-
-Les petits corbillards, corbillards, corbillards, corbillards
+[C]Les petits corbillards, corbillards, corbillards, corbillards
 
 De nos grands-pères [E7]
 
 [Am]Qui suivaient la route en cahotant [E7]
 
-Lam
-
-Les petits macchabées, macchabées, macchabées, macchabées
+[Am]Les petits macchabées, macchabées, macchabées, macchabées
 
 Ronds et prospères [D7] [G7]
 
 [C]Quand les héritiers étaient contents [Dm7] [G7]
 
-Do
-
-Au fossoyeur, au croque-mort, au curé, aux chevaux même
+[C]Au fossoyeur, au croque-mort, au curé, aux chevaux même
 
 Ils payaient un ve[F]rre
 

@@ -3,9 +3,7 @@
 
 [Bm]Les gens qui voient de travers, Pensent que les bancs [F#7]verts, Qu'on voit sur les trottoirs
 
-Sim
-
-Sont faits pour les impotents ou les ventripotents
+[Bm]Sont faits pour les impotents ou les ventripotents
 
 [Am]Mais c'est une absurdité, Car, à la véri[E7]té, Ils sont là, c'est notoire
 

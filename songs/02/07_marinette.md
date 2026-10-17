@@ -8,8 +8,7 @@ Intro : Ré Ré#dim Mim7 La7 (2 fois) Ré Ré#dim Mim7
 
 Ave[G]c ma p'tite chanson, j'avais l'air d'un con[A7], ma mère,[D] Avec ma p'[B7]tite chanso[Em]n, j'avais l'air d'un [A7]con [D]
 
-Ré#dim Mim7 La7 Ré Ré#dim Mim
-
+[D#dim] [Em7] [A7] [D] [D#dim] [Em]
 
 Quand j'ai couru porter mon pot d'moutarde à Marinette, La belle, la traîtresse avait déjà fini d'dîner
 

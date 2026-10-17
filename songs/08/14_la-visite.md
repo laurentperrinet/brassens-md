@@ -28,9 +28,7 @@ Par malchance, ils n'ont pas voulu, De notre amitié superflue, Que rien ne néc
 
 Et l'on a refermé nos mains, Et l'on a rebroussé chemin, Suspendu la visite
 
-Mi7 Lam Rém Lam Mi7 Lam
-
-Suspendu la visite.
+[E7]Susp[Am]endu[Dm] la [Am]visi[E7]te. [Am]
 
 
 

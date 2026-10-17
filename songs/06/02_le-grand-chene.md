@@ -71,9 +71,7 @@ Le curé de chez nous, petit saint besogneux, Doute que sa fumée s'élève jusq
 Qu'est-c'qu'il en sait, le bougre, et qui donc lui a dit, Qu'y a pas de chêne en para-
 
 
- Fa#
-
--dis ?
+-[F#]dis ?
 
 Qu'y a [Bm]pas de chêne en [Em]pa--[A7]ra--[D]dis [A7]? [D]
 

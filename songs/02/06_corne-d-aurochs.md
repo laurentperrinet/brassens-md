@@ -36,9 +36,7 @@ Et sur les femmes nues des musées, au gué, au gué, Faisait [D]l'brouillo[A]n 
 [F]Et bientôt[C] petit à petit, au gué, au gué, On a tou[Am]t su, [Dm]tout[G7] su d[C]e lui, au gué, au gué
 
 
-Sol7
-
-On a su qu'il était enfant de la Patrie, Qu'il était incapable de risquer sa vie
+[G7]On a su qu'il était enfant de la Patrie, Qu'il était incapable de risquer sa vie
 
 
 Pour cueillir un myosotis à une fille, Corne d'Aurochs
