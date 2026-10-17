@@ -1,48 +1,58 @@
 ## Celui qui a mal tourné
 
-
-[Am]Il y avait des tem[G]ps et des temps, Q[C]u'j[E]e n[Am]'m'étais p[F7]as servi d'm[B7]es dents [E7]
-
-[Am]Qu'je n'mettais plus d'vin da[G]ns mon eau, Ni de c[C]harbon dans mon [Am]fourneau [F7] [B7] [Am]
-
-Les croque-morts, s[G7]ilencieux, Me d[C]évor[Am]aient déjà des yeux [B7] [E7]
-
-[Am]Ma dernière[D7] heure allai[G7]t sonner,[C] C'est alor[Am]s que j'ai mal [F7]tour[E7]né [Am]
-
-
-[Am]N'y allant pas par[G] quatre chemins, J[C]'es[E]tou[Am]rbis en un[F7] tournemain [B7] [E7]
-
-[Am]En un coup de bûche excessif,[G] Un noctambule en o[C]r massif [Am] [F7] [B7] [Am]
-
-Les chats fourrés, [G7]quand ils l'ont[C] su,[Am] M'ont posé la patte d[B7]essus [E7]
-
-[Am]Pour m'envo[D7]yer à la San[G7]té, Me re[C]faire une h[Am]onnêteté [F7] [E7] [Am]
+---
+youTubeId: FPsvf_8B2Cg
+---
+[Am]Il y avait des [G]temps et des [C]temps,[E]
+[Am]Qu'je n'm'é[F7]tais pas ser[B7]vi d'mes dents[E7]
+[Am]Qu'je n'mettais plus d'vin [G]dans mon [C]eau,
+Ni de [Am]charbon dans [F7]mon [B7]four[Am]neau
+Les croque-[G7]morts, silen[C]cieux,
+[Am]Me dévoraient dé[B7]jà des yeux[E7]
+[Am]Ma der[D7]nière heure al[G7]lait son[C]ner,
+C'est a[Am]lors que j'ai [F7]mal [E7]tour[Am]né
 
 
-[Am]Machin, Chose, Un [G]tel, Une telle, To[C]us [E]ceu[Am]x du commu[F7]n des mortel[B7]s [E7]
-
-[Am]Furent d'avis que j'aurais dû[G], En bonne justice [C]être pendu [Am] [F7] [B7] [Am]
-
-A la lanterne et su[G7]r-le-champ, Y s[C]'voy[Am]aient déjà partageant [B7] [E7]
-
-[Am]Ma corde, e[D7]n tout bien [G7]tout honn[C]eur, En gui[Am]se de porte-bon[F7]heur [E7] [Am]
-
-
-[Am]Au bout d'un siècl[G]e, on m'a jeté, A [C]la [E]por[Am]te de la S[F7]anté [B7] [E7]
-
-[Am]Comme je suis sentimental, Je[G] retourne au quarti[C]er natal [Am] [F7] [B7] [Am]
-
-Baissant le nez, ra[G7]sant les murs, [C]Mal [Am]à l'aise sur mes fémur[B7]s [E7]
-
-[Am]M'attendant[D7] à voir les [G7]humains, [C]Se détourne[Am]r de mon chemin [F7] [E7] [Am]
+[Am]N'y allant pas par [G]quatre che[C]mins,[E]
+[Am]J'estour[F7]bis en un [B7]tournemain[E7]
+[Am]En un coup de bûche [G]exces[C]sif,
+Un noc[Am]tambule en [F7]or [B7]mas[Am]sif
+Les chats four[G7]rés, quand ils l'ont [C]su,
+[Am]M'ont posé la pat[B7]te dessus[E7]
+[Am]Pour m'en[D7]voyer à [G7]la San[C]té,
+Me re[Am]faire une hon[F7]nê[E7]te[Am]té
 
 
-[Am]Y'en a un qui m'a [G]dit: « Salut ! Te [C]rev[E]oir[Am], on n'y c[F7]omptait plus[B7] » [E7]
+[Am]Machin, Chose, Un [G]tel, Une [C]telle,[E]
+[Am]Tous ceux [F7]du commun [B7]des mortels[E7]
+[Am]Furent d'avis que [G]j'aurais [C]dû,
+En bonne [Am]justice êt[F7]re [B7]pen[Am]du
+À la lan[G7]terne et sur-le-[C]champ,
+[Am]Y s'voyaient déjà [B7]partageant[E7]
+[Am]Ma corde, [D7]en tout bien [G7]tout hon[C]neur,
+En gui[Am]se de por[F7]te-[E7]bo[Am]nheur
 
-[Am]Y'en a un qui m'a demandé, De[G]s nouvelles de ma s[C]anté [Am] [F7] [B7] [Am]
 
-Lors, j'ai vu qu'il[G7] restait encor,[C] Du [Am]monde et du beau monde[B7] sur terre [E7]
+[Am]Au bout d'un siècle, [G]on m'a je[C]té,[E]
+[Am]À la [F7]porte de [B7]la Santé[E7]
+[Am]Comme je suis sen[G]timen[C]tal,
+Je re[Am]tourne au quar[F7]tier [B7]na[Am]tal
+Baissant le [G7]nez, rasant les [C]murs,
+[Am]Mal à l'aise sur [B7]mes fé[E7]murs
+[Am]M'atten[D7]dant à voir [G7]les hu[C]mains,
+Se dé[Am]tourner de [F7]mon [E7]che[Am]min
 
-[Am]Et j'ai ple[D7]uré, le cul [G7]par terre[C], Toutes le[Am]s larmes de mon[F7] cor[E7]ps [Am]
 
+[Am]Y'en a un qui [G]m'a dit: « Sa[C]lut[E] !
+[Am]Te re[F7]voir, on n'y [B7]comptait plus[E7] »
+[Am]Y'en a un qui m'a [G]deman[C]dé,
+Des nou[Am]velles de [F7]ma [B7]san[Am]té
+Lors, j'ai vu [G7]qu'il restait en[C]cor,
+[Am]Du monde et du beau [B7]monde sur [E7]terre
+[Am]Et j'ai [D7]pleuré, le [G7]cul par [C]terre,
+Toutes [Am]les larmes [F7]de [E7]mon [Am]corps
 
+### Notes
+
+ * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=FPsvf_8B2Cg
+ * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Celui.Qui.A.Mal.Tourne.php?titre=Celui+qui+a+mal+tourn%C3%A9
