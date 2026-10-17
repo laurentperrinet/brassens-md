@@ -1,38 +1,28 @@
 ## LA CANE DE JEANNE
 
 
-c1: E7  A  F#m  Bm  E7    A           F#m   Bm  
-l1: La cane, De Jeanne, Est morte au gui l'an neuf,
+[E7]La c[A]ane[F#m], De [Bm]Jean[E7]ne, Es[A]t morte au g[F#m]ui l'a[Bm]n neuf,
 
-c1:          E7         A  F#m    Bm  E7    A  F#m  Bm  E7  
-l1: Elle avait fait la veille, Merveille ! Un œuf
+Elle avai[E7]t fait la v[A]eil[F#m]le, Mer[Bm]veil[E7]le ! U[A]n œ[F#m]uf [Bm] [E7]
 
 
-c1: A  F#m  Bm  E7      A       F#m   Bm  
-l1: La cane, De Jeanne, Est morte d'avoir fait,
+[A]La [F#m]cane,[Bm] De [E7]Jeanne, [A]Est mort[F#m]e d'av[Bm]oir fait,
 
-c1:                E7       A  F#m    Bm  E7      A    G#7   
-l1: Du moins on le présume, Un rhume, Mauvais
+Du moins on le [E7]présume, [A]Un [F#m]rhume, [Bm]Mauv[E7]ais [A] [G#7]
 
 
-c1: C#m     G#7           C#m  C#7      F#m  
-l1: La cane, De Jeanne, Est morte sur son œuf,
+[C#m]La cane,[G#7] De Jeanne, Es[C#m]t mor[C#7]te sur so[F#m]n œuf,
 
-c1:             G#7            C#m       C#7  G#7    C#m  F#m  Bm  E7  
-l1: Et dans son beau costume, De plumes, Tout neuf
+Et dans son [G#7]beau costume, D[C#m]e plumes, [C#7]Tout [G#7]neuf [C#m] [F#m] [Bm] [E7]
 
 
-c1: A  F#m  Bm  E7      A       F#m   Bm  
-l1: La cane, De Jeanne, Ne laissant pas de veuf,
+[A]La [F#m]cane,[Bm] De [E7]Jeanne, [A]Ne laiss[F#m]ant pa[Bm]s de veuf,
 
-c1:                 E7           A  F#m     Bm  E7     A    F#m  Bm  E7  
-l1: C'est nous autres qui eûmes, Les plumes, Et l'œuf
+C'est nous autre[E7]s qui eûmes, [A]Les[F#m] plumes,[Bm] Et [E7]l'œuf [A] [F#m] [Bm] [E7]
 
 
-c1: A    F#m     Bm  E7      A       F#m       Bm  
-l1: Tous, toutes, Sans doute, Garderons longtemps le,
+[A]Tous,[F#m] toutes,[Bm] San[E7]s doute,[A] Gardero[F#m]ns longtem[Bm]ps le,
 
-c1:          E7        A  F#m   Bm  E7      A     D  A  
-l1: Souvenir de la cane, De Jeanne, Morbleu
+Souvenir [E7]de la cane[A], D[F#m]e Jean[Bm]ne, [E7]Morbleu [A] [D] [A]
 
 

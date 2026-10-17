@@ -1,72 +1,66 @@
 ## LES AMOURS D'ANTAN
 
 
-c1: D                                                          C#m  
-l1: Moi, mes amours d'antan c'était de la grisette,
+[D]Moi, mes amours d'antan c'était de la grisette, [C#m]
 
-c1: Em                                                             F#7  
-l1: Margot, la blanche caille, et Fanchon, la cousette,
+[Em]Margot, la blanche caille, et Fanchon, la cousette, [F#7]
 
-c1: E7                                                         A    A7  
-l1: Pas la moindre noblesse, excusez-moi du peu,
+[E7]Pas la moindre noblesse, excusez-moi du peu, [A] [A7]
 
-c1: D                                                          C#m  
-l1: C'étaient, me direz-vous, de grâces roturières,
+[D]C'étaient, me direz-vous, de grâces roturières, [C#m]
 
-c1: Em                                                             F#7  
-l1: Des nymphes de ruisseau, des Vénus de barrière,
+[Em]Des nymphes de ruisseau, des Vénus de barrière, [F#7]
 
-c1: E7                                                                      A    A7  
-l1: Mon prince, on a les dames du temps jadis qu'on peut... Car le cœur à vingt ans se pose où l'œil se pose,
+[E7]Mon prince, on a les dames du temps jadis qu'on peut... Car le cœur à vi[A]ngt a[A7]ns se pose où l'œil se pose,
 
-l1: Le premier cotillon venu vous en impose,
+Le premier cotillon venu vous en impose,
 
-l1: La plus humble bergère est un morceau de roi.
+La plus humble bergère est un morceau de roi.
 
-l1: Ça manquait de marquise, on connut la soubrette,
+Ça manquait de marquise, on connut la soubrette,
 
-l1: Faute de fleur de lys on eut la pâquerette,
+Faute de fleur de lys on eut la pâquerette,
 
-l1: Au printemps Cupidon fait flèche de tout bois... On rencontrait la belle aux Puces, le dimanche :
+Au printemps Cupidon fait flèche de tout bois... On rencontrait la belle aux Puces, le dimanche :
 
-l1: « Je te plais, tu me plais » et c'était dans la manche,
+« Je te plais, tu me plais » et c'était dans la manche,
 
-l1: Et les grands sentiments n'étaient pas de rigueur.
+Et les grands sentiments n'étaient pas de rigueur.
 
-l1: « Je te plais, tu me plais, viens donc beau militaire. »
+« Je te plais, tu me plais, viens donc beau militaire. »
 
-l1: Dans un train de banlieue on partait pour Cythère,
+Dans un train de banlieue on partait pour Cythère,
 
-l1: On n'était pas tenu même d'apporter son cœur... Mimi, de prime abord, payait guère de mine,
+On n'était pas tenu même d'apporter son cœur... Mimi, de prime abord, payait guère de mine,
 
-l1: Chez son fourreur sans doute on ignorait l'hermine,
+Chez son fourreur sans doute on ignorait l'hermine,
 
-l1: Son habit sortait point de l'atelier d'un dieu...
+Son habit sortait point de l'atelier d'un dieu...
 
-l1: Mais quand, par-dessus le moulin de la Galette,
+Mais quand, par-dessus le moulin de la Galette,
 
-l1: Elle jetait pour vous sa parure simplette,
+Elle jetait pour vous sa parure simplette,
 
-l1: C'est Psychée toute entière qui vous sautait aux yeux. Au second rendez-vous y'avait parfois personne,
+C'est Psychée toute entière qui vous sautait aux yeux. Au second rendez-vous y'avait parfois personne,
 
-l1: Elle avait fait faux bond, la petite amazone,
+Elle avait fait faux bond, la petite amazone,
 
-l1: Mais l'on ne courait pas se pendre pour autant...
+Mais l'on ne courait pas se pendre pour autant...
 
-l1: La marguerite commencée avec Suzette,
+La marguerite commencée avec Suzette,
 
-l1: On finissait de l'effeuiller avec Lisette
+On finissait de l'effeuiller avec Lisette
 
-l1: Et l'amour y trouvait quand même son content. C'étaient, me direz-vous, des grâces roturières,
+Et l'amour y trouvait quand même son content. C'étaient, me direz-vous, des grâces roturières,
 
-l1: Des nymphes de ruisseau, des Vénus de barrière,
+Des nymphes de ruisseau, des Vénus de barrière,
 
-l1: Mais c'étaient mes amours, excusez-moi du peu,
+Mais c'étaient mes amours, excusez-moi du peu,
 
-l1: Des Manon, des Mimi, des Suzon, des Lisette,
+Des Manon, des Mimi, des Suzon, des Lisette,
 
-l1: Margot la blanche caille, et Fanchon, la cousette,
+Margot la blanche caille, et Fanchon, la cousette,
 
-l1: Mon prince, on a les dames du temps jadis qu'on peut...
+Mon prince, on a les dames du temps jadis qu'on peut...
 
 

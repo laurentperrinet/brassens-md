@@ -1,95 +1,69 @@
 ## BALLADE À LA LUNE
 
 
-c1: G7   C        Am7   D   G7     C     Am7    D  
-l1: C'était, dans la nuit brune, Sur un clocher jauni,
+[G7]C'éta[C]it, dans [Am7]la nui[D]t br[G7]une, Su[C]r un c[Am7]locher [D]jauni,
 
-c1: E7  Am  Am7  D7             G7             C  
-l1: La lune, Comme un point sur un « i ».
+[E7]La l[Am]une,[Am7] Comm[D7]e un point sur [G7]un « i ». [C]
 
 
-c1: G7   C        Am7   D   G7     C     Am7    D  
-l1: Lune, quel esprit sombre, Promène au bout d'un fil,
+[G7]Lune,[C] quel esp[Am7]rit so[D]mbre[G7], Promè[C]ne au [Am7]bout d'[D]un fil,
 
-c1: E7  Am  Am7  D7             G7             C  
-l1: Dans l'ombre, Ta face et ton profil ?
+[E7]Dans[Am] l'o[Am7]mbre,[D7] Ta face et ton[G7] profil ? [C]
 
 
-c1: C7  F     Dm7   G7   C7         F    Dm7  G7   
-l1: Es-tu l'œil du ciel borgne ? Quel chérubin cafard
+[C7]Es-t[F]u l'œi[Dm7]l du c[G7]iel b[C7]orgne ? Que[F]l ché[Dm7]rubin[G7] cafard
 
-c1: A7   Dm  Dm7  G7          C7           F  
-l1: Nous lorgne, Sous ton masque blafard ?
+[A7]Nous [Dm]lorg[Dm7]ne, S[G7]ous ton masq[C7]ue blafard ? [F]
 
 
-c1: C7  F     Dm7   G7   C7         F    Dm7  G7   
-l1: Est-ce un ver qui te ronge, Quand ton disque noirci
+[C7]Est-[F]ce un [Dm7]ver qu[G7]i te [C7]ronge, Quan[F]d ton[Dm7] disq[G7]ue noirci
 
-c1: A7   Dm  Dm7  G7      C7        F  G7   
-l1: S'allonge, En croissant rétréci ?
+[A7]S'all[Dm]onge[Dm7], En [G7]croissan[C7]t rétréci [F]? [G7]
 
 
-c1: G7   C        Am7   D   G7     C     Am7    D  
-l1: Es-tu, je t'en soupçonne, Le vieux cadran de fer
+[G7]Es-tu[C], je t'en[Am7] soupç[D]onne[G7], Le vi[C]eux ca[Am7]dran de[D] fer
 
-c1: E7  Am  Am7  D7             G7             C  
-l1: Qui sonne, L'heure aux damnés d'enfer ?
+[E7]Qui [Am]sonn[Am7]e, L'[D7]heure aux damné[G7]s d'enfer ? [C]
 
 
-c1: G7   C        Am7   D   G7     C     Am7    D  
-l1: Sur ton front qui voyage, Ce soir ont-ils compté
+[G7]Sur t[C]on front [Am7]qui vo[D]yage[G7], Ce so[C]ir ont[Am7]-ils co[D]mpté
 
-c1: E7  Am  Am7  D7             G7             C  
-l1: Quel âge, A leur éternité ?
+[E7]Quel[Am] âge[Am7], A l[D7]eur éternité ? [G7] [C]
 
 
-c1: C7  F     Dm7   G7   C7         F    Dm7  G7   
-l1: Qui t'avait éborgnée, L'autre nuit ? T'étais-tu
+[C7]Qui [F]t'avai[Dm7]t ébor[G7]gnée,[C7] L'autre nu[F]it ? [Dm7]T'éta[G7]is-tu
 
-c1: A7   Dm  Dm7  G7          C7           F  
-l1: Cognée, Contre un arbre pointu ?
+[A7]Cogné[Dm]e, C[Dm7]ontre[G7] un arbre po[C7]intu ? [F]
 
 
-c1: C7  F     Dm7   G7   C7         F    Dm7  G7   
-l1: Car tu vins, pâle et morne, Coller sur mes carreaux
+[C7]Car [F]tu vin[Dm7]s, pâl[G7]e et [C7]morne, Coll[F]er su[Dm7]r mes[G7] carreaux
 
-c1: A7   Dm  Dm7  G7          C7           F  G7   
-l1: Ta corne, A travers les barreaux.
+[A7]Ta co[Dm]rne,[Dm7] A tr[G7]avers les ba[C7]rreaux. [F] [G7]
 
 
-c1: G7   C        Am7   D   G7     C     Am7    D  
-l1: Lune, en notre mémoire, De tes belles amours
+[G7]Lune,[C] en notre[Am7] mémoi[D]re, [G7]De tes [C]belles[Am7] amours [D]
 
-c1: E7  Am  Am7  D7             G7             C  
-l1: L'histoire, T'embellira toujours.
+[E7]L'hi[Am]stoi[Am7]re, T[D7]'embellira touj[G7]ours. [C]
 
 
-c1: G7   C        Am7   D   G7     C     Am7    D  
-l1: Et toujours rajeunie, Tu seras du passant
+[G7]Et to[C]ujours ra[Am7]jeunie[D], Tu[G7] seras [C]du pas[Am7]sant [D]
 
-c1: E7  Am  Am7  D7             G7             C  
-l1: Bénie, Pleine lune ou croissant.
+[E7]Béni[Am]e, P[Am7]leine[D7] lune ou croiss[G7]ant. [C]
 
 
-c1: C7  F     Dm7   G7   C7         F    Dm7  G7   
-l1: Et qu'il vente ou qu'il neige, Moi-même, chaque soir,
+[C7]Et q[F]u'il v[Dm7]ente o[G7]u qu'[C7]il neige, M[F]oi-mê[Dm7]me, c[G7]haque soir,
 
-c1: A7   Dm  Dm7  G7          C7           F  
-l1: Que fais-je, Venant ici m'asseoir ?
+[A7]Que f[Dm]ais-[Dm7]je, V[G7]enant ici m'[C7]asseoir ? [F]
 
 
-c1: C7  F     Dm7   G7   C7         F    Dm7  G7   
-l1: Je viens voir à la brune, Sur le clocher jauni
+[C7]Je v[F]iens v[Dm7]oir à [G7]la br[C7]une, Sur le[F] cloc[Dm7]her j[G7]auni
 
-c1: A7   Dm  Dm7  G7          C7           F  G7   
-l1: La lune, Comme un point sur un « i ».
+[A7]La lu[Dm]ne, [Dm7]Comme[G7] un point su[C7]r un « i ». [F] [G7]
 
 
-c1:     C           Am7  D   G7   C    Am7    D  
-l1: Je viens voir à la brune, Sur le clocher jauni,
+Je v[C]iens voir à [Am7]la br[D]une,[G7] Sur [C]le cl[Am7]ocher j[D]auni,
 
-c1: E7  Am  Am7  D7             G7             C   F  C  
-l1: La lune, Comme un point sur un « i ».
+[E7]La l[Am]une,[Am7] Comm[D7]e un point sur [G7]un « i ». [C] [F] [C]
 
 
 

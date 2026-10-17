@@ -1,28 +1,20 @@
 ## PHILISTINS
 
 
-c1: Bm               Em              Bm              C#7  F#7  Bm  A  G   F#  
-l1: Philistins, épiciers, Tandis que vous caressiez, Vos femmes
+[Bm]Philistins, épici[Em]ers, Tandis que [Bm]vous caressiez, [C#7]Vos f[F#7]emmes [Bm] [A] [G] [F#]
 
-c1:            Bm             Em              Bm        C#7  F#7  Bm  
-l1: En songeant aux petits, Que vos grossiers appétits, Engendrent
+En songeant[Bm] aux petits, Qu[Em]e vos grossiers [Bm]appétits, [C#7]Engen[F#7]drent [Bm]
 
-c1:                Em            A7               D                Bm         C#7   F#7  
-l1: Vous pensiez : « Ils seront, Menton rasé, ventre rond, Notaires »
+Vous pensiez : [Em]« Ils seront, [A7]Menton rasé, vent[D]re rond, Notaires[Bm] » [C#7] [F#7]
 
-c1:                 Em            A                D                 Bm         C#7   F#7  
-l1: Mais pour bien vous punir, Un jour vous voyez venir, Sur terre
+Mais pour bien v[Em]ous punir, Un [A]jour vous voyez v[D]enir, Sur terre [Bm] [C#7] [F#7]
 
-c1:            Bm              Em           Bm       C#7  F#7  Bm  
-l1: Des enfants non voulus, Qui deviennent chevelus, Poètes...
+Des enfants[Bm] non voulus, Qui[Em] deviennent c[Bm]hevelus, [C#7]Poète[F#7]s... [Bm]
 
-c1:                Em            A7               D                Bm         C#7   F#7  
-l1: Vous pensiez : « Ils seront, Menton rasé, ventre rond, Notaires »
+Vous pensiez : [Em]« Ils seront, [A7]Menton rasé, vent[D]re rond, Notaires[Bm] » [C#7] [F#7]
 
-c1:                 Em            A7               D                 Bm         C#7   F#7  
-l1: Mais pour bien vous punir, Un jour vous voyez venir, Sur terre
+Mais pour bien v[Em]ous punir, Un [A7]jour vous voyez v[D]enir, Sur terre [Bm] [C#7] [F#7]
 
-c1:            Bm              Em           Bm       C#7  F#7  Bm  F#7  Bm  
-l1: Des enfants non voulus, Qui deviennent chevelus, Poètes...
+Des enfants[Bm] non voulus, Qui[Em] deviennent c[Bm]hevelus, [C#7]Poète[F#7]s... [Bm] [F#7] [Bm]
 
 

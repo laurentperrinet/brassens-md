@@ -1,101 +1,91 @@
 ## AUPRÈS DE MON ARBRE
 
 
-c1: F                         D7    G7                C7  
-l1: J'ai plaqué mon chêne, Comme un saligaud
+[F]J'ai plaqué mon chêne, Com[D7]me un [G7]saligaud [C7]
 
-c1: F                       D7   G7           C7  
-l1: Mon copain le chêne, Mon alter ego
+[F]Mon copain le chêne, Mon[D7] alte[G7]r ego [C7]
 
-c1: D7                Gm          Dm                    A7  
-l1: On était du même bois, Un peu rustique un peu brut
+[D7]On était du même b[Gm]ois, Un peu [Dm]rustique un peu brut [A7]
 
-c1: Dm                           A7     Dm                     C7  
-l1: Dont on fait n'importe quoi, Sauf, naturell'ment les flûtes
+[Dm]Dont on fait n'importe quoi, [A7]Sauf, n[Dm]aturell'ment les flûtes [C7]
 
-c1: F                           D7     G7                   C7  
-l1: J'ai maint'nant des frênes, Des arbres de judée
+[F]J'ai maint'nant des frênes, [D7]Des arb[G7]res de judée [C7]
 
-c1: F                       D7      G7          C7  
-l1: Tous de bonnes graines, De hautes futaies
+[F]Tous de bonnes graines, [D7]De haute[G7]s futaies [C7]
 
-c1: D7                              Gm        Dm                              A7  
-l1: Mais toi, tu manques à l'appel, Ma vieille branche de campagne
+[D7]Mais toi, tu manques à l'appel, [Gm]Ma vieille[Dm] branche de campagne [A7]
 
-c1: Dm                       A7      C7                   F    G7   
-l1: Mon seul arbre de Noël, Mon mât de cocagne
+[Dm]Mon seul arbre de Noël, M[A7]on mât d[C7]e cocagne [F] [G7]
 
 
-c1: C                                                           F                 C           A7            Dm  G7   
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d'mon arbre
+[C]Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, [F]M'éloigner d'mon a[C]rbre [A7] [Dm] [G7]
 
-c1: C                                                           F              C  A7     Dm    G7     C  C7  
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
+[C]Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, [F]Le quitter des [C]yeu[A7]x [Dm] [G7] [C] [C7]
 
 
-l1: Je suis un pauvr' type, J'aurai plus de joie
+Je suis un pauvr' type, J'aurai plus de joie
 
-l1: J'ai jeté ma pipe, Ma vieille pipe en bois
+J'ai jeté ma pipe, Ma vieille pipe en bois
 
-l1: Qu'avait fumé sans s'fâcher, Sans jamais m'brûler la lippe
+Qu'avait fumé sans s'fâcher, Sans jamais m'brûler la lippe
 
-l1: L'tabac d'la vache enragée, Dans sa bonne vieille tête de pipe
+L'tabac d'la vache enragée, Dans sa bonne vieille tête de pipe
 
-l1: J'ai des pipes d'écume, Ornées de fleurons
+J'ai des pipes d'écume, Ornées de fleurons
 
-l1: De ces pipes qu'on fume, En levant le front
+De ces pipes qu'on fume, En levant le front
 
-l1: Mais j'retrouv'rai plus ma foi, Dans mon cœur ni sur ma lippe
+Mais j'retrouv'rai plus ma foi, Dans mon cœur ni sur ma lippe
 
-l1: Le goût d'ma vieille pipe en bois, Sacré nom d'une pipe
-
-
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre
-
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
+Le goût d'ma vieille pipe en bois, Sacré nom d'une pipe
 
 
-l1: Le surnom d'infâme, Me va comme un gant
+Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre
 
-l1: D'avecques ma femme, J'ai foutu le camp
-
-l1: Parc' que depuis tant d'années, C'était pas une sinécure
-
-l1: De lui voir tout l'temps le nez, Au milieu de la figure
-
-l1: Je bats la campagne, Pour dénicher la
-
-l1: Nouvelle compagne, Valant celle-là
-
-l1: Qui, bien sûr, laissait beaucoup, Trop de pierres dans les lentilles
-
-l1: Mais se pendait à mon cou, Quand j'perdais mes billes
+Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
 
 
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre
+Le surnom d'infâme, Me va comme un gant
 
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
+D'avecques ma femme, J'ai foutu le camp
 
+Parc' que depuis tant d'années, C'était pas une sinécure
 
-l1: J'avais une mansarde, Pour tout logement
+De lui voir tout l'temps le nez, Au milieu de la figure
 
-l1: Avec des lézardes, Sur le firmament
+Je bats la campagne, Pour dénicher la
 
-l1: Je l'savais par cœur depuis, Et pour un baiser la course
+Nouvelle compagne, Valant celle-là
 
-l1: J'emmenais mes belles de nuits, Faire un tour sur la grande ourse
+Qui, bien sûr, laissait beaucoup, Trop de pierres dans les lentilles
 
-l1: J'habite plus d' mansarde, Il peut désormais
-
-l1: Tomber des hallebardes, Je m'en bats l'œil mais
-
-l1: Mais si quelqu'un monte aux cieux, Moins que moi j'y paie des prunes
-
-l1: Y a cent sept ans qui dit mieux, Qu'j'ai pas vu la lune
+Mais se pendait à mon cou, Quand j'perdais mes billes
 
 
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre
+Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre
 
-l1: Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
+Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
+
+
+J'avais une mansarde, Pour tout logement
+
+Avec des lézardes, Sur le firmament
+
+Je l'savais par cœur depuis, Et pour un baiser la course
+
+J'emmenais mes belles de nuits, Faire un tour sur la grande ourse
+
+J'habite plus d' mansarde, Il peut désormais
+
+Tomber des hallebardes, Je m'en bats l'œil mais
+
+Mais si quelqu'un monte aux cieux, Moins que moi j'y paie des prunes
+
+Y a cent sept ans qui dit mieux, Qu'j'ai pas vu la lune
+
+
+Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, M'éloigner d' mon arbre
+
+Auprès de mon arbre, Je vivais heureux, J'aurais jamais dû, Le quitter des yeux
 
 

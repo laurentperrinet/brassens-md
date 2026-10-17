@@ -1,31 +1,31 @@
 ## GERMAINE TOURANGELLE
 
 
-l1: Cette gerbe est pour vous, Manon des jours heureux,
+Cette gerbe est pour vous, Manon des jours heureux,
 
-l1: Pour vous cette autre, eh ! Oui, Jeanne des soirs troublants.
-
-
-l1: Plus souple vers l'azur et déchiré des Sylphes,
-
-l1: Voilà tout un bouquet de roses pour Thérèse.
+Pour vous cette autre, eh ! Oui, Jeanne des soirs troublants.
 
 
-l1: Où donc est-il son fin petit nez qui renifle ?
+Plus souple vers l'azur et déchiré des Sylphes,
 
-l1: Au paradis ? Eh ! Non, cendres au Père-Lachaise.
-
-
-l1: Plus haut, cet arbre d'eau qui rechute pleureur,
-
-l1: En saule d'Orphélie, est pour vous, Amélie.
+Voilà tout un bouquet de roses pour Thérèse.
 
 
-l1: Et pour vous ma douceur, ma douleur, ma folie !
+Où donc est-il son fin petit nez qui renifle ?
 
-l1: Germaine Tourangelle, Ô vous la plus jolie.
+Au paradis ? Eh ! Non, cendres au Père-Lachaise.
 
 
-l1: Le fluide arc-en-ciel s'égrenant sur mon cœur.
+Plus haut, cet arbre d'eau qui rechute pleureur,
+
+En saule d'Orphélie, est pour vous, Amélie.
+
+
+Et pour vous ma douceur, ma douleur, ma folie !
+
+Germaine Tourangelle, Ô vous la plus jolie.
+
+
+Le fluide arc-en-ciel s'égrenant sur mon cœur.
 
 

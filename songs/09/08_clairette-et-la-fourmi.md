@@ -1,62 +1,57 @@
 ## CLAIRETTE ET LA FOURMI
 
 
-c1: D                                   B7             Em  Bm  F#7  
-l1: J'étais pas l'amant de Clairette, Mais son ami.
+[D]J'étais pas l'amant de Clairette, Ma[B7]is son ami. [Em] [Bm] [F#7]
 
-c1:           Bm                                  A         A7  
-l1: De jamais lui conter fleurette, J'avais promis.
+De jamais [Bm]lui conter fleurette, J'avais promis[A]. [A7]
 
-c1:              D7                                             G          B7   Em  
-l1: Un jour qu'on gardait ses chevrettes, Aux champs, parmi
+Un jour qu'on[D7] gardait ses chevrettes, Aux champs, parmi [G] [B7] [Em]
 
-c1:              E7                             A7        D     B7  
-l1: L'herbe tendre et les pâquerettes, Elle s'endormit.
+L'herbe tendr[E7]e et les pâquerettes, Elle s'en[A7]dormit. [D] [B7]
 
-c1:              E7                                      A7        D  
-l1: L'herbe tendre et les pâquerettes, Elle s'endormit.
+L'herbe tendr[E7]e et les pâquerettes, Elle s'endormit. [A7] [D]
 
-l1: Durant son sommeil, indiscrète, Une fourmi
+Durant son sommeil, indiscrète, Une fourmi
 
-l1: Se glissa dans sa collerette, Quelle infamie !
+Se glissa dans sa collerette, Quelle infamie !
 
-l1: Moi, pour secourir la pauvrette, Vite je mis
+Moi, pour secourir la pauvrette, Vite je mis
 
-l1: Ma patte sur sa gorgerette : Elle a blêmi.
+Ma patte sur sa gorgerette : Elle a blêmi.
 
-l1: Ma patte sur sa gorgerette : Elle a blêmi. Crime de lèse-bergerette, J'avais commis.
+Ma patte sur sa gorgerette : Elle a blêmi. Crime de lèse-bergerette, J'avais commis.
 
-l1: Par des gifles que rien n'arrête, Je suis puni,
+Par des gifles que rien n'arrête, Je suis puni,
 
-l1: Et pas des gifles d'opérette, Pas des demies.
+Et pas des gifles d'opérette, Pas des demies.
 
-l1: J'en ai gardé belle lurette, Le cou démis.
+J'en ai gardé belle lurette, Le cou démis.
 
-l1: J'en ai gardé belle lurette, Le cou démis. Quand j'ai tort, moi, qu'on me maltraite, D'accord, admis !
+J'en ai gardé belle lurette, Le cou démis. Quand j'ai tort, moi, qu'on me maltraite, D'accord, admis !
 
-l1: Mais quand j'ai rien fait, je regrette, C'est pas permis.
+Mais quand j'ai rien fait, je regrette, C'est pas permis.
 
-l1: Voilà qu'à partir je m'apprête, Sans bonhomie,
+Voilà qu'à partir je m'apprête, Sans bonhomie,
 
-l1: C'est alors que la guillerette, Prend l'air soumis.
+C'est alors que la guillerette, Prend l'air soumis.
 
-l1: C'est alors que la guillerette, Prend l'air soumis. Elle dit, baissant les mirettes : « C'est moi qui ai mis,
+C'est alors que la guillerette, Prend l'air soumis. Elle dit, baissant les mirettes : « C'est moi qui ai mis,
 
-l1: Au-dedans de ma collerette, Cette fourmi ».
+Au-dedans de ma collerette, Cette fourmi ».
 
-l1: Les clés de ses beautés secrètes, Elle m'a remis.
+Les clés de ses beautés secrètes, Elle m'a remis.
 
-l1: Le ciel me tombe sur la crête, Si l'on dormit.
+Le ciel me tombe sur la crête, Si l'on dormit.
 
-l1: Le ciel me tombe sur la crête, Si l'on dormit. Je suis plus l'ami de Clairette, Mais son promis.
+Le ciel me tombe sur la crête, Si l'on dormit. Je suis plus l'ami de Clairette, Mais son promis.
 
-l1: Je ne lui contais pas fleurette, Je m'y suis mis.
+Je ne lui contais pas fleurette, Je m'y suis mis.
 
-l1: De jour en jour notre amourette, Se raffermit.
+De jour en jour notre amourette, Se raffermit.
 
-l1: Dieu protège les bergerettes, Et les fourmis !
+Dieu protège les bergerettes, Et les fourmis !
 
-l1: Dieu protège les bergerettes, Et les fourmis !
+Dieu protège les bergerettes, Et les fourmis !
 
 
 

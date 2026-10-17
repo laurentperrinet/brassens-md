@@ -1,104 +1,72 @@
 ## LE VIEUX LÉON
 
 
-c1:                     Bm                          G       A7             D  
-l1: Y'a tout à l'heure, Quinze ans d'malheur, Mon vieux Léon
+Y'a tout à l'heure, [Bm]Quinze ans d'malheur, Mon vi[G]eux Léon [A7] [D]
 
-c1: Am             B7  Em   Bm         G         C#7    F#  
-l1: Que tu es parti, Au paradis, D'l'accordéon
+[Am]Que tu es parti[B7], Au[Em] para[Bm]dis, D'l'ac[G]cordéon [C#7] [F#]
 
-c1:                 Bm                   G          A7     D  
-l1: Parti bon train, Voir si l'bastrin- gue et la java
+Parti bon train,[Bm] Voir si l'bastrin- g[G]ue et la ja[A7]va [D]
 
-c1: Am           B7  Em      Bm  F#7         Bm  
-l1: Avaient gardé, Droit de cité, Chez Jéhovah
+[Am]Avaient gardé[B7], Dr[Em]oit de c[Bm]ité,[F#7] Chez Jéhova[Bm]h
 
-c1: F#7              Bm   A7                  D  B7           Em  
-l1: Quinze ans bientôt Qu'musique au dos, Tu t'en allais
+[F#7]Quinze ans bientô[Bm]t Qu'[A7]musique au dos, Tu t[D]'en[B7] allais [Em]
 
-c1: A7          D  G         C                  F#7  
-l1: Mener le bal, A l'amicale, Des feux follets
+[A7]Mener le bal[D], A[G] l'amicale[C], Des feux follets [F#7]
 
-c1:            Bm  A7              D   B7               Em  
-l1: En cet asile, Par sainte Cécile, Pardonne-nous
+En cet asil[Bm]e, P[A7]ar sainte Cécile[D], Pa[B7]rdonne-nous [Em]
 
-c1: A7            D  G           C  F#7         Bm  
-l1: De n'avoir pas, Su faire cas, De ton biniou
+[A7]De n'avoir pas[D], S[G]u faire cas,[C] De[F#7] ton biniou [Bm]
 
 
-c1: Bm                     G       A7             D  
-l1: C'est une erreur, Mais les joueurs, D'accordéon
+[Bm]C'est une erreur, Mais [G]les joue[A7]urs, D'accordéo[D]n
 
-c1: Am             B7  Em   Bm         G         C#7    F#  
-l1: Au grand jamais, On ne les met, Au Panthéon
+[Am]Au grand jamais[B7], On[Em] ne l[Bm]es met, Au [G]Panthéon [C#7] [F#]
 
-c1:                       Bm                   G          A7     D  
-l1: Mon vieux, tu as dû, T'contenter du, Champ de navets
+Mon vieux, tu as dû, T[Bm]'contenter du, Champ [G]de navets [A7] [D]
 
-c1: Am                   B7         Em      Bm  F#7         Bm  
-l1: Sans grandes pom-pes et sans pompons, Et sans ave
+[Am]Sans grandes pom-pes [B7]et sans pom[Em]pons, Et[Bm] san[F#7]s ave [Bm]
 
-c1: F#7              Bm   A7          D  B7           Em  
-l1: Mais les copains, Suivaient l'sapin, Le cœur serré
+[F#7]Mais les copains,[Bm] Suiv[A7]aient l'sapi[D]n, [B7]Le cœur serré [Em]
 
-c1: A7          D  G         C                  F#7  
-l1: En rigolant, Pour faire semblant, De n'pas pleurer
+[A7]En rigolant,[D] Po[G]ur faire s[C]emblant, De n'pas p[F#7]leurer
 
-c1:                         Bm  A7         D   B7               Em  
-l1: Et dans nos cœurs, Pauvre joueur, D'accordéon
+Et dans nos cœurs, Pauvr[Bm]e jo[A7]ueur, D'acc[D]ordé[B7]on [Em]
 
-c1: A7         D  G                         C  F#7         Bm  
-l1: Il fait ma foi, Beaucoup moins froid, Qu'au Panthéon
+[A7]Il fait ma [D]foi[G], Beaucoup moins froid, Qu[C]'au[F#7] Panthéon [Bm]
 
 
-c1: Bm                          G       A7             D  
-l1: Depuis mon vieux, Qu'au fond des cieux, Tu as fait ton trou
+[Bm]Depuis mon vieux, Qu'au fond[G] des cie[A7]ux, Tu as fait [D]ton trou
 
-c1: Am   B7  Em              Bm    G         C#7    F#  
-l1: Il a coulé, De l'eau sous les, Ponts de chez nous
+[Am]Il a [B7]coul[Em]é, De l'eau sous[Bm] les, [G]Ponts de c[C#7]hez nou[F#]s
 
-c1:                 Bm                      G          A7     D  
-l1: Les bons enfants, D'la rue de Van-ves à la Gaîté
+Les bons enfants[Bm], D'la rue de Van-ves à [G]la Gaîté [A7] [D]
 
-c1: Am                   B7  Em           Bm  F#7         Bm  
-l1: L'un comme l'au-tre au gré des flots, Furent emportés
+[Am]L'un comme l'au-tre a[B7]u gr[Em]é des flots, [Bm]Fure[F#7]nt emportés [Bm]
 
-c1: F#7              Bm   A7        D  B7           Em  
-l1: Mais aucun d'eux, N'a fait fi de, Son temps jadis
+[F#7]Mais aucun d'eux,[Bm] N'a [A7]fait fi de[D], S[B7]on temps jadi[Em]s
 
-c1: A7               D  G         C                  F#7  
-l1: Tous sont restés, Du parti des, Myosotis
+[A7]Tous sont restés,[D] Du[G] parti des[C], Myosotis [F#7]
 
-c1:                      Bm  A7              D   B7               Em  
-l1: Tous ces pierrots, Ont le cœur gros, Mon vieux Léon
+Tous ces pierrots, On[Bm]t le[A7] cœur gros, Mon [D]vieu[B7]x Léon [Em]
 
-c1: A7            D  G           C  F#7         Bm  
-l1: En entendant, Le moindre chant, D'accordéon
+[A7]En entendant, [D]Le [G]moindre chan[C]t, [F#7]D'accordéon [Bm]
 
 
-c1: Bm                 G       A7             D  
-l1: Quel temps fait-il, Chez les gentils, De l'au-delà
+[Bm]Quel temps fait-il,[G] Chez le[A7]s gentils, De l[D]'au-delà
 
-c1: Am         B7  Em        Bm      G         C#7    F#  
-l1: Les musiciens, Ont-ils enfin, Trouvé le la
+[Am]Les musicie[B7]ns, [Em]Ont-ils en[Bm]fin, Tro[G]uvé le la [C#7] [F#]
 
-c1:                 Bm                   G      A7           D  
-l1: Et le p'tit bleu, Est-c'que ça n'le, Rend pas meilleur
+Et le p'tit bleu[Bm], Est-c'que ça n'le, [G]Rend pa[A7]s meilleur [D]
 
-c1: Am       B7  Em          Bm  F#7         Bm  
-l1: D'être servi, Au sein des vi-gnes du Seigneur
+[Am]D'être se[B7]rvi,[Em] Au sein des[Bm] vi-[F#7]gnes du Seig[Bm]neur
 
-c1: F#7              Bm   A7                  D  B7           Em  
-l1: Si d'temps en temps, Une dame d'antan, S'laisse embrasser
+[F#7]Si d'temps en tem[Bm]ps, U[A7]ne dame d'antan, S'l[D]ais[B7]se embrasser [Em]
 
-c1: A7            D  G                      C               F#7  
-l1: Sûr'ment papa, Que tu regrettes pas, D'être passé
+[A7]Sûr'ment papa,[D] Qu[G]e tu regrettes pas, D'ê[C]tre passé [F#7]
 
-c1:                  Bm  A7                 D   B7               Em  
-l1: Et si l'bon Dieu, Aime tant soit peu, L'accordéon
+Et si l'bon Dieu,[Bm] Aim[A7]e tant soit peu, L'[D]acco[B7]rdéon [Em]
 
-c1: A7            D  G           C          F#7         Bm  
-l1: Au firmament, Tu t'plais sûr'ment, Mon vieux Léon
+[A7]Au firmament, [D]Tu [G]t'plais sûr'[C]ment, Mon v[F#7]ieux Léon [Bm]
 
 
 ##

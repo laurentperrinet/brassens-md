@@ -1,68 +1,48 @@
 ## CELUI QUI A MAL TOURNÉ
 
 
-c1: Am                G                 C  E  Am        F7          B7              E7  
-l1: Il y avait des temps et des temps, Qu'je n'm'étais pas servi d'mes dents
+[Am]Il y avait des tem[G]ps et des temps, Q[C]u'j[E]e n[Am]'m'étais p[F7]as servi d'm[B7]es dents [E7]
 
-c1: Am                           G                  C               Am            F7  B7  Am  
-l1: Qu'je n'mettais plus d'vin dans mon eau, Ni de charbon dans mon fourneau
+[Am]Qu'je n'mettais plus d'vin da[G]ns mon eau, Ni de c[C]harbon dans mon [Am]fourneau [F7] [B7] [Am]
 
-c1:                    G7             C   Am                    B7          E7  
-l1: Les croque-morts, silencieux, Me dévoraient déjà des yeux
+Les croque-morts, s[G7]ilencieux, Me d[C]évor[Am]aient déjà des yeux [B7] [E7]
 
-c1: Am         D7          G7       C          Am             F7  E7  Am  
-l1: Ma dernière heure allait sonner, C'est alors que j'ai mal tourné
+[Am]Ma dernière[D7] heure allai[G7]t sonner,[C] C'est alor[Am]s que j'ai mal [F7]tour[E7]né [Am]
 
 
-c1: Am                G                 C  E  Am        F7          B7              E7  
-l1: N'y allant pas par quatre chemins, J'estourbis en un tournemain
+[Am]N'y allant pas par[G] quatre chemins, J[C]'es[E]tou[Am]rbis en un[F7] tournemain [B7] [E7]
 
-c1: Am                           G                  C               Am            F7  B7  Am  
-l1: En un coup de bûche excessif, Un noctambule en or massif
+[Am]En un coup de bûche excessif,[G] Un noctambule en o[C]r massif [Am] [F7] [B7] [Am]
 
-c1:                    G7             C   Am                    B7          E7  
-l1: Les chats fourrés, quand ils l'ont su, M'ont posé la patte dessus
+Les chats fourrés, [G7]quand ils l'ont[C] su,[Am] M'ont posé la patte d[B7]essus [E7]
 
-c1: Am         D7          G7       C          Am             F7  E7  Am  
-l1: Pour m'envoyer à la Santé, Me refaire une honnêteté
+[Am]Pour m'envo[D7]yer à la San[G7]té, Me re[C]faire une h[Am]onnêteté [F7] [E7] [Am]
 
 
-c1: Am                G                 C  E  Am        F7          B7              E7  
-l1: Machin, Chose, Un tel, Une telle, Tous ceux du commun des mortels
+[Am]Machin, Chose, Un [G]tel, Une telle, To[C]us [E]ceu[Am]x du commu[F7]n des mortel[B7]s [E7]
 
-c1: Am                           G                  C               Am            F7  B7  Am  
-l1: Furent d'avis que j'aurais dû, En bonne justice être pendu
+[Am]Furent d'avis que j'aurais dû[G], En bonne justice [C]être pendu [Am] [F7] [B7] [Am]
 
-c1:                    G7             C   Am                    B7          E7  
-l1: A la lanterne et sur-le-champ, Y s'voyaient déjà partageant
+A la lanterne et su[G7]r-le-champ, Y s[C]'voy[Am]aient déjà partageant [B7] [E7]
 
-c1: Am         D7          G7       C          Am             F7  E7  Am  
-l1: Ma corde, en tout bien tout honneur, En guise de porte-bonheur
+[Am]Ma corde, e[D7]n tout bien [G7]tout honn[C]eur, En gui[Am]se de porte-bon[F7]heur [E7] [Am]
 
 
-c1: Am                G                 C  E  Am        F7          B7              E7  
-l1: Au bout d'un siècle, on m'a jeté, A la porte de la Santé
+[Am]Au bout d'un siècl[G]e, on m'a jeté, A [C]la [E]por[Am]te de la S[F7]anté [B7] [E7]
 
-c1: Am                           G                  C               Am            F7  B7  Am  
-l1: Comme je suis sentimental, Je retourne au quartier natal
+[Am]Comme je suis sentimental, Je[G] retourne au quarti[C]er natal [Am] [F7] [B7] [Am]
 
-c1:                    G7             C   Am                    B7          E7  
-l1: Baissant le nez, rasant les murs, Mal à l'aise sur mes fémurs
+Baissant le nez, ra[G7]sant les murs, [C]Mal [Am]à l'aise sur mes fémur[B7]s [E7]
 
-c1: Am         D7          G7       C          Am             F7  E7  Am  
-l1: M'attendant à voir les humains, Se détourner de mon chemin
+[Am]M'attendant[D7] à voir les [G7]humains, [C]Se détourne[Am]r de mon chemin [F7] [E7] [Am]
 
 
-c1: Am                G                 C  E  Am        F7          B7              E7  
-l1: Y'en a un qui m'a dit: « Salut ! Te revoir, on n'y comptait plus »
+[Am]Y'en a un qui m'a [G]dit: « Salut ! Te [C]rev[E]oir[Am], on n'y c[F7]omptait plus[B7] » [E7]
 
-c1: Am                           G                  C               Am            F7  B7  Am  
-l1: Y'en a un qui m'a demandé, Des nouvelles de ma santé
+[Am]Y'en a un qui m'a demandé, De[G]s nouvelles de ma s[C]anté [Am] [F7] [B7] [Am]
 
-c1:                    G7             C   Am                    B7          E7  
-l1: Lors, j'ai vu qu'il restait encor, Du monde et du beau monde sur terre
+Lors, j'ai vu qu'il[G7] restait encor,[C] Du [Am]monde et du beau monde[B7] sur terre [E7]
 
-c1: Am         D7          G7       C          Am             F7  E7  Am  
-l1: Et j'ai pleuré, le cul par terre, Toutes les larmes de mon corps
+[Am]Et j'ai ple[D7]uré, le cul [G7]par terre[C], Toutes le[Am]s larmes de mon[F7] cor[E7]ps [Am]
 
 

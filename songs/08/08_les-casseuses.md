@@ -1,58 +1,51 @@
 ## LES CASSEUSES
 
 
-c1: Bb                            F7                                                       Bb  
-l1: Tant qu'elle a besoin du matou, Ma chatte est tendre comme tout,
+[Bb]Tant qu'elle a besoin du matou[F7], Ma chatte est tendre comme tout, [Bb]
 
-c1: Bb                                 F7                                                             Bb  
-l1: Quand elle est comblée, aussitôt, Elle griffe, elle mord, elle fait l'gros dos.
+[Bb]Quand elle est comblée, aussitôt, E[F7]lle griffe, elle mord, elle fait l'gros dos. [Bb]
 
 
-l1: Refrain :
+Refrain :
 
-c1:                    G7                    F    A          A7                           Bb  
-l1: Quand vous ne nous les caressez, Pas, chéries, vous nous les cassez.
+Quand vous ne nous [G7]les caressez, Pas, ché[F]ries,[A] vous nous [A7]les cassez. [Bb]
 
-c1:        F            C7       F     G7               C7  
-l1: Oubliez-les, si faire se peut, Qu'elles se reposent.
+Oubliez[F]-les, si fair[C7]e se peut[F], Qu'e[G7]lles se reposent. [C7]
 
-c1:                    C                       F    A              A7                Bb  
-l1: Quand vous nous les dorlotez pas, Vous nous les passez à tabac.
+Quand vous nous les[C] dorlotez pas, Vous nous[F] les [A]passez à tabac. [A7] [Bb]
 
-c1:        F                            Cm                                  D7  
-l1: Oubliez-les, si faire se peut, Qu'elles se reposent un peu,
+Oubliez[F]-les, si faire se peut, Qu'el[Cm]les se reposent un peu, [D7]
 
-c1:                      G7   C7  F7  
-l1: Qu'elles se reposent.
+Qu'elles se reposent. [G7] [C7] [F7]
 
 
-l1: Enamourée, ma femme est douce, Mes amis vous le diront tous.
+Enamourée, ma femme est douce, Mes amis vous le diront tous.
 
-l1: Après l'étreinte, en moins de deux, Ell' r'devient un bâton merdeux.
-
-
-l1: Refrain
+Après l'étreinte, en moins de deux, Ell' r'devient un bâton merdeux.
 
 
-l1: Dans l'alcôve, on est bien reçus, Par la voisine du dessus.
-
-l1: Une fois son désir assouvi, Ingrate, elle nous les crucifie.
+Refrain
 
 
-l1: Refrain
+Dans l'alcôve, on est bien reçus, Par la voisine du dessus.
+
+Une fois son désir assouvi, Ingrate, elle nous les crucifie.
 
 
-l1: Quand elle passe en revue les zouaves, Ma sœur est câline et suave.
-
-l1: Dès que s'achève l'examen, Gare à qui tombe sous sa main.
+Refrain
 
 
-l1: Refrain
+Quand elle passe en revue les zouaves, Ma sœur est câline et suave.
+
+Dès que s'achève l'examen, Gare à qui tombe sous sa main.
 
 
-l1: Si tout le monde en ma maison, Reste au lit plus que de raison,
+Refrain
 
-l1: C'est pas qu'on soit lubriques, c'est qu'il, Y a guère que là qu'on est tranquille.
+
+Si tout le monde en ma maison, Reste au lit plus que de raison,
+
+C'est pas qu'on soit lubriques, c'est qu'il, Y a guère que là qu'on est tranquille.
 
 
 

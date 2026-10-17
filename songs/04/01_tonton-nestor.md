@@ -1,56 +1,47 @@
 ## TONTON NESTOR
 
 
-c1: F                                                                          C#  
-l1: Tonton Nestor, Vous eûtes tort, Je vous le dis tout net.
+[F]Tonton Nestor, Vous eûtes tort, Je vous le dis tout net. [C#]
 
-c1: Dm                                                              A7  
-l1: Vous avez mis La zizanie Aux noces de Jeannette.
+[Dm]Vous avez mis La zizanie Aux noces de Jeannette. [A7]
 
-c1: Bb                           A7                          Dm                   G7   
-l1: Je vous l'avoue, Tonton, vous vous, Comportâtes comme un
+[Bb]Je vous l'avoue, Tonton, vous[A7] vous, Comportâtes comme un [Dm] [G7]
 
-c1:                                          C7                              A5  
-l1: Mufle achevé, Rustre fieffé, Un homme du commun.
+Mufle achevé, Rustre fieffé, Un homme du [C7]commun. [A5]
 
 
-l1: Quand la fiancée, Les yeux baissés, Des larmes pleins les cils,
+Quand la fiancée, Les yeux baissés, Des larmes pleins les cils,
 
-l1: S'apprêtait à Dire « Oui da ! », A l'officier civil,
+S'apprêtait à Dire « Oui da ! », A l'officier civil,
 
-l1: Qu'est-c'qui vous prit, Vieux malappris, D'aller, sans retenue,
+Qu'est-c'qui vous prit, Vieux malappris, D'aller, sans retenue,
 
-l1: Faire un pinçon, Cruel en son, Éminence charnue ? Se retournant, Incontinent, Elle souffleta, flic-flac !
+Faire un pinçon, Cruel en son, Éminence charnue ? Se retournant, Incontinent, Elle souffleta, flic-flac !
 
-l1: L' garçon d'honneur, Qui, par bonheur, Avait une tête à claque,
+L' garçon d'honneur, Qui, par bonheur, Avait une tête à claque,
 
-l1: Mais au lieu du « Oui » attendu, Elle s'écria : « Maman »
+Mais au lieu du « Oui » attendu, Elle s'écria : « Maman »
 
-l1: Et l'maire lui dit : « Non, mon petit, Ce n'est pas le moment. » Fa Mib7
+Et l'maire lui dit : « Non, mon petit, Ce n'est pas le moment. » Fa Mib7
 
-c1: Ab                                                                                  E  
-l1: Quand la fiancée, Les yeux baissés, D'une voix solennelle
+[Ab]Quand la fiancée, Les yeux baissés, D'une voix solennelle [E]
 
-c1: Fm                                                            C7  
-l1: S'apprêtait à Dire « Oui da ! », Par-devant l'Éternel,
+[Fm]S'apprêtait à Dire « Oui da ! », Par-devant l'Éternel, [C7]
 
-c1: D                             C7                  Fm          Bb7  
-l1: Voilà me chef, Que, derechef, Vous osâtes porter
+[D]Voilà me chef, Que, derechef, [C7]Vous osâtes porter [Fm] [Bb7]
 
-c1:                                            Eb7             G5   
-l1: Votre fichue, Patte crochue, Sur sa rotondité. Se retournant, Incontinent, Elle moucha le nez
+Votre fichue, Patte crochue, Sur sa rotondi[Eb7]té. Se retournan[G5]t, Incontinent, Elle moucha le nez
 
-l1: D'un enfant d'chœur, Qui, par bonheur, Était enchifrené,
+D'un enfant d'chœur, Qui, par bonheur, Était enchifrené,
 
-l1: Mais au lieu du « Oui » attendu, De sa pauvre voix lasse,
+Mais au lieu du « Oui » attendu, De sa pauvre voix lasse,
 
-l1: Au tonsuré, Désemparé, Elle a dit « Merde », hélas ! Quoiqu'elle usât, Qu'elle abusât, Du droit d'être fessue,
+Au tonsuré, Désemparé, Elle a dit « Merde », hélas ! Quoiqu'elle usât, Qu'elle abusât, Du droit d'être fessue,
 
-l1: En la pinçant, Mauvais plaisant, Vous nous avez déçus.
+En la pinçant, Mauvais plaisant, Vous nous avez déçus.
 
-l1: Aussi, ma foi, La prochaine fois, Qu'on mariera Jeannette,
+Aussi, ma foi, La prochaine fois, Qu'on mariera Jeannette,
 
-c1:                                                                                            Ab  
-l1: On s'pass'ra d'vous. Tonton, je vous, Je vous le dit tout net.
+On s'pass'ra d'vous. Tonton, je vous, Je vous le dit tout net. [Ab]
 
 

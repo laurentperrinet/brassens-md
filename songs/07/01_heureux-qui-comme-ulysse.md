@@ -1,52 +1,46 @@
 ## HEUREUX QUI COMME ULYSSE
 
 
-c1: Bm                             E          G                   Bm  
-l1: Heureux qui comme Ulysse, A fait un beau voyage
+[Bm]Heureux qui comme Ulysse, A fai[E]t un beau v[G]oyage [Bm]
 
-c1:                                   E          G                 D  
-l1: Heureux qui comme Ulysse, A vu cent paysages
+Heureux qui comme Ulysse, A vu cen[E]t paysages [G] [D]
 
-c1:      F#             Bm           F#                Bm         G           D          F#  
-l1: Et puis a retrouvé, Après maintes traversées, Le pays des vertes années
+Et pu[F#]is a retrouvé, [Bm]Après maintes[F#] traversées, Le pa[Bm]ys des vert[G]es années [D] [F#]
 
-c1:                               Bm                F#                   E  
-l1: Par un petit matin d'été, Quand le soleil vous chante au cœur
+Par un petit matin d'été, Quan[Bm]d le soleil vous c[F#]hante au cœur [E]
 
-c1:                             A7  
-l1: Qu'elle est belle la liberté, La liberté
+Qu'elle est belle la liberté[A7], La liberté
 
 
-c1: F#                          A  
-l1: Quand on est mieux ici qu'ailleurs, Quand un ami fait le bonheur
+[F#]Quand on est mieux ici qu'ai[A]lleurs, Quand un ami fait le bonheur
 
-l1: Qu'elle est belle la liberté, La liberté
-
-
-l1: Avec le soleil et le vent, Avec la pluie et le beau temps, On vivait bien contents,
-
-l1: Mon cheval, ma Provence et moi, Mon cheval, ma Provence et moi
+Qu'elle est belle la liberté, La liberté
 
 
-l1: Heureux qui comme Ulysse, A fait un beau voyage
+Avec le soleil et le vent, Avec la pluie et le beau temps, On vivait bien contents,
 
-l1: Heureux qui comme Ulysse, A vu cent paysages
-
-l1: Et puis a retrouvé, Après Maintes traversées, Le pays des vertes années
-
-l1: Par un joli matin d'été, Quand le soleil vous chante au cœur
-
-l1: Qu'elle est belle la liberté, La liberté
+Mon cheval, ma Provence et moi, Mon cheval, ma Provence et moi
 
 
-l1: Quand c'en est fini des malheurs, Quand un ami sèche vos pleurs
+Heureux qui comme Ulysse, A fait un beau voyage
 
-l1: Qu'elle est belle la liberté, La liberté
+Heureux qui comme Ulysse, A vu cent paysages
+
+Et puis a retrouvé, Après Maintes traversées, Le pays des vertes années
+
+Par un joli matin d'été, Quand le soleil vous chante au cœur
+
+Qu'elle est belle la liberté, La liberté
 
 
-l1: Battus de soleil et de vent, Perdus au milieu des étangs, On vivra bien contents,
+Quand c'en est fini des malheurs, Quand un ami sèche vos pleurs
 
-l1: Mon cheval, ma Camargue et moi, Mon cheval, ma Camargue et moi
+Qu'elle est belle la liberté, La liberté
+
+
+Battus de soleil et de vent, Perdus au milieu des étangs, On vivra bien contents,
+
+Mon cheval, ma Camargue et moi, Mon cheval, ma Camargue et moi
 
 
 

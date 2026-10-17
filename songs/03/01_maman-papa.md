@@ -1,42 +1,38 @@
 ## MAMAN, PAPA
 
 
-l1: Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4 Sol7 Dom7 Labmaj7 Lab6/9
+Mibmaj7 Mibmaj7 Mibmaj7  Sib7sus4 Sol7 Dom7 Labmaj7 Lab6/9
 
-l1: Maman, maman, en faisant cette chanson, Maman,
+Maman, maman, en faisant cette chanson, Maman,
 
-l1: Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7
+Labm7 Mibmaj7 Dom7 Sib7sus4 Sol7
 
-l1: maman, je r'deviens petit garçon
+maman, je r'deviens petit garçon
 
-c1: Cm7            G7                       Cm7              G7   Cm7              G7aug5           Abmaj7  Abm7  Bb7  
-l1: Alors je suis sage en classe, Et, pour te faire plaisir, J'obtiens les meilleures places, Ton désir
+[Cm7]Alors je suis s[G7]age en classe, Et, pour t[Cm7]e faire plaisir, [G7]J'obt[Cm7]iens les meilleur[G7aug5]es places, Ton dé[Abmaj7]sir [Abm7] [Bb7]
 
-c1: Ebmaj7  Ebmaj7  Ebmaj7   Bb7sus4    G7   Cm7  Abmaj7  Ab6/9   Abm7  Ebmaj7  Cm7  Bb7sus4  G7   
-l1: Maman, maman, je préfère à mes jeux fous, Maman, maman, demeurer sur tes genoux
+[Ebmaj7]Maman, m[Ebmaj7]aman, je[Ebmaj7] préfère [Bb7sus4]à mes jeux [G7]fous,[Cm7] Mama[Abmaj7]n, maman[Ab6/9], demeur[Abm7]er sur[Ebmaj7] tes gen[Cm7]oux [Bb7sus4] [G7]
 
-c1: Abmaj7              Gm7             Fm7  
-l1: Et, sans un mot dire, entendre tes refrains charmants,
+[Abmaj7]Et, sans un mot dire[Gm7], entendre tes r[Fm7]efrains charmants,
 
-c1: Abmaj7  Fm7  Fbmaj7  Bb7sus4     Eb  
-l1: Maman, maman, maman, maman
+[Abmaj7]Maman, m[Fm7]aman,[Fbmaj7] maman, [Bb7sus4]maman [Eb]
 
 
-l1: Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
+Papa, papa, en faisant cette chanson, Papa, papa, je r'deviens petit garçon
 
-l1: Et je t'entends sous l'orage, User tout ton humour, Pour redonner du courage, A nos cœurs lourds
+Et je t'entends sous l'orage, User tout ton humour, Pour redonner du courage, A nos cœurs lourds
 
-l1: Papa, papa, il n'y eut pas entre nous, Papa, papa, de tendresse ou de mots doux
+Papa, papa, il n'y eut pas entre nous, Papa, papa, de tendresse ou de mots doux
 
-l1: Pourtant on s'aimait, bien qu'on ne se l'avouât pas, Papa, papa, papa, papa
+Pourtant on s'aimait, bien qu'on ne se l'avouât pas, Papa, papa, papa, papa
 
 
-l1: Maman, papa, en faisant cette chanson, Maman, papa, je r'deviens petit garçon
+Maman, papa, en faisant cette chanson, Maman, papa, je r'deviens petit garçon
 
-l1: Et, grâce à cet artifice, Soudain je comprends, Le prix de vos sacrifices, Mes parents
+Et, grâce à cet artifice, Soudain je comprends, Le prix de vos sacrifices, Mes parents
 
-l1: Maman, papa, toujours je regretterai, Maman, papa, de vous avoir fait pleurer
+Maman, papa, toujours je regretterai, Maman, papa, de vous avoir fait pleurer
 
-l1: Au temps où nos cœurs ne se comprenaient encor pas, Maman, papa, maman, papa
+Au temps où nos cœurs ne se comprenaient encor pas, Maman, papa, maman, papa
 
 

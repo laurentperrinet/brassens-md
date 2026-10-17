@@ -1,60 +1,56 @@
 ## LE BLASON
 
 
-c1: A                      F#m  C#7                D                  Em  F#7  Bm       F#m  E7   A      E5  
-l1: Ayant avecques lui toujours fait bon ménage, J'eusse aimé célébrer sans être inconvenant
+[A]Ayant avecques lui touj[F#m]ours [C#7]fait bon ménage, J'[D]eusse aimé célébrer[Em] san[F#7]s êtr[Bm]e inconve[F#m]nant [E7] [A] [E5]
 
-c1:        A                 F#m    C#7          D             Em         F#7     Bm    F#m   E7  A  
-l1: Tendre corps féminin ton plus bel apanage, Que tous ceux qui l'ont vu disent hallucinant.
+Tendre [A]corps féminin ton [F#m]plus be[C#7]l apanage, Qu[D]e tous ceux qu[Em]i l'ont vu [F#7]disent h[Bm]alluci[F#m]nant. [E7] [A]
 
 
-l1: C'eût été mon ultime chant mon chant du cygne, Mon dernier billet doux mon message d'adieu
+C'eût été mon ultime chant mon chant du cygne, Mon dernier billet doux mon message d'adieu
 
-l1: Or malheureusement les mots qui le désignent, Le disputent à l'exécrable à l'odieux.
-
-
-l1: C'est la grande pitié de la langue française, C'est son talon d'Achille et c'est son déshonneur
-
-l1: De n'offrir que des mots entachés de bassesse, A cette incomparable instrument de bonheur.
+Or malheureusement les mots qui le désignent, Le disputent à l'exécrable à l'odieux.
 
 
-l1: Alors que tant de fleurs ont des noms poétiques, Tendre corps féminin c'est fort malencontreux
+C'est la grande pitié de la langue française, C'est son talon d'Achille et c'est son déshonneur
 
-l1: Que ta fleur la plus douce, et la plus érotique, Et la plus enivrante en ait de si scabreux.
-
-
-l1: Mais le pire de tous est un petit vocable, De trois lettres pas plus familier coutumier
-
-l1: Il est inexplicable il est irrévocable, Honte à celui-là qui l'employa le premier
+De n'offrir que des mots entachés de bassesse, A cette incomparable instrument de bonheur.
 
 
-l1: Honte à celui-là qui par dépit par gageure, Dota de même terme en son fiel venimeux
+Alors que tant de fleurs ont des noms poétiques, Tendre corps féminin c'est fort malencontreux
 
-l1: Ce grand ami de l'homme et la cinglante injure, Celui-là c'est probable en était un fameux.
-
-
-l1: Misogyne à coup sûr asexué sans doute, Aux charmes de Vénus absolument rétif
-
-l1: Était ce bougre qui toute honte bue toute, Fit ce rapprochement d'ailleurs intempestif.
+Que ta fleur la plus douce, et la plus érotique, Et la plus enivrante en ait de si scabreux.
 
 
-l1: La male peste soit de cette homonymie, C'est injuste madame et c'est désobligeant
+Mais le pire de tous est un petit vocable, De trois lettres pas plus familier coutumier
 
-l1: Que ce morceau de roi de votre anatomie, Porte le même nom qu'une foule de gens.
-
-
-l1: Fasse le ciel qu'un jour, dans un trait de génie, Un poète inspiré que Pégase soutient
-
-l1: Donne en effaçant d'un coup des siècles d'avanie, A cette vraie merveille un joli nom chrétien
+Il est inexplicable il est irrévocable, Honte à celui-là qui l'employa le premier
 
 
-l1: En attendant madame il semblerait dommage, Et vos adorateurs en seraient tous peinés
+Honte à celui-là qui par dépit par gageure, Dota de même terme en son fiel venimeux
 
-c1:                                                                                                                                          C#7  
-l1: D'aller perdre de vue que pour lui rendre hommage, Il est d'autres moyens et que je les connais
+Ce grand ami de l'homme et la cinglante injure, Celui-là c'est probable en était un fameux.
 
-c1:     F#m   E7     A  
-l1: Et que je les connais.
+
+Misogyne à coup sûr asexué sans doute, Aux charmes de Vénus absolument rétif
+
+Était ce bougre qui toute honte bue toute, Fit ce rapprochement d'ailleurs intempestif.
+
+
+La male peste soit de cette homonymie, C'est injuste madame et c'est désobligeant
+
+Que ce morceau de roi de votre anatomie, Porte le même nom qu'une foule de gens.
+
+
+Fasse le ciel qu'un jour, dans un trait de génie, Un poète inspiré que Pégase soutient
+
+Donne en effaçant d'un coup des siècles d'avanie, A cette vraie merveille un joli nom chrétien
+
+
+En attendant madame il semblerait dommage, Et vos adorateurs en seraient tous peinés
+
+D'aller perdre de vue que pour lui rendre hommage, Il est d'autres moyens et que je les connais [C#7]
+
+Et q[F#m]ue je [E7]les con[A]nais.
 
 
 

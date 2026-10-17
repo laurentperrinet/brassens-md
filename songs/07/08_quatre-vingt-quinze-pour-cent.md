@@ -1,71 +1,62 @@
 ## QUATRE-VINGT QUINZE POUR CENT
 
 
-c1: F                        G               C  Am  Dm                    E                Am  
-l1: La femme qui possède tout en elle, Pour donner le goût des fêtes charnelles
+[F]La femme qui possède tout[G] en elle, Pour d[C]onn[Am]er l[Dm]e goût des fêtes charn[E]elles [Am]
 
-c1: Dm                    E                   Am                            B7                                              E  
-l1: La femme qui suscite en nous tant de passions brutales, La femme est avant tout sentimentale
+[Dm]La femme qui suscite e[E]n nous tant de passi[Am]ons brutales, La femme est ava[B7]nt tout sentimentale [E]
 
-c1: F                              G               C  Am  Dm                          E                Am  
-l1: Main dans la main les longues promenades, Les fleurs les billets doux les sérénades
+[F]Main dans la main les longues p[G]romenades, Les f[C]leu[Am]rs l[Dm]es billets doux les sérénade[E]s [Am]
 
-c1: Dm                    E                   Am                                     B7         E        Am  
-l1: Les crimes les folies que pour ses beaux yeux l'on commêt, La transporte mais...
+[Dm]Les crimes les folies [E]que pour ses beaux y[Am]eux l'on commêt, La transporte mais... [B7] [E] [Am]
 
 
-l1: Refrain :
+Refrain :
 
-c1: C                      G7                    C                     E  
-l1: Quatre-vingt-quinze fois sur cent, La femme s'emmerde en baisant
+[C]Quatre-vingt-quinze foi[G7]s sur cent, La femme s[C]'emmerde en baisant [E]
 
-c1: Am                  E                    Am  
-l1: Qu'elle le taise ou le confesse, C'est pas tout les jours qu'on lui déride les fesses
+[Am]Qu'elle le taise ou [E]le confesse, C'est pa[Am]s tout les jours qu'on lui déride les fesses
 
-c1: C                      G7                 C                 E  
-l1: Les pauvre bougres convaincus, Du contraire sont des cocus
+[C]Les pauvre bougres conv[G7]aincus, Du contrair[C]e sont des cocus [E]
 
-c1: F                 G7              C     Am                Dm  G7     A7  
-l1: À l'heure de l'œuvre de chaire, Elle est souvent triste Peuchère
+[F]À l'heure de l'œuv[G7]re de chaire, El[C]le est[Am] souvent triste Pe[Dm]uchè[G7]re [A7]
 
-c1: F                   G7               C            Am                Dm  G7     C  
-l1: Si elle n'entend le cœur qui bat, Le corps non-plus ne bronche pas.
+[F]Si elle n'entend le [G7]cœur qui bat, Le [C]corps non-plu[Am]s ne bronche pas. [Dm] [G7] [C]
 
 
-l1: Sauf quand elle aime un homme avec tendresse, Toujours sensible alors à ses caresses
+Sauf quand elle aime un homme avec tendresse, Toujours sensible alors à ses caresses
 
-l1: Toujours bien disposée, toujours encline à s'émouvoir, Elle s'emmerde sans s'en apercevoir.
+Toujours bien disposée, toujours encline à s'émouvoir, Elle s'emmerde sans s'en apercevoir.
 
-l1: Ou quand elle a des besoins tyranniques, Qu'elle souffre de nymphomanie chronique
+Ou quand elle a des besoins tyranniques, Qu'elle souffre de nymphomanie chronique
 
-l1: C'est elle qui fait alors passer à ses adorateurs, De fichus quart d'heure.
-
-
-l1: Refrain
+C'est elle qui fait alors passer à ses adorateurs, De fichus quart d'heure.
 
 
-l1: Les «encore», les «c'est bon», les «continue», Qu'elle crie pour simuler qu'elle monte aux nues
-
-l1: C'est pure charité les soupirs des anges ne sont, En vérité que de pieux mensonges
-
-l1: C'est à seule fin que son partenaire, Se croit un amant extraordinaire
-
-l1: Que le coq imbécile et prétentieux perché dessus, Ne soit pas déçu.
+Refrain
 
 
-l1: Refrain
+Les «encore», les «c'est bon», les «continue», Qu'elle crie pour simuler qu'elle monte aux nues
+
+C'est pure charité les soupirs des anges ne sont, En vérité que de pieux mensonges
+
+C'est à seule fin que son partenaire, Se croit un amant extraordinaire
+
+Que le coq imbécile et prétentieux perché dessus, Ne soit pas déçu.
 
 
-l1: J'entends aller bon train les commentaires, De ceux qui font des châteaux à Cythère :
-
-l1: C'est parce que tu n'es qu'un malhabile, un maladroit, Qu'elle conserve toujours son sang froid
-
-l1: Peut-être mais si les assauts vous pèsent, De ces petits m'as-tu-vu quand je baise
-
-l1: Mesdames en vous laissant manger le plaisir sur le dos, Chantez in petto...
+Refrain
 
 
-l1: Refrain
+J'entends aller bon train les commentaires, De ceux qui font des châteaux à Cythère :
+
+C'est parce que tu n'es qu'un malhabile, un maladroit, Qu'elle conserve toujours son sang froid
+
+Peut-être mais si les assauts vous pèsent, De ces petits m'as-tu-vu quand je baise
+
+Mesdames en vous laissant manger le plaisir sur le dos, Chantez in petto...
+
+
+Refrain
 
 
 

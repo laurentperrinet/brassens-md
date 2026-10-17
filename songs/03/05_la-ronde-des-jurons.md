@@ -1,67 +1,55 @@
 ## LA RONDE DES JURONS
 
 
-c1:    Bm     F#7  Bm    F#7  Bm                                                     A7  
-l1: Voici la ronde des jurons, Qui chantaient clair, qui dansaient rond
+Voi[Bm]ci la r[F#7]onde [Bm]des ju[F#7]rons,[Bm] Qui chantaient clair, qui dansaient rond [A7]
 
-c1:            D         A7  D          A7  D  
-l1: Quand les Gaulois, De bon aloi, Du franc-parler suivaient la loi
+Quand les G[D]aulois, De[A7] bon[D] aloi, Du f[A7]ranc[D]-parler suivaient la loi
 
-c1:     F#7             Bm                 A7               D  
-l1: Jurant par-là, Jurant par-ci, Jurant à langue raccourcie
+Jura[F#7]nt par-là, Juran[Bm]t par-ci, Jurant à [A7]langue raccourcie [D]
 
-c1:        G                                F#7      B7                       E      F#7  
-l1: Comme des grains de chapelet, Les joyeux jurons défilaient
+Comme d[G]es grains de chapelet, Les joyeux[F#7] jurons d[B7]éfilaient [E] [F#7]
 
 
-c1: Bm                                C6                  C#7                    F#7  
-l1: Tous les morbleus, tous les ventrebleus, Les sacrebleus et les cornegidouilles
+[Bm]Tous les morbleus, tous les ventre[C6]bleus, Les sacrebleu[C#7]s et les cornegidouille[F#7]s
 
-c1: Bm                         C6                         C#7  F#7  Bm  
-l1: Ainsi, parbleu, que les jarnibleus, Et les palsambleus
+[Bm]Ainsi, parbleu, que les jar[C6]nibleus, Et les palsambleus [C#7] [F#7] [Bm]
 
-c1: Bm                           C6                  C#7                        F#7  
-l1: Tous les cristis, les ventres saint-gris, Les par ma barbe et les noms d'une pipe
+[Bm]Tous les cristis, les ventres[C6] saint-gris, Les par[C#7] ma barbe et les noms d'une[F#7] pipe
 
-c1: Bm                    C6                      C#7  F#7  Bm  B7  
-l1: Ainsi, pardi, que les sapristis, Et les sacristis
+[Bm]Ainsi, pardi, que les [C6]sapristis, Et les sacris[C#7]tis [F#7] [Bm] [B7]
 
-c1: Em                   A7             D                                                      B7  
-l1: Sans oublier les jarnicotons, Les scrogneugneus et les bigres et les bougres
+[Em]Sans oublier les jarn[A7]icotons, Les sc[D]rogneugneus et les bigres et les bougres [B7]
 
-c1: Em                         A7                    D                   F#7  
-l1: Les saperlottes, les cré nom de nom, Les pestes, et pouah, diantre, fichtre et foutre
+[Em]Les saperlottes, les cré no[A7]m de nom, Les pestes, [D]et pouah, diantre, f[F#7]ichtre et foutre
 
-c1: Bm                                  C                  C#7                         F#7  
-l1: Tous les Bon Dieu, Tous les vertudieux, Tonnerre de Brest et saperlipopette
+[Bm]Tous les Bon Dieu, Tous les vertudie[C]ux, Tonnerre de Bre[C#7]st et saperlipopette [F#7]
 
-c1: Bm                         C                           C#7  F#7  Bm  
-l1: Ainsi, pardieu, que les jarnidieux, Et les pasquedieux
+[Bm]Ainsi, pardieu, que les jar[C]nidieux, Et les pasquedieux [C#7] [F#7] [Bm]
 
 
-l1: Quelle pitié, Les charretiers, Ont un langage châtié
+Quelle pitié, Les charretiers, Ont un langage châtié
 
-l1: Les harengères, Et les mégères, Ne parlent plus à la légère
+Les harengères, Et les mégères, Ne parlent plus à la légère
 
-l1: Le vieux catéchisme poissard, N'a guère plus cours chez les hussards
+Le vieux catéchisme poissard, N'a guère plus cours chez les hussards
 
-l1: Ils ont vécu, de profundis, Les joyeux jurons de jadis
+Ils ont vécu, de profundis, Les joyeux jurons de jadis
 
 
-l1: Tous les morbleus, tous les ventrebleus, Les sacrebleus et les cornegidouilles
+Tous les morbleus, tous les ventrebleus, Les sacrebleus et les cornegidouilles
 
-l1: Ainsi, parbleu, que les jarnibleus, Et les palsambleus
+Ainsi, parbleu, que les jarnibleus, Et les palsambleus
 
-l1: Tous les cristis, les ventres saint-gris, Les par ma barbe et les noms d'une pipe
+Tous les cristis, les ventres saint-gris, Les par ma barbe et les noms d'une pipe
 
-l1: Ainsi, pardi, que les sapristis, Et les sacristis
+Ainsi, pardi, que les sapristis, Et les sacristis
 
-l1: Sans oublier les jarnicotons, Les scrogneugneus et les bigres et les bougres
+Sans oublier les jarnicotons, Les scrogneugneus et les bigres et les bougres
 
-l1: Les saperlottes, les cré nom de nom, Les pestes, et pouah, diantre, fichtre et foutre
+Les saperlottes, les cré nom de nom, Les pestes, et pouah, diantre, fichtre et foutre
 
-l1: Tous les Bon Dieu, Tous les vertudieux, Tonnerre de Brest et saperlipopette
+Tous les Bon Dieu, Tous les vertudieux, Tonnerre de Brest et saperlipopette
 
-l1: Ainsi, pardieu, que les jarnidieux, Et les pasquedieux
+Ainsi, pardieu, que les jarnidieux, Et les pasquedieux
 
 

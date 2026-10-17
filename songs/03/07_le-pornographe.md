@@ -1,109 +1,103 @@
 ## LE PORNOGRAPHE
 
 
-c1: Am                                           B7                     E7  
-l1: Autrefois, quand j'étais marmot, J'avais la phobie des gros mots
+[Am]Autrefois, quand j'étais marmot, J'avais la p[B7]hobie des gros mots [E7]
 
-c1: C                                             E7  
-l1: Et si j'pensais « merde » tout bas, Je ne le disais pas
+[C]Et si j'pensais « merde » tout bas, Je ne le d[E7]isais pas
 
-c1: Am                                             B7                                 E7  
-l1: Mais, aujourd'hui que mon gagne-pain, C'est d'parler comme un turlupin
+[Am]Mais, aujourd'hui que mon gagne-pain, C'est d'p[B7]arler comme un turlupin [E7]
 
-c1:  C                                       E7                Am  
-l1: Je n'pense plus « merde », pardi, Mais je le dis
+J[C]e n'pense plus « merde », pardi, Mais je[E7] le dis [Am]
 
 
-c1: Dm               Am   B7  E7  Am  
-l1: J'suis l'pornographe, Du phonographe
+[Dm]J'suis l'pornogra[Am]phe, [B7]Du p[E7]hono[Am]graphe
 
-c1: Dm   G7    C   E7   Am  
-l1: Le polisson, De la chanson
+[Dm]Le po[G7]lisson[C], De[E7] la c[Am]hanson
 
 
-l1: Afin d'amuser la gal'rie, Je crache des gauloiseries
+Afin d'amuser la gal'rie, Je crache des gauloiseries
 
-l1: Des pleines bouches de mots crus, Tout à fait incongrus
+Des pleines bouches de mots crus, Tout à fait incongrus
 
-l1: Mais, en m'retrouvant seul sous mon toit, Dans ma psyché j'me montre au doigt
+Mais, en m'retrouvant seul sous mon toit, Dans ma psyché j'me montre au doigt
 
-l1: Et m'crie: « Va t'faire, homme incorrect, Voir par les Grecs »
-
-
-l1: au refrain
+Et m'crie: « Va t'faire, homme incorrect, Voir par les Grecs »
 
 
-l1: Tous les sam'dis j'vais à confesse, M'accuser d'avoir parlé d'fesses
-
-l1: Et j'promets ferme au marabout, De les mettre tabou
-
-l1: Mais, craignant, si je n'en parle plus, D'finir à l'Armée du Salut
-
-l1: Je r'mets bientôt sur le tapis, Les fesses impies
+au refrain
 
 
-l1: au refrain
+Tous les sam'dis j'vais à confesse, M'accuser d'avoir parlé d'fesses
+
+Et j'promets ferme au marabout, De les mettre tabou
+
+Mais, craignant, si je n'en parle plus, D'finir à l'Armée du Salut
+
+Je r'mets bientôt sur le tapis, Les fesses impies
 
 
-l1: Ma femme est, soit dit en passant, D'un naturel concupiscent
-
-l1: Qui l'incite à se coucher nue, Sous le premier venu
-
-l1: Mais, m'est-il permis, soyons sincères, D'en parler au café-concert
-
-l1: Sans dire qu'elle a, suraigu, Le feu au cul ?
+au refrain
 
 
-l1: au refrain
+Ma femme est, soit dit en passant, D'un naturel concupiscent
+
+Qui l'incite à se coucher nue, Sous le premier venu
+
+Mais, m'est-il permis, soyons sincères, D'en parler au café-concert
+
+Sans dire qu'elle a, suraigu, Le feu au cul ?
 
 
-l1: J'aurais sans doute du bonheur, Et peut-être la Croix d'Honneur
-
-l1: A chanter avec décorum, L'amour qui mène à Rome
-
-l1: Mais, mon ange m'a dit : « Turlututu, Chanter l'amour t'est défendu
-
-l1: S'il n'éclôt pas sur le destin, D'une putain »
+au refrain
 
 
-l1: au refrain
+J'aurais sans doute du bonheur, Et peut-être la Croix d'Honneur
+
+A chanter avec décorum, L'amour qui mène à Rome
+
+Mais, mon ange m'a dit : « Turlututu, Chanter l'amour t'est défendu
+
+S'il n'éclôt pas sur le destin, D'une putain »
 
 
-l1: Et quand j'entonne, guilleret, A un patron de cabaret
-
-l1: Une adorable bucolique, Il est mélancolique
-
-l1: Et, me dit, la voix noyée de pleurs : « S'il vous plaît de chanter les fleurs
-
-l1: Qu'elles poussent au moins rue Blondel, Dans un bordel »
+au refrain
 
 
-l1: au refrain
+Et quand j'entonne, guilleret, A un patron de cabaret
+
+Une adorable bucolique, Il est mélancolique
+
+Et, me dit, la voix noyée de pleurs : « S'il vous plaît de chanter les fleurs
+
+Qu'elles poussent au moins rue Blondel, Dans un bordel »
 
 
-l1: Chaque soir avant le dîner, A mon balcon mettant le nez
-
-l1: Je contemple les bonnes gens, Dans le soleil couchant
-
-l1: Mais, n'me d'mandez pas d'chanter ça, si, Vous redoutez d'entendre ici
-
-l1: Que j'aime à voir, de mon balcon, Passer les cons
+au refrain
 
 
-l1: au refrain
+Chaque soir avant le dîner, A mon balcon mettant le nez
+
+Je contemple les bonnes gens, Dans le soleil couchant
+
+Mais, n'me d'mandez pas d'chanter ça, si, Vous redoutez d'entendre ici
+
+Que j'aime à voir, de mon balcon, Passer les cons
 
 
-l1: Les bonnes âmes d'ici bas, Comptent ferme qu'à mon trépas
-
-l1: Satan va venir embrocher, Ce mort mal embouché
-
-l1: Mais, mais veuille le grand manitou, Pour qui le mot n'est rien du tout
-
-l1: Admettre en sa Jérusalem, A l'heure blême
+au refrain
 
 
-l1: Le pornographe, Du phonographe
+Les bonnes âmes d'ici bas, Comptent ferme qu'à mon trépas
 
-l1: Le polisson, De la chanson
+Satan va venir embrocher, Ce mort mal embouché
+
+Mais, mais veuille le grand manitou, Pour qui le mot n'est rien du tout
+
+Admettre en sa Jérusalem, A l'heure blême
+
+
+Le pornographe, Du phonographe
+
+Le polisson, De la chanson
 
 

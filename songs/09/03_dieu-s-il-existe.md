@@ -1,53 +1,48 @@
 ## DIEU S'IL EXISTE
 
 
-c1: B               F#7   B         C#m    B          C#m  B    F#7  
-l1: Au ciel de qui se moque-t-on ? Était-ce utile qu'un orage
+[B]Au ciel de qui s[F#7]e moqu[B]e-t-on ? É[C#m]tait-ce[B] utile qu'u[C#m]n ora[B]ge [F#7]
 
-c1:         B    F#7     B       C#m         B                            F#7  B  
-l1: Vînt au pays de Jeanneton, Mettre à mal son beau pâturage ?
+Vînt au [B]pays [F#7]de Jeann[B]eton, Me[C#m]ttre à mal s[B]on beau pâturage ? [F#7] [B]
 
-c1:                                 C#m                     B                       C#m  F#7  
-l1: Pour ses brebis, pour ses moutons, Plus une plante fourragère,
+Pour ses brebis, pour ses mouton[C#m]s, Plus une plante fourr[B]agère, [C#m] [F#7]
 
-c1:                              C#m           B                              F#7  B  
-l1: Rien d'épargné que le chardon ! Dieu, s'il existe, il exagère,
+Rien d'épargné que le chardon[C#m] ! Dieu, s'il [B]existe, il exagère, [F#7] [B]
 
-c1:            F#7  B  
-l1: Il exagère.
+Il exagère. [F#7] [B]
 
 
-l1: Et là-dessus, méchant, glouton, Et pas pour un sou bucolique,
+Et là-dessus, méchant, glouton, Et pas pour un sou bucolique,
 
-l1: Vers le troupeau de Jeanneton, Le loup sortant du bois rapplique.
+Vers le troupeau de Jeanneton, Le loup sortant du bois rapplique.
 
-l1: Sans laisser même un rogaton, Tout il croque, tout il digère.
+Sans laisser même un rogaton, Tout il croque, tout il digère.
 
-l1: Au ciel de qui se moque-t-on ? Dieu, s'il existe, il exagère,
+Au ciel de qui se moque-t-on ? Dieu, s'il existe, il exagère,
 
-l1: Il exagère.
-
-
-l1: Et là-dessus le Corydon, Le promis de la pastourelle,
-
-l1: Laquelle allait au grand pardon, Rêver d'amours intemporelles,
-
-l1: - Au ciel de qui se moque-t-on ? Suivit la cuisse plus légère
-
-l1: Et plus belle d'une goton. Dieu, s'il existe, il exagère,
-
-l1: Il exagère.
+Il exagère.
 
 
-l1: Adieu les prairies, les moutons, Et les beaux jours de la bergère.
+Et là-dessus le Corydon, Le promis de la pastourelle,
 
-l1: Au ciel de qui se moque-t-on ? Ferait-on de folles enchères ?
+Laquelle allait au grand pardon, Rêver d'amours intemporelles,
 
-l1: Quand il grêle sur le persil, C'est bête et méchant, je suggère
+- Au ciel de qui se moque-t-on ? Suivit la cuisse plus légère
 
-l1: Qu'on en parle au prochain concile. Dieu, s'il existe, il exagère,
+Et plus belle d'une goton. Dieu, s'il existe, il exagère,
 
-l1: Il exagère.
+Il exagère.
+
+
+Adieu les prairies, les moutons, Et les beaux jours de la bergère.
+
+Au ciel de qui se moque-t-on ? Ferait-on de folles enchères ?
+
+Quand il grêle sur le persil, C'est bête et méchant, je suggère
+
+Qu'on en parle au prochain concile. Dieu, s'il existe, il exagère,
+
+Il exagère.
 
 
 

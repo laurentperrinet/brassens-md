@@ -1,126 +1,123 @@
 ## S'FAIRE ENCULER
 
 
-c1:      D             F#7                               Bm  
-l1: La lune s'attristait. On comprend sa tristesse
+La lu[D]ne s'attristai[F#7]t. On comprend sa tristesse [Bm]
 
-c1:       D                 F#7                                     Bm  
-l1: On tapait plus dedans. Elle s'demandait quand est-ce
+On tap[D]ait plus dedans. E[F#7]lle s'demandait quand est-ce [Bm]
 
-c1: D                       E7       A7   D  
-l1: Qu'on va s'rappeler de m'enculer ?
+[D]Qu'on va s'rappeler de m[E7]'enculer [A7]? [D]
 
 
-l1: Dans mon affreux jargon, carence inexplicable,
+Dans mon affreux jargon, carence inexplicable,
 
-l1: Brillait par son absence un des pires vocables
+Brillait par son absence un des pires vocables
 
-l1: C'est : « enculé ». Lacune comblée.
+C'est : « enculé ». Lacune comblée.
 
 
-l1: Lâcher ce terme bas, Dieu sait ce qu'il m'en coûte,
+Lâcher ce terme bas, Dieu sait ce qu'il m'en coûte,
 
-l1: La chose ne me gêne pas mais le mot me dégoûte,
+La chose ne me gêne pas mais le mot me dégoûte,
 
-l1: J'suis désolé d'dire enculé.
+J'suis désolé d'dire enculé.
 
 
-l1: Oui mais depuis qu'Adam se fit charmer par Eve
+Oui mais depuis qu'Adam se fit charmer par Eve
 
-l1: L'éternel féminin nous emmerde et je rêve
+L'éternel féminin nous emmerde et je rêve
 
-l1: Parfois d'aller m'faire enculer.
+Parfois d'aller m'faire enculer.
 
 
-l1: Sous les coups de boutoir des ligues féministes
+Sous les coups de boutoir des ligues féministes
 
-l1: La moitié des messieurs brûle d'être onaniste,
+La moitié des messieurs brûle d'être onaniste,
 
-l1: L'autre d'aller s'faire enculer.
+L'autre d'aller s'faire enculer.
 
 
-l1: A force d'être en butte au tir des suffragettes
+A force d'être en butte au tir des suffragettes
 
-l1: En son for intérieur chacun de nous projette
+En son for intérieur chacun de nous projette
 
-l1: D'hélas aller s'faire enculer.
+D'hélas aller s'faire enculer.
 
 
-l1: Quand on veut les trousser, on est un phallocrate,
+Quand on veut les trousser, on est un phallocrate,
 
-l1: Quand on ne le veut point, un émule de Socrate,
+Quand on ne le veut point, un émule de Socrate,
 
-l1: Reste d'aller s'faire enculer.
+Reste d'aller s'faire enculer.
 
 
-l1: Qu'espèrent en coassant des légions de grenouilles ?
+Qu'espèrent en coassant des légions de grenouilles ?
 
-l1: Que le royaume de France enfin tombe en quenouille,
+Que le royaume de France enfin tombe en quenouille,
 
-l1: Qu'on coure aller s'faire enculer ?
+Qu'on coure aller s'faire enculer ?
 
 
-l1: Y a beaux jours que c'est fait devant ces tyrannettes,
+Y a beaux jours que c'est fait devant ces tyrannettes,
 
-l1: On danse comme des pantins, comme des marionnettes
+On danse comme des pantins, comme des marionnettes
 
-l1: Au lieu d'aller s'faire enculer.
+Au lieu d'aller s'faire enculer.
 
 
-l1: Pompadour, Montespan, La Vallière et j'en passe
+Pompadour, Montespan, La Vallière et j'en passe
 
-l1: Talonnèrent le roi qui marchait tête basse
+Talonnèrent le roi qui marchait tête basse
 
-l1: Souhaitant aller s'faire enculer.
+Souhaitant aller s'faire enculer.
 
 
-l1: A de rares exceptions, nom d'un chien, ce sont elles
+A de rares exceptions, nom d'un chien, ce sont elles
 
-l1: Qui toujours mine de rien déclenchent la bagatelle ;
+Qui toujours mine de rien déclenchent la bagatelle ;
 
-l1: Il faut aller s'faire enculer.
+Il faut aller s'faire enculer.
 
 
-l1: Oui la plupart du temps sans aucune équivoque
+Oui la plupart du temps sans aucune équivoque
 
-l1: En tortillant du cul ces dames nous provoquent,
+En tortillant du cul ces dames nous provoquent,
 
-l1: Mieux vaut aller s'faire enculer.
+Mieux vaut aller s'faire enculer.
 
 
-l1: Fatigué de souffrir leur long réquisitoire
+Fatigué de souffrir leur long réquisitoire
 
-l1: Ayant en vain cherché d'autres échappatoires,
+Ayant en vain cherché d'autres échappatoires,
 
-l1: Je vais aller m'faire enculer.
+Je vais aller m'faire enculer.
 
 
-l1: D'à partir de ce soir cessant d'croquer la pomme
+D'à partir de ce soir cessant d'croquer la pomme
 
-l1: J'embarque pour Cythère en passant par Sodome,
+J'embarque pour Cythère en passant par Sodome,
 
-l1: Afin d'aller m'faire enculer.
+Afin d'aller m'faire enculer.
 
 
-l1: Afin qu'aucune de vous mesdames n'imagine
+Afin qu'aucune de vous mesdames n'imagine
 
-l1: Que j'ai du parti pris, que je suis misogyne,
+Que j'ai du parti pris, que je suis misogyne,
 
-l1: Avant d'aller m'faire enculer
+Avant d'aller m'faire enculer
 
 
-l1: J'avoue publiquement que vous êtes nos égales,
+J'avoue publiquement que vous êtes nos égales,
 
-l1: Qu'il faut valider ça dans une formule légale,
+Qu'il faut valider ça dans une formule légale,
 
-l1: J'suis enculé mais régulier.
+J'suis enculé mais régulier.
 
 
-l1: En vertu d'quel pouvoir, injustes que nous sommes,
+En vertu d'quel pouvoir, injustes que nous sommes,
 
-l1: Vous refuse-t-on les droits que l'on accorde aux hommes,
+Vous refuse-t-on les droits que l'on accorde aux hommes,
 
-l1: Comme d'aller s'faire enculer.
+Comme d'aller s'faire enculer.
 
 
 

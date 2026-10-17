@@ -1,66 +1,59 @@
 ## LES AMOUREUX DES BANCS PUBLICS
 
 
-c1: Bm                                                    F#7  
-l1: Les gens qui voient de travers, Pensent que les bancs verts, Qu'on voit sur les trottoirs
+[Bm]Les gens qui voient de travers, Pensent que les bancs [F#7]verts, Qu'on voit sur les trottoirs
 
-l1: Sim
+Sim
 
-l1: Sont faits pour les impotents ou les ventripotents
+Sont faits pour les impotents ou les ventripotents
 
-c1: Am                                      E7  
-l1: Mais c'est une absurdité, Car, à la vérité, Ils sont là, c'est notoire
+[Am]Mais c'est une absurdité, Car, à la véri[E7]té, Ils sont là, c'est notoire
 
-c1: A7                                            D  
-l1: Pour accueillir quelques temps les amours débutants
+[A7]Pour accueillir quelques temps les amours débu[D]tants
 
 
-c1: Em                                  Bm             A#dim          Bm  
-l1: Les amoureux qui s'bécotent sur les bancs publics, Bancs publics, bancs publics
+[Em]Les amoureux qui s'bécotent sur les [Bm]bancs publics, [A#dim]Bancs publics, [Bm]bancs publics
 
-c1: C                       G               D7              G   
-l1: En s'foutant pas mal du r'gard oblique, Des passants honnêtes
+[C]En s'foutant pas mal du [G]r'gard oblique, [D7]Des passants hon[G]nêtes
 
-c1:         Em                          Bm             A#dim          Bm  
-l1: Les amoureux qui s'bécotent sur les bancs publics, Bancs publics, bancs publics
+Les amou[Em]reux qui s'bécotent sur les [Bm]bancs publics, [A#dim]Bancs publics, [Bm]bancs publics
 
-c1: C                             G                D7                            G   
-l1: En s'disant des « je t'aime » pathétiques, Ont des p'tites gueules bien sympathiques
+[C]En s'disant des « je t'aime » [G]pathétiques, Ont [D7]des p'tites gueules bien sympa[G]thiques
 
 
-l1: Ils se tiennent par la main, Parlent du lendemain, Du papier bleu d'azur
+Ils se tiennent par la main, Parlent du lendemain, Du papier bleu d'azur
 
-l1: Que revêtiront les murs de leur chambre à coucher
+Que revêtiront les murs de leur chambre à coucher
 
-l1: Ils se voient déjà douc'ment, Elle cousant, lui fumant, Dans un bien-être sûr
+Ils se voient déjà douc'ment, Elle cousant, lui fumant, Dans un bien-être sûr
 
-l1: Et choisissent les prénoms de leur premier bébé...
-
-
-l1: Refrain
+Et choisissent les prénoms de leur premier bébé...
 
 
-l1: Quand la sainte famille Machin, Croise sur son chemin, Deux de ces malappris
-
-l1: Elle leur décroche hardiment des propos venimeux
-
-l1: N'empêche que toute la famille, Le père, la mère, la fille, le fils, le saint-esprit
-
-l1: Voudrait bien de temps en temps, Pouvoir s'conduire comme eux.
+Refrain
 
 
-l1: Refrain
+Quand la sainte famille Machin, Croise sur son chemin, Deux de ces malappris
+
+Elle leur décroche hardiment des propos venimeux
+
+N'empêche que toute la famille, Le père, la mère, la fille, le fils, le saint-esprit
+
+Voudrait bien de temps en temps, Pouvoir s'conduire comme eux.
 
 
-l1: Quand les mois auront passé, Quand seront apaisés, Leur beaux rêves flambants
-
-l1: Quand leur ciel se couvrira de gros nuages lourds
-
-l1: Ils s'apercevront émus, Qu'c'est au hasard des rues, Sur un d'ces fameux bancs
-
-l1: Qu'ils ont vécu le meilleur morceau de leur amour
+Refrain
 
 
-l1: Refrain x 2
+Quand les mois auront passé, Quand seront apaisés, Leur beaux rêves flambants
+
+Quand leur ciel se couvrira de gros nuages lourds
+
+Ils s'apercevront émus, Qu'c'est au hasard des rues, Sur un d'ces fameux bancs
+
+Qu'ils ont vécu le meilleur morceau de leur amour
+
+
+Refrain x 2
 
 

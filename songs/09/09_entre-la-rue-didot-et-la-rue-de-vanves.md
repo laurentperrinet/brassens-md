@@ -1,84 +1,81 @@
 ## ENTRE LA RUE DIDOT ET LA RUE DE VANVES
 
 
-c1: C                   Dm      G7               C                                     G7       C  
-l1: Voici ce qu'il advint, jadis grosso modo, entre la rue Didot et la rue de Vanves
+[C]Voici ce qu'il advin[Dm]t, jadis[G7] grosso modo, ent[C]re la rue Didot et la rue de Vanves [G7] [C]
 
-c1: F  D#dim              Em       A7         Dm       G7             A7  
-l1: Dans les années quarante où je débarquais de mon Languedo
+[F]Dan[D#dim]s les années quaran[Em]te où je [A7]débarquais [Dm]de mon La[G7]nguedo [A7]
 
-c1: Dm     G7       C       Dm  Am  G7   C  
-l1: Entre la rue de Vanves et la rue Didot
+[Dm]Entre l[G7]a rue de [C]Vanves e[Dm]t la[Am] rue[G7] Dido[C]t
 
 
-l1: Passait une belle gretchen, au carrefour du château, entre la rue Didot et la rue de Vanves
+Passait une belle gretchen, au carrefour du château, entre la rue Didot et la rue de Vanves
 
-l1: Callipyge à prétendre jouer les Vénus chez les Hottentots
+Callipyge à prétendre jouer les Vénus chez les Hottentots
 
-l1: Entre la rue de Vanves et la rue Didot
-
-
-l1: En signe d'irrespect, je balance aussitôt, entre la rue Didot et la rue de Vanves
-
-l1: En geste de revanche une patte croche au bas de son dos
-
-l1: Entre la rue de Vanves et la rue Didot
+Entre la rue de Vanves et la rue Didot
 
 
-l1: La souris grise se fâche, et subito presto, entre la rue Didot et la rue de Vanves
+En signe d'irrespect, je balance aussitôt, entre la rue Didot et la rue de Vanves
 
-l1: La conne la méchante va d'mander ma tête à ses p'tits poteaux
+En geste de revanche une patte croche au bas de son dos
 
-l1: Entre la rue de Vanves et la rue Didot
-
-
-l1: Deux sbires sont venus, avec leur noirs manteaux, entre la rue Didot et la rue de Vanves
-
-l1: Se pointer dans mon antre et sûrement pas pour m'faire de cadeaux
-
-l1: Entre la rue de Vanves et la rue Didot
+Entre la rue de Vanves et la rue Didot
 
 
-l1: J'étais alors en train, de suer sang et eau, entre la rue Didot et la rue de Vanves
+La souris grise se fâche, et subito presto, entre la rue Didot et la rue de Vanves
 
-l1: De m'user les phalanges sur un chouette accord du Père Django
+La conne la méchante va d'mander ma tête à ses p'tits poteaux
 
-l1: Entre la rue de Vanves et la rue Didot
-
-
-l1: Par un heureux hasard, ces enfants de salauds, entre la rue Didot et la rue de Vanves
-
-l1: Un sacré coup de chance aimaient la musique et les trémolos
-
-l1: Entre la rue de Vanves et la rue Didot
+Entre la rue de Vanves et la rue Didot
 
 
-l1: Ils s'en sont retournés, sans finir leur boulot, entre la rue Didot et la rue de Vanves
+Deux sbires sont venus, avec leur noirs manteaux, entre la rue Didot et la rue de Vanves
 
-l1: Fredonnant un mélange de Lily Marlène et d'Heïli Heïlo
+Se pointer dans mon antre et sûrement pas pour m'faire de cadeaux
 
-l1: Entre la rue de Vanves et la rue Didot
-
-
-l1: Une supposition, qu'ils aient comme Malraux, entre la rue Didot et la rue de Vanves
-
-l1: Qu'ils aient comme ce branque compté la musique pour moins que zéro
-
-l1: Entre la rue de Vanves et la rue Didot
+Entre la rue de Vanves et la rue Didot
 
 
-l1: M'auraient collé au mur, avec ou sans bandeau, entre la rue Didot et la rue de Vanves
+J'étais alors en train, de suer sang et eau, entre la rue Didot et la rue de Vanves
 
-l1: On lirait quelle navrance mon blase inconnu dans un ex-voto
+De m'user les phalanges sur un chouette accord du Père Django
 
-l1: Entre la rue de Vanves et la rue Didot
+Entre la rue de Vanves et la rue Didot
 
 
-l1: Au théâtre ce soir, ici sur ces tréteaux, entre la rue Didot et la rue de Vanves
+Par un heureux hasard, ces enfants de salauds, entre la rue Didot et la rue de Vanves
 
-l1: Poussant une autre goualante y'aurait à ma place un autre cabot
+Un sacré coup de chance aimaient la musique et les trémolos
 
-l1: Entre la rue de Vanves et la rue Didot
+Entre la rue de Vanves et la rue Didot
+
+
+Ils s'en sont retournés, sans finir leur boulot, entre la rue Didot et la rue de Vanves
+
+Fredonnant un mélange de Lily Marlène et d'Heïli Heïlo
+
+Entre la rue de Vanves et la rue Didot
+
+
+Une supposition, qu'ils aient comme Malraux, entre la rue Didot et la rue de Vanves
+
+Qu'ils aient comme ce branque compté la musique pour moins que zéro
+
+Entre la rue de Vanves et la rue Didot
+
+
+M'auraient collé au mur, avec ou sans bandeau, entre la rue Didot et la rue de Vanves
+
+On lirait quelle navrance mon blase inconnu dans un ex-voto
+
+Entre la rue de Vanves et la rue Didot
+
+
+Au théâtre ce soir, ici sur ces tréteaux, entre la rue Didot et la rue de Vanves
+
+Poussant une autre goualante y'aurait à ma place un autre cabot
+
+Entre la rue de Vanves et la rue Didot
 
 
 

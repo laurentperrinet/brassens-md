@@ -1,52 +1,48 @@
 ## LE PÈRE NOËL ET LA PETITE FILLE
 
 
-c1: Am                G7     C                B7              E  
-l1: Avec sa hotte sur le dos, Avec sa hotte sur le dos,
+[Am]Avec sa hotte sur [G7]le dos,[C] Avec sa hotte su[B7]r le dos, [E]
 
-c1: Am                  G7   C               B7               E  
-l1: Il s'en venait d'Eldorado, Il s'en venait d'Eldorado,
+[Am]Il s'en venait d'Eld[G7]orado[C], Il s'en venait[B7] d'Eldorado, [E]
 
-c1:                            F                      B7                  E  
-l1: Il avait une barbe blanche, Il avait nom « Papa Gâteau »,
+Il avait une barbe blanche,[F] Il avait nom « Papa Gâ[B7]teau », [E]
 
-c1: Am           C              B7  E  Am              C              F  E  Am  
-l1: Il a mis du pain sur ta planche, Il a mis les mains sur tes hanches.
+[Am]Il a mis du p[C]ain sur ta plan[B7]che,[E] Il[Am] a mis les mains[C] sur tes hanche[F]s. [E] [Am]
 
 
-l1: Il t'a prom'née dans un landau, Il t'a prom'née dans un landau,
+Il t'a prom'née dans un landau, Il t'a prom'née dans un landau,
 
-l1: En route pour la vie d'château, En route pour la vie d'château,
+En route pour la vie d'château, En route pour la vie d'château,
 
-l1: La belle vie dorée sur tranche, Il te l'offrit sur un plateau.
+La belle vie dorée sur tranche, Il te l'offrit sur un plateau.
 
-l1: Il a mis du grain dans ta grange, Il a mis les mains sur tes hanches.
-
-
-l1: Toi qui n'avais rien sur le dos, Toi qui n'avais rien sur le dos,
-
-l1: Il t'a couverte de manteaux, Il t'a couverte de manteaux,
-
-l1: Il t'a vêtue comme un dimanche, Tu n'auras pas froid de sitôt.
-
-l1: Il a mis l'hermine à ta manche, Il a mis les mains sur tes hanches.
+Il a mis du grain dans ta grange, Il a mis les mains sur tes hanches.
 
 
-l1: Tous les camées, tous les émaux, Tous les camées, tous les émaux,
+Toi qui n'avais rien sur le dos, Toi qui n'avais rien sur le dos,
 
-l1: Il les fit pendre à tes rameaux, Il les fit pendre à tes rameaux,
+Il t'a couverte de manteaux, Il t'a couverte de manteaux,
 
-l1: Il fit rouler en avalanches, Perle et rubis dans tes sabots.
+Il t'a vêtue comme un dimanche, Tu n'auras pas froid de sitôt.
 
-l1: Il a mis de l'or à ta branche, Il a mis les mains sur tes hanches.
+Il a mis l'hermine à ta manche, Il a mis les mains sur tes hanches.
 
 
-l1: Tire la belle, tire le rideau, Tire la belle, tire le rideau,
+Tous les camées, tous les émaux, Tous les camées, tous les émaux,
 
-l1: Sur tes misères de tantôt, Sur tes misères de tantôt,
+Il les fit pendre à tes rameaux, Il les fit pendre à tes rameaux,
 
-l1: Et qu'au-dehors il pleuve, il vente, Le mauvais temps n'est plus ton lot,
+Il fit rouler en avalanches, Perle et rubis dans tes sabots.
 
-l1: Le joli temps des coudées franches... On a mis les mains sur tes hanches.
+Il a mis de l'or à ta branche, Il a mis les mains sur tes hanches.
+
+
+Tire la belle, tire le rideau, Tire la belle, tire le rideau,
+
+Sur tes misères de tantôt, Sur tes misères de tantôt,
+
+Et qu'au-dehors il pleuve, il vente, Le mauvais temps n'est plus ton lot,
+
+Le joli temps des coudées franches... On a mis les mains sur tes hanches.
 
 

@@ -1,35 +1,31 @@
 ## LE ROI BOITEUX
 
 
-c1: B           E                              B         B7          E                  B7  
-l1: Un roi d'Espagne, ou bien de France, Avait un cor, un cor au pied.
+[B]Un roi d'Esp[E]agne, ou bien de France, Avait [B]un cor, un[B7] cor au pied[E]. [B7]
 
-c1: G#7   C#m         F#7     B                F#7            B7  
-l1: C'était au pied gauche, je pense, Il boitait à faire pitié.
+[G#7]C'étai[C#m]t au pied ga[F#7]uche, je[B] pense, Il boitai[F#7]t à faire pitié[B7].
 
-c1:                 E                   B7                E                 B  
-l1: Les courtisans, espèce adroite, S'appliquèrent à l'imiter,
+Les courtisans, [E]espèce adroite, S'ap[B7]pliquèrent à l'imi[E]ter, [B]
 
-c1:     G#7    C#m    F#7   B               F#7                 B    F#7  B  F#7  B  F#7  B  E  B  
-l1: Et qui de gauche, qui de droite, Il apprirent tous à boiter.
+Et q[G#7]ui de g[C#m]auche, [F#7]qui de[B] droite, Il appr[F#7]irent tous à boiter. [B] [F#7] [B] [F#7] [B] [F#7] [B] [E] [B]
 
 
-l1: On vit bientôt le bénéfice, Que cette mode rapportait,
+On vit bientôt le bénéfice, Que cette mode rapportait,
 
-l1: Et, de l'antichambre à l'office, Tout le monde boitait, boitait.
+Et, de l'antichambre à l'office, Tout le monde boitait, boitait.
 
-l1: Un jour, un seigneur de province, Oubliant son nouveau métier,
+Un jour, un seigneur de province, Oubliant son nouveau métier,
 
-l1: Vint à passer devant le prince, Ferme et droit comme un peuplier.
+Vint à passer devant le prince, Ferme et droit comme un peuplier.
 
 
-l1: Tout le monde se mit à rire, Excepté le roi, qui tout bas,
+Tout le monde se mit à rire, Excepté le roi, qui tout bas,
 
-l1: Murmura : « Monsieur, qu'est-ce à dire ? Je crois que vous ne boitez pas. »
+Murmura : « Monsieur, qu'est-ce à dire ? Je crois que vous ne boitez pas. »
 
-l1: « Sire, quelle erreur est la votre ! Je suis criblé de cors ; voyez :
+« Sire, quelle erreur est la votre ! Je suis criblé de cors ; voyez :
 
-l1: Si je marche plus droit qu'un autre, C'est que je boite des deux pieds. »
+Si je marche plus droit qu'un autre, C'est que je boite des deux pieds. »
 
 
 

@@ -1,51 +1,45 @@
 ## LA PREMIÈRE FILLE
 
 
-c1: D                                              F#                                Bm  
-l1: J'ai tout oublié des campagnes, d'Austerlitz et de Waterloo
+[D]J'ai tout oublié des campagnes, d'Austerlitz et[F#] de Waterloo [Bm]
 
-c1: G                         F#      Bm     E               A7              D         E  
-l1: D'Italie de Prusse et d'Espagne, de Pontoise et de Landerneau
+[G]D'Italie de Prusse et d'Es[F#]pagne, d[Bm]e Ponto[E]ise et de Lander[A7]neau [D] [E]
 
 
-c1: A                            E7                   A                              F#m             C#m  
-l1: Jamais de la vie, On ne l'oubliera, La première fille qu'on a pris dans ses bras
+[A]Jamais de la vie, On ne l'oub[E7]liera, La première fi[A]lle qu'on a pris dans ses bras [F#m] [C#m]
 
-c1:      D                  A      D               C#7  F#m                                         Bm                          E7  
-l1: La première étrangère, A qui l'on a dit tu, Mon cœur t'en souviens-tu, Comme elle nous était chère ?
+La pr[D]emière étrangère, A[A] qui l'[D]on a dit tu, Mon[C#7] cœur[F#m] t'en souviens-tu, Comme elle nous était chè[Bm]re ? [E7]
 
-c1:            A                             E7                          A                         F#m             C#m  
-l1: Qu'elle soit fille honnête, Ou fille de rien, Qu'elle soit pucelle, Ou qu'elle soit putain,
+Qu'elle soi[A]t fille honnête, Ou fille de r[E7]ien, Qu'elle soit pucelle, O[A]u qu'elle soit putain, [F#m] [C#m]
 
-c1:      D                  A         D              C#7  F#m          Bm                      E7               A  
-l1: On se souvient d'elle, On s'en souviendra, La première fille, Qu'on a pris dans ses bras.
+On se[D] souvient d'elle, O[A]n s'en sou[D]viendra, La pre[C#7]mière[F#m] fille, Qu'on[Bm] a pris dans ses bras. [E7] [A]
 
 
-l1: Ils sont partis à tire-d'aile, Mes souvenirs de la Suzon,
+Ils sont partis à tire-d'aile, Mes souvenirs de la Suzon,
 
-l1: Et ma mémoire est infidèle, A Julie, Rosette ou Lison !
-
-
-l1: Jamais de la vie, On ne l'oubliera, La première fille, Qu'on a pris dans ses bras,
-
-l1: C'était une bonne affaire, Mon cœur t'en souviens-tu ? J'ai changé ma vertu Contre une primevère
-
-l1: Qu'ce soit en grande pompe, Comme les gens biens, Ou bien dans la rue, Comme les pauvres et les chiens,
-
-l1: On se souvient d'elle, On s'en souviendra, D'la première fille, Qu'on a pris dans ses bras.
+Et ma mémoire est infidèle, A Julie, Rosette ou Lison !
 
 
-l1: Toi, qui m'as donné le baptême, D'amour et de septième ciel,
+Jamais de la vie, On ne l'oubliera, La première fille, Qu'on a pris dans ses bras,
 
-l1: Moi je te garde et moi je t'aime, Dernier cadeau du père noël
+C'était une bonne affaire, Mon cœur t'en souviens-tu ? J'ai changé ma vertu Contre une primevère
+
+Qu'ce soit en grande pompe, Comme les gens biens, Ou bien dans la rue, Comme les pauvres et les chiens,
+
+On se souvient d'elle, On s'en souviendra, D'la première fille, Qu'on a pris dans ses bras.
 
 
-l1: Jamais de la vie, On ne l'oubliera, La première fille, Qu'on a pris dans ses bras
+Toi, qui m'as donné le baptême, D'amour et de septième ciel,
 
-l1: On a beau faire le brave, Quand elle s'est mise nue, Mon cœur t'en souviens-tu, On n'en menait pas large ?
+Moi je te garde et moi je t'aime, Dernier cadeau du père noël
 
-l1: Bien d'autres sans doutes, Depuis, sont venues, Oui, mais entre toutes, Celles qu'on a connues,
 
-l1: Elle est la dernière, Que l'on oubliera, La première fille, Qu'on a pris dans ses bras.
+Jamais de la vie, On ne l'oubliera, La première fille, Qu'on a pris dans ses bras
+
+On a beau faire le brave, Quand elle s'est mise nue, Mon cœur t'en souviens-tu, On n'en menait pas large ?
+
+Bien d'autres sans doutes, Depuis, sont venues, Oui, mais entre toutes, Celles qu'on a connues,
+
+Elle est la dernière, Que l'on oubliera, La première fille, Qu'on a pris dans ses bras.
 
 

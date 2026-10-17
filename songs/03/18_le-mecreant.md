@@ -4,77 +4,56 @@
 youTubeId: LWSEdlL8qIM
 ---
 
-c1: D                              G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Est-il en notre temps, rien de plus odieux, De plus désespérant que de n'pas croire en Dieu
+[D]Est-il en notre temps, rien de [G]plus odieu[Em]x, De p[A7]lus [D]désespé[F#7]rant que de[Bm] n'pas cro[G]ire en Dieu [A7] [D]
 
-c1: D                              G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: J'voudrais avoir la foi, la foi d'mon charbonnier, Qui est heureux comme un pape et con comme un panier
+[D]J'voudrais avoir la foi, la foi[G] d'mon cha[Em]rbonnie[A7]r, Q[D]ui est [F#7]heureux com[Bm]me un pape[G] et con comm[A7]e un panier [D]
 
 
-c1: D                                      G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Mon voisin du dessus, un certain Blaise Pascal, M'a gentiment donné ce conseil amical :
+[D]Mon voisin du dessus, un certain Blaise[G] Pascal, M[Em]'a gent[A7]imen[D]t donné[F#7] ce conseil[Bm] amical : [G] [A7] [D]
 
-c1: D                                G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: « Mettez-vous à genoux, priez et implorez, Faites semblant de croire et bientôt vous croirez »
+[D]« Mettez-vous à genoux, priez et [G]implorez, [Em]Faites [A7]semb[D]lant de[F#7] croire et [Bm]bientôt vo[G]us croirez » [A7] [D]
 
 
-c1: D                       G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: J'me mis à débiter, les rotules à terre, Tous les Ave Maria tous les Pater Noster
+[D]J'me mis à débiter, les [G]rotules à [Em]terre, [A7]Tous[D] les Av[F#7]e Maria tou[Bm]s les Pate[G]r Noster [A7] [D]
 
-c1: D                                   G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Dans les rues les cafés, les trains les autobus, Tous les De Profundis tous les Morpionnibus
+[D]Dans les rues les cafés, les trains [G]les autobu[Em]s, Tous[A7] les[D] De Pro[F#7]fundis tous[Bm] les Morpi[G]onnibus [A7] [D]
 
 
-c1: D                                     G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Sur ces entrefaites-là, trouvant dans les orties, Une soutane à ma taille je m'en suis travesti
+[D]Sur ces entrefaites-là, trouvant dans [G]les orties[Em], Une s[A7]outa[D]ne à ma[F#7] taille je [Bm]m'en suis [G]travesti [A7] [D]
 
-c1: D                            G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Et tonsuré de frais, ma guitare à la main, Vers la foi salvatrice je me mis en chemin
+[D]Et tonsuré de frais, ma guita[G]re à la ma[Em]in, Ver[A7]s la[D] foi sa[F#7]lvatrice je[Bm] me mis en[G] chemin [A7] [D]
 
 
-c1: D                                        G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: J'tombai sur un boisseau, d'punaises de sacristie, Me prenant pour un autre en chœur elles m'ont dit :
+[D]J'tombai sur un boisseau, d'punaises de s[G]acristie, [Em]Me pren[A7]ant [D]pour un[F#7] autre en c[Bm]hœur elles[G] m'ont dit : [A7] [D]
 
-c1: D                                                 G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: « Mon père chantez-nous donc, quelque refrain sacré, Quelque sainte chanson dont vous avez l'secret »
+[D]« Mon père chantez-nous donc, quelque refrain sacr[G]é, Quelque[Em] sainte[A7] cha[D]nson do[F#7]nt vous ave[Bm]z l'secret[G] » [A7] [D]
 
 
-c1: D                                          G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Grattant avec ferveur, les cordes sous mes doigts, J'entonnai « Le gorille » avec « Putain de toi »
+[D]Grattant avec ferveur, les cordes sous mes [G]doigts, J'[Em]entonna[A7]i « [D]Le gori[F#7]lle » avec [Bm]« Putain d[G]e toi » [A7] [D]
 
-c1: D                                G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Criant à l'imposteur, au traître au papelard, Elles veulent me faire subir le supplice d'Abélard
+[D]Criant à l'imposteur, au traître [G]au papelar[Em]d, Elle[A7]s ve[D]ulent m[F#7]e faire sub[Bm]ir le supp[G]lice d'Abéla[A7]rd [D]
 
 
-c1: D                                  G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Je vais grossir les rangs, des muets du sérail, Les belles ne viendront plus se pendre à mon poitrail
+[D]Je vais grossir les rangs, des muet[G]s du sérai[Em]l, Les [A7]bell[D]es ne v[F#7]iendront pl[Bm]us se pend[G]re à mon poi[A7]trail [D]
 
-c1: D                                           G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Grâce à ma voix coupée, j'aurai la place de choix, Au milieu des petits chanteurs à la croix d'bois.
+[D]Grâce à ma voix coupée, j'aurai la place de [G]choix, Au [Em]milieu [A7]des [D]petits [F#7]chanteurs à[Bm] la croix [G]d'bois. [A7] [D]
 
 
-c1: D                            G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Attirée par le bruit, une dame de charité, Leur dit : « Que faites-vous, malheureuses ? Arrêtez ! »
+[D]Attirée par le bruit, une dam[G]e de chari[Em]té, Leu[A7]r di[D]t : « Q[F#7]ue faites-v[Bm]ous, malhe[G]ureuses ? Ar[A7]rêtez ! » [D]
 
-c1: D                                                           G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: « Y'a tant d'hommes aujourd'hui, qui ont un penchant pervers, À prendre obstinément Cupidon à l'envers »
+[D]« Y'a tant d'hommes aujourd'hui, qui ont un penchant pervers[G], À prendr[Em]e obsti[A7]néme[D]nt Cupi[F#7]don à l'env[Bm]ers » [G] [A7] [D]
 
 
-c1: D                                          G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: « Tant d'hommes dépourvus, de leurs virils appas, À ceux qui en ont encore ne les enlevons pas ».
+[D]« Tant d'hommes dépourvus, de leurs virils [G]appas, À c[Em]eux qui[A7] en [D]ont enc[F#7]ore ne les [Bm]enlevons p[G]as ». [A7] [D]
 
-c1: D                                             G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Ces arguments massue firent une grosse impression, On me laissa partir avec des ovations
+[D]Ces arguments massue firent une grosse impress[G]ion, On me[Em] laissa[A7] par[D]tir ave[F#7]c des ovati[Bm]ons [G] [A7] [D]
 
 
-c1: D                                      G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Mais sur l'chemin du ciel, je n'ferai plus un pas, La foi viendra d'elle même ou elle ne viendra pas
+[D]Mais sur l'chemin du ciel, je n'ferai p[G]lus un pas[Em], La fo[A7]i vi[D]endra d[F#7]'elle même [Bm]ou elle ne[G] viendra pas [A7] [D]
 
-c1: D                           G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Je n'ai jamais tué, jamais violé non plus, Y'a déjà quelques temps que je ne vole plus
+[D]Je n'ai jamais tué, jamais v[G]iolé non p[Em]lus, Y'[A7]a dé[D]jà quel[F#7]ques temps [Bm]que je ne [G]vole plus [A7] [D]
 
 
-c1: D                              G         Em     A7  D      F#7        Bm        G           A7          D  
-l1: Si l'Éternel existe, en fin de compte il voit, Qu'je m'conduis guère plus mal que si j'avais la foi.
+[D]Si l'Éternel existe, en fin de [G]compte il [Em]voit, Q[A7]u'je[D] m'cond[F#7]uis guère p[Bm]lus mal qu[G]e si j'avais[A7] la foi. [D]
 
 

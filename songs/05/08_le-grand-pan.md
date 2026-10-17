@@ -1,106 +1,73 @@
 ## LE GRAND PAN
 
 
-c1: Bm                                                  C  
-l1: Du temps que régnait le Grand Pan, Les dieux protégeaient les ivrognes
+[Bm]Du temps que régnait le Grand Pan, Les dieux protége[C]aient les ivrognes
 
-c1: F#7                   Bm          C#7                    F#7  
-l1: Un tas de génies titubants, Au nez rouge, à la rouge trogne.
+[F#7]Un tas de génies titub[Bm]ants, Au nez[C#7] rouge, à la rouge trog[F#7]ne.
 
-c1: Bm                                                     C  
-l1: Dès qu'un homme vidait les cruchons, Qu'un sac à vin faisait carousse
+[Bm]Dès qu'un homme vidait les cruchons, Qu'un sac à vin fa[C]isait carousse
 
-c1: F#7                          Bm                F#7                   Bm  
-l1: Ils venaient en bande à ses trousses, Compter les bouchons.
+[F#7]Ils venaient en bande à ses t[Bm]rousses, Compter l[F#7]es bouchons. [Bm]
 
-c1:      Em                                              A7        D                                           B7  
-l1: La plus humble piquette était alors bénie, Distillée par Noé, Silène, et compagnie.
+La pl[Em]us humble piquette était alors bénie, Distillée [A7]par Noé, S[D]ilène, et compagnie. [B7]
 
-c1:      Em                                                         Bm                                       G   F#7  Bm  
-l1: Le vin donnait un lustre au pire des minus, Et le moindre pochard avait tout de Bacchus.
+Le vi[Em]n donnait un lustre au pire des minus, Et le moindre pochar[Bm]d avait tout de Bacchus. [G] [F#7] [Bm]
 
-c1:                   D                                               C                        Bm        C       F#7          Bm  
-l1: Mais se touchant le crâne, en criant « J'ai trouvé », La bande au professeur Nimbus est arrivée
+Mais se touchant l[D]e crâne, en criant « J'ai trouvé », La bande au [C]professeur Nimbus est arr[Bm]ivée [C] [F#7] [Bm]
 
-c1:                      D                                     C                         Bm         A      Bm     A7  
-l1: Qui s'est mise à frapper les cieux d'alignement, Chasser les Dieux du Firmament.
+Qui s'est mise à frap[D]per les cieux d'alignement, Chasser le[C]s Dieux du Firmament. [Bm] [A] [Bm] [A7]
 
-c1:         D               A7     D                 A7             D                A7           D                 F#7  
-l1: Aujourd'hui ça et là, les gens boivent encore, Et le feu du nectar fait toujours luire les trognes.
+Aujourd'[D]hui ça et là, le[A7]s gens [D]boivent encore, Et[A7] le feu du nect[D]ar fait toujours [A7]luire les tro[D]gnes. [F#7]
 
-c1:         Bm                  F#7      Bm                F#7                Em           Bm                     G   F#7  Bm  
-l1: Mais les dieux ne répondent plus pour les ivrognes. Bacchus est alcoolique, et le grand Pan est mort.
+Mais les[Bm] dieux ne répondent [F#7]plus pour[Bm] les ivrognes. Bac[F#7]chus est alcoolique[Em], et le grand[Bm] Pan est mort. [G] [F#7] [Bm]
 
 
-c1: Bm                                            C  
-l1: Quand deux imbéciles heureux, S'amusaient à des bagatelles,
+[Bm]Quand deux imbéciles heureux, S'amusaient à de[C]s bagatelles,
 
-c1: F#7                   Bm            C#7                    F#7  
-l1: Un tas de génies amoureux, Venaient leur tenir la chandelle.
+[F#7]Un tas de génies amour[Bm]eux, Venaient [C#7]leur tenir la chandelle[F#7].
 
-c1: Bm                                             C  
-l1: Du fin fond des Champs Elysées, Dès qu'ils entendaient un « Je t'aime »,
+[Bm]Du fin fond des Champs Elysées, Dès qu'ils ente[C]ndaient un « Je t'aime »,
 
-c1: F#7                              Bm       F#7                 Bm  
-l1: Ils accouraient à l'instant même, Compter les baisers.
+[F#7]Ils accouraient à l'instant même,[Bm] Compter [F#7]les baisers. [Bm]
 
-c1:      Em                                              A7        D                                                  B7  
-l1: La plus humble amourette, était alors bénie, Sacrée par Aphrodite, Eros, et compagnie.
+La pl[Em]us humble amourette, était alors bénie, Sacrée p[A7]ar Aphrodi[D]te, Eros, et compagnie. [B7]
 
-c1:      Em                                                         Bm                                       G   F#7  Bm  
-l1: L'amour donnait un lustre au pire des minus, Et la moindre amoureuse avait tout de Vénus.
+L'amo[Em]ur donnait un lustre au pire des minus, Et la moindre amour[Bm]euse avait tout de Vénus. [G] [F#7] [Bm]
 
-c1:                   D                                               C                        Bm        C       F#7          Bm  
-l1: Mais se touchant le crâne, en criant « J'ai trouvé », La bande au professeur Nimbus est arrivée
+Mais se touchant l[D]e crâne, en criant « J'ai trouvé », La bande au [C]professeur Nimbus est arr[Bm]ivée [C] [F#7] [Bm]
 
-c1:                      D                                     C                         Bm         A      Bm     A7  
-l1: Qui s'est mise à frapper les cieux d'alignement, Chasser les Dieux du Firmament.
+Qui s'est mise à frap[D]per les cieux d'alignement, Chasser le[C]s Dieux du Firmament. [Bm] [A] [Bm] [A7]
 
-c1:         D               A7     D                 A7             D                A7           D                 F#7  
-l1: Aujourd'hui ça et là, les cœurs battent encore, Et la règle du jeu de l'amour est la même.
+Aujourd'[D]hui ça et là, le[A7]s cœurs[D] battent encore, E[A7]t la règle du j[D]eu de l'amour est[A7] la même. [D] [F#7]
 
-c1:         Bm                  F#7      Bm                F#7                Em           Bm                     G   F#7  Bm  
-l1: Mais les dieux ne répondent plus de ceux qui s'aiment. Vénus s'est faite femme, et le grand Pan est mort.
+Mais les[Bm] dieux ne répondent [F#7]plus de c[Bm]eux qui s'aiment. [F#7]Vénus s'est faite f[Em]emme, et le g[Bm]rand Pan est mort. [G] [F#7] [Bm]
 
 
-c1: Bm                                           C  
-l1: Et quand fatale sonnait l'heure, De prendre un linceul pour costume
+[Bm]Et quand fatale sonnait l'heure, De prendre u[C]n linceul pour costume
 
-c1: F#7                   Bm                 C#7                    F#7  
-l1: Un tas de génies l'œil en pleurs, Vous offraient les honneurs posthumes.
+[F#7]Un tas de génies l'œil[Bm] en pleurs, Vous of[C#7]fraient les honneurs po[F#7]sthumes.
 
-c1: Bm                                       C  
-l1: Pour aller au céleste empire, Dans leur barque ils venaient vous prendre.
+[Bm]Pour aller au céleste empire, Dans leur b[C]arque ils venaient vous prendre.
 
-c1: F#7                          Bm                F#7                   Bm  
-l1: C'était presque un plaisir de rendre, Le dernier soupir.
+[F#7]C'était presque un plaisir de[Bm] rendre, Le dernie[F#7]r soupir. [Bm]
 
-c1:      Em                                              A7        D                                           B7  
-l1: La plus humble dépouille était alors bénie, Embarquée par Caron, Pluton et compagnie.
+La pl[Em]us humble dépouille était alors bénie, Embarquée[A7] par Caron[D], Pluton et compagnie. [B7]
 
-c1:      Em                                                         Bm                                       G   F#7  Bm  
-l1: Au pire des minus, l'âme était accordée, Et le moindre mortel avait l'éternité.
+Au pi[Em]re des minus, l'âme était accordée, Et le moindre mortel av[Bm]ait l'éternité. [G] [F#7] [Bm]
 
-c1:                   D                                               C                        Bm        C       F#7          Bm  
-l1: Mais se touchant le crâne, en criant « J'ai trouvé », La bande au professeur Nimbus est arrivée
+Mais se touchant l[D]e crâne, en criant « J'ai trouvé », La bande au [C]professeur Nimbus est arr[Bm]ivée [C] [F#7] [Bm]
 
-c1:                      D                                     C                         Bm         A      Bm     A7  
-l1: Qui s'est mise à frapper les cieux d'alignement, Chasser les Dieux du Firmament.
+Qui s'est mise à frap[D]per les cieux d'alignement, Chasser le[C]s Dieux du Firmament. [Bm] [A] [Bm] [A7]
 
-c1:         D               A7     D                 A7             D                A7           D                 F#7  
-l1: Aujourd'hui ça et là, les gens passent encore, Mais la tombe est hélas la dernière demeure
+Aujourd'[D]hui ça et là, le[A7]s gens [D]passent encore, Ma[A7]is la tombe est[D] hélas la dernièr[A7]e demeure [D] [F#7]
 
-c1:         Bm                  F#7      Bm                F#7                Em           Bm                     G   F#7  Bm  
-l1: Et les dieux ne répondent plus de ceux qui meurent. La mort est naturelle, et le grand Pan est mort.
+Et les d[Bm]ieux ne répondent pl[F#7]us de ceu[Bm]x qui meurent. La [F#7]mort est naturelle,[Em] et le grand [Bm]Pan est mort. [G] [F#7] [Bm]
 
 
-c1: A7  D                                             B7        Em            Bm                                     F#7  
-l1: Et l'un des derniers dieux, l'un des derniers suprêmes, Ne doit plus se sentir tellement bien lui-même
+[A7]Et l[D]'un des derniers dieux, l'un des derniers supr[B7]êmes, Ne d[Em]oit plus se se[Bm]ntir tellement bien lui-même [F#7]
 
-c1: G                  A7               D                                  Am          B7                Em  
-l1: Un beau jour on va voir le Christ, Descendre du calvaire en disant dans sa lippe
+[G]Un beau jour on va [A7]voir le Christ, D[D]escendre du calvaire en disant dans[Am] sa lippe [B7] [Em]
 
-c1: Bm                                                 F#7                                 G                          A                    Bm  
-l1: « Merde je ne joue plus pour tous ces pauvres types ». J'ai bien peur que la fin du monde soit bien triste.
+[Bm]« Merde je ne joue plus pour tous ces pauvres types[F#7] ». J'ai bien peur que la fin du mon[G]de soit bien triste. [A] [Bm]
 
 

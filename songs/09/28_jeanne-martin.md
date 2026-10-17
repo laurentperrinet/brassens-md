@@ -1,102 +1,72 @@
 ## JEANNE MARTIN
 
 
-l1: Intro : Mim La7 Ré Si7 Mi7 La7 Ré Fa#7
+Intro : Mim La7 Ré Si7 Mi7 La7 Ré Fa#7
 
 
-c1: Bm                                 F#7                          Bm              F#7  
-l1: La petite presqu'île où jadis bien tranquille moi je suis né natif
+[Bm]La petite presqu'île où jadis bien [F#7]tranquille moi je suis né nat[Bm]if [F#7]
 
-c1:             Bm                               A                 F#7  Bm    D       G   
-l1: Soit dit sans couillonnades avait le nom d'un ad-jectif démonstratif
+Soit dit san[Bm]s couillonnades avait le nom d'un[A] ad-jectif démonst[F#7]ratif [Bm] [D] [G]
 
-c1:                                            F#m                   G                     F#7  
-l1: Moi personnellement que je meurs si je mens ça m'était bien égal
+Moi personnellement que je meurs si je mens[F#m] ça m'était bien égal [G] [F#7]
 
-c1:            Em                         Bm             A7                         F#7  
-l1: J'étais pas chatouillé j'étais pas humilié dans mon honneur local
+J'étais pas[Em] chatouillé j'étais pas hum[Bm]ilié dans mon h[A7]onneur local [F#7]
 
-c1:             Bm                                    F#7                 Bm                       F#7  
-l1: Mais voyant d'l'infamie dans cette homonymie des bougres s'en sont plaints
+Mais voyant [Bm]d'l'infamie dans cette homonymie des b[F#7]ougres s'en sont pla[Bm]ints [F#7]
 
-c1:        Bm                             A        F#7    Bm      F#7                Bm  A7  
-l1: Tellement que bientôt on reforma l'ortho-graphe du nom du patelin
+Telleme[Bm]nt que bientôt on reforma l'ort[A]ho-graphe[F#7] du nom[Bm] du pate[F#7]lin [Bm] [A7]
 
 
-c1:      D                 A7      D7                G   
-l1: Et j'eus ma première tristesse, d'Olympio
+Et j'[D]eus ma première tr[A7]istesse,[D7] d'Olympio [G]
 
-c1: Em                         Gm                 A7  
-l1: Déférence gardée envers le père Hugo
+[Em]Déférence gardée envers le [Gm]père Hugo [A7]
 
-c1:     D         A7      Bm        F#m  G                     D  B7  
-l1: Si faire se peut, attendez un peu, Messieurs les édiles
+Si f[D]aire se pe[A7]ut, atte[Bm]ndez un pe[F#m]u, Me[G]ssieurs les édiles [D] [B7]
 
-c1:       Em            A7          D      B7   E        A7     D  F#7  
-l1: Que l'on soit passé, pour débaptiser, nos petites villes
+Que l'[Em]on soit passé,[A7] pour débapt[D]iser, n[B7]os pe[E]tites vil[A7]les [D] [F#7]
 
 
-c1: Bm                                 F#7                          Bm              F#7  
-l1: La chère vieille rue où mon père avait cru, on ne peut plus propice
+[Bm]La chère vieille rue où mon père av[F#7]ait cru, on ne peut plus prop[Bm]ice [F#7]
 
-c1:             Bm                               A                 F#7  Bm    D       G   
-l1: D'aller construire sa petite maison s'a-ppelait rue de l'hospice
+D'aller cons[Bm]truire sa petite maison s'a-ppela[A]it rue de l'hospic[F#7]e [Bm] [D] [G]
 
-c1:                                            F#m                   G                     F#7  
-l1: Se mettre en quête d'un nom d'rue plus opportun, ne se concevait pas
+Se mettre en quête d'un nom d'rue plus oppo[F#m]rtun, ne se concevait [G]pas [F#7]
 
-c1:            Em                         Bm             A7                         F#7  
-l1: On n'pouvait trouver mieux vu qu'un asile de vieux, florissait dans le bas
+On n'pouvai[Em]t trouver mieux vu qu'un as[Bm]ile de vieux, f[A7]lorissait dans le bas [F#7]
 
-c1:             Bm                                    F#7                 Bm                       F#7  
-l1: Les anciens combattants tous comme un seul sortant, de leur vieux trou d'obus
+Les anciens [Bm]combattants tous comme un seul sortant[F#7], de leur vieux trou[Bm] d'obus [F#7]
 
-c1:        Bm                             A        F#7    Bm      F#7                Bm  A7  
-l1: Firent tant qu'à la fin la rue d'l'hospice devint, la rue Henri Barbusse
+Firent [Bm]tant qu'à la fin la rue d'l'hos[A]pice devi[F#7]nt, la [Bm]rue Henr[F#7]i Barbusse [Bm] [A7]
 
 
-c1:      D                 A7      D7                G   
-l1: Et j'eus ma deuxième tristesse, d'Olympio
+Et j'[D]eus ma deuxième tr[A7]istesse,[D7] d'Olympio [G]
 
-c1: Em                         Gm                 A7  
-l1: Déférence gardée envers le père Hugo
+[Em]Déférence gardée envers le [Gm]père Hugo [A7]
 
-c1:     D         A7      Bm        F#m  G                     D  B7  
-l1: Si faire se peut, attendez un peu, héros incongrus
+Si f[D]aire se pe[A7]ut, atte[Bm]ndez un pe[F#m]u, hé[G]ros incongrus [D] [B7]
 
-c1:       Em            A7          D      B7   E        A7     D  F#7  
-l1: Que l'on soit passé, pour débaptiser, nos petites rues
+Que l'[Em]on soit passé,[A7] pour débapt[D]iser, n[B7]os pe[E]tites rue[A7]s [D] [F#7]
 
 
-c1: Bm                                 F#7                          Bm              F#7  
-l1: Moi la première à qui mon cœur fut tout acquis, s'appelait Jeanne Martin
+[Bm]Moi la première à qui mon cœur fut [F#7]tout acquis, s'appelait Jeann[Bm]e Martin [F#7]
 
-c1:             Bm                               A                 F#7  Bm    D       G   
-l1: Patronyme qui fait pas tellement d'effet, dans le bottin mondain
+Patronyme qu[Bm]i fait pas tellement d'effet, dan[A]s le bottin mondai[F#7]n [Bm] [D] [G]
 
-c1:                                            F#m                   G                     F#7  
-l1: Mais moi j'aimais comme un fou ce nom si commun, n'en déplaise aux minus
+Mais moi j'aimais comme un fou ce nom si co[F#m]mmun, n'en déplaise au[G]x minus [F#7]
 
-c1:            Em                         Bm             A7                         F#7  
-l1: D'ailleurs de parti pris celle que je chéris, s'appelle toujours Vénus
+D'ailleurs [Em]de parti pris celle que je [Bm]chéris, s'appel[A7]le toujours Vénus [F#7]
 
-c1:             Bm                                    F#7                 Bm                       F#7  
-l1: Hélas un béotien à la place du sien, lui proposa son blase
+Hélas un béo[Bm]tien à la place du sien, lui proposa s[F#7]on blase [Bm] [F#7]
 
-c1:        Bm                             A        F#7    Bm      F#7                Bm  A7  
-l1: Fameux dans l'épicerie et cette renchérie, refusa pas hélas
+Fameux [Bm]dans l'épicerie et cette renché[A]rie, refu[F#7]sa pas [Bm]hélas [F#7] [Bm] [A7]
 
 
-c1:      D                 A7      D7                G   
-l1: Et j'eus ma troisième tristesse, d'Olympio
+Et j'[D]eus ma troisième t[A7]ristesse[D7], d'Olympio [G]
 
-c1: Em                         Gm                 A7  
-l1: Déférence gardée envers le père Hugo
+[Em]Déférence gardée envers le [Gm]père Hugo [A7]
 
-c1:     D         A7      Bm        F#m  G                     D  B7  
-l1: Si faire se peut, attendez un peu, cinq minutes nos
+Si f[D]aire se pe[A7]ut, atte[Bm]ndez un pe[F#m]u, ci[G]nq minutes nos [D] [B7]
 
-c1:       Em            A7          D      B7   E        A7     D  F#7  
-l1: Gentes fiancées, que l'on soit passé, pour changer de nom
+Gentes[Em] fiancées, que[A7] l'on soit p[D]assé, p[B7]our c[E]hanger de[A7] nom [D] [F#7]
 
 

@@ -1,40 +1,37 @@
 ## LE FOSSOYEUR
 
-c1: A                      F#m  A             D       E         A                F#m           B7  
-l1: Dieu sait qu'je n'ai pas le fond méchant, Je ne souhaite jamais la mort des gens
+[A]Dieu sait qu'je n'ai pa[F#m]s le [A]fond méchant, [D]Je ne so[E]uhaite jam[A]ais la mort des g[F#m]ens [B7]
 
-c1: E         A                  A7                          D                  C#7  
-l1: Mais si l'on ne mourait plus, J'crèv'rais de faim sur mon talus
+[E]Mais si l'[A]on ne mourait plus,[A7] J'crèv'rais de faim sur mon[D] talus [C#7]
 
-c1:              F#m  E  D  E  A  
-l1: J'suis un pauvre fossoyeur
+J'suis un pau[F#m]vre f[E]oss[D]oye[E]ur [A]
 
 
-l1: Les vivants croient qu'je n'ai pas d'remords, A gagner mon pain sur l'dos des morts
+Les vivants croient qu'je n'ai pas d'remords, A gagner mon pain sur l'dos des morts
 
-l1: Mais ça m'tracasse et d'ailleurs, J'les enterre à contrecœur
+Mais ça m'tracasse et d'ailleurs, J'les enterre à contrecœur
 
-l1: J'suis un pauvre fossoyeur
-
-
-l1: Et plus j'lâche la bride à mon émoi, Et plus les copains s'amusent de moi
-
-l1: Y m'disent: « Mon vieux, par moments, T'as une figure d'enterr'ment »
-
-l1: J'suis un pauvre fossoyeur
+J'suis un pauvre fossoyeur
 
 
-l1: J'ai beau m'dire que rien n'est éternel, J'peux pas trouver ça tout naturel
+Et plus j'lâche la bride à mon émoi, Et plus les copains s'amusent de moi
 
-l1: Et jamais je ne parviens, A prendre la mort comme elle vient,
+Y m'disent: « Mon vieux, par moments, T'as une figure d'enterr'ment »
 
-l1: J'suis un pauvre fossoyeur
+J'suis un pauvre fossoyeur
 
 
-l1: Ni vu ni connu, brave mort adieu ! Si du fond d'la terre on voit l'Bon Dieu
+J'ai beau m'dire que rien n'est éternel, J'peux pas trouver ça tout naturel
 
-l1: Dis-lui l'mal que m'a coûté, La dernière pelleté
+Et jamais je ne parviens, A prendre la mort comme elle vient,
 
-l1: J'suis un pauvre fossoyeur
+J'suis un pauvre fossoyeur
+
+
+Ni vu ni connu, brave mort adieu ! Si du fond d'la terre on voit l'Bon Dieu
+
+Dis-lui l'mal que m'a coûté, La dernière pelleté
+
+J'suis un pauvre fossoyeur
 
 

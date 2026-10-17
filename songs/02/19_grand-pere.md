@@ -1,116 +1,104 @@
 ## GRAND-PÈRE
 
 
-c1: Bm                         Em             A7                      D  
-l1: Grand-Père suivait en chantant, La route qui mène à cent ans
+[Bm]Grand-Père suivait en chant[Em]ant, La route q[A7]ui mène à cent ans [D]
 
-c1: Bm                     Em                F#7       Bm  
-l1: La mort lui fit au coin du bois, L'coup du père François.
+[Bm]La mort lui fit au coin[Em] du bois, L'coup d[F#7]u père Fra[Bm]nçois.
 
-c1:                           Em            A7                       D  
-l1: L'avait donné de son vivant, Tant de bonheur à ses enfants
+L'avait donné de son vivan[Em]t, Tant de bon[A7]heur à ses enfants [D]
 
-c1: Bm                           Em          F#7       Bm  
-l1: Qu'on fit pour lui en savoir gré, Tout pour l'enterrer.
+[Bm]Qu'on fit pour lui en savoir [Em]gré, Tout po[F#7]ur l'enter[Bm]rer.
 
-c1: B7                                           Em  
-l1: Et l'on courut à toutes jambes, Quérir une bière mais
+[B7]Et l'on courut à toutes jambes, Quérir une bi[Em]ère mais
 
-c1:                     Bm                                                       E7              A7  
-l1: Comme on était léger d'argent, Le marchand nous reçut à bras fermés.
+Comme on était léger[Bm] d'argent, Le marchand nous reçut à bras fermés. [E7] [A7]
 
 
-l1: *Refrain :*
+*Refrain :*
 
-c1: D                                                                                                         B7               Em  
-l1: « Chez l'épicier, pas d'argent pas d'épices, Chez la belle Suzon, pas d'argent pas de cuisses
+[D]« Chez l'épicier, pas d'argent pas d'épices, Chez la belle Suzon, pas d'argent pas de cuisses [B7] [Em]
 
-c1:                               F#7  Bm          Em     F#7         Bm  F#7  Bm  
-l1: Les morts de basse condition, C'est pas de ma juridiction ! »
+Les morts de basse condition, [F#7]C'est[Bm] pas de ma j[Em]uridict[F#7]ion ! » [Bm] [F#7] [Bm]
 
 
-l1: La7
+La7
 
-l1: Or, j'avais hérité d'Grand-Père, Une paire de bottes pointues
+Or, j'avais hérité d'Grand-Père, Une paire de bottes pointues
 
-l1: S'il y a des coups d'pied que'qu'part qui s'perdent, C'lui-là toucha son but !
+S'il y a des coups d'pied que'qu'part qui s'perdent, C'lui-là toucha son but !
 
-c1: A7    D  
-l1: C'est depuis ce temps-là que le bon apôtre (Bis)
+[A7]C'est [D]depuis ce temps-là que le bon apôtre (Bis)
 
-c1: A7           D         A7           D          A7    D                            Em  A7  D  
-l1: Ah ! c'est pas joli, Ah ! c'est pas poli, A une fesse qui dit merde à l'autre
+[A7]Ah ! c'est pa[D]s joli, Ah[A7] ! c'est pas [D]poli, A une[A7] fesse[D] qui dit merde à l'autre [Em] [A7] [D]
 
-c1: A7                  D                Em     F#7      B7  
-l1: Bon papa, Ne t'en fais pas, Nous en viendrons,
+[A7]Bon papa, Ne t'en fa[D]is pas, Nous en v[Em]iendron[F#7]s, [B7]
 
-c1: Em     A7              D     Bm     Em     A7      D  F#7  
-l1: A bout de tous ces empêcheurs d'enterrer en rond.
+[Em]A bout [A7]de tous ces empê[D]cheurs[Bm] d'ente[Em]rrer en[A7] rond. [D] [F#7]
 
 
-l1: Le mieux à faire et le plus court, Pour qu'l'enterrement suivit son cours
+Le mieux à faire et le plus court, Pour qu'l'enterrement suivit son cours
 
-l1: Fut de borner nos prétentions, À une bière d'occasion.
-
-
-l1: Contre un pot de miel on acquit, Les quatre planches d'un mort qui
-
-l1: Rêvait d'offrir quelques douceurs, À une âme sœur.
+Fut de borner nos prétentions, À une bière d'occasion.
 
 
-l1: Et l'on courut à toutes jambes, Quérir un corbillard mais
+Contre un pot de miel on acquit, Les quatre planches d'un mort qui
 
-l1: Comme on était légers d'argent, Le marchand nous reçut à bras fermés.
-
-
-l1: Au refrain
+Rêvait d'offrir quelques douceurs, À une âme sœur.
 
 
-l1: Ma botte partit mais je m'refuse, De dire vers quel endroit
+Et l'on courut à toutes jambes, Quérir un corbillard mais
 
-l1: Ça rendrait les dames confuses, Et je n'en ai pas le droit
-
-
-l1: C'est depuis ce temps-là que le bon apôtre (Bis)
-
-l1: Ah ! c'est pas joli, Ah ! c'est pas poli, A une fesse qui dit merde à l'autre
+Comme on était légers d'argent, Le marchand nous reçut à bras fermés.
 
 
-l1: Bon papa, Ne t'en fais pas, Nous en viendrons
-
-l1: À bout de tous ces empêcheurs d'enterrer en rond.
+Au refrain
 
 
-l1: Le mieux à faire et le plus court, Pour qu'l'enterrement suivit son cours
+Ma botte partit mais je m'refuse, De dire vers quel endroit
 
-l1: Fut de porter sur notre dos, L'funèbre fardeau
-
-
-l1: S'il eût pu revivre un instant, Grand-Père aurait été content
-
-l1: D'aller à sa dernière demeure, Comme un empereur
+Ça rendrait les dames confuses, Et je n'en ai pas le droit
 
 
-l1: Et l'on courut à toutes jambes, Quérir un goupillon mais
+C'est depuis ce temps-là que le bon apôtre (Bis)
 
-l1: Comme on était légers d'argent, Le marchand nous reçut à bras fermés.
-
-
-l1: Au refrain
+Ah ! c'est pas joli, Ah ! c'est pas poli, A une fesse qui dit merde à l'autre
 
 
-l1: Avant même que le vicaire, Ait pu lâcher un cri
+Bon papa, Ne t'en fais pas, Nous en viendrons
 
-l1: J'lui bottai l'cul au nom du Père, Du Fils, et du Saint-Esprit
-
-
-l1: C'est depuis ce temps-là que le bon apôtre (Bis),
-
-l1: Ah ! c'est pas joli, Ah ! c'est pas poli, A une fesse qui dit merde à l'autre
+À bout de tous ces empêcheurs d'enterrer en rond.
 
 
-l1: Bon papa, Ne t'en fais pas, Nous en viendrons
+Le mieux à faire et le plus court, Pour qu'l'enterrement suivit son cours
 
-l1: À bout de tous ces empêcheurs d'enterrer en rond. (Bis)
+Fut de porter sur notre dos, L'funèbre fardeau
+
+
+S'il eût pu revivre un instant, Grand-Père aurait été content
+
+D'aller à sa dernière demeure, Comme un empereur
+
+
+Et l'on courut à toutes jambes, Quérir un goupillon mais
+
+Comme on était légers d'argent, Le marchand nous reçut à bras fermés.
+
+
+Au refrain
+
+
+Avant même que le vicaire, Ait pu lâcher un cri
+
+J'lui bottai l'cul au nom du Père, Du Fils, et du Saint-Esprit
+
+
+C'est depuis ce temps-là que le bon apôtre (Bis),
+
+Ah ! c'est pas joli, Ah ! c'est pas poli, A une fesse qui dit merde à l'autre
+
+
+Bon papa, Ne t'en fais pas, Nous en viendrons
+
+À bout de tous ces empêcheurs d'enterrer en rond. (Bis)
 
 

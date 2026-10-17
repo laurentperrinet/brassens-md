@@ -1,76 +1,73 @@
 ## LES LILAS
 
 
-c1: D                                                  Bm7       E7     A7  
-l1: Quand je vais chez la fleuriste, Je n'achète que des lilas
+[D]Quand je vais chez la fleuriste, Je n'achète que de[Bm7]s lilas [E7] [A7]
 
-c1:           D                                          B7            E7  
-l1: Quand je vais chez la fleuriste, Je n'achète que des lilas
+Quand je v[D]ais chez la fleuriste, Je n'achète que des [B7]lilas [E7]
 
-c1:           A7          D               Bm7         G             D  
-l1: Si ma chanson chante triste, C'est que l'amour n'est plus là
+Si ma chan[A7]son chante t[D]riste, C'est que[Bm7] l'amour n'e[G]st plus là [D]
 
 
-l1: Comme j'étais, en quelque sorte, Amoureux de ces fleurs-là
+Comme j'étais, en quelque sorte, Amoureux de ces fleurs-là
 
-l1: Comme j'étais, en quelque sorte, Amoureux de ces fleurs-là
+Comme j'étais, en quelque sorte, Amoureux de ces fleurs-là
 
-l1: Je suis entré par la porte, Par la porte des Lilas
-
-
-l1: Des lilas, y'en avait guère, Des lilas, y'en avait pas
-
-l1: Des lilas, y'en avait guère, Des lilas, y'en avait pas
-
-l1: Z'étaient tous morts à la guerre, Passés de vie à trépas
+Je suis entré par la porte, Par la porte des Lilas
 
 
-l1: J'suis tombé sur une belle, Qui fleurissait un peu là
+Des lilas, y'en avait guère, Des lilas, y'en avait pas
 
-l1: J'suis tombé sur une belle, Qui fleurissait un peu là
+Des lilas, y'en avait guère, Des lilas, y'en avait pas
 
-l1: J'ai voulu greffer sur elle, Mon amour pour les lilas
-
-
-l1: J'ai marqué d'une croix blanche, Le jour où l'on s'envola
-
-l1: J'ai marqué d'une croix blanche, Le jour où l'on s'envola
-
-l1: Accrochés à une branche, Une branche de lilas
+Z'étaient tous morts à la guerre, Passés de vie à trépas
 
 
-l1: Pauvre amour, tiens bon la barre, Le temps va passer par là
+J'suis tombé sur une belle, Qui fleurissait un peu là
 
-l1: Pauvre amour, tiens bon la barre, Le temps va passer par là
+J'suis tombé sur une belle, Qui fleurissait un peu là
 
-l1: Et le temps est un barbare, Dans le genre d'Attila
-
-
-l1: Aux cœurs où son cheval passe, L'amour ne repousse pas
-
-l1: Aux cœurs où son cheval passe, L'amour ne repousse pas
-
-l1: Aux quatre coins de l'espace, Il fait le désert sous ses pas
+J'ai voulu greffer sur elle, Mon amour pour les lilas
 
 
-l1: Alors, nos amours sont mortes, Envolées dans l'au-delà
+J'ai marqué d'une croix blanche, Le jour où l'on s'envola
 
-l1: Alors, nos amours sont mortes, Envolées dans l'au-delà
+J'ai marqué d'une croix blanche, Le jour où l'on s'envola
 
-l1: Laissant la clé sous la porte, Sous la porte des Lilas
-
-
-l1: La fauvette des dimanches, Celle qui me donnait le la
-
-l1: La fauvette des dimanches, Celle qui me donnait le la
-
-l1: S'est perchée sur d'autres branches, D'autres branches de lilas
+Accrochés à une branche, Une branche de lilas
 
 
-l1: Quand je vais chez la fleuriste, Je n'achète que des lilas
+Pauvre amour, tiens bon la barre, Le temps va passer par là
 
-l1: Quand je vais chez la fleuriste, Je n'achète que des lilas
+Pauvre amour, tiens bon la barre, Le temps va passer par là
 
-l1: Si ma chanson chante triste, C'est que l'amour n'est plus là
+Et le temps est un barbare, Dans le genre d'Attila
+
+
+Aux cœurs où son cheval passe, L'amour ne repousse pas
+
+Aux cœurs où son cheval passe, L'amour ne repousse pas
+
+Aux quatre coins de l'espace, Il fait le désert sous ses pas
+
+
+Alors, nos amours sont mortes, Envolées dans l'au-delà
+
+Alors, nos amours sont mortes, Envolées dans l'au-delà
+
+Laissant la clé sous la porte, Sous la porte des Lilas
+
+
+La fauvette des dimanches, Celle qui me donnait le la
+
+La fauvette des dimanches, Celle qui me donnait le la
+
+S'est perchée sur d'autres branches, D'autres branches de lilas
+
+
+Quand je vais chez la fleuriste, Je n'achète que des lilas
+
+Quand je vais chez la fleuriste, Je n'achète que des lilas
+
+Si ma chanson chante triste, C'est que l'amour n'est plus là
 
 

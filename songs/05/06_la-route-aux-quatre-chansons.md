@@ -1,79 +1,71 @@
 ## LA ROUTE AUX QUATRE CHANSONS
 
 
-c1: A                      E7                 A                 E7  
-l1: J'ai pris la route de Dijon, Pour voir un peu la Marjolaine,
+[A]J'ai pris la route de D[E7]ijon, Pour voir un [A]peu la Marjolaine, [E7]
 
-c1:       A               E7                   A                   E7  
-l1: La belle, digue digue don, Qui pleurait près de la fontaine.
+La bel[A]le, digue digue [E7]don, Qui pleurait prè[A]s de la fontaine. [E7]
 
-c1: A                         E7            A                    E7  
-l1: Mais elle avait changé de ton, Il lui fallait des ducatons
+[A]Mais elle avait changé de [E7]ton, Il lui fa[A]llait des ducatons [E7]
 
-c1:      A                      E7    A                          Dm  G7   
-l1: Dedans son bas de laine, Pour n'avoir plus de peine.
+Dedan[A]s son bas de laine, Pou[E7]r n'av[A]oir plus de peine. [Dm] [G7]
 
-c1: C                       G7                   C                   G7   
-l1: Elle m'a dit : « Tu viens, chéri ? Et si tu me payes un bon prix
+[C]Elle m'a dit : « Tu vien[G7]s, chéri ? Et si tu m[C]e payes un bon prix [G7]
 
-c1:       C            G7       C                       Dm  E7  
-l1: Aux anges je t'emmène, Digue digue don daine. »
+Aux an[C]ges je t'emmè[G7]ne, Digue[C] digue don daine. » [Dm] [E7]
 
-c1: A                          D  E7  A                              D  E7  A  
-l1: La Marjolaine pleurait surtout, Quand elle n'avait pas de sous.
+[A]La Marjolaine pleurait surt[D]out[E7], Qu[A]and elle n'avait pas de sous. [D] [E7] [A]
 
-c1:                           D  E7  A                             D  E7  A  
-l1: La Marjolaine de la chanson, Avait de plus nobles façons.
+La Marjolaine de la chanso[D]n, [E7]Avai[A]t de plus nobles façons. [D] [E7] [A]
 
 
-l1: J'ai passé le pont d'Avignon, Pour voir un peu les belles dames
+J'ai passé le pont d'Avignon, Pour voir un peu les belles dames
 
-l1: Et les beaux messieurs tous en rond, Qui dansaient, dansaient, corps et âmes.
+Et les beaux messieurs tous en rond, Qui dansaient, dansaient, corps et âmes.
 
-l1: Mais ils avaient changé de ton, Ils faisaient fi des rigodons,
+Mais ils avaient changé de ton, Ils faisaient fi des rigodons,
 
-l1: Menuets et pavanes, Tarentelles, sardanes,
+Menuets et pavanes, Tarentelles, sardanes,
 
-l1: Et les belles dames m'ont dit ceci : « Étranger, sauve-toi d'ici
+Et les belles dames m'ont dit ceci : « Étranger, sauve-toi d'ici
 
-l1: Ou l'on donne l'alarme, Aux chiens et aux gendarmes ! »
+Ou l'on donne l'alarme, Aux chiens et aux gendarmes ! »
 
-l1: Quelle mouche les a donc piquées, Ces belles dames si distinguées ?
+Quelle mouche les a donc piquées, Ces belles dames si distinguées ?
 
-l1: Les belles dames de la chanson, Avaient de plus nobles façons.
-
-
-l1: Je me suis fait faire prisonnier, Dans les vieilles prisons de Nantes,
-
-l1: Pour voir la fille du geôlier, Qui, paraît-il, est avenante.
-
-l1: Mais elle avait changé de ton, Quand j'ai demandé : « Que dit-on
-
-l1: Des affaires courantes, Dans la ville de Nantes ? »
-
-l1: La mignonne m'a répondu : « On dit que vous serez pendu
-
-l1: Aux matines sonnantes, Et j'en suis bien contente ! »
-
-l1: Les geôlières n'ont plus de cœur, Aux prisons de Nantes et d'ailleurs.
-
-l1: La geôlière de la chanson, Avait de plus nobles façons.
+Les belles dames de la chanson, Avaient de plus nobles façons.
 
 
-l1: Voulant mener à bonne fin, Ma folle course vagabonde,
+Je me suis fait faire prisonnier, Dans les vieilles prisons de Nantes,
 
-l1: Vers mes pénates je revins, Pour dormir auprès de ma blonde,
+Pour voir la fille du geôlier, Qui, paraît-il, est avenante.
 
-l1: Mais elle avait changé de ton, Avec elle, sous l'édredon,
+Mais elle avait changé de ton, Quand j'ai demandé : « Que dit-on
 
-l1: Il y avait du monde, Dormant près de ma blonde.
+Des affaires courantes, Dans la ville de Nantes ? »
 
-l1: J'ai pris le coup d'un air blagueur, Mais, en cachette, dans mon cœur,
+La mignonne m'a répondu : « On dit que vous serez pendu
 
-l1: La peine était profonde, L'chagrin lâchait la bonde.
+Aux matines sonnantes, Et j'en suis bien contente ! »
 
-l1: Hélas ! du jardin de mon père, La colombe s'est fait la paire...
+Les geôlières n'ont plus de cœur, Aux prisons de Nantes et d'ailleurs.
 
-l1: Par bonheur, par consolation, Me sont restées les quatre chansons.
+La geôlière de la chanson, Avait de plus nobles façons.
+
+
+Voulant mener à bonne fin, Ma folle course vagabonde,
+
+Vers mes pénates je revins, Pour dormir auprès de ma blonde,
+
+Mais elle avait changé de ton, Avec elle, sous l'édredon,
+
+Il y avait du monde, Dormant près de ma blonde.
+
+J'ai pris le coup d'un air blagueur, Mais, en cachette, dans mon cœur,
+
+La peine était profonde, L'chagrin lâchait la bonde.
+
+Hélas ! du jardin de mon père, La colombe s'est fait la paire...
+
+Par bonheur, par consolation, Me sont restées les quatre chansons.
 
 

@@ -1,63 +1,60 @@
 ## LE PROGRÈS
 
 
-c1: C             Em             Am  C              D7                G   E7  
-l1: Que le progrès soit salutaire, C'est entendu, c'est entendu.
+[C]Que le progrès[Em] soit salutaire[Am], C'[C]est entendu, c'[D7]est entendu. [G] [E7]
 
-c1:  Am                                                                      E       B7      E  G7   
-l1: Mais ils feraient mieux de se taire, Ceux qui disent que le presbytère
+M[Am]ais ils feraient mieux de se taire, Ceux qui disent que le presbytère [E] [B7] [E] [G7]
 
-c1: C                     C7                      F         Fm   C         G7       C  
-l1: De son charme du vieux temps passé n'a rien perdu, N'a rien perdu.
+[C]De son charme du vieux[C7] temps passé n'a rien pe[F]rdu, N'a r[Fm]ien p[C]erdu. [G7] [C]
 
 
-l1: Supplantés par des betteraves, Les beaux lilas ! Les beaux lilas !
+Supplantés par des betteraves, Les beaux lilas ! Les beaux lilas !
 
-l1: Sans mentir, il faut être un brave, Fourbe pour dire d'un ton grave,
+Sans mentir, il faut être un brave, Fourbe pour dire d'un ton grave,
 
-l1: Que le jardin du curé garde tout son éclat, Tout son éclat.
-
-
-l1: Entre les tours monumentales, Toujours croissant, toujours croissant,
-
-l1: Qui cherche sa maison natale, Se perd comme dans un dédale.
-
-l1: Au mal du pays, plus aucun remède à présent, Remède à présent.
+Que le jardin du curé garde tout son éclat, Tout son éclat.
 
 
-l1: C'est de la malice certaine, C'est inhumain ! C'est inhumain !
+Entre les tours monumentales, Toujours croissant, toujours croissant,
 
-l1: Ils ont asséché la fontaine, Où les belles samaritaines
+Qui cherche sa maison natale, Se perd comme dans un dédale.
 
-l1: Nous faisaient boire, en été, l'eau fraîche dans leurs mains, Fraîche dans leurs mains.
-
-
-l1: Ils ont abattu, les vandales, Et sans remords, et sans remords,
-
-l1: L'arbre couvert en capitales, De noms d'amants : c'est un scandale !
-
-l1: Les amours mortes n'ont plus de monuments aux morts, Monuments aux morts.
+Au mal du pays, plus aucun remède à présent, Remède à présent.
 
 
-l1: L'a fait des affaires prospères, Le ferrailleur, le ferrailleur,
+C'est de la malice certaine, C'est inhumain ! C'est inhumain !
 
-l1: En fauchant les vieux réverbères. Maintenant quand on désespère,
+Ils ont asséché la fontaine, Où les belles samaritaines
 
-l1: On est contraint et forcé d'aller se pendre ailleurs, Se pendre ailleurs.
-
-
-l1: Et c'est ce que j'ai fait sur l'heure, Et sans délai, et sans délai.
-
-l1: Le coq du clocher n'est qu'un leurre, Une girouette de malheur(e).
-
-l1: Ingrate patrie, tu n'auras pas mes feux follets, Mes feux follets.
+Nous faisaient boire, en été, l'eau fraîche dans leurs mains, Fraîche dans leurs mains.
 
 
-l1: Que le progrès soit salutaire, C'est entendu, c'est entendu.
+Ils ont abattu, les vandales, Et sans remords, et sans remords,
 
-l1: Mais ils feraient mieux de se taire, Ceux qui disent que le presbytère
+L'arbre couvert en capitales, De noms d'amants : c'est un scandale !
 
-l1: De son charme du vieux temps passé n'a rien perdu, N'a rien perdu.
+Les amours mortes n'ont plus de monuments aux morts, Monuments aux morts.
+
+
+L'a fait des affaires prospères, Le ferrailleur, le ferrailleur,
+
+En fauchant les vieux réverbères. Maintenant quand on désespère,
+
+On est contraint et forcé d'aller se pendre ailleurs, Se pendre ailleurs.
+
+
+Et c'est ce que j'ai fait sur l'heure, Et sans délai, et sans délai.
+
+Le coq du clocher n'est qu'un leurre, Une girouette de malheur(e).
+
+Ingrate patrie, tu n'auras pas mes feux follets, Mes feux follets.
+
+
+Que le progrès soit salutaire, C'est entendu, c'est entendu.
+
+Mais ils feraient mieux de se taire, Ceux qui disent que le presbytère
+
+De son charme du vieux temps passé n'a rien perdu, N'a rien perdu.
 
 
 

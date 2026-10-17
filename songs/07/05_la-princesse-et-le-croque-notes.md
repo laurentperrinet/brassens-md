@@ -1,74 +1,53 @@
 ## LA PRINCESSE ET LE CROQUE-NOTES
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: Jadis au lieu du jardin que voici, C'était la zone et tout ce qui s'en suit
+[Dm]Jadis au [A7]lieu du jar[Dm]din que voic[A7]i, C[Dm]'était la [A7]zone et t[Dm]out ce qui s'en sui[A7]t
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: Des masures, des taudis insolites, Des ruines pas romaines pour un sou
+[Dm]Des masures,[C] des taudis in[F]solites,[C] Des [F]ruines pas romai[Bb]nes pour un [Dm]sou [A7]
 
-c1: Dm           Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: Quant à la faune habitant la-dessous, C'était la fine fleur, c'était l'élite.
+[Dm]Quant à la fa[Bb]une habitant [F]la-dessous, C'é[A7]tait [Dm]la fine fl[C]eur, c'était[F] l'élite. [Bb] [A] [Dm] [A7] [Dm]
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: La fine fleur l'élite du pavé, Des besogneux, des gueux, des réprouvés
+[Dm]La fine f[A7]leur l'élit[Dm]e du pavé, D[A7]es b[Dm]esogneux, [A7]des gueux[Dm], des réprouvés [A7]
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: Des mendiants rivalisant de tares, Des chevaux de retour, des propres à rien
+[Dm]Des mendiant[C]s rivalisant d[F]e tares,[C] Des [F]chevaux de retou[Bb]r, des propr[Dm]es à rien [A7]
 
-c1: Dm           Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: Ainsi qu'un croque-notes, un musicien, Une épave accrochée à sa guitare
+[Dm]Ainsi qu'un c[Bb]roque-notes, [F]un musicien, Un[A7]e épa[Dm]ve accroch[C]ée à sa guit[F]are [Bb] [A] [Dm] [A7] [Dm]
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: Adoptée par ce beau monde attendri, Une petite fée avait fleuri
+[Dm]Adoptée p[A7]ar ce beau [Dm]monde attend[A7]ri, [Dm]Une petite[A7] fée avai[Dm]t fleuri [A7]
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: Au milieu de toute cette bassesse. Comme on l'avait trouvée près du ruisseau
+[Dm]Au milieu de[C] toute cette b[F]assesse.[C] Comm[F]e on l'avait tro[Bb]uvée près du[Dm] ruisseau [A7]
 
-c1: Dm            Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: Abandonnée en un somptueux berceau, A tout hasard on l'appelait princesse
+[Dm]Abandonnée en [Bb]un somptueux [F]berceau, A tout[A7] hasa[Dm]rd on l'ap[C]pelait princ[F]esse [Bb] [A] [Dm] [A7] [Dm]
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: Or un soir, Dieu du ciel, protégez nous, La voilà qui grimpe sur les genoux
+[Dm]Or un soi[A7]r, Dieu du [Dm]ciel, protég[A7]ez n[Dm]ous, La vo[A7]ilà qui g[Dm]rimpe sur les genou[A7]x
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: Du croque-notes et doucement soupire, En rougissant quand même un petit peu
+[Dm]Du croque-no[C]tes et douceme[F]nt soupi[C]re, E[F]n rougissant qua[Bb]nd même un p[Dm]etit peu [A7]
 
-c1: Dm           Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: « C'est toi que j'aime et si tu veux tu peux, M'embrasser sur la bouche et même pire »
+[Dm]« C'est toi q[Bb]ue j'aime et [F]si tu veux tu p[A7]eux, [Dm]M'embrasse[C]r sur la bou[F]che et même[Bb] pir[A]e » [Dm] [A7] [Dm]
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: « Tout doux princesse arrête un peu ton tir, J'ai pas tellement l'étoffe du satyre
+[Dm]« Tout do[A7]ux princess[Dm]e arrête un [A7]peu [Dm]ton tir, J[A7]'ai pas t[Dm]ellement l'étoffe d[A7]u satyre
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: Tu as 13 ans j'en ai 30 qui sonnent, Grosse différence et je ne suis pas chaud
+[Dm]Tu as 13 ans[C] j'en ai 30 qu[F]i sonnen[C]t, Gr[F]osse différence [Bb]et je ne sui[Dm]s pas chaud [A7]
 
-c1: Dm           Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: Pour tâter la paille humide du cachot. -Mais croque-notes j'dirai rien à personne »
+[Dm]Pour tâter la[Bb] paille humid[F]e du cachot. -M[A7]ais c[Dm]roque-note[C]s j'dirai ri[F]en à person[Bb]ne » [A] [Dm] [A7] [Dm]
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: N'insiste pas fit-il d'un ton railleur, D'abord tu n'es pas mon genre et d'ailleurs
+[Dm]N'insiste[A7] pas fit-il[Dm] d'un ton ra[A7]ille[Dm]ur, D'abor[A7]d tu n'es[Dm] pas mon genre et d[A7]'ailleurs
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: Mon cœur est déjà pris par une grande, Alors princesse est partie en courant
+[Dm]Mon cœur est[C] déjà pris par[F] une gra[C]nde, [F]Alors princesse [Bb]est partie e[Dm]n courant [A7]
 
-c1: Dm           Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: Alors princesse est partie en pleurant, Chagrine qu'on ait boudé son offrande
+[Dm]Alors princes[Bb]se est partie[F] en pleurant, C[A7]hagri[Dm]ne qu'on a[C]it boudé son[F] offrande [Bb] [A] [Dm] [A7] [Dm]
 
 
-c1: Dm       A7         Dm          A7  Dm        A7       Dm                 A7  
-l1: Y a pas eu détournement de mineure, Le croque-notes au matin de bonheur
+[Dm]Y a pas e[A7]u détournem[Dm]ent de mineu[A7]re, [Dm]Le croque-[A7]notes au [Dm]matin de bonheur [A7]
 
-c1: Dm          C             F       C    F               Bb          Dm              A7  
-l1: A l'anglaise a filé dans la charrette, Des chiffonniers en grattant sa guitare
+[Dm]A l'anglaise[C] a filé dans l[F]a charre[C]tte, [F]Des chiffonniers[Bb] en grattant[Dm] sa guitare [A7]
 
-c1: Dm           Bb           F              A7   Dm        C           F          Bb  A  Dm  A7  Dm  
-l1: Passant par là quelques 20 ans plus tard, Il a le sentiment qu'il le regrette.
+[Dm]Passant par l[Bb]à quelques 20[F] ans plus tard,[A7] Il a[Dm] le sentim[C]ent qu'il le[F] regrette. [Bb] [A] [Dm] [A7] [Dm]
 
 
 

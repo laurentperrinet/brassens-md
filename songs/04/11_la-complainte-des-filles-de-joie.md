@@ -1,72 +1,68 @@
 ## LA COMPLAINTE DES FILLES DE JOIE
 
 
-c1: Bm                                                         G                    F#  
-l1: Bien que ces vaches de bourgeois, Bien que ces vaches de bourgeois
+[Bm]Bien que ces vaches de bourgeois, Bien que ces vaches de bo[G]urgeois [F#]
 
-c1: Bm                                                 G                        F#  
-l1: Les appellent des filles de joie, Les appellent des filles de joie
+[Bm]Les appellent des filles de joie, Les appellent des[G] filles de joie [F#]
 
-c1: D                                              Em        Bm       F#  
-l1: C'est pas tous les jours qu'elles rigolent, Parole, parole
+[D]C'est pas tous les jours qu'elles rigolent, Par[Em]ole, parol[Bm]e [F#]
 
-c1: Bm                      Em               G7   F#7  Bm  
-l1: C'est pas tous les jours qu'elles rigolent
+[Bm]C'est pas tous les jours[Em] qu'elles rigolen[G7]t [F#7] [Bm]
 
 
-l1: Car, même avec des pieds de grues, Faire les cents pas le long des rues
+Car, même avec des pieds de grues, Faire les cents pas le long des rues
 
-l1: C'est fatigant pour les guibolles, Parole, parole
+C'est fatigant pour les guibolles, Parole, parole
 
-l1: C'est fatigant pour les guibolles
-
-
-l1: Non seulement elles ont des cors, Des oeils-de-perdrix, mais encor
-
-l1: C'est fou ce qu'elles usent de grolles, Parole, parole
-
-l1: C'est fou ce qu'elles usent de grolles
+C'est fatigant pour les guibolles
 
 
-l1: Y'a des clients, y'a des salauds, Qui se trempent jamais dans l'eau
+Non seulement elles ont des cors, Des oeils-de-perdrix, mais encor
 
-l1: Faut pourtant qu'elles les cajolent, Parole, parole
+C'est fou ce qu'elles usent de grolles, Parole, parole
 
-l1: Faut pourtant qu'elles les cajolent
-
-
-l1: Qu'elles leur fassent la courte échelle, Pour monter au septième ciel
-
-l1: Les sous, croyez pas qu'elles les volent, Parole, parole
-
-l1: Les sous, croyez pas qu'elles les volent
+C'est fou ce qu'elles usent de grolles
 
 
-l1: Elles sont méprisées du public, Elles sont bousculées par les flics
+Y'a des clients, y'a des salauds, Qui se trempent jamais dans l'eau
 
-l1: Et menacées de la vérole, Parole, parole
+Faut pourtant qu'elles les cajolent, Parole, parole
 
-l1: Et menacées de la vérole
-
-
-l1: Bien qu'toute la vie elles fassent l'amour, Qu'elles se marient vingt fois par jour
-
-l1: La noce est jamais pour leur fiole, Parole, parole
-
-l1: La noce est jamais pour leur fiole
+Faut pourtant qu'elles les cajolent
 
 
-l1: Fils de pécore et de minus, Ris par de la pauvre Vénus
+Qu'elles leur fassent la courte échelle, Pour monter au septième ciel
 
-l1: La pauvre vieille casserole, Parole, parole
+Les sous, croyez pas qu'elles les volent, Parole, parole
 
-l1: La pauvre vieille casserole
+Les sous, croyez pas qu'elles les volent
 
 
-l1: Il s'en fallait de peu, mon cher, Que cette putain ne fût ta mère
+Elles sont méprisées du public, Elles sont bousculées par les flics
 
-l1: Cette putain dont tu rigoles, Parole, parole
+Et menacées de la vérole, Parole, parole
 
-l1: Cette putain dont tu rigoles
+Et menacées de la vérole
+
+
+Bien qu'toute la vie elles fassent l'amour, Qu'elles se marient vingt fois par jour
+
+La noce est jamais pour leur fiole, Parole, parole
+
+La noce est jamais pour leur fiole
+
+
+Fils de pécore et de minus, Ris par de la pauvre Vénus
+
+La pauvre vieille casserole, Parole, parole
+
+La pauvre vieille casserole
+
+
+Il s'en fallait de peu, mon cher, Que cette putain ne fût ta mère
+
+Cette putain dont tu rigoles, Parole, parole
+
+Cette putain dont tu rigoles
 
 

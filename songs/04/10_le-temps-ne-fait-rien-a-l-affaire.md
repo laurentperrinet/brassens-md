@@ -1,57 +1,42 @@
 ## LE TEMPS NE FAIT RIEN A L'AFFAIRE
 
 
-c1: Am                      G                                 F     E      Am  
-l1: Quand ils sont tout neufs, qu'ils sortent de l'œuf, du cocon
+[Am]Quand ils sont tout neuf[G]s, qu'ils sortent de l'œuf, du coc[F]on [E] [Am]
 
-c1: Am                            G                                 F     G7           C  E  
-l1: Tout les jeunes blancs-becs prennent les vieux mecs pour des cons
+[Am]Tout les jeunes blancs-becs pr[G]ennent les vieux mecs pour des con[F]s [G7] [C] [E]
 
-c1: Am                      G                       F     E      Am  
-l1: Quand ils sont dev'nus des têtes chenues, des grisons
+[Am]Quand ils sont dev'nus d[G]es têtes chenues, des gr[F]isons [E] [Am]
 
-c1: Am                        G                             F    Em         Am  
-l1: Tous les vieux fourneaux prennent les jeunots pour des cons
+[Am]Tous les vieux fourneaux p[G]rennent les jeunots pour des c[F]ons [Em] [Am]
 
-c1: A7                                      Dm                       G7                C  Dm6  E  
-l1: Moi, qui balance entre deux âges, j'leur adresse à tous un message
+[A7]Moi, qui balance entre deux âges, j'leur[Dm] adresse à tous un messag[G7]e [C] [Dm6] [E]
 
 
-l1: Refrain :
+Refrain :
 
-c1: A                                                                 F#7         Bm  
-l1: Le temps ne fait rien à l'affaire, quand on est con on est con
+[A]Le temps ne fait rien à l'affaire, quand on est con on est con [F#7] [Bm]
 
-c1: Bm                                                                              E    E5   A  
-l1: Qu'on ait vingt ans qu'on soit grand père, quand on est con on est con
+[Bm]Qu'on ait vingt ans qu'on soit grand père, quand on est con on est con [E] [E5] [A]
 
-c1: A                                                          A7  A5             D  
-l1: Entre nous plus de controverse, cons caducs ou cons débutants
+[A]Entre nous plus de controverse, cons caducs ou cons débutan[A7]ts [A5] [D]
 
-c1: D           Dm6     A               Bm                                   C#  
-l1: Petits cons d'la dernière averse, vieux cons des neiges d'antan
+[D]Petits cons [Dm6]d'la der[A]nière averse, vi[Bm]eux cons des neiges d'antan [C#]
 
-c1: D            Dm6    A      F#7  Bm                  E7            Am  
-l1: Petits cons d'la dernière averse, vieux cons des neiges d'antan
+[D]Petits cons d[Dm6]'la der[A]nière a[F#7]verse[Bm], vieux cons des nei[E7]ges d'antan [Am]
 
 
-c1: Am                       G                          F       E            Am  
-l1: Vous, les cons naissants, les cons innocents, les jeunes cons
+[Am]Vous, les cons naissants,[G] les cons innocents, les je[F]unes con[E]s [Am]
 
-c1: Am               G                      F     G7           C  E  
-l1: Qui, n'le niez pas, prenez les papas pour des cons
+[Am]Qui, n'le niez pa[G]s, prenez les papas pou[F]r des [G7]cons [C] [E]
 
-c1: Am                    G                     F     E      Am  
-l1: Vous, les cons âgés, les cons usagés, les vieux cons
+[Am]Vous, les cons âgés, l[G]es cons usagés, les vi[F]eux co[E]ns [Am]
 
-c1: Am                  G                           F    Em         Am  
-l1: Qui, confessez-le, prenez les p'tits bleus pour des cons
+[Am]Qui, confessez-le, p[G]renez les p'tits bleus pour [F]des c[Em]ons [Am]
 
-c1: A7                           Dm                       G7                   C  Dm6  E  
-l1: Méditez l'impartial message, d'un qui balance entre deux âges
+[A7]Méditez l'impartial message, [Dm]d'un qui balance entre de[G7]ux âges [C] [Dm6] [E]
 
 
-l1: Refrain avec La Mi7 La à la fin
+Refrain avec La Mi7 La à la fin
 
 
 

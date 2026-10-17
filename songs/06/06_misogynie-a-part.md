@@ -1,61 +1,59 @@
 ## MISOGYNIE A PART
 
 
-l1: Sol
+Sol
 
-c1:         D7                                                     E                                                                       A7         D  
-l1: Misogynie à part, le sage avait raison, Il y a les emmerdantes, on en trouve à foison, En foule elles se pressent
+Misogyni[D7]e à part, le sage avait raison, Il y a les emmerdantes,[E] on en trouve à foison, En foule elles se pressent [A7] [D]
 
-c1:         D7                                                                   E                                                       A7              D7  G   
-l1: Il y a les emmerdeuses, un peu plus raffinées, Et puis, très nettement au-dessus du panier, Y'a les emmerderesses
+Il y a l[D7]es emmerdeuses, un peu plus raffinées, Et puis, très nettement au-des[E]sus du panier, Y'a les emmerderesses [A7] [D7] [G]
 
 
-l1: La mienne, à elle seule, sur toutes surenchérit, Elle relève à la fois des trois catégories, Véritable prodige
+La mienne, à elle seule, sur toutes surenchérit, Elle relève à la fois des trois catégories, Véritable prodige
 
-l1: Emmerdante, emmerdeuse, emmerderesse itou, Elle passe, elle dépasse, elle surpasse tout,
+Emmerdante, emmerdeuse, emmerderesse itou, Elle passe, elle dépasse, elle surpasse tout,
 
-l1: Elle m'emmerde, vous dis-je
-
-
-l1: Mon Dieu, pardonnez-moi ces propos bien amers, Elle m'emmerde, elle m'emmerde, elle m'emmerde, elle m'emmerde, elle abuse, elle attige
-
-l1: Elle m'emmerde et j'regrette mes belles amours avec, La p'tite enfant d'Marie que m'a soufflée l'évêque,
-
-l1: Elle m'emmerde, vous dis-je
+Elle m'emmerde, vous dis-je
 
 
-l1: Elle m'emmerde, elle m'emmerde, et m'oblige à me cu- rer les ongles avant de confirmer son cul, Or, c'est pas callipyge
+Mon Dieu, pardonnez-moi ces propos bien amers, Elle m'emmerde, elle m'emmerde, elle m'emmerde, elle m'emmerde, elle abuse, elle attige
 
-l1: Et la charité seule pousse ma main résignée, Vers ce cul rabat-joie, conique, renfrogné,
+Elle m'emmerde et j'regrette mes belles amours avec, La p'tite enfant d'Marie que m'a soufflée l'évêque,
 
-l1: Elle m'emmerde, vous dis-je
-
-
-l1: Elle m'emmerde, elle m'emmerde, je le répète et quand, Elle me tape sur le ventre, elle garde ses gants, Et ça me désoblige
-
-l1: Outre que ça dénote un grand manque de tact, Ça n'favorise pas tellement le contact,
-
-l1: Elle m'emmerde, vous dis-je
+Elle m'emmerde, vous dis-je
 
 
-l1: Elle m'emmerde, elle m'emmerde , quand je tombe à genoux, Pour certaines dévotions qui sont bien de chez nous Et qui donnent le vertige
+Elle m'emmerde, elle m'emmerde, et m'oblige à me cu- rer les ongles avant de confirmer son cul, Or, c'est pas callipyge
 
-l1: Croyant l'heure venue de chanter le credo, Elle m'ouvre tout grand son missel sur le dos
+Et la charité seule pousse ma main résignée, Vers ce cul rabat-joie, conique, renfrogné,
 
-l1: Elle m'emmerde, vous dis-je
-
-
-l1: Elle m'emmerde, elle m'emmerde, à la fornication, Elle s'emmerde, elle s'emmerde avec ostentation Elle s'emmerde, vous dis-je
-
-l1: Au lieu de s'écrier: « Encor ! Hardi ! Hardi ! », Elle déclame du Claudel, du Claudel, j'ai bien dit
-
-l1: Alors ça, ça me fige
+Elle m'emmerde, vous dis-je
 
 
-l1: Elle m'emmerde, elle m'emmerde, j'admets que ce Claudel, Soit un homme de génie, un poète immortel, J'reconnais son prestige
+Elle m'emmerde, elle m'emmerde, je le répète et quand, Elle me tape sur le ventre, elle garde ses gants, Et ça me désoblige
 
-l1: Mais qu'on aille chercher dedans son œuvre pie, Un aphrodisiaque, non, ça, c'est d'l'utopie,
+Outre que ça dénote un grand manque de tact, Ça n'favorise pas tellement le contact,
 
-l1: Elle m'emmerde, vous dis-je
+Elle m'emmerde, vous dis-je
+
+
+Elle m'emmerde, elle m'emmerde , quand je tombe à genoux, Pour certaines dévotions qui sont bien de chez nous Et qui donnent le vertige
+
+Croyant l'heure venue de chanter le credo, Elle m'ouvre tout grand son missel sur le dos
+
+Elle m'emmerde, vous dis-je
+
+
+Elle m'emmerde, elle m'emmerde, à la fornication, Elle s'emmerde, elle s'emmerde avec ostentation Elle s'emmerde, vous dis-je
+
+Au lieu de s'écrier: « Encor ! Hardi ! Hardi ! », Elle déclame du Claudel, du Claudel, j'ai bien dit
+
+Alors ça, ça me fige
+
+
+Elle m'emmerde, elle m'emmerde, j'admets que ce Claudel, Soit un homme de génie, un poète immortel, J'reconnais son prestige
+
+Mais qu'on aille chercher dedans son œuvre pie, Un aphrodisiaque, non, ça, c'est d'l'utopie,
+
+Elle m'emmerde, vous dis-je
 
 

@@ -1,42 +1,37 @@
 ## TEMPÊTE DANS UN BÉNITIER
 
 
-c1: D                                               G       Bm           F#7   E7    Am                   B7                 E7          A7         D   E  
-l1: Tempête dans un bénitier, Le souverain pontife avecque, Les évêques, les archevêques, Nous font un satané chantier
+[D]Tempête dans un bénitier, Le souverain pontife a[G]vecque, [Bm]Les évêques, [F#7]les ar[E7]chevêq[Am]ues, Nous font un sat[B7]ané chantier [E7] [A7] [D] [E]
 
-c1: A                   E7            A                           E7        A                                                F#7                Bm  
-l1: Ils ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
+[A]Ils ne savent pas ce[E7] qu'ils perden[A]t, Tous ces fichus calotins,[E7] Sans le l[A]atin, sans le latin, La messe nous emmerde [F#7] [Bm]
 
-c1:          F#7   Bm                              F#7             Bm                                                 E7     E5    A  
-l1: A la fête liturgique, Plus de grandes pompes, soudain, Sans le latin, sans le latin, Plus de mystère magique
+A la fête[F#7] litur[Bm]gique, Plus de grandes pompes, s[F#7]oudain, Sans le [Bm]latin, sans le latin, Plus de mystère magique [E7] [E5] [A]
 
-c1:           E7             A                    E7        A                                              A7                  D  
-l1: Le rite qui nous envoûte, S'avère alors anodin, Sans le latin, sans le latin, Et les fidèles s'en foutent
+Le rite qu[E7]i nous envoûte,[A] S'avère alors anodin[E7], Sans le [A]latin, sans le latin, Et les fidèles s'en foute[A7]nt [D]
 
-c1: Adim                                    C#m                     F#7  B7                                                E7          A  
-l1: O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin
+[Adim]O très Sainte Marie mère de, Dieu, dites[C#m] à ces putains, De moine[F#7]s qu'[B7]ils nous emmerdent, Sans le latin [E7] [A]
 
 
-l1: Je ne suis pas le seul, morbleu, Depuis que ces règles sévissent, A ne plus me rendre à l'office, Dominical que quand il pleut
+Je ne suis pas le seul, morbleu, Depuis que ces règles sévissent, A ne plus me rendre à l'office, Dominical que quand il pleut
 
-l1: Il ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
+Il ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
 
-l1: En renonçant à l'occulte, Faudra qu'ils fassent tintin, Sans le latin, sans le latin, Pour le denier du culte
+En renonçant à l'occulte, Faudra qu'ils fassent tintin, Sans le latin, sans le latin, Pour le denier du culte
 
-l1: A la saison printanière, Suisse, bedeau, sacristain, Sans le latin, sans le latin, F'ront l'église buissonnière
+A la saison printanière, Suisse, bedeau, sacristain, Sans le latin, sans le latin, F'ront l'église buissonnière
 
-l1: O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin.
+O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin.
 
 
-l1: Ces oiseaux sont des enragés, Ces corbeaux qui scient, rognent, tranchent, La saine et bonne vieille branche, De la croix où ils sont perchés
+Ces oiseaux sont des enragés, Ces corbeaux qui scient, rognent, tranchent, La saine et bonne vieille branche, De la croix où ils sont perchés
 
-l1: Ils ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
+Ils ne savent pas ce qu'ils perdent, Tous ces fichus calotins, Sans le latin, sans le latin, La messe nous emmerde
 
-l1: Le vin du sacré calice, Se change en eau de boudin, Sans le latin, sans le latin, Et ses vertus faiblissent
+Le vin du sacré calice, Se change en eau de boudin, Sans le latin, sans le latin, Et ses vertus faiblissent
 
-l1: A Lourdes, Sète ou bien Parme, Comme à Quimper Corentin, Le presbytère sans le latin, A perdu de son charme
+A Lourdes, Sète ou bien Parme, Comme à Quimper Corentin, Le presbytère sans le latin, A perdu de son charme
 
-l1: O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin
+O très Sainte Marie mère de, Dieu, dites à ces putains, De moines qu'ils nous emmerdent, Sans le latin
 
 
 

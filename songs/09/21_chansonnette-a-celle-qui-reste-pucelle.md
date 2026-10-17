@@ -1,56 +1,40 @@
 ## CHANSONNETTE A CELLE QUI RESTE PUCELLE
 
 
-c1:   Am                       E                     A                      Dm  
-l1: Jadis la mineure perdait son honneur au moindre faux pas
+Ja[Am]dis la mineure perdait so[E]n honneur au moindre f[A]aux pas [Dm]
 
-c1:          G7                                  C                                    B7             E  
-l1: Ces mœurs n'ont plus cours, de nos jours, c'est la gourde qui ne le fait pas
+Ces mœurs[G7] n'ont plus cours, de nos jours, c'e[C]st la gourde qui ne le fait pas [B7] [E]
 
-c1: A                        Dm            G7                      C  F#m7  
-l1: Toute ton école petite rigole, qu'encore à quinze ans
+[A]Toute ton école petite ri[Dm]gole, qu'encor[G7]e à quinze ans [C] [F#m7]
 
-c1:      Dm                         Am                  E            Am  
-l1: Tu sois vierge et sage, fidèle à l'usage caduc à présent
+Tu so[Dm]is vierge et sage, fidèle à[Am] l'usage caduc à pré[E]sent [Am]
 
 
-c1:     Am                           E                    A                        Dm  
-l1: Malgré les exemples de gosses plus amples informées que toi
+Malg[Am]ré les exemples de gosses plu[E]s amples informées qu[A]e toi [Dm]
 
-c1:        G7                      C                B7                           E  
-l1: Et qu'on dépucelle avec leur crécelle au bout de leurs doigts
+Et qu'o[G7]n dépucelle avec leur cr[C]écelle au bout de[B7] leurs doigts [E]
 
-c1:        A                        Dm                 G7                      C  F#m7  
-l1: Chacun te brocarde de ce que tu gardes ta fleur d'oranger
+Chacun [A]te brocarde de ce que tu [Dm]gardes ta fleur d'o[G7]ranger [C] [F#m7]
 
-c1:       Dm                             Am               E             Am  
-l1: Pour la bonne cause et chacune glose sur tes préjugés
+Pour l[Dm]a bonne cause et chacune glose [Am]sur tes préjugés [E] [Am]
 
 
-c1:     Am                          E                  A                        Dm  
-l1: Et tu sers de cible, mais reste insensible aux propos moqueurs
+Et t[Am]u sers de cible, mais reste [E]insensible aux prop[A]os moqueurs [Dm]
 
-c1:       G7                             C                   B7                   E  
-l1: Aux traits à la gomme, comporte toi comme te le dit ton cœur
+Aux tr[G7]aits à la gomme, comporte toi c[C]omme te le dit ton c[B7]œur [E]
 
-c1:         A                           Dm                   G7             C  F#m7  
-l1: Quoi que l'on raconte, y'a pas plus de honte à se refuser
+Quoi que[A] l'on raconte, y'a pas plus [Dm]de honte à se refuser [G7] [C] [F#m7]
 
-c1:      Dm                       Am                  E                    Am  
-l1: Ni plus de mérite, d'ailleurs ma petite, qu'à se faire baiser
+Ni pl[Dm]us de mérite, d'ailleurs [Am]ma petite, qu'à se f[E]aire baiser [Am]
 
 
-c1:        Am                      E                       A                      Dm  
-l1: Certes, s'il te presse la soif de caresses, cours, saute avec les
+Certes,[Am] s'il te presse la soif [E]de caresses, cours, saut[A]e avec les [Dm]
 
-c1:     G7                     C                         B7                      E  
-l1: Vénus de Panurge, va mais si rien n'urge, faut pas t'emballer
+Vénu[G7]s de Panurge, va mais s[C]i rien n'urge, faut pas t'[B7]emballer [E]
 
-c1:         A                            Dm                         G7               C  F#m7  
-l1: Mais, si tu succombes, sache surtout qu'on peut être passée par
+Mais, si[A] tu succombes, sache surtout [Dm]qu'on peut être passée par [G7] [C] [F#m7]
 
-c1:      Dm                     Am                  E                    Am  
-l1: Onze mille verges et demeurer vierge, paradoxe à part
+Onze [Dm]mille verges et demeure[Am]r vierge, paradoxe à[E] part [Am]
 
 
 

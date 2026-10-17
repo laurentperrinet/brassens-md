@@ -1,50 +1,38 @@
 ## COLOMBINE
 
 
-c1: B                             E               F#7            B            C#7  F#7  
-l1: Pam pam pam pam pam pam pam pam pam pam pam pam pam
+[B]Pam pam pam pam pam pam pam pa[E]m pam pam pam pa[F#7]m pam [B] [C#7] [F#7]
 
-c1: B                             E               F#7            B            C#7  F#7  B  
-l1: Pam pam pam pam pam pam pam pam pam pam pam pam pam
+[B]Pam pam pam pam pam pam pam pa[E]m pam pam pam pa[F#7]m pam [B] [C#7] [F#7] [B]
 
 
-c1: B               E           F#7           B          C#7  F#7  
-l1: Léandre le sot, Pierrot qui d'un saut, De puce
+[B]Léandre le sot, [E]Pierrot qui [F#7]d'un saut, De [B]puce [C#7] [F#7]
 
-c1: B                    E               F#7         B        C#7  F#7  B  
-l1: Franchit le buisson, Cassandre sous son, Capuce,
+[B]Franchit le buisson, [E]Cassandre sous s[F#7]on, Capuce, [B] [C#7] [F#7] [B]
 
 
-c1: B               E           F#7     B          C#7  F#7  
-l1: Arlequin aussi, Cet aigrefin si, Fantasque,
+[B]Arlequin aussi, [E]Cet aigrefin[F#7] si, Fan[B]tasque, [C#7] [F#7]
 
-c1: B                     E                  F#7     B          C#7  F#7  B  
-l1: Aux costumes fous, Les yeux luisant sous, Le masque,
+[B]Aux costumes fous, Les[E] yeux luisant sous,[F#7] Le masq[B]ue, [C#7] [F#7] [B]
 
 
-c1: D#m               A#                        D#m    A#     G#   
-l1: Do, mi, sol, mi, fa, Tout ce monde va, Rit, chante
+[D#m]Do, mi, sol, mi, f[A#]a, Tout ce monde va, Rit, [D#m]chante [A#] [G#]
 
-c1: C#m         G#                     C#7       F#7  
-l1: Et danse devant, Une frêle enfant, Méchante
+[C#m]Et danse dev[G#]ant, Une frêle enfant, [C#7]Méchante [F#7]
 
 
-c1: B                        E              F#7           B              C#7  F#7  
-l1: Dont les yeux pervers, Comme les yeux verts, Des chattes
+[B]Dont les yeux pervers, Co[E]mme les yeux ve[F#7]rts, Des chatt[B]es [C#7] [F#7]
 
-c1: B                    E           F#7       B           C#7  F#7  B  A  
-l1: Gardent ses appas, Et disent : « A bas Les pattes ! »
+[B]Gardent ses appas, Et[E] disent : « [F#7]A bas Les [B]pattes ! » [C#7] [F#7] [B] [A]
 
 
-l1: Ré Sol La Ré Sim Mi7 La
+Ré Sol La Ré Sim Mi7 La
 
-l1: Ré Sol La Ré Fa# Fa#7
+Ré Sol La Ré Fa# Fa#7
 
 
-c1: B                      E                 F#7  B          C#7  F#7  
-l1: L'implacable enfant, Preste et relevant, Ses jupes,
+[B]L'implacable enfant, Pr[E]este et relevant, [F#7]Ses j[B]upes, [C#7] [F#7]
 
-c1: B                      E                  F#7     B             C#7  F#7  B  
-l1: La rose au chapeau, Conduit son troupeau, De dupes !
+[B]La rose au chapeau, Con[E]duit son troupeau, [F#7]De dupes[B] ! [C#7] [F#7] [B]
 
 

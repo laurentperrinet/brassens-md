@@ -1,84 +1,80 @@
 ## LE MOYENÂGEUX
 
 
-c1: F#m        B7             E                    F#m  B7    E  
-l1: Le seul reproche, au demeurant, Qu'aient pu mériter mes parents,
+[F#m]Le seul rep[B7]roche, au demeu[E]rant, Qu'aient pu mér[F#m]iter [B7]mes pa[E]rents,
 
-c1:              Em  A7     D                       E       D              E     C#7  
-l1: C'est d'avoir pas joué plus tôt, Le jeu de la bête à deux dos.
+C'est d'avoir[Em] pas[A7] joué p[D]lus tôt, Le jeu de la bê[E]te à deu[D]x dos. [E] [C#7]
 
-c1:          F#m  B7    E                  F#m  B7      E  
-l1: Je suis né, même pas bâtard, Avec cinq siècles de retard.
+Je suis n[F#m]é, mê[B7]me pas[E] bâtard, Avec cinq [F#m]siècl[B7]es de re[E]tard.
 
-c1:          Em  A7         D                      E         D         E     C#7  
-l1: Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
+Pardonnez[Em]-moi[A7], Prince, s[D]i je, Suis foutrement m[E]oyenâgeux. [D] [E] [C#7]
 
 
-l1: Ah ! que n'ai-je vécu, bon sang ! Entre quatorze et quinze cent.
+Ah ! que n'ai-je vécu, bon sang ! Entre quatorze et quinze cent.
 
-l1: J'aurais retrouvé mes copains, Au Trou de la pomme de pin,
+J'aurais retrouvé mes copains, Au Trou de la pomme de pin,
 
-l1: Tous les beaux parleurs de jargon, Tous les promis de Montfaucon,
+Tous les beaux parleurs de jargon, Tous les promis de Montfaucon,
 
-l1: Les plus illustres seigneuries, Du royaume de truanderie.
-
-
-l1: Après une franche repue, J'eusse aimé, toute honte bue,
-
-l1: Aller courir le cotillon, Sur les pas de François Villon,
-
-l1: Troussant la gueuse et la forçant, Au cimetière des Innocents,
-
-l1: Mes amours de ce siècle-ci, N'en aient aucune jalousie...
+Les plus illustres seigneuries, Du royaume de truanderie.
 
 
-l1: J'eusse aimé le corps féminin, Des nonnettes et des nonnains
+Après une franche repue, J'eusse aimé, toute honte bue,
 
-l1: Qui, dans ces jolis temps bénis, Ne disaient pas toujours « nenni »,
+Aller courir le cotillon, Sur les pas de François Villon,
 
-l1: Qui faisaient le mur du couvent, Qui, Dieu leur pardonne ! souvent,
+Troussant la gueuse et la forçant, Au cimetière des Innocents,
 
-l1: Comptaient les baisers, s'il vous plaît, Avec des grains de chapelet.
-
-
-l1: Ces p'tit's sœurs, trouvant qu'à leur goût, Quatre Évangiles c'est pas beaucoup,
-
-l1: Sacrifiaient à un de plus : L'évangile selon Vénus.
-
-l1: Témoin : l'abbesse de Pourras, Qui fut, qui reste et restera
-
-l1: La plus glorieuse putain, De moine du quartier Latin.
+Mes amours de ce siècle-ci, N'en aient aucune jalousie...
 
 
-l1: A la fin, les anges du guet, M'auraient conduit sur le gibet.
+J'eusse aimé le corps féminin, Des nonnettes et des nonnains
 
-l1: Je serais mort, jambes en l'air, Sur la veuve patibulaire,
+Qui, dans ces jolis temps bénis, Ne disaient pas toujours « nenni »,
 
-l1: En arrosant la mandragore, L'herbe aux pendus qui revigore,
+Qui faisaient le mur du couvent, Qui, Dieu leur pardonne ! souvent,
 
-l1: En bénissant avec les pieds, Les ribaudes apitoyées.
-
-
-l1: Hélas ! tout ça, c'est des chansons. Il faut se faire une raison.
-
-l1: Les choux-fleurs poussent à présent, Sur le charnier des Innocents.
-
-l1: Le Trou de la pomme de pin, N'est plus qu'un bar américain.
-
-l1: Y a quelque chose de pourri, Au royaume de truanderie.
+Comptaient les baisers, s'il vous plaît, Avec des grains de chapelet.
 
 
-l1: Je mourrai pas à Montfaucon, Mais dans un lit, comme un vrai con,
+Ces p'tit's sœurs, trouvant qu'à leur goût, Quatre Évangiles c'est pas beaucoup,
 
-l1: Je mourrai, pas même pendard, Avec cinq siècles de retard.
+Sacrifiaient à un de plus : L'évangile selon Vénus.
 
-l1: Ma dernière parole soit, Quelques vers de Maître François,
+Témoin : l'abbesse de Pourras, Qui fut, qui reste et restera
 
-l1: Et que j'emporte entre les dents, Un flocon des neiges d'antan...
+La plus glorieuse putain, De moine du quartier Latin.
 
 
-l1: Ma dernière parole soit, Quelques vers de Maître François...
+A la fin, les anges du guet, M'auraient conduit sur le gibet.
 
-l1: Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
+Je serais mort, jambes en l'air, Sur la veuve patibulaire,
+
+En arrosant la mandragore, L'herbe aux pendus qui revigore,
+
+En bénissant avec les pieds, Les ribaudes apitoyées.
+
+
+Hélas ! tout ça, c'est des chansons. Il faut se faire une raison.
+
+Les choux-fleurs poussent à présent, Sur le charnier des Innocents.
+
+Le Trou de la pomme de pin, N'est plus qu'un bar américain.
+
+Y a quelque chose de pourri, Au royaume de truanderie.
+
+
+Je mourrai pas à Montfaucon, Mais dans un lit, comme un vrai con,
+
+Je mourrai, pas même pendard, Avec cinq siècles de retard.
+
+Ma dernière parole soit, Quelques vers de Maître François,
+
+Et que j'emporte entre les dents, Un flocon des neiges d'antan...
+
+
+Ma dernière parole soit, Quelques vers de Maître François...
+
+Pardonnez-moi, Prince, si je, Suis foutrement moyenâgeux.
 
 

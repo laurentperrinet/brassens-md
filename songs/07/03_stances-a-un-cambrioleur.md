@@ -1,56 +1,54 @@
 ## STANCES À UN CAMBRIOLEUR
 
 
-c1: Dm                                                             G#dim/F                          G#dim   
-l1: Prince des monte-en-l'air et de la cambriole, Toi qui eus le bon goût de choisir ma maison
+[Dm]Prince des monte-en-l'air et de la cambriole, Toi qui eus le bo[G#dim/F]n goût de choisir ma maison [G#dim]
 
-c1: G#dim/G#                                                 G#dim/B                           E7              Am  
-l1: Cependant que je colportais mes gaudrioles, En ton honneur j'ai composé cette chanson
+[G#dim/G#]Cependant que je colportais mes gaudrioles, En ton honneu[G#dim/B]r j'ai composé cette chanson [E7] [Am]
 
 
-l1: Sache que j'apprécie à sa valeur le geste, Qui te fit bien fermer la porte en repartant
+Sache que j'apprécie à sa valeur le geste, Qui te fit bien fermer la porte en repartant
 
-l1: De peur que des rôdeurs n'emportassent le reste, Des voleurs comme il faut c'est rare de ce temps
-
-
-l1: Tu ne m'as dérobé que le strict nécessaire, Délaissant dédaigneux l'exécrable portrait
-
-l1: Que l'on m'avait offert à mon anniversaire, Quel bon critique d'art mon salaud tu ferais
+De peur que des rôdeurs n'emportassent le reste, Des voleurs comme il faut c'est rare de ce temps
 
 
-l1: Autre signe indiquant toute absence de tare, Respectueux du brave travailleur tu n'as
+Tu ne m'as dérobé que le strict nécessaire, Délaissant dédaigneux l'exécrable portrait
 
-l1: Pas cru décent de me priver de ma guitare, Solidarité sainte de l'artisanat
-
-
-l1: Pour toutes ces raisons vois-tu, je te pardonne, Sans arrière-pensée après mûr examen
-
-l1: Ce que tu m'as volé, mon vieux, je te le donne, Ça pouvait pas tomber en de meilleures mains
+Que l'on m'avait offert à mon anniversaire, Quel bon critique d'art mon salaud tu ferais
 
 
-l1: D'ailleurs moi qui te parle, avec mes chansonnettes, Si je n'avais pas dû rencontrer le succès
+Autre signe indiquant toute absence de tare, Respectueux du brave travailleur tu n'as
 
-l1: J'aurais tout comme toi, pu virer malhonnête, Je serais devenu ton complice, qui sait
-
-
-l1: En vendant ton butin, prends garde au marchandage, Ne vas pas tout lâcher en solde aux receleurs
-
-l1: Tiens leur la dragée haute en évoquant l'adage, Qui dit que ces gens-là sont pis que les voleurs
+Pas cru décent de me priver de ma guitare, Solidarité sainte de l'artisanat
 
 
-l1: Fort de ce que je n'ai pas sonné les gendarmes, Ne te crois pas du tout tenu de revenir
+Pour toutes ces raisons vois-tu, je te pardonne, Sans arrière-pensée après mûr examen
 
-l1: Ta moindre récidive abolirait le charme, Laisse-moi je t'en prie, sur un bon souvenir
-
-
-l1: Monte-en-l'air, mon ami, que mon bien te profite, Que Mercure te préserve de la prison
-
-l1: Ait pas trop de remords, d'ailleurs nous sommes quittes, Après tout ne te dois-je pas une chanson
+Ce que tu m'as volé, mon vieux, je te le donne, Ça pouvait pas tomber en de meilleures mains
 
 
-l1: Post-scriptum, si le vol est l'art que tu préfères, Ta seule vocation, ton unique talent
+D'ailleurs moi qui te parle, avec mes chansonnettes, Si je n'avais pas dû rencontrer le succès
 
-l1: Prends donc pignon sur rue, mets-toi dans les affaires, Et tu auras les flics même comme chalands
+J'aurais tout comme toi, pu virer malhonnête, Je serais devenu ton complice, qui sait
+
+
+En vendant ton butin, prends garde au marchandage, Ne vas pas tout lâcher en solde aux receleurs
+
+Tiens leur la dragée haute en évoquant l'adage, Qui dit que ces gens-là sont pis que les voleurs
+
+
+Fort de ce que je n'ai pas sonné les gendarmes, Ne te crois pas du tout tenu de revenir
+
+Ta moindre récidive abolirait le charme, Laisse-moi je t'en prie, sur un bon souvenir
+
+
+Monte-en-l'air, mon ami, que mon bien te profite, Que Mercure te préserve de la prison
+
+Ait pas trop de remords, d'ailleurs nous sommes quittes, Après tout ne te dois-je pas une chanson
+
+
+Post-scriptum, si le vol est l'art que tu préfères, Ta seule vocation, ton unique talent
+
+Prends donc pignon sur rue, mets-toi dans les affaires, Et tu auras les flics même comme chalands
 
 
 

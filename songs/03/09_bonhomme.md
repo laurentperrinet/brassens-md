@@ -1,41 +1,38 @@
 ## BONHOMME
 
 
-c1: C              F          C              F      C        G7   
-l1: Malgré la bise qui mord, La pauvre vieille de somme
+[C]Malgré la bise [F]qui mord, L[C]a pauvre vieill[F]e de so[C]mme [G7]
 
-c1: C          D7            G7     C            Am     D7   G7   
-l1: Va ramasser du bois mort, Pour chauffer Bonhomme
+[C]Va ramasser[D7] du bois mort,[G7] Pour c[C]hauffer Bonho[Am]mme [D7] [G7]
 
-c1: C7       F        C7     F   C        Am   D7  C  
-l1: Bonhomme qui va mourir, De mort naturelle
+[C7]Bonhomme [F]qui va mo[C7]urir, D[F]e mo[C]rt nature[Am]lle [D7] [C]
 
 
-l1: Mélancolique, elle va, A travers la forêt blême
+Mélancolique, elle va, A travers la forêt blême
 
-l1: Où jadis elle rêva, De celui qu'elle aime
+Où jadis elle rêva, De celui qu'elle aime
 
-l1: Qu'elle aime et qui va mourir, De mort naturelle
-
-
-l1: Rien n'arrêtera le cours, De la vieille qui moissonne
-
-l1: Le bois mort de ses doigts gourds, Ni rien ni personne
-
-l1: Car Bonhomme va mourir, De mort naturelle
+Qu'elle aime et qui va mourir, De mort naturelle
 
 
-l1: Non, rien ne l'arrêtera, Ni cette voix de malheur
+Rien n'arrêtera le cours, De la vieille qui moissonne
 
-l1: Qui dit : « Quand tu rentreras, Chez toi, tout à l'heure
+Le bois mort de ses doigts gourds, Ni rien ni personne
 
-l1: Bonhomme sera déjà mort, De mort naturelle »
+Car Bonhomme va mourir, De mort naturelle
 
 
-l1: Ni cette autre et sombre voix, Montant du plus profond d'elle
+Non, rien ne l'arrêtera, Ni cette voix de malheur
 
-l1: Lui rappeler que, parfois, Il fut infidèle
+Qui dit : « Quand tu rentreras, Chez toi, tout à l'heure
 
-l1: Car Bonhomme, il va mourir, De mort naturelle
+Bonhomme sera déjà mort, De mort naturelle »
+
+
+Ni cette autre et sombre voix, Montant du plus profond d'elle
+
+Lui rappeler que, parfois, Il fut infidèle
+
+Car Bonhomme, il va mourir, De mort naturelle
 
 

@@ -1,61 +1,57 @@
 ## LA NON-DEMANDE EN MARIAGE
 
 
-c1: Em                                         Bm                                         F#m            Bm  
-l1: Ma mie, de grâce, ne mettons, Pas sous la gorge à Cupidon, Sa propre flèche
+[Em]Ma mie, de grâce, ne mettons, Pas sous la g[Bm]orge à Cupidon, Sa propre flèche [F#m] [Bm]
 
-c1: Em                                        Bm                                         F#m          Bm  
-l1: Tant d'amoureux l'ont essayé, Qui, de leur bonheur, ont payé, Ce sacrilège...
+[Em]Tant d'amoureux l'ont essayé, Qui, de leur[Bm] bonheur, ont payé, Ce sacrilège... [F#m] [Bm]
 
-c1:                      Em              A7        D       F#7  
-l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+J'ai l'honneur de, Ne[Em] pas te de-mande[A7]r ta main, [D] [F#7]
 
-c1: Bm                            F#m                                Bm  
-l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+[Bm]Ne gravons pas, Nos noms au ba[F#m]s, D'un parchemin [Bm]
 
 
-l1: Laissons le champs libre à l'oiseau, Nous serons tous les deux priso- nniers sur parole
+Laissons le champs libre à l'oiseau, Nous serons tous les deux priso- nniers sur parole
 
-l1: Au diable les maîtresses queux, Qui attachent les cœurs aux queues, Des casseroles !
+Au diable les maîtresses queux, Qui attachent les cœurs aux queues, Des casseroles !
 
-l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+J'ai l'honneur de, Ne pas te de-mander ta main,
 
-l1: Ne gravons pas, Nos noms au bas, D'un parchemin
-
-
-l1: Vénus se fait vieille souvent, Elle perd son latin devant, La lèchefrite
-
-l1: A aucun prix, moi je ne veux, Effeuiller dans le pot-au-feu, La marguerite
-
-l1: J'ai l'honneur de, Ne pas te de-mander ta main,
-
-l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+Ne gravons pas, Nos noms au bas, D'un parchemin
 
 
-l1: On leur ôte bien des attraits, En dévoilant trop les secrets, De Mélusine
+Vénus se fait vieille souvent, Elle perd son latin devant, La lèchefrite
 
-l1: L'encre des billets doux pâlit, Vite entre les feuillets des li- vres de cuisine.
+A aucun prix, moi je ne veux, Effeuiller dans le pot-au-feu, La marguerite
 
-l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+J'ai l'honneur de, Ne pas te de-mander ta main,
 
-l1: Ne gravons pas, Nos noms au bas, D'un parchemin
-
-
-l1: Il peut sembler de tout repos, De mettre à l'ombre, au fond d'un pot, De confiture
-
-l1: La jolie pomme défendue, Mais elle est cuite, elle a perdu, Son goût « nature »
-
-l1: J'ai l'honneur de, Ne pas te de-mander ta main,
-
-l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+Ne gravons pas, Nos noms au bas, D'un parchemin
 
 
-l1: De servante n'ai pas besoin, Et du ménage et de ses soins, Je te dispense
+On leur ôte bien des attraits, En dévoilant trop les secrets, De Mélusine
 
-l1: Qu'en éternelle fiancée, A la dame de mes pensées, Toujours je pense
+L'encre des billets doux pâlit, Vite entre les feuillets des li- vres de cuisine.
 
-l1: J'ai l'honneur de, Ne pas te de-mander ta main,
+J'ai l'honneur de, Ne pas te de-mander ta main,
 
-l1: Ne gravons pas, Nos noms au bas, D'un parchemin
+Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+Il peut sembler de tout repos, De mettre à l'ombre, au fond d'un pot, De confiture
+
+La jolie pomme défendue, Mais elle est cuite, elle a perdu, Son goût « nature »
+
+J'ai l'honneur de, Ne pas te de-mander ta main,
+
+Ne gravons pas, Nos noms au bas, D'un parchemin
+
+
+De servante n'ai pas besoin, Et du ménage et de ses soins, Je te dispense
+
+Qu'en éternelle fiancée, A la dame de mes pensées, Toujours je pense
+
+J'ai l'honneur de, Ne pas te de-mander ta main,
+
+Ne gravons pas, Nos noms au bas, D'un parchemin
 
 

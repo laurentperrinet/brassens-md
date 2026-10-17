@@ -1,59 +1,43 @@
 ## LE MAUVAIS SUJET REPENTI
 
 
-c1: A                                                                                          C#m              G#                      C#m  
-l1: Elle avait la taille faite au tour, Les hanches pleines, Et chassait l'mâle aux alentours, De la Mad'leine
+[A]Elle avait la taille faite au tour, Les hanches pleines, Et chassait l'mâle aux alentours, [C#m]De la Mad'leine [G#] [C#m]
 
-c1:            B7                                                         C#m                     D                                    A  E7  A  
-l1: A sa façon d'me dire : « Mon rat, Est-c'que j'te tente ? », Je vis que j'avais affaire à, Une débutante
+A sa façon [B7]d'me dire : « Mon rat, Est-c'que j'te tente ? », Je vis que[C#m] j'avais affaire à, Une [D]débutante [A] [E7] [A]
 
 
-c1: A                                                                                          C#m              G#                      C#m  
-l1: L'avait l'don, c'est vrai, j'en conviens, L'avait l'génie, Mais sans technique, un don n'est rien, Qu'une sale manie
+[A]L'avait l'don, c'est vrai, j'en conviens, L'avait l'génie, Mais sans technique, un don n'es[C#m]t rien, Qu'une sa[G#]le manie [C#m]
 
-c1:            B7                                                         C#m                            D                                    A  E7  A  
-l1: Certes, on ne se fait pas putain, Comme on s'fait nonne, C'est du moins c'qu'on prêche, en latin, A la Sorbonne
+Certes, on [B7]ne se fait pas putain, Comme on s'fait nonne, C'est du moin[C#m]s c'qu'on prêche, en latin, A l[D]a Sorbonne [A] [E7] [A]
 
 
-c1: A                                                                              C#m              G#                      C#m  
-l1: Me sentant rempli de pitié, Pour la donzelle, J'lui enseignai, de son métier, Les p'tites ficelles
+[A]Me sentant rempli de pitié, Pour la donzelle, J'lui enseignai, de son métier, L[C#m]es p'tites ficell[G#]es [C#m]
 
-c1:            B7                                              C#m                     D                                    A  E7  A  
-l1: J'lui enseignai l'moyen d'bientôt, Faire fortune, En bougeant l'endroit où le dos, R'ssemble à la lune
+J'lui ensei[B7]gnai l'moyen d'bientôt, Faire fortune, En bougea[C#m]nt l'endroit où le dos, [D]R'ssemble à la lune [A] [E7] [A]
 
 
-c1: A                                                                                   C#m              G#                      C#m  
-l1: Car, dans l'art de faire le trottoir, Je le confesse, Le difficile est d'bien savoir, Jouer des fesses
+[A]Car, dans l'art de faire le trottoir, Je le confesse, Le difficile est d'bien savoir[C#m], Jouer des fesse[G#]s [C#m]
 
-c1:            B7                                                    C#m                   D                                    A  E7  A  
-l1: On n'tortille pas son popotin, D'la même manière, Pour un droguiste, un sacristain, Un fonctionnaire
+On n'tortil[B7]le pas son popotin, D'la même manière, Pour un droguis[C#m]te, un sacristain, Un [D]fonctionnaire [A] [E7] [A]
 
 
-c1: A                                                                              C#m              G#                      C#m  
-l1: Rapidement instruite par, Mes bons offices, Elle m'investit d'une part, De ses bénéfices
+[A]Rapidement instruite par, Mes bons offices, Elle m'investit d'une part, De ses [C#m]bénéfices [G#] [C#m]
 
-c1:            B7                                         C#m                     D                                    A  E7  A  
-l1: On s'aida mutuellement, Comme dit l'poète, Elle était l'corps, naturellement, Puis moi la tête
+On s'aida m[B7]utuellement, Comme dit l'poète, Elle était [C#m]l'corps, naturellement, [D]Puis moi la tête [A] [E7] [A]
 
 
-c1: A                                                                                    C#m              G#                      C#m  
-l1: Un soir, à la suite de, Manœuvres douteuses, Elle tomba victime d'une, Maladie honteuse
+[A]Un soir, à la suite de, Manœuvres douteuses, Elle tomba victime d'une, Maladie honteu[C#m]se [G#] [C#m]
 
-c1:            B7                                             C#m              D                                    A  E7  A  
-l1: Lors, en tout bien, toute amitié, En fille probe, Elle me passa la moitié, De ses microbes
+Lors, en to[B7]ut bien, toute amitié, En fille probe, Elle me [C#m]passa la moitié, [D]De ses microbes [A] [E7] [A]
 
 
-c1: A                                                                             C#m              G#                      C#m  
-l1: Après des injections aiguës, D'antiseptique, J'abandonnai l'métier d'cocu, Systématique
+[A]Après des injections aiguës, D'antiseptique, J'abandonnai l'métier d'cocu, Sys[C#m]tématique [G#] [C#m]
 
-c1:            B7                                                      C#m                   D                                    A  E7  A  
-l1: Elle eut beau pousser des sanglots, Braire à tue-tête, Comme je n'étais qu'un salaud, J'me fis honnête
+Elle eut be[B7]au pousser des sanglots, Braire à tue-tête, Comme je n'é[C#m]tais qu'un salaud, J'm[D]e fis honnête [A] [E7] [A]
 
 
-c1: A                                                                            C#m              G#                      C#m  
-l1: Sitôt privée de ma tutelle, Ma pauvre amie, Courut essuyer du bordel, Les infamies
+[A]Sitôt privée de ma tutelle, Ma pauvre amie, Courut essuyer du bordel, Les inf[C#m]amies [G#] [C#m]
 
-c1:            B7                                                         C#m                        D                                    A  E7  A  
-l1: Paraît qu'elle s'vend même à des flics, Quelle décadence, Y'a plus d'moralité publique, Dans notre France
+Paraît qu'e[B7]lle s'vend même à des flics, Quelle décadence, Y'a plus d'm[C#m]oralité publique, Dans notr[D]e France [A] [E7] [A]
 
 

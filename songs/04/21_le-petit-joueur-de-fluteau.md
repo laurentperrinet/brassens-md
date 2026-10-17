@@ -1,74 +1,69 @@
 ## LE PETIT JOUEUR DE FLÛTEAU
 
 
-c1: D    Bm     A7          D        Bm            A7            D  
-l1: Le petit joueur de flûteau, Menait la musique au château,
+[D]Le pe[Bm]tit jou[A7]eur de flûte[D]au, Menai[Bm]t la musique a[A7]u château, [D]
 
-c1: D         Bm    A7             D          Bm      A7          D  
-l1: Pour la grâce de ses chansons, Le roi lui offrit un blason
+[D]Pour la gr[Bm]âce de[A7] ses chansons, [D]Le roi lui [Bm]offrit u[A7]n blason [D]
 
-c1:          Em        Bm7  F#7           Em   Bm       A7  
-l1: Je ne veux pas être noble, Répondit le croque-note
+Je ne veu[Em]x pas être[Bm7] nobl[F#7]e, Répondit le[Em] croq[Bm]ue-note [A7]
 
-c1: D     Em    A7        D   Bm       G        A7        Am6  
-l1: Avec un blason à la clé, Mon « la » se mettrait à gonfler
+[D]Avec u[Em]n blas[A7]on à la cl[D]é, M[Bm]on « la »[G] se mettr[A7]ait à gonf[Am6]ler
 
-c1: B7      Em    F#7    Bm    D      E7     A7         D  
-l1: On dirait par tout le pays, Le joueur de flûte a trahi
+[B7]On dirai[Em]t par [F#7]tout le[Bm] pays,[D] Le jou[E7]eur de [A7]flûte a tra[D]hi
 
 
-l1: Et mon pauvre petit clocher, Me semblerait trop bas perché
+Et mon pauvre petit clocher, Me semblerait trop bas perché
 
-l1: Je ne plierais plus les genoux, Devant le bon Dieu de chez nous
+Je ne plierais plus les genoux, Devant le bon Dieu de chez nous
 
-l1: Il faudrait à ma grande âme, Tous les saints de Notre-Dame
+Il faudrait à ma grande âme, Tous les saints de Notre-Dame
 
-l1: Avec un évêque à la clé, Mon « la » se mettrait à gonfler
+Avec un évêque à la clé, Mon « la » se mettrait à gonfler
 
-l1: On dirait par tout le pays, Le joueur de flûte a trahi
-
-
-l1: Et la chambre où j'ai vu la jour, Me serait un triste séjour
-
-l1: Je quitterais mon lit mesquin, Pour une couche à baldaquin
-
-l1: Je changerais ma chaumière, Pour une gentilhommière
-
-l1: Avec un manoir à la clé, Mon « la » se mettrait à gonfler
-
-l1: On dirait par tout le pays, Le joueur de flûte a trahi
+On dirait par tout le pays, Le joueur de flûte a trahi
 
 
-l1: Je serais honteux de mon sang, Des aïeux de qui je descends
+Et la chambre où j'ai vu la jour, Me serait un triste séjour
 
-l1: On me verrait bouder dessus, La branche dont je suis issu
+Je quitterais mon lit mesquin, Pour une couche à baldaquin
 
-l1: Je voudrais un magnifique, Arbre généalogique
+Je changerais ma chaumière, Pour une gentilhommière
 
-l1: Avec du sang bleu à la clé, Mon « la » se mettrait à gonfler
+Avec un manoir à la clé, Mon « la » se mettrait à gonfler
 
-l1: On dirait par tout le pays, Le joueur de flûte a trahi
-
-
-l1: Je ne voudrais plus épouser, Ma promise, ma fiancée
-
-l1: Je ne donnerais pas mon nom, A une quelconque Ninon
-
-l1: Il me faudrait pour compagne, La fille d'un grand d'Espagne
-
-l1: Avec une princesse à la clé, Mon « la » se mettrait à gonfler
-
-l1: On dirait par tout le pays, Le joueur de flûte a trahi
+On dirait par tout le pays, Le joueur de flûte a trahi
 
 
-l1: Le petit joueur de flûteau, Fit la révérence au château
+Je serais honteux de mon sang, Des aïeux de qui je descends
 
-l1: Sans armoiries, sans parchemin, Sans gloire il se mit en chemin
+On me verrait bouder dessus, La branche dont je suis issu
 
-l1: Vers son clocher, sa chaumine, Ses parents et sa promise
+Je voudrais un magnifique, Arbre généalogique
 
-l1: Nul ne dise dans le pays, Le joueur de flûte a trahi
+Avec du sang bleu à la clé, Mon « la » se mettrait à gonfler
 
-l1: Et Dieu reconnaisse pour sien, Le brave petit musicien !
+On dirait par tout le pays, Le joueur de flûte a trahi
+
+
+Je ne voudrais plus épouser, Ma promise, ma fiancée
+
+Je ne donnerais pas mon nom, A une quelconque Ninon
+
+Il me faudrait pour compagne, La fille d'un grand d'Espagne
+
+Avec une princesse à la clé, Mon « la » se mettrait à gonfler
+
+On dirait par tout le pays, Le joueur de flûte a trahi
+
+
+Le petit joueur de flûteau, Fit la révérence au château
+
+Sans armoiries, sans parchemin, Sans gloire il se mit en chemin
+
+Vers son clocher, sa chaumine, Ses parents et sa promise
+
+Nul ne dise dans le pays, Le joueur de flûte a trahi
+
+Et Dieu reconnaisse pour sien, Le brave petit musicien !
 
 

@@ -1,48 +1,45 @@
 ## SATURNE
 
 
-c1:         B7                     Em           D7                         G   
-l1: Il est morne, il est taciturne, Il préside aux choses du temps
+Il est m[B7]orne, il est taciturne,[Em] Il préside a[D7]ux choses du temps [G]
 
-c1:             B7                     C                             Am  D7          G   
-l1: Il porte un joli nom, « Saturne », Mais c'est un Dieu fort inquiétant
+Il porte un [B7]joli nom, « Saturne », [C]Mais c'est un Dieu fort inquié[Am]tant [D7] [G]
 
-c1:             B7                     C                 Em              B7          Em  
-l1: Il porte un joli nom, « Saturne », Mais c'est un Dieu fort inquiétant.
+Il porte un [B7]joli nom, « Saturne », [C]Mais c'est un Dieu[Em] fort inquiétant[B7]. [Em]
 
 
-l1: En allant son chemin, morose, Pour se désennuyer un peu
+En allant son chemin, morose, Pour se désennuyer un peu
 
-l1: Il joue à bousculer les roses, Le temps tue le temps comme il peut.
+Il joue à bousculer les roses, Le temps tue le temps comme il peut.
 
-l1: Il joue à bousculer les roses, Le temps tue le temps comme il peut.
-
-
-l1: Cette saison, c'est toi, ma belle, Qui a fait les frais de son jeu,
-
-l1: Toi qui a dû payer la gabelle, Un grain de sel dans tes cheveux.
-
-l1: Toi qui a dû payer la gabelle, Un grain de sel dans tes cheveux.
+Il joue à bousculer les roses, Le temps tue le temps comme il peut.
 
 
-l1: C'est pas vilain, les fleurs d'automne, Et tous les poètes l'ont dit.
+Cette saison, c'est toi, ma belle, Qui a fait les frais de son jeu,
 
-l1: Je te regarde et je te donne, Mon billet qu'ils n'ont pas menti.
+Toi qui a dû payer la gabelle, Un grain de sel dans tes cheveux.
 
-l1: Je te regarde et je te donne, Mon billet qu'ils n'ont pas menti.
-
-
-l1: Viens encor, viens ma favorite, Descendons ensemble au jardin,
-
-l1: Viens effeuiller la marguerite, De l'été de la Saint-Martin.
-
-l1: Viens effeuiller la marguerite, De l'été de la Saint-Martin.
+Toi qui a dû payer la gabelle, Un grain de sel dans tes cheveux.
 
 
-l1: Je sais par cœur toutes tes grâces, Et pour me les faire oublier,
+C'est pas vilain, les fleurs d'automne, Et tous les poètes l'ont dit.
 
-l1: Il faudra que Saturne en fasse, Des tours d'horloge, de sablier !
+Je te regarde et je te donne, Mon billet qu'ils n'ont pas menti.
 
-l1: Et la petite pisseuse d'en face, Peut bien aller se rhabiller.
+Je te regarde et je te donne, Mon billet qu'ils n'ont pas menti.
+
+
+Viens encor, viens ma favorite, Descendons ensemble au jardin,
+
+Viens effeuiller la marguerite, De l'été de la Saint-Martin.
+
+Viens effeuiller la marguerite, De l'été de la Saint-Martin.
+
+
+Je sais par cœur toutes tes grâces, Et pour me les faire oublier,
+
+Il faudra que Saturne en fasse, Des tours d'horloge, de sablier !
+
+Et la petite pisseuse d'en face, Peut bien aller se rhabiller.
 
 

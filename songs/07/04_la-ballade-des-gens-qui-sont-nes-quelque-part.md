@@ -1,64 +1,59 @@
 ## LA BALLADE DES GENS QUI SONT NÉS QUELQUE PART
 
 
-c1: D                                                 A          D  F#7  Bm                                                  G                   A  
-l1: C'est vrai qu'ils sont plaisants tous ces petits villages, Tous ces bourgs, ces hameaux, ces lieux-dits, ces cités
+[D]C'est vrai qu'ils sont plaisants tous ces petits v[A]illages, To[D]us [F#7]ces b[Bm]ourgs, ces hameaux, ces lieux-dits, ces cités [G] [A]
 
-c1: D                                             A              D  F#7      Bm                                          F#                Bm  
-l1: Avec leurs châteaux forts, leurs églises, leurs plages, Ils n'ont qu'un seul point faible, et c'est d'être habités
+[D]Avec leurs châteaux forts, leurs églises, leur[A]s plages, Ils n[D]'on[F#7]t qu'un s[Bm]eul point faible, et c'est d'être habités [F#] [Bm]
 
-c1: G                                                  A     D          Bm                                                            C7  
-l1: Et c'est d'être habités par des gens qui regardent, Le reste avec mépris du haut de leurs remparts
+[G]Et c'est d'être habités par des gens qui regardent,[A] Le re[D]ste avec mé[Bm]pris du haut de leurs remparts [C7]
 
-c1: F                                     Bb                  A7       Bb                      F                 C                A7  
-l1: La race des chauvins, des porteurs de cocardes, Les imbéciles heureux qui sont nés quelque part
+[F]La race des chauvins, des porteurs de [Bb]cocardes, Les imbéci[A7]les heure[Bb]ux qui sont nés quelque [F]part [C] [A7]
 
-c1: Bb                       F                 C               F  A7  
-l1: Les imbéciles heureux qui sont nés quelque part
+[Bb]Les imbéciles heureux qui[F] sont nés quelque [C]part [F] [A7]
 
 
-l1: Maudits soient ces enfants de leur mère patrie, Empalés une fois pour toutes sur leur clocher
+Maudits soient ces enfants de leur mère patrie, Empalés une fois pour toutes sur leur clocher
 
-l1: Qui vous montrent leurs tours, leurs musées, leur mairie, Vous font voir du pays natal jusqu'à loucher
+Qui vous montrent leurs tours, leurs musées, leur mairie, Vous font voir du pays natal jusqu'à loucher
 
-l1: Qu'ils sortent de Paris, ou de Rome, ou de Sète, Ou du diable vauvert ou bien de Zanzibar
+Qu'ils sortent de Paris, ou de Rome, ou de Sète, Ou du diable vauvert ou bien de Zanzibar
 
-l1: Ou même de Montcuq, ils s'en flattent, mazette, Les imbéciles heureux qui sont nés quelque part
+Ou même de Montcuq, ils s'en flattent, mazette, Les imbéciles heureux qui sont nés quelque part
 
-l1: Les imbéciles heureux qui sont nés quelque part
-
-
-l1: Le sable dans lequel, douillettes, leurs autruches, Enfouissent la tête, on trouve pas plus fin
-
-l1: Quant à l'air qu'ils emploient pour gonfler leurs baudruches, Leurs bulles de savon, c'est du souffle divin
-
-l1: Et petit à petit, les voilà qui se montent, Le cou jusqu'à penser que le crottin fait par
-
-l1: Leurs chevaux, même en bois, rend jaloux tout le monde, Les imbéciles heureux qui sont nés quelque part
-
-l1: Les imbéciles heureux qui sont nés quelque part
+Les imbéciles heureux qui sont nés quelque part
 
 
-l1: C'est pas un lieu commun, celui de leur naissance, Ils plaignent de tout cœur les pauvres malchanceux
+Le sable dans lequel, douillettes, leurs autruches, Enfouissent la tête, on trouve pas plus fin
 
-l1: Les petits maladroits qui n'eurent pas la présence, La présence d'esprit de voir le jour chez eux
+Quant à l'air qu'ils emploient pour gonfler leurs baudruches, Leurs bulles de savon, c'est du souffle divin
 
-l1: Quand sonne le tocsin sur leur bonheur précaire, Contre les étrangers tous plus ou moins barbares
+Et petit à petit, les voilà qui se montent, Le cou jusqu'à penser que le crottin fait par
 
-l1: Ils sortent de leur trou pour mourir à la guerre, Les imbéciles heureux qui sont nés quelque part
+Leurs chevaux, même en bois, rend jaloux tout le monde, Les imbéciles heureux qui sont nés quelque part
 
-l1: Les imbéciles heureux qui sont nés quelque part
+Les imbéciles heureux qui sont nés quelque part
 
 
-l1: Mon Dieu, qu'il ferait bon sur la terre des hommes, Si l'on n'y rencontrait cette race incongrue
+C'est pas un lieu commun, celui de leur naissance, Ils plaignent de tout cœur les pauvres malchanceux
 
-l1: Cette race importune et qui partout foisonne, La race des gens du terroir, des gens du cru
+Les petits maladroits qui n'eurent pas la présence, La présence d'esprit de voir le jour chez eux
 
-l1: Que la vie serait belle en toute circonstance, Si vous n'aviez tiré du néant ces jobards
+Quand sonne le tocsin sur leur bonheur précaire, Contre les étrangers tous plus ou moins barbares
 
-l1: Preuve, peut-être bien, de votre inexistence, Les imbéciles heureux qui sont nés quelque part
+Ils sortent de leur trou pour mourir à la guerre, Les imbéciles heureux qui sont nés quelque part
 
-l1: Les imbéciles heureux qui sont nés quelque part
+Les imbéciles heureux qui sont nés quelque part
+
+
+Mon Dieu, qu'il ferait bon sur la terre des hommes, Si l'on n'y rencontrait cette race incongrue
+
+Cette race importune et qui partout foisonne, La race des gens du terroir, des gens du cru
+
+Que la vie serait belle en toute circonstance, Si vous n'aviez tiré du néant ces jobards
+
+Preuve, peut-être bien, de votre inexistence, Les imbéciles heureux qui sont nés quelque part
+
+Les imbéciles heureux qui sont nés quelque part
 
 
 

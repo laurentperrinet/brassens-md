@@ -1,80 +1,72 @@
 ## CE N'EST PAS TOUT D'ÊTRE MON PÈRE
 
 
-c1: D                                    A7   D                           A7  
-l1: Du fait qu'un couple de fieffés, Minables a pris le café
+[D]Du fait qu'un couple de fieffés, Mina[A7]bles [D]a pris le café [A7]
 
-c1: D                                         A7       G             D     G           D  
-l1: Du pauvre, on naît et nous voilà, Contraints d'estimer ces gens-là.
+[D]Du pauvre, on naît et nous voilà, Contrain[A7]ts d'esti[G]mer ces gens-l[D]à. [G] [D]
 
-c1: D                                         A7   D                                     A7  
-l1: Parce qu'un minus de cinq à sept, Chevauche une pauvre mazette
+[D]Parce qu'un minus de cinq à sept, Chevauch[A7]e une[D] pauvre mazette [A7]
 
-c1: D                              A7     G        D        G           D  
-l1: Qui resta froide, sortit du, Néant un qui n'aurait pas dû.
+[D]Qui resta froide, sortit du, Né[A7]ant un [G]qui n'aur[D]ait pas d[G]û. [D]
 
-c1: Em  E#dim  D     B7                      Em  A7        D  B7  
-l1: Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
+[Em]Ce n[E#dim]'est pa[D]s tout[B7] d'être mon père, Il fau[Em]t au[A7]ssi me pla[D]ire[B7].
 
-c1: Em  E#dim  D        B7                   Em    A7   D  
-l1: Être mon fils ce n'est pas tout, Il faut me plaire itou.
+[Em]Être[E#dim] mon fi[D]ls ce n'e[B7]st pas tout, Il faut [Em]me pla[A7]ire i[D]tou.
 
-c1: Em  E#dim  D     B7                 Em       A7     D  B7  
-l1: Trouver son père sympathique, C'est pas automatique.
+[Em]Trou[E#dim]ver son[D] père [B7]sympathique, C'est [Em]pas autom[A7]atique. [D] [B7]
 
-c1: Em  E#dim  D      B7               Em      A7    D  
-l1: Avoir un fils qui nous agrée, Ce n'est pas assuré.
+[Em]Avoi[E#dim]r un fi[D]ls qui [B7]nous agrée, Ce n'[Em]est pas [A7]assuré[D].
 
 
-l1: Quand on s'avise de venir, Sur terre, il faut se prémunir
+Quand on s'avise de venir, Sur terre, il faut se prémunir
 
-l1: Contre la tentation facile, D'être un rejeton d'imbécile.
+Contre la tentation facile, D'être un rejeton d'imbécile.
 
-l1: Ne pas mettre au monde un connard, C'est malcommode et c'est un art
+Ne pas mettre au monde un connard, C'est malcommode et c'est un art
 
-l1: Que ne pratique pas souvent, La majorité des vivants.
+Que ne pratique pas souvent, La majorité des vivants.
 
-l1: Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
+Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
 
-l1: Être mon fils ce n'est pas tout, Il faut me plaire itou.
+Être mon fils ce n'est pas tout, Il faut me plaire itou.
 
-l1: Trouver son père sympathique, C'est pas automatique.
+Trouver son père sympathique, C'est pas automatique.
 
-l1: Avoir un fils qui nous agrée, Ce n'est pas assuré.
-
-
-l1: L'enfant naturel, l'orphelin, Est malheureux et je le plains,
-
-l1: Mais, du moins, il n'est pas tenu, Au respect d'un père inconnu.
-
-l1: Jésus, lui, fut plus avisé, Et plutôt que de s'exposer
-
-l1: A prendre un crétin pour papa, Il aima mieux n'en avoir pas.
-
-l1: Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
-
-l1: Être mon fils ce n'est pas tout, Il faut me plaire itou.
-
-l1: Trouver son père sympathique, C'est pas automatique.
-
-l1: Avoir un fils qui nous agrée, Ce n'est pas assuré.
+Avoir un fils qui nous agrée, Ce n'est pas assuré.
 
 
-l1: C'est pas un compte personnel, Que je règle ; mon paternel,
+L'enfant naturel, l'orphelin, Est malheureux et je le plains,
 
-l1: Brave vieux, me plaisait beaucoup, Était tout à fait à mon goût.
+Mais, du moins, il n'est pas tenu, Au respect d'un père inconnu.
 
-l1: Quant à moi qui, malgré des tas, De galipettes de fada,
+Jésus, lui, fut plus avisé, Et plutôt que de s'exposer
 
-l1: N'ai point engendré de petits, J'n'ai pas pu faire d'abrutis.
+A prendre un crétin pour papa, Il aima mieux n'en avoir pas.
 
-l1: Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
+Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
 
-l1: Être mon fils ce n'est pas tout, Il faut me plaire itou.
+Être mon fils ce n'est pas tout, Il faut me plaire itou.
 
-l1: Trouver son père sympathique, C'est pas automatique.
+Trouver son père sympathique, C'est pas automatique.
 
-l1: Avoir un fils qui nous agrée, Ce n'est pas assuré.
+Avoir un fils qui nous agrée, Ce n'est pas assuré.
+
+
+C'est pas un compte personnel, Que je règle ; mon paternel,
+
+Brave vieux, me plaisait beaucoup, Était tout à fait à mon goût.
+
+Quant à moi qui, malgré des tas, De galipettes de fada,
+
+N'ai point engendré de petits, J'n'ai pas pu faire d'abrutis.
+
+Ce n'est pas tout d'être mon père, Il faut aussi me plaire.
+
+Être mon fils ce n'est pas tout, Il faut me plaire itou.
+
+Trouver son père sympathique, C'est pas automatique.
+
+Avoir un fils qui nous agrée, Ce n'est pas assuré.
 
 
 

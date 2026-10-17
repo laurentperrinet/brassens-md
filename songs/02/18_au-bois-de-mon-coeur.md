@@ -1,48 +1,44 @@
 ## AU BOIS DE MON COEUR
 
 
-c1: Am          D  F7  E7        D7               C       E7  
-l1: Au bois d'Clamart y'a des petites fleurs, Y'a des petites fleurs,
+[Am]Au bois d'Cl[D]ama[F7]rt y[E7]'a des pet[D7]ites fleurs, Y'a [C]des peti[E7]tes fleurs,
 
-c1: Am       D  F7   E7  D7                    C  G   E7  Am  
-l1: Y'a des copains, au bois d'mon cœur, Au bois d'mon cœur.
+[Am]Y'a des c[D]opa[F7]ins, [E7]au b[D7]ois d'mon cœur, Au boi[C]s d[G]'mon[E7] cœu[Am]r.
 
-c1: Dm                                                                     G7                  C  
-l1: Au fond d'ma cour j'suis renommé, Au fond d'ma cour j'suis renommé,
+[Dm]Au fond d'ma cour j'suis renommé, Au fond d'ma cour j'suis renommé, [G7] [C]
 
-c1: A7                    Dm                             Am     F7               E7  
-l1: J'suis renommé, Pour avoir le cœur mal famé, Le cœur mal famé.
+[A7]J'suis renommé, Pour a[Dm]voir le cœur mal famé, Le cœur [Am]mal fam[F7]é. [E7]
 
 
-l1: Au bois d'Vincennes y'a des petites fleurs, Y'a des petites fleurs,
+Au bois d'Vincennes y'a des petites fleurs, Y'a des petites fleurs,
 
-l1: Y'a des copains, au bois d'mon cœur, Au bois d'mon cœur.
+Y'a des copains, au bois d'mon cœur, Au bois d'mon cœur.
 
-l1: Quand y'a plus d'vin dans mon tonneau, Quand y'a plus d'vin dans mon tonneau,
+Quand y'a plus d'vin dans mon tonneau, Quand y'a plus d'vin dans mon tonneau,
 
-l1: Dans mon tonneau, Ils n'ont pas peur de boire mon eau, De boire mon eau.
-
-
-l1: Au bois d'Meudon y'a des petites fleurs, Y'a des petites fleurs,
-
-l1: Y'a des copains, au bois d'mon cœur, Au bois d'mon cœur.
-
-l1: Ils m'accompagnent à la mairie, Ils m'accompagnent à la mairie,
-
-l1: A la mairie, Chaque fois que je me marie, Que je me marie.
+Dans mon tonneau, Ils n'ont pas peur de boire mon eau, De boire mon eau.
 
 
-l1: Au bois d'Saint-Cloud y'a des petites fleurs, Y'a des petites fleurs,
+Au bois d'Meudon y'a des petites fleurs, Y'a des petites fleurs,
 
-l1: Y'a des copains au bois d'mon cœur, Au bois d'mon cœur.
+Y'a des copains, au bois d'mon cœur, Au bois d'mon cœur.
 
-l1: Chaque fois qu'je meurs fidèlement, Chaque fois qu'je meurs fidèlement,
+Ils m'accompagnent à la mairie, Ils m'accompagnent à la mairie,
 
-l1: Fidèlement, Ils suivent mon enterrement, Mon enterrement.
+A la mairie, Chaque fois que je me marie, Que je me marie.
 
 
-l1: ...des petites fleurs...
+Au bois d'Saint-Cloud y'a des petites fleurs, Y'a des petites fleurs,
 
-l1: Au bois d'mon cœur...
+Y'a des copains au bois d'mon cœur, Au bois d'mon cœur.
+
+Chaque fois qu'je meurs fidèlement, Chaque fois qu'je meurs fidèlement,
+
+Fidèlement, Ils suivent mon enterrement, Mon enterrement.
+
+
+...des petites fleurs...
+
+Au bois d'mon cœur...
 
 

@@ -1,24 +1,18 @@
 ## SI LE BON DIEU L'AVAIT VOULU
 
 
-c1: Am                 G7         C             Am     G7    C              F       E7      Am            E7                      Am  
-l1: Si le Bon Dieu l'avait voulu - Lanturlurette, Lanturlu, J'aurais connu la Cléopâtre, Et je ne t'aurais pas connue.
+[Am]Si le Bon Dieu l'av[G7]ait voulu -[C] Lanturlurette[Am], Lantu[G7]rlu, J[C]'aurais connu l[F]a Cléopâ[E7]tre, Et [Am]je ne t'aurais[E7] pas connue. [Am]
 
-c1:                      G7       C             Am           G7       C                 F        E7      Am                    E7              Am  
-l1: J'aurais connu la Cléopâtre, Et je ne t'aurais pas connue. Sans ton amour que j'idolâtre, Las ! Que fussé-je devenu ?
+J'aurais connu la Clé[G7]opâtre, E[C]t je ne t'aura[Am]is pas connue[G7]. Sans to[C]n amour que j'idol[F]âtre, Las[E7] ! Que f[Am]ussé-je devenu ? [E7] [Am]
 
 
-c1: F                       E7            A7                    D              G7                     C            F7                   Bb  
-l1: Si le Bon Dieu l'avait voulu, J'aurais connu la Messaline, Agnès, Odette et Mélusine, Et je ne t'aurais pas connue.
+[F]Si le Bon Dieu l'avait v[E7]oulu, J'aurais[A7] connu la Messaline, A[D]gnès, Odette et[G7] Mélusine, Et je ne t'a[C]urais pas con[F7]nue. [Bb]
 
-c1: F                       E7              A7                  D            G7                C                  F7                 Bb     E7  
-l1: J'aurais connu la Pompadour, Noémi, Sarah, Rebecca, La Fille du Royal Tambour, et la Mogador et Clara.
+[F]J'aurais connu la Pompad[E7]our, Noémi, Sara[A7]h, Rebecca, La Fille[D] du Royal Tam[G7]bour, et la Mogado[C]r et Clara. [F7] [Bb] [E7]
 
 
-c1: Am                      G7          C              Am          G7    C              F           E7      Am                  E7                          Am  
-l1: Mais le Bon Dieu n'a pas voulu, Que je connaisse leur amour, Je t'ai connue, tu m'as connu, Gloire à Dieu au plus haut des nues !
+[Am]Mais le Bon Dieu n'a pas[G7] voulu, Que [C]je connaisse le[Am]ur amour, Je[G7] t'ai [C]connue, tu m'as[F] connu, Gloi[E7]re à Die[Am]u au plus haut des n[E7]ues ! [Am]
 
-c1:                      G7         C                   Am          G7    C            F           E7      Am                  E7                          Am  E7  Am  
-l1: Las ! Que fussé-je devenu, Sans toi la nuit, sans toi le jour, Je t'ai connue, tu m'as connu, Gloire à Dieu au plus haut des nues !
+Las ! Que fussé-je de[G7]venu, Sans [C]toi la nuit, sans to[Am]i le jour, J[G7]e t'ai[C] connue, tu m[F]'as connu, G[E7]loire à [Am]Dieu au plus haut de[E7]s nues ! [Am] [E7] [Am]
 
 

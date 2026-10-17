@@ -1,149 +1,128 @@
 ## LES FUNÉRAILLES D'ANTAN
 
 
-c1: F                                                                         C7  
-l1: Jadis, les parents des morts vous mettaient dans le bain
+[F]Jadis, les parents des morts vous mettaient dans le bain [C7]
 
-c1: F                                                               C7  
-l1: De bonne grâce ils en f'saient profiter les copains
+[F]De bonne grâce ils en f'saient profiter les copains [C7]
 
-c1: F                              F7                              Bb  
-l1: « Y'a un mort à la maison, si le cœur vous en dit
+[F]« Y'a un mort à la maison, si l[F7]e cœur vous en dit [Bb]
 
-c1: G7                                                         C7  
-l1: Venez l'pleurer avec nous sur le coup de midi... »
+[G7]Venez l'pleurer avec nous sur le coup de midi... » [C7]
 
-c1: F                                                                  C7  
-l1: Mais les vivants aujourd'hui n'sont plus si généreux
+[F]Mais les vivants aujourd'hui n'sont plus si généreux [C7]
 
-c1: F                                                                     C7  
-l1: Quand ils possèdent un mort ils le gardent pour eux
+[F]Quand ils possèdent un mort ils le gardent pour eux [C7]
 
-c1: F                              F7                                  Bb  
-l1: C'est la raison pour laquelle, depuis quelques années
+[F]C'est la raison pour laquelle, [F7]depuis quelques années [Bb]
 
-c1: A7                     Dm  Gm7                         C7  
-l1: Des tas d'enterrements vous passent sous le nez
+[A7]Des tas d'enterrements [Dm]vous[Gm7] passent sous le nez [C7]
 
-c1: A7                     Dm  Gm7       F    G         F    G7   
-l1: Des tas d'enterrements vous passent sous le nez
+[A7]Des tas d'enterrements [Dm]vous[Gm7] passent s[F]ous l[G]e nez [F] [G7]
 
 
-c1: C                                           Dm7  G7   
-l1: Mais où sont les funérailles d'antan ?
+[C]Mais où sont les funérailles d'antan ? [Dm7] [G7]
 
-l1: Do
+Do
 
-l1: Les petits corbillards, corbillards, corbillards, corbillards
+Les petits corbillards, corbillards, corbillards, corbillards
 
-c1:                        E7  
-l1: De nos grands-pères
+De nos grands-pères [E7]
 
-c1: Am                                       E7  
-l1: Qui suivaient la route en cahotant
+[Am]Qui suivaient la route en cahotant [E7]
 
-l1: Lam
+Lam
 
-l1: Les petits macchabées, macchabées, macchabées, macchabées
+Les petits macchabées, macchabées, macchabées, macchabées
 
-c1:                      D7  G7   
-l1: Ronds et prospères
+Ronds et prospères [D7] [G7]
 
-c1: C                                         Dm7  G7   
-l1: Quand les héritiers étaient contents
+[C]Quand les héritiers étaient contents [Dm7] [G7]
 
-l1: Do
+Do
 
-l1: Au fossoyeur, au croque-mort, au curé, aux chevaux même
+Au fossoyeur, au croque-mort, au curé, aux chevaux même
 
-c1:                   F  
-l1: Ils payaient un verre
+Ils payaient un ve[F]rre
 
-c1: B7                  Em  
-l1: Elles sont révolues
+[B7]Elles sont révolues [Em]
 
-c1: A7                      Dm  
-l1: Elles ont fait leur temps
+[A7]Elles ont fait leur temp[Dm]s
 
-c1: G7                             C   Am   Dm     G7      C  
-l1: Les belles pom, pom, pom, pom, pom, pompes funèbres
+[G7]Les belles pom, pom, pom, pom, [C]pom,[Am] pomp[Dm]es funè[G7]bres [C]
 
-c1: F#dim   B7     Em  
-l1: On ne les r'verra plus
+[F#dim]On ne le[B7]s r'ver[Em]ra plus
 
-c1: Gm              A7  Dm  
-l1: Et c'est bien attristant
+[Gm]Et c'est bien at[A7]tris[Dm]tant
 
-c1: G7                         C    Am   Dm   G7    C  
-l1: Les belles pompes funèbres de nos vingt ans
+[G7]Les belles pompes funèbres [C]de no[Am]s vin[Dm]gt an[G7]s [C]
 
 
-l1: Maintenant, les corbillards à tombeau grand ouvert
+Maintenant, les corbillards à tombeau grand ouvert
 
-l1: Emportent les trépassés jusqu'au diable vauvert
+Emportent les trépassés jusqu'au diable vauvert
 
-l1: Les malheureux n'ont même plus le plaisir enfantin
+Les malheureux n'ont même plus le plaisir enfantin
 
-l1: D'voir leurs héritiers marrons marcher dans le crottin
+D'voir leurs héritiers marrons marcher dans le crottin
 
-l1: L'autre semaine des salauds, à cent quarante à l'heure
+L'autre semaine des salauds, à cent quarante à l'heure
 
-l1: Vers un cimetière minable emportaient un des leurs
+Vers un cimetière minable emportaient un des leurs
 
-l1: Quand, sur un arbre en bois dur, ils se sont aplatis
+Quand, sur un arbre en bois dur, ils se sont aplatis
 
-l1: On s'aperçut qu'le mort avait fait des petits
+On s'aperçut qu'le mort avait fait des petits
 
-l1: On s'aperçut qu'le mort avait fait des petits
-
-
-l1: Mais où sont les funérailles d'antan ?
-
-l1: Les petits corbillards, corbillards, corbillards, corbillards
-
-l1: De nos grands-pères
-
-l1: Qui suivaient la route en cahotant
-
-l1: Les petits macchabées, macchabées, macchabées, macchabées
-
-l1: Ronds et prospères
-
-l1: Quand les héritiers étaient contents
-
-l1: Au fossoyeur, au croque-mort, au curé, aux chevaux même
-
-l1: Ils payaient un verre
-
-l1: Elles sont révolues
-
-l1: Elles ont fait leur temps
-
-l1: Les belles pom, pom, pom, pom, pom, pompes funèbres
-
-l1: On ne les r'verra plus
-
-l1: Et c'est bien attristant
-
-l1: Les belles pompes funèbres de nos vingt ans
+On s'aperçut qu'le mort avait fait des petits
 
 
-l1: Plutôt qu'd'avoir des obsèques manquant de fioritures
+Mais où sont les funérailles d'antan ?
 
-l1: J'aim'rais mieux, tout compte fait, m'passer de sépulture
+Les petits corbillards, corbillards, corbillards, corbillards
 
-l1: J'aim'rais mieux mourir dans l'eau, dans le feu, n'importe où
+De nos grands-pères
 
-l1: Et même, à la grande rigueur, ne pas mourir du tout
+Qui suivaient la route en cahotant
 
-l1: Ô, que renaisse le temps des morts bouffis d'orgueil
+Les petits macchabées, macchabées, macchabées, macchabées
 
-l1: L'époque des m'as-tu-vu-dans-mon-joli-cercueil
+Ronds et prospères
 
-l1: Où, quitte à tout dépenser jusqu'au dernier écu
+Quand les héritiers étaient contents
 
-l1: Les gens avaient à cœur d'mourir plus haut qu'leur cul
+Au fossoyeur, au croque-mort, au curé, aux chevaux même
 
-l1: Les gens avaient à cœur de mourir plus haut qu'leur cul
+Ils payaient un verre
+
+Elles sont révolues
+
+Elles ont fait leur temps
+
+Les belles pom, pom, pom, pom, pom, pompes funèbres
+
+On ne les r'verra plus
+
+Et c'est bien attristant
+
+Les belles pompes funèbres de nos vingt ans
+
+
+Plutôt qu'd'avoir des obsèques manquant de fioritures
+
+J'aim'rais mieux, tout compte fait, m'passer de sépulture
+
+J'aim'rais mieux mourir dans l'eau, dans le feu, n'importe où
+
+Et même, à la grande rigueur, ne pas mourir du tout
+
+Ô, que renaisse le temps des morts bouffis d'orgueil
+
+L'époque des m'as-tu-vu-dans-mon-joli-cercueil
+
+Où, quitte à tout dépenser jusqu'au dernier écu
+
+Les gens avaient à cœur d'mourir plus haut qu'leur cul
+
+Les gens avaient à cœur de mourir plus haut qu'leur cul
 
 

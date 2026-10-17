@@ -1,87 +1,61 @@
 ## L'ANCÊTRE
 
 
-c1: C                      G7         C7        F    Fm                        Am             D7           G7   
-l1: Notre voisin l'ancêtre était un fier galant, Qui n'emmerdait personne avec sa barbe blanche,
+[C]Notre voisin l'ancêtre [G7]était un fi[C7]er galant,[F] Qui [Fm]n'emmerdait personne avec [Am]sa barbe blanch[D7]e, [G7]
 
-c1: C                         G7                      C7         F       Fm            Am                   D7  G7   C  
-l1: Et quand le bruit courut qu'ses jours étaient comptés, On s'en fut à l'hospice afin de l'assister.
+[C]Et quand le bruit courut q[G7]u'ses jours étaient comp[C7]tés, On s'e[F]n fut à [Fm]l'hospice afin[Am] de l'assister. [D7] [G7] [C]
 
 
-c1: A7                                                           Gm                           A7  
-l1: On avait apporté les guitares avec nous, Car devant la musique, il tombait à genoux,
+[A7]On avait apporté les guitares avec nous, Car devant la musiqu[Gm]e, il tombait à genoux, [A7]
 
-c1:              D7                                        Am                                      G7         C  
-l1: Excepté toutefois les marches militaires, Qu'il écoutait en se tapant le cul par terre (bis)
+Excepté toute[D7]fois les marches militaires, Qu'il écoutai[Am]t en se tapant le cul par terre (bis) [G7] [C]
 
-c1:            A7                                                       Gm                                 A7  
-l1: Émules de Django, disciples de Crolla, Toute la fine fleur des cordes était là
+Émules de D[A7]jango, disciples de Crolla, Toute la fine fleur des corde[Gm]s était là [A7]
 
-c1:                D7                                            Am                                 G7          C  
-l1: Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime audition (bis)
+Pour offrir à l[D7]'ancêtre, en signe d'affection, En guise de vi[Am]atique, une ultime audition (bis) [G7] [C]
 
 
-c1: F                     C7          F7         Bb      Bbm         Dm     G7        C7  
-l1: Hélas ! les carabins ne les ont pas reçus, Les guitares sont restées à la porte cochère,
+[F]Hélas ! les carabins n[C7]e les ont pa[F7]s reçus, Le[Bb]s guitar[Bbm]es sont rest[Dm]ées à l[G7]a porte co[C7]chère,
 
-c1: F                     C7          F7        Bb    Bbm                  F                        G7   C7  F  G7   
-l1: Et le dernier concert de l'ancêtre déçu, Ce fut un pot-pourri de cantiques, peuchère !
+[F]Et le dernier concert [C7]de l'ancêtre[F7] déçu, Ce [Bb]fut un[Bbm] pot-pourri de cantiq[F]ues, peuchère ! [G7] [C7] [F] [G7]
 
-c1: C                                                            C7                                                     F  
-l1: Quand nous serons ancêtres, Du côté de Bicêtre, Pas de musique d'orgue, oh ! non,
+[C]Quand nous serons ancêtres, Du côté de Bicêtre, Pas de musiqu[C7]e d'orgue, oh ! non, [F]
 
-c1:                           Em      Dm                    A7       F                                         E7  A7  D7  G7   C  
-l1: Pas de chants liturgiques, Pour qui avale sa chique, Mais des guitares, cré nom de nom ! (bis)
+Pas de chants liturgiques,[Em] Pour qu[Dm]i avale sa chique, Mai[A7]s des gui[F]tares, cré nom de nom ! (bis) [E7] [A7] [D7] [G7] [C]
 
 
-c1: A7                                                      Gm                          A7  
-l1: On avait apporté quelques litres aussi, Car le bonhomme avait la fièvre de Bercy
+[A7]On avait apporté quelques litres aussi, Car le bonhomme [Gm]avait la fièvre de Bercy [A7]
 
-c1:                 D7                                         Am                              G7          C  
-l1: Et les soirs de nouba, parole de tavernier, A rouler sous la table il était le dernier (bis)
+Et les soirs de [D7]nouba, parole de tavernier, A rouler sous l[Am]a table il était le dernier (bis[G7]) [C]
 
-c1:                  A7                                                             Gm                             A7  
-l1: Saumur, Entre-deux-mers, Beaujolais, Marsala, Toute la fine fleur de la vigne était là
+Saumur, Entre-deu[A7]x-mers, Beaujolais, Marsala, Toute la fine fleur de la vigne ét[Gm]ait là [A7]
 
-c1:                 D7                                           Am                                G7         C  
-l1: Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime libation (bis)
+Pour offrir à l'[D7]ancêtre, en signe d'affection, En guise de vi[Am]atique, une ultime libation (bis) [G7] [C]
 
 
-c1: F                    C7            F7         Bb       Bbm             Dm          G7       C7  
-l1: Hélas ! les carabins ne les ont pas reçus, Les litres sont restés à la porte cochère,
+[F]Hélas ! les carabins [C7]ne les ont pas[F7] reçus, Les[Bb] litres s[Bbm]ont restés à la [Dm]porte cochèr[G7]e, [C7]
 
-c1: F                    C              F7     Bb   Bbm                F                              G7   C7  F  G7   
-l1: Et l' coup de l'étrier de l'ancêtre déçu, Ce fut un grand verre d'eau bénite, peuchère !
+[F]Et l' coup de l'étrie[C]r de l'ancêtre [F7]déçu, C[Bb]e fut[Bbm] un grand verre d'e[F]au bénite, peuchère ! [G7] [C7] [F] [G7]
 
-c1: C                                                            C7                                                    F  
-l1: Quand nous serons ancêtres, Du côté de Bicêtre, Ne nous faites pas boire, oh ! non,
+[C]Quand nous serons ancêtres, Du côté de Bicêtre, Ne nous faite[C7]s pas boire, oh ! non, [F]
 
-c1:                          Em     Dm              A7     F                                         E7  A7  D7  G7   C  
-l1: De ces eaux minérales, Bénites ou lustrales, Mais du bon vin, cré nom de nom ! (bis)
+De ces eaux minérales, Bé[Em]nites o[Dm]u lustrales, Mai[A7]s du bo[F]n vin, cré nom de nom ! (bis) [E7] [A7] [D7] [G7] [C]
 
 
-c1: A7                                                   Gm                           A7  
-l1: On avait emmené les belles du quartier, Car l'ancêtre courait la gueuse volontier.
+[A7]On avait emmené les belles du quartier, Car l'ancêtre[Gm] courait la gueuse volontier. [A7]
 
-c1:                   D7                                             Am                                      G7             C  
-l1: De sa main toujours leste et digne cependant, Il troussait les jupons par n'importe quel temps (bis).
+De sa main toujour[D7]s leste et digne cependant, Il troussait les ju[Am]pons par n'importe quel temps (bis). [G7] [C]
 
-c1:                 A7                                                  Gm                                 A7  
-l1: Depuis Manon Lescaut jusques à Dalila, Toute la fine fleur du beau sexe était là
+Depuis Manon Les[A7]caut jusques à Dalila, Toute la fine fleur du beau s[Gm]exe était là [A7]
 
-c1:                D7                                            Am                                 G7          C  
-l1: Pour offrir à l'ancêtre, en signe d'affection, En guise de viatique, une ultime érection (bis).
+Pour offrir à l[D7]'ancêtre, en signe d'affection, En guise de vi[Am]atique, une ultime érection (bis). [G7] [C]
 
-c1: F                 C7              F7            Bb  Bbm                   Dm            G7   C7  
-l1: Hélas ! les carabins ne les ont pas reçues, Les belles sont restées à la porte cochère,
+[F]Hélas ! les carabi[C7]ns ne les ont pa[F7]s reçues, Les [Bb]bell[Bbm]es sont restées à la p[Dm]orte cochère, [G7] [C7]
 
-c1: F                     C7             F7   Bb  Bbm       F                       G7   C7  F  G7   
-l1: Et le dernier froufrou de l'ancêtre déçu, Ce fut celui d'une robe de sœur, peuchère !
+[F]Et le dernier froufrou[C7] de l'ancêtre d[F7]éçu, [Bb]Ce f[Bbm]ut celui d[F]'une robe de sœur, peuch[G7]ère ! [C7] [F] [G7]
 
-c1: C                                                             C7                                                 F  
-l1: Quand nous serons ancêtres, Du côte de Bicêtre, Pas d'enfants de Marie, oh ! non,
+[C]Quand nous serons ancêtres, Du côte de Bicêtre, Pas d'enfants [C7]de Marie, oh ! non, [F]
 
-c1:                                 Em     Dm                      A7     F                                         E7  A7  D7  G7   C  
-l1: Remplacez-nous les nonnes, Par des belles mignonnes, Et qui fument, cré nom de nom ! (bis)
+Remplacez-nous les nonnes, Par d[Em]es bell[Dm]es mignonnes, Et qui fum[A7]ent, cr[F]é nom de nom ! (bis) [E7] [A7] [D7] [G7] [C]
 
 

@@ -1,63 +1,45 @@
 ## JEANNE
 
 
-c1: Bm    Em         F#7  Em                           F#                  Em          F#  
-l1: Chez Jeanne, la Jeanne, Son auberge est ouverte aux gens sans feu ni lieu
+[Bm]Chez J[Em]eanne, la J[F#7]eanne[Em], Son auberge est ouverte aux[F#] gens sans feu ni li[Em]eu [F#]
 
-c1:              Em                       Bm            F#7                                Em  F#  
-l1: On pourrait l'appeler l'auberge du Bon Dieu, S'il n'en existait déjà une
+On pourrait l[Em]'appeler l'auberge du Bon[Bm] Dieu, S'il n'[F#7]en existait déjà une [Em] [F#]
 
-c1:      Bm                    A              G                  F#7                      C#7  F#7  Em  Bm  
-l1: La dernière où l'on peut entrer, Sans frapper sans montrer patte blanche.
+La de[Bm]rnière où l'on peut en[A]trer, Sans frap[G]per sans montrer pa[F#7]tte blanche. [C#7] [F#7] [Em] [Bm]
 
 
-c1: Em         F#7  Em                           F#                  Em          F#  
-l1: Chez Jeanne, la Jeanne, On est n'importe qui on vient n'importe quand
+[Em]Chez Jeanne[F#7], la [Em]Jeanne, On est n'importe qui [F#]on vient n'importe q[Em]uand [F#]
 
-c1:              Em                       Bm            F#7                                Em  F#  
-l1: Et comme par miracle par enchantement, On fait partie de la famille
+Et comme par [Em]miracle par enchantement,[Bm] On fait parti[F#7]e de la famille [Em] [F#]
 
-c1:      Bm                    A              G                  F#7                      C#7  F#7  Em  Bm  
-l1: Dans son cœur en s'poussant un peu, Reste encore une petite place.
+Dans [Bm]son cœur en s'poussant[A] un peu, Reste [G]encore une petite p[F#7]lace. [C#7] [F#7] [Em] [Bm]
 
 
-c1: Em         F#7  Em                           F#                  Em          F#  
-l1: La Jeanne, la Jeanne, Elle est pauvre et sa table est souvent mal servie
+[Em]La Jeanne, [F#7]la Je[Em]anne, Elle est pauvre et sa t[F#]able est souvent mal[Em] servie [F#]
 
-c1:              Em                       Bm            F#7                                Em  F#  
-l1: Mais le peu qu'on y trouve assouvit pour la vie, Par la façon qu'elle le donne
+Mais le peu q[Em]u'on y trouve assouvit po[Bm]ur la vie, Par[F#7] la façon qu'elle le donne [Em] [F#]
 
-c1:      Bm                    A              G                  F#7                      C#7  F#7  Em  Bm  
-l1: Son pain ressemble à du gâteau, Et son eau à du vin comme deux gouttes d'eau.
+Son p[Bm]ain ressemble à du gât[A]eau, Et son eau[G] à du vin comme deu[F#7]x gouttes d'eau. [C#7] [F#7] [Em] [Bm]
 
 
-c1: Em         F#7  Em                           F#                  Em          F#  
-l1: La Jeanne, la Jeanne, On la paie quand on peut des prix mirobolants
+[Em]La Jeanne, [F#7]la Je[Em]anne, On la paie quand on peu[F#]t des prix mirobolan[Em]ts [F#]
 
-c1:              Em                       Bm            F#7                                Em  F#  
-l1: Un baiser sur son front ou sur ses cheveux blancs, Un semblant d'accord de guitare
+Un baiser sur[Em] son front ou sur ses che[Bm]veux blancs, U[F#7]n semblant d'accord de guitare [Em] [F#]
 
-c1:      Bm                    A              G                  F#7                      C#7  F#7  Em  Bm  
-l1: L'adresse d'un chat échaudé, Ou d'un chien tout crotté comme pourboire.
+L'adr[Bm]esse d'un chat échaudé[A], Ou d'un chien[G] tout crotté comme [F#7]pourboire. [C#7] [F#7] [Em] [Bm]
 
 
-c1: Em         F#7  Em                           F#                  Em          F#  
-l1: La Jeanne, la Jeanne, Dans ses roses et ses choux n'a pas trouvé d'enfant
+[Em]La Jeanne, [F#7]la Je[Em]anne, Dans ses roses et ses c[F#]houx n'a pas trouvé [Em]d'enfant [F#]
 
-c1:              Em                       Bm            F#7                                Em  F#  
-l1: Qu'on aime et qu'on défend contre les quatre vents, Et qu'on accroche à son corsage
+Qu'on aime et[Em] qu'on défend contre les [Bm]quatre vents, [F#7]Et qu'on accroche à son corsage [Em] [F#]
 
-c1:      Bm                    A              G                  F#7                      C#7  F#7  Em  Bm  
-l1: Et qu'on arrose avec son lait, D'autres qu'elle en seraient toutes chagrines.
+Et qu[Bm]'on arrose avec son la[A]it, D'autres qu[G]'elle en seraient t[F#7]outes chagrines. [C#7] [F#7] [Em] [Bm]
 
 
-c1: Em         F#7  Em                           F#                  Em          F#  
-l1: Mais Jeanne, la Jeanne, Ne s'en soucie pas plus que de colin-tampon
+[Em]Mais Jeanne[F#7], la [Em]Jeanne, Ne s'en soucie pas pl[F#]us que de colin-tamp[Em]on [F#]
 
-c1:              Em                       Bm            F#7                                Em  F#  
-l1: Être mère de trois poulpiquets à quoi bon, Quand elle est mère universelle
+Être mère de [Em]trois poulpiquets à quoi [Bm]bon, Quand ell[F#7]e est mère universelle [Em] [F#]
 
-c1:      Bm                    A              G                  F#7                      C#7  F#7  Em  Bm  
-l1: Quand tous les enfants de la terre, De la mer et du ciel sont à elle.
+Quand[Bm] tous les enfants de l[A]a terre, De la [G]mer et du ciel sont[F#7] à elle. [C#7] [F#7] [Em] [Bm]
 
 

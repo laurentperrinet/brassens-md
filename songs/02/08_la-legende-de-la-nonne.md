@@ -1,88 +1,84 @@
 ## LA LÉGENDE DE LA NONNE
 
 
-c1: G                                  C  G                         D         D7  G   
-l1: Venez, vous dont l'œil étincelle, Pour entendre une histoire encor
+[G]Venez, vous dont l'œil étincelle, P[C]our[G] entendre une histoire enc[D]or [D7] [G]
 
-c1: G                                C  G                                   C  
-l1: Approchez : je vous dirai celle, De Doña Padilla del Flor
+[G]Approchez : je vous dirai celle, [C]De [G]Doña Padilla del Flor [C]
 
-c1:        D                            G                    D                 E  
-l1: Elle était d'Alanje, où s'entassent, Les collines et les halliers
+Elle ét[D]ait d'Alanje, où s'entassent,[G] Les collines et les [D]halliers [E]
 
-c1:     Am           D                    G                            D             G   
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+Enfa[Am]nts, voici de[D]s bœufs qui passent, [G]Cachez vos rouges tabliers [D] [G]
 
 
-l1: Il est des filles à Grenade, Il en est à Séville aussi
+Il est des filles à Grenade, Il en est à Séville aussi
 
-l1: Qui, pour la moindre sérénade, A l'amour demandent merci
+Qui, pour la moindre sérénade, A l'amour demandent merci
 
-l1: Il en est que parfois embrassent, Le soir, de hardis cavaliers
+Il en est que parfois embrassent, Le soir, de hardis cavaliers
 
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
-
-
-l1: Ce n'est pas sur ce ton frivole, Qu'il faut parler de Padilla
-
-l1: Car jamais prunelle espagnole, D'un feu plus chaste ne brilla
-
-l1: Elle fuyait ceux qui pourchassent, Les filles sous les peupliers
-
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
 
 
-l1: Elle prit le voile à Tolède, Au grand soupir des gens du lieu
+Ce n'est pas sur ce ton frivole, Qu'il faut parler de Padilla
 
-l1: Comme si, quand on n'est pas laide, On avait droit d'épouser Dieu
+Car jamais prunelle espagnole, D'un feu plus chaste ne brilla
 
-l1: Peu s'en fallut que ne pleurassent, Les soudards et les écoliers
+Elle fuyait ceux qui pourchassent, Les filles sous les peupliers
 
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
-
-
-l1: Or, la belle à peine cloîtrée, Amour en son cœur s'installa
-
-l1: Un fier brigand de la contrée, Vint alors et dit : « Me voilà ! »
-
-l1: Quelquefois les brigands surpassent, En audace les chevaliers
-
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
 
 
-l1: Il était laid : les traits austères, La main plus rude que le gant
+Elle prit le voile à Tolède, Au grand soupir des gens du lieu
 
-l1: Mais l'amour a bien des mystères, Et la nonne aima le brigand
+Comme si, quand on n'est pas laide, On avait droit d'épouser Dieu
 
-l1: On voit des biches qui remplacent, Leurs beaux cerfs par des sangliers
+Peu s'en fallut que ne pleurassent, Les soudards et les écoliers
 
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
-
-
-l1: La nonne osa, dit la chronique, Au brigand par l'enfer conduit
-
-l1: Aux pieds de Sainte Véronique, Donner un rendez-vous la nuit
-
-l1: A l'heure où les corbeaux croassent, Volant dans l'ombre par milliers
-
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
 
 
-l1: Or quand, dans la nef descendue, La nonne appela le bandit
+Or, la belle à peine cloîtrée, Amour en son cœur s'installa
 
-l1: Au lieu de la voix attendue, C'est la foudre qui répondit
+Un fier brigand de la contrée, Vint alors et dit : « Me voilà ! »
 
-l1: Dieu voulu que ses coups frappassent, Les amants par Satan liés
+Quelquefois les brigands surpassent, En audace les chevaliers
 
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
 
 
-l1: Cette histoire de la novice, Saint Ildefonse, abbé, voulut
+Il était laid : les traits austères, La main plus rude que le gant
 
-l1: Qu'afin de préserver du vice, Les vierges qui font leur salut
+Mais l'amour a bien des mystères, Et la nonne aima le brigand
 
-l1: Les prieurs la racontassent, Dans tous les couvents réguliers
+On voit des biches qui remplacent, Leurs beaux cerfs par des sangliers
 
-l1: Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+
+
+La nonne osa, dit la chronique, Au brigand par l'enfer conduit
+
+Aux pieds de Sainte Véronique, Donner un rendez-vous la nuit
+
+A l'heure où les corbeaux croassent, Volant dans l'ombre par milliers
+
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+
+
+Or quand, dans la nef descendue, La nonne appela le bandit
+
+Au lieu de la voix attendue, C'est la foudre qui répondit
+
+Dieu voulu que ses coups frappassent, Les amants par Satan liés
+
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
+
+
+Cette histoire de la novice, Saint Ildefonse, abbé, voulut
+
+Qu'afin de préserver du vice, Les vierges qui font leur salut
+
+Les prieurs la racontassent, Dans tous les couvents réguliers
+
+Enfants, voici des bœufs qui passent, Cachez vos rouges tabliers
 
 

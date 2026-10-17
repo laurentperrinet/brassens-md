@@ -1,77 +1,71 @@
 ## LA BALLADE DES CIMETIÈRES
 
 
-l1: La5 : 003220
+La5 : 003220
 
 
-c1: Am                      F          E       Am                     G7   C  E7  
-l1: J'ai des tombeaux en abondance, Des sépultures à discrétion,
+[Am]J'ai des tombeaux en abo[F]ndance, Des[E] sépultu[Am]res à discrétion, [G7] [C] [E7]
 
-c1: Am                                F          E       Am  
-l1: Dans tout cim'tière d'quelque importance, J'ai ma petite concession.
+[Am]Dans tout cim'tière d'quelque impo[F]rtance, J'a[E]i ma pet[Am]ite concession.
 
-c1: Am                      F           E   Am                         G7   C  E7  
-l1: De l'humble tertre au mausolée, Avec toujours quelqu'un dedans,
+[Am]De l'humble tertre au ma[F]usolée, Avec[E] tou[Am]jours quelqu'un dedans, [G7] [C] [E7]
 
-c1: Am                            F          E    Am  
-l1: J'ai des p'tites bosses plein les allées, Et je suis triste, cependant...
+[Am]J'ai des p'tites bosses plein [F]les allées,[E] Et j[Am]e suis triste, cependant...
 
-c1: A                 F#7  Bm        E7    A          F#7  Bm  E7  
-l1: Car je n'en ai pas, et ça m'agace, Et ça défrise mon blason,
+[A]Car je n'en ai pas[F#7], et [Bm]ça m'agace[E7], Et ç[A]a défrise m[F#7]on bl[Bm]ason[E7],
 
-c1: A       F#7  Bm             E7       A              A5           D       Am           E7           Am  
-l1: Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
+[A]Au cimet[F#7]ière [Bm]du Montparnasse[E7], A quatr[A]e pas de ma mai[A5]son, A quatre[D] pas de [Am]ma maison. [E7] [Am]
 
 
-l1: J'en possède au Père-Lachaise, A Bagneux, à Thiais, à Pantin,
+J'en possède au Père-Lachaise, A Bagneux, à Thiais, à Pantin,
 
-l1: Et jusque, ne vous en déplaise, Au fond du cimetière marin,
+Et jusque, ne vous en déplaise, Au fond du cimetière marin,
 
-l1: A la ville comme à la campagne, Partout où l'on peut faire un trou,
+A la ville comme à la campagne, Partout où l'on peut faire un trou,
 
-l1: J'ai même des tombeaux en Espagne, Qu'on me jalouse peu ou prou...
+J'ai même des tombeaux en Espagne, Qu'on me jalouse peu ou prou...
 
-l1: Mais j'n'en ai pas la moindre trace, Le plus humble petit soupçon,
+Mais j'n'en ai pas la moindre trace, Le plus humble petit soupçon,
 
-l1: Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
-
-
-l1: Le jour des morts, je cours, le vole, Je vais infatigablement,
-
-l1: De nécropole en nécropole, De pierre tombale en monument.
-
-l1: On m'entrevoit sous une couronne, D'immortelles à Champerret,
-
-l1: Un peu plus tard, c'est à Charonne, Qu'on m'aperçoit sous un cyprès...
-
-l1: Mais, seul, un fourbe aura l'audace, De dire : « J'l'ai vu à l'horizon,
-
-l1: Du cimetière du Montparnasse, A quatre pas de sa maison, A quatre pas de sa maison ».
+Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
 
 
-l1: Devant l'château d'ma grand-tante, La marquise de Carabas,
+Le jour des morts, je cours, le vole, Je vais infatigablement,
 
-l1: Ma sainte famille languit d'attente : Mourra-t-elle, mourra-t-elle pas ?
+De nécropole en nécropole, De pierre tombale en monument.
 
-l1: L'un veut son or, l'autre ses meubles, Qui ses bijoux, qui ses bib'lots,
+On m'entrevoit sous une couronne, D'immortelles à Champerret,
 
-l1: Qui ses forêts, qui ses immeubles, Qui ses tapis, qui ses tableaux...
+Un peu plus tard, c'est à Charonne, Qu'on m'aperçoit sous un cyprès...
 
-l1: Moi je n'implore qu'une grâce, C'est qu'elle passe la morte-saison
+Mais, seul, un fourbe aura l'audace, De dire : « J'l'ai vu à l'horizon,
 
-l1: Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
+Du cimetière du Montparnasse, A quatre pas de sa maison, A quatre pas de sa maison ».
 
 
-l1: Ainsi chantait, la mort dans l'âme, Un jeune homme de bonne tenue,
+Devant l'château d'ma grand-tante, La marquise de Carabas,
 
-l1: En train de ranimer la flamme, Du soldat qui lui était connu,
+Ma sainte famille languit d'attente : Mourra-t-elle, mourra-t-elle pas ?
 
-l1: Or, il advint qu'le ciel eut marre de, L'entendre parler de ses caveaux.
+L'un veut son or, l'autre ses meubles, Qui ses bijoux, qui ses bib'lots,
 
-l1: Et Dieu fit signe à la camarde, De l'expédier rue Froidevaux...
+Qui ses forêts, qui ses immeubles, Qui ses tapis, qui ses tableaux...
 
-l1: Mais les croque-morts, qui étaient de Chartres, Funeste erreur de livraison,
+Moi je n'implore qu'une grâce, C'est qu'elle passe la morte-saison
 
-l1: Menèrent sa dépouille à Montmartre, De l'autre côté de sa maison, De l'autre côté de sa maison.
+Au cimetière du Montparnasse, A quatre pas de ma maison, A quatre pas de ma maison.
+
+
+Ainsi chantait, la mort dans l'âme, Un jeune homme de bonne tenue,
+
+En train de ranimer la flamme, Du soldat qui lui était connu,
+
+Or, il advint qu'le ciel eut marre de, L'entendre parler de ses caveaux.
+
+Et Dieu fit signe à la camarde, De l'expédier rue Froidevaux...
+
+Mais les croque-morts, qui étaient de Chartres, Funeste erreur de livraison,
+
+Menèrent sa dépouille à Montmartre, De l'autre côté de sa maison, De l'autre côté de sa maison.
 
 

@@ -1,53 +1,38 @@
 ## LA PRIÈRE
 
 
-c1: Am                                                      Dm                               E7                            Am  
-l1: Par le petit garçon qui meurt près de sa mère, Tandis que des enfants s'amusent au parterre
+[Am]Par le petit garçon qui meurt près de sa mère, Tandis qu[Dm]e des enfants s'amusent au parter[E7]re [Am]
 
-c1:                             D       F                    E7  Am                   Dm                               G   
-l1: Et par l'oiseau blessé qui ne sait pas comment, Son aile tout à coup s'ensanglante et descend
+Et par l'oiseau blessé qui n[D]e sait p[F]as comment, Son aile [E7]tout[Am] à coup s'ensanglante[Dm] et descend [G]
 
-c1:                        C                        E7                             Am  
-l1: Par la soif et la faim et le délire ardent, Je vous salue, Marie.
+Par la soif et la faim [C]et le délire ardent, Je v[E7]ous salue, Marie. [Am]
 
 
-c1: Dm                               E7                            Am  
-l1: Par les gosses battus, par l'ivrogne qui rentre, Par l'âne qui reçoit des coups de pied au ventre
+[Dm]Par les gosses battus, par l'ivro[E7]gne qui rentre, Par l'âne qui [Am]reçoit des coups de pied au ventre
 
-c1:                             D       F                    E7  Am                   Dm                               G   
-l1: Et par l'humiliation de l'innocent châtié, Par la vierge vendue qu'on a déshabillée
+Et par l'humiliation de l'in[D]nocent c[F]hâtié, Par la vierge [E7]vend[Am]ue qu'on a déshabillé[Dm]e [G]
 
-c1:                        C                        E7                             Am  
-l1: Par le fils dont la mère a été insultée, Je vous salue, Marie.
+Par le fils dont la mèr[C]e a été insultée, Je vous[E7] salue, Marie. [Am]
 
 
-c1: Dm                                               E7                         Am  
-l1: Par la vieille qui, trébuchant sous trop de poids, S'écrie: « Mon Dieu ! » par le malheureux dont les bras
+[Dm]Par la vieille qui, trébuchant sous trop de poids[E7], S'écrie: « Mon Dieu ! » p[Am]ar le malheureux dont les bras
 
-c1:                          D         F                  E7  Am                            Dm                         G   
-l1: Ne purent s'appuyer sur une amour humaine, Comme la Croix du Fils sur Simon de Cyrène
+Ne purent s'appuyer sur u[D]ne amour h[F]umaine, Comme la Cr[E7]oix [Am]du Fils sur Simon de Cyrène [Dm] [G]
 
-c1:                          C                               E7                                Am  
-l1: Par le cheval tombé sous le chariot qu'il traîne, Je vous salue, Marie.
+Par le cheval tombé sous [C]le chariot qu'il traîne, Je vous[E7] salue, Marie. [Am]
 
 
-c1: Am                                                      Dm                               E7                            Am  
-l1: Par les quatre horizons qui crucifient le monde, Par tous ceux dont la chair se déchire ou succombe
+[Am]Par les quatre horizons qui crucifient le monde, Par tou[Dm]s ceux dont la chair se déchire o[E7]u succombe [Am]
 
-c1:                             D       F                    E7  Am                   Dm                               G   
-l1: Par ceux qui sont sans pieds, par ceux qui sont sans mains, Par le malade que l'on opère et qui geint
+Par ceux qui sont sans pieds[D], par ce[F]ux qui sont sans main[E7]s, P[Am]ar le malade que l'on[Dm] opère et qui geint [G]
 
-c1:                        C                        E7                             Am  
-l1: Et par le juste mis au rang des assassins, Je vous salue, Marie.
+Et par le juste mis au [C]rang des assassins, Je vo[E7]us salue, Marie. [Am]
 
 
-c1: Dm                               E7                            Am  
-l1: Par la mère apprenant que son fils est guéri, Par l'oiseau rappelant l'oiseau tombé du nid
+[Dm]Par la mère apprenant que son fil[E7]s est guéri, Par l'oiseau rapp[Am]elant l'oiseau tombé du nid
 
-c1:                             D       F                   E7  Am            Dm                          G   
-l1: Par l'herbe qui a soif et recueille l'ondée, Par le baiser perdu par l'amour redonné
+Par l'herbe qui a soif et re[D]cueille [F]l'ondée, Par le bais[E7]er p[Am]erdu par l'amo[Dm]ur redonné [G]
 
-c1:                        C                            E7                             Am  Am7  Am  
-l1: Et par le mendiant retrouvant sa monnaie, Je vous salue, Marie.
+Et par le mendiant retr[C]ouvant sa monnaie, Je vous sa[E7]lue, Marie. [Am] [Am7] [Am]
 
 

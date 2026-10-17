@@ -1,89 +1,82 @@
 ## PÉNÉLOPE
 
 
-c1: C                    Am  F                 G7   
-l1: Toi l'épouse modèle, le grillon du foyer,
+[C]Toi l'épouse modèle, [Am]le g[F]rillon du foyer, [G7]
 
-c1: C                                                A7  
-l1: Toi qui n'as point d'accrocs dans ta robe de mariée,
+[C]Toi qui n'as point d'accrocs dans ta robe de mari[A7]ée,
 
-c1: Dm                    E7  
-l1: Toi l'intraitable Pénélope
+[Dm]Toi l'intraitable Péné[E7]lope
 
-c1:  Dm               G7        C                 F  
-l1: En suivant ton petit bonhomme de bonheur,
+E[Dm]n suivant ton pet[G7]it bonhomm[C]e de bonheur, [F]
 
-c1: Dm                  E7    Am  
-l1: Ne berces-tu jamais en tout bien tout honneur
+[Dm]Ne berces-tu jamais [E7]en tou[Am]t bien tout honneur
 
-c1:       Dm         E7         Am   A7  
-l1: De jolies pensées interlopes ?
+De jol[Dm]ies pensées[E7] interlopes[Am] ? [A7]
 
-c1:       Dm         E7         Am   G7   
-l1: De jolies pensées interlopes ?
+De jol[Dm]ies pensées[E7] interlopes[Am] ? [G7]
 
 
-l1: Derrière tes rideaux, dans ton juste milieu,
+Derrière tes rideaux, dans ton juste milieu,
 
-l1: En attendant l'retour d'un Ulysse de banlieue,
+En attendant l'retour d'un Ulysse de banlieue,
 
-l1: Penchée sur tes travaux de toile,
+Penchée sur tes travaux de toile,
 
-l1: Les soirs de vague à l'âme et de mélancolie
+Les soirs de vague à l'âme et de mélancolie
 
-l1: N'as-tu jamais en rêve au ciel d'un autre lit
+N'as-tu jamais en rêve au ciel d'un autre lit
 
-l1: Compté de nouvelles étoiles ?
+Compté de nouvelles étoiles ?
 
-l1: Compté de nouvelles étoiles ?
-
-
-l1: N'as-tu jamais encore appelé de tes vœux
-
-l1: L'amourette qui passe, qui vous prend aux cheveux ?
-
-l1: Qui vous compte des bagatelles
-
-l1: Qui met la marguerite au jardin potager,
-
-l1: La pomme défendue aux branches du verger,
-
-l1: Et le désordre à vos dentelles ?
-
-l1: Et le désordre à vos dentelles ?
+Compté de nouvelles étoiles ?
 
 
-l1: N'as-tu jamais souhaité de revoir en chemin
+N'as-tu jamais encore appelé de tes vœux
 
-l1: Cet ange, ce démon, qui son arc à la main
+L'amourette qui passe, qui vous prend aux cheveux ?
 
-l1: Décoche des flèches malignes ?
+Qui vous compte des bagatelles
 
-l1: Qui rend leur chair de femme
+Qui met la marguerite au jardin potager,
 
-l1: Aux plus froides statues,
+La pomme défendue aux branches du verger,
 
-l1: Les bascule de leur socle
+Et le désordre à vos dentelles ?
 
-l1: Bouscule leur vertu,
-
-l1: Arrache leur feuille de vigne,
-
-l1: Arrache leur feuille de vigne.
+Et le désordre à vos dentelles ?
 
 
-l1: N'ait crainte que le ciel, ne t'en tienne rigueur,
+N'as-tu jamais souhaité de revoir en chemin
 
-l1: Il n'y a vraiment pas là de quoi fouetter un cœur
+Cet ange, ce démon, qui son arc à la main
 
-l1: Qui bat la campagne et galope
+Décoche des flèches malignes ?
 
-l1: C'est la faute commune et le péché véniel,
+Qui rend leur chair de femme
 
-l1: C'est la face cachée de la lune de miel
+Aux plus froides statues,
 
-l1: Et la rançon de Pénélope...
+Les bascule de leur socle
 
-l1: Et la rançon de Pénélope.
+Bouscule leur vertu,
+
+Arrache leur feuille de vigne,
+
+Arrache leur feuille de vigne.
+
+
+N'ait crainte que le ciel, ne t'en tienne rigueur,
+
+Il n'y a vraiment pas là de quoi fouetter un cœur
+
+Qui bat la campagne et galope
+
+C'est la faute commune et le péché véniel,
+
+C'est la face cachée de la lune de miel
+
+Et la rançon de Pénélope...
+
+Et la rançon de Pénélope.
 
 

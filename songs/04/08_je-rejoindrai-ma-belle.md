@@ -1,49 +1,35 @@
 ## JE REJOINDRAI MA BELLE
 
 
-c1: Am                 B7  E7  A7                Dm  G7                       C             Dm              E7  
-l1: A l'heure du berger, Au mépris du danger, J'prendrai la passerelle, Pour rejoindre ma belle,
+[Am]A l'heure du berger[B7], Au[E7] mép[A7]ris du danger, J'p[Dm]rend[G7]rai la passerelle, Pour r[C]ejoindre ma be[Dm]lle, [E7]
 
-c1: Am                 B7  E7  A7                Dm  G7                     C  E7  Am  
-l1: A l'heure du berger, Au mépris du danger, Et nul n'y pourra rien changer.
+[Am]A l'heure du berger[B7], Au[E7] mép[A7]ris du danger, Et [Dm]nul [G7]n'y pourra rien changer[C]. [E7] [Am]
 
-c1: A7                             D7        G7                     C7   F                E7         Am  
-l1: Tombant du haut des nues, La bourrasque est venue, Souffler dessus la passerelle,
+[A7]Tombant du haut des nues, La bo[D7]urrasque e[G7]st venue, Souffler dess[C7]us la[F] passerelle, [E7] [Am]
 
-c1: A7                             D7        G7                     C7   F                E7         Am  
-l1: Tombant du haut des nues, La bourrasque est venue, Les passerelles, il y en a plus.
+[A7]Tombant du haut des nues, La bo[D7]urrasque e[G7]st venue, Les passerell[C7]es, i[F]l y en a plus. [E7] [Am]
 
 
-c1: Am                   B7  E7  A7                       Dm  G7                         C             Dm              E7  
-l1: Si les vents ont cru bon, De me couper les ponts, J'prendrai la balancelle, Pour rejoindre ma belle,
+[Am]Si les vents ont cru [B7]bon,[E7] De [A7]me couper les ponts, J'pr[Dm]endr[G7]ai la balancelle, Pour rejo[C]indre ma belle[Dm], [E7]
 
-c1: Am                   B7  E7  A7                       Dm  G7                         C  E7  Am  
-l1: Si les vents ont cru bon, De me couper les ponts, J'embarquerai dans l'entrepont.
+[Am]Si les vents ont cru [B7]bon,[E7] De [A7]me couper les ponts, J'em[Dm]barq[G7]uerai dans l'entrepont. [C] [E7] [Am]
 
-c1: A7                             D7        G7              C7   F                E7         Am  
-l1: Tombant du haut des nues, Les marins sont venus, Lever l'ancre à la balancelle,
+[A7]Tombant du haut des nues, Les m[D7]arins sont[G7] venus, Lever l'[C7]ancre[F] à la balancelle, [E7] [Am]
 
-c1: A7                             D7        G7              C7   F                E7         Am  
-l1: Tombant du haut des nues, Les marins sont venus, Des balancelles, il y en a plus.
+[A7]Tombant du haut des nues, Les m[D7]arins sont[G7] venus, Des bala[C7]ncell[F]es, il y en a plu[E7]s. [Am]
 
 
-c1: Am                 B7  E7  A7                         Dm  G7                        C             Dm              E7  
-l1: Si les forbans des eaux, Ont volé mes vaisseaux, Y me pouss'ra des ailes, Pour rejoindre ma belle,
+[Am]Si les forbans des [B7]eaux[E7], On[A7]t volé mes vaisseaux, Y me [Dm]pous[G7]s'ra des ailes, Pour rejoi[C]ndre ma belle, [Dm] [E7]
 
-c1: Am                 B7  E7  A7                         Dm  G7                           C  E7  Am  
-l1: Si les forbans des eaux, Ont volé mes vaisseaux, J'prendrai le chemin des oiseaux.
+[Am]Si les forbans des [B7]eaux[E7], On[A7]t volé mes vaisseaux, J'pre[Dm]ndra[G7]i le chemin des oiseaux. [C] [E7] [Am]
 
-c1: A7                      D7       G7          C7   F                          E7         Am  
-l1: Les chasseurs à l'affût, Te tireront dessus, Adieu les plumes ! adieu les ailes !
+[A7]Les chasseurs à l'affût,[D7] Te tirer[G7]ont dessus, [C7]Adieu[F] les plumes ! adieu les ail[E7]es ! [Am]
 
-c1: A7                      D7       G7          C7   F                E7         Am  
-l1: Les chasseurs à l'affût, Te tireront dessus, De tes amours, y en aura plus.
+[A7]Les chasseurs à l'affût,[D7] Te tirer[G7]ont dessus, [C7]De te[F]s amours, y en au[E7]ra plus. [Am]
 
 
-c1: Am                 B7  E7  A7                          Dm  G7                  C         Dm              E7  
-l1: Si c'est mon triste lot, De faire un trou dans l'eau, Racontez à la belle, Que je suis mort fidèle,
+[Am]Si c'est mon triste[B7] lot[E7], De[A7] faire un trou dans l'eau, R[Dm]acon[G7]tez à la belle, Que [C]je suis mo[Dm]rt fidèle, [E7]
 
-c1: Am                 B7  E7  A7                              Dm  G7                     C  E7  Am  
-l1: Et qu'elle daigne à son tour, Attendre quelques jours, Pour filer de nouvelles amours.
+[Am]Et qu'elle daigne à[B7] son[E7] tou[A7]r, Attendre quelques jours, Pour[Dm] fil[G7]er de nouvelles amours. [C] [E7] [Am]
 
 

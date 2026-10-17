@@ -1,52 +1,48 @@
 ## LE VIN
 
 
-c1: Bm                                                            C  F#7  
-l1: Avant de chanter, Ma vie, de faire des, Harangues
+[Bm]Avant de chanter, Ma vie, de faire des, Harangues [C] [F#7]
 
-c1:         Bm                                                              C  F#7  
-l1: Dans ma gueule de bois, J'ai tourné sept fois, Ma langue
+Dans ma [Bm]gueule de bois, J'ai tourné sept fois, Ma langue [C] [F#7]
 
-c1:            Bm                      C                         F#7  Bm  
-l1: J'suis issu de gens, Qui étaient pas du genre sobre
+J'suis issu[Bm] de gens, Qui étaient pa[C]s du genre sobre [F#7] [Bm]
 
-c1:                                    C                       F#7   Bm  
-l1: On conte que j'eus, La tétée au jus, D'octobre ...
+On conte que j'eus, La tétée au jus[C], D'octobre ... [F#7] [Bm]
 
 
-l1: Mes parents ont dû, M'trouver au pied d'u- ne souche
+Mes parents ont dû, M'trouver au pied d'u- ne souche
 
-l1: Et non dans un chou, Comme ces gens plus ou, Moins louches
+Et non dans un chou, Comme ces gens plus ou, Moins louches
 
-l1: En guise de sang, ( O noblesse sans, Pareille ! )
+En guise de sang, ( O noblesse sans, Pareille ! )
 
-l1: Il coule en mon cœur, La chaude liqueur, D'la treille ...
-
-
-l1: Quand on est un sage, et qu'on a du savoir-boire
-
-l1: On se garde à vue, En cas de soif, u- ne poire ...
-
-l1: Une poire ... ou deux, Mais en forme de, Bonbonne
-
-l1: Au ventre replet, Rempli du bon lait, D'l'automne ...
+Il coule en mon cœur, La chaude liqueur, D'la treille ...
 
 
-l1: Jadis, aux Enfers, Certes, il a souffert, Tantale
+Quand on est un sage, et qu'on a du savoir-boire
 
-l1: Quand l'eau refusa, D'arroser ses amygdales
+On se garde à vue, En cas de soif, u- ne poire ...
 
-l1: Être assoiffé d'eau, C'est triste, mais faut, Bien dire
+Une poire ... ou deux, Mais en forme de, Bonbonne
 
-l1: Que, l'être de vin, C'est encore vingt, Fois pire ...
+Au ventre replet, Rempli du bon lait, D'l'automne ...
 
 
-l1: Hélas ! il ne pleut, Jamais du gros bleu, Qui tache
+Jadis, aux Enfers, Certes, il a souffert, Tantale
 
-l1: Qu'elles donnent du vin, J'irai traire enfin, Les vaches ...
+Quand l'eau refusa, D'arroser ses amygdales
 
-l1: Que vienne le temps, Du vin coulant dans, La Seine !
+Être assoiffé d'eau, C'est triste, mais faut, Bien dire
 
-l1: Les gens, par milliers, Courront y noyer, Leur peine ...
+Que, l'être de vin, C'est encore vingt, Fois pire ...
+
+
+Hélas ! il ne pleut, Jamais du gros bleu, Qui tache
+
+Qu'elles donnent du vin, J'irai traire enfin, Les vaches ...
+
+Que vienne le temps, Du vin coulant dans, La Seine !
+
+Les gens, par milliers, Courront y noyer, Leur peine ...
 
 

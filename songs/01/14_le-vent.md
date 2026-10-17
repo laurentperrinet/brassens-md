@@ -1,38 +1,28 @@
 ## LE VENT
 
 
-c1:               Am                         F                        E7                                                  Am  
-l1: Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent fripon, Prudence, prends garde à ton jupon
+Si, par hasard[Am], Sur l'Pont des Arts, Tu c[F]roises le vent, le vent f[E7]ripon, Prudence, prends garde à ton jupon [Am]
 
-c1:               Am                         F                        E7                                                  Am  
-l1: Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent maraud, Prudent, prends garde à ton chapeau
+Si, par hasard[Am], Sur l'Pont des Arts, Tu c[F]roises le vent, le vent m[E7]araud, Prudent, prends garde à ton chapeau [Am]
 
 
-c1: Am                                                                                      Dm                    Am                      Dm                    Am  E7  
-l1: Les jean-foutre et les gens probes, Médisent du vent furibond, Qui rebrousse les bois, détrousse les toits, retrousse les robes
+[Am]Les jean-foutre et les gens probes, Médisent du vent furibond, Qui rebrousse les bois, d[Dm]étrousse les toits, re[Am]trousse les robes [Dm] [Am] [E7]
 
-c1: Am                                                                                           Dm                   Am                     B7               E7  
-l1: Des jean-foutre et des gens probes, Le vent, je vous en réponds, S'en soucie, et c'est justice, comme de colin-tampon
+[Am]Des jean-foutre et des gens probes, Le vent, je vous en réponds, S'en soucie, et c'est justic[Dm]e, comme de colin-tam[Am]pon [B7] [E7]
 
 
-c1: Am                         F                        E7                                                  Am  
-l1: Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent fripon, Prudence, prends garde à ton jupon
+[Am]Si, par hasard, Sur l'Pont [F]des Arts, Tu croises le v[E7]ent, le vent fripon, Prudence, prends garde à ton ju[Am]pon
 
-c1:               Am                         F                        E7                                                  Am  
-l1: Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent maraud, Prudent, prends garde à ton chapeau
+Si, par hasard[Am], Sur l'Pont des Arts, Tu c[F]roises le vent, le vent m[E7]araud, Prudent, prends garde à ton chapeau [Am]
 
 
-c1: Am                                                                                      Dm                    Am                      Dm                    Am  E7  
-l1: Bien sûr, si l'on ne se fonde, Que sur ce qui saute aux yeux, Le vent semble une brute raffolant de nuire à tout l'monde
+[Am]Bien sûr, si l'on ne se fonde, Que sur ce qui saute aux yeux, Le vent semble une brute r[Dm]affolant de nuire à to[Am]ut l'monde [Dm] [Am] [E7]
 
-c1: Am                                                                                           Dm                   Am                     B7               E7  
-l1: Mais une attention profonde, Prouve que c'est chez les fâcheux, Qu'il préfère choisir les victimes de ses petits jeux
+[Am]Mais une attention profonde, Prouve que c'est chez les fâcheux, Qu'il préfère choisir les vic[Dm]times de ses petits j[Am]eux [B7] [E7]
 
 
-c1: Am                         F                        E7                                                  Am  
-l1: Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent fripon, Prudence, prends garde à ton jupon
+[Am]Si, par hasard, Sur l'Pont [F]des Arts, Tu croises le v[E7]ent, le vent fripon, Prudence, prends garde à ton ju[Am]pon
 
-c1:               Am                         F                        E7                                                  Am  
-l1: Si, par hasard, Sur l'Pont des Arts, Tu croises le vent, le vent maraud, Prudent, prends garde à ton chapeau
+Si, par hasard[Am], Sur l'Pont des Arts, Tu c[F]roises le vent, le vent m[E7]araud, Prudent, prends garde à ton chapeau [Am]
 
 

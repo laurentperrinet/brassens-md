@@ -1,95 +1,67 @@
 ## TANT QU'IL Y A DES PYRÉNÉES
 
 
-c1: Em                         B7       Em                       B7  
-l1: Frapper le gros Mussolini, Même avec un macaroni,
+[Em]Frapper le gros Mussolini, [B7]Même avec[Em] un macaroni, [B7]
 
-c1:    Em                                        Am7    B7           Em  
-l1: Le Romain qui jouait à ça, Se voyait privé de pizza.
+Le [Em]Romain qui jouait à ça, Se voyait privé de[Am7] pizza. [B7] [Em]
 
-c1: Dm                   A7         Dm                      A7  
-l1: Après le Frente Popular, L'hidalgo non capitulard
+[Dm]Après le Frente Popul[A7]ar, L'hidal[Dm]go non capitulard [A7]
 
-c1:  Am                                                B7                            E7  
-l1: Qui s'avisait de dire « niet », Mourait au son des castagnettes.
+Q[Am]ui s'avisait de dire « niet », Mourait au son des [B7]castagnettes. [E7]
 
 
-c1: G7     C                       G7                  C  
-l1: J'ai conspué Franco la guitare en bataille,
+[G7]J'ai co[C]nspué Franco la guitare [G7]en bataille, [C]
 
-c1:                    A7                    Dm  A7  Dm  
-l1: Durant pas mal d'années (Bis)
+Durant pas mal d'an[A7]nées (Bis) [Dm] [A7] [Dm]
 
-c1:          E7                                           Am  E7  Am  
-l1: Faut dire qu'entre nous deux, simple petit détail,
+Faut dire[E7] qu'entre nous deux, simple petit détail, [Am] [E7] [Am]
 
-c1:      F         C  Bb7  A7      D  G7   C  
-l1: Y'avait les Pyrénées ! (Bis)
+Y'ava[F]it les Pyr[C]éné[Bb7]es ! [A7](Bis) [D] [G7] [C]
 
 
-c1: Em                         B7                Em                     B7  
-l1: Qui crachait sur la croix gammée, Dans une mine était sommé
+[Em]Qui crachait sur la croix g[B7]ammée, Dans une mi[Em]ne était sommé [B7]
 
-c1:     Em                                        Am7     B7            Em  
-l1: De descendre extraire du sel, Pour assaisonner les bretzels.
+De d[Em]escendre extraire du sel, Pour assaisonner[Am7] les bre[B7]tzels. [Em]
 
-c1: Dm                         A7         Dm                      A7  
-l1: Avant que son jour ne décline, Qui s'élevait contre Staline
+[Dm]Avant que son jour ne décli[A7]ne, Qui s'é[Dm]levait contre Staline [A7]
 
-c1: Am                             B7                            E7  
-l1: Filait manu militari, Aux sports d'hiver en Sibérie
+[Am]Filait manu militari, Aux sport[B7]s d'hiver en Sibérie [E7]
 
 
-c1:  G7     C                       G7                     C  
-l1: J'ai conspué Franco la guitare en bataille,
+J[G7]'ai con[C]spué Franco la guitare e[G7]n bataille, [C]
 
-c1:                    A7                    Dm  A7  Dm  
-l1: Durant pas mal d'années (Bis)
+Durant pas mal d'an[A7]nées (Bis) [Dm] [A7] [Dm]
 
-c1:          E7                                          Am  E7  Am  
-l1: Faut dire qu'entre nous deux, simple petit détail,
+Faut dire[E7] qu'entre nous deux, simple petit détail, [Am] [E7] [Am]
 
-c1:      F        C  Bb7  A7      D  G7   C  
-l1: Y'avait les Pyrénées ! (Bis)
+Y'ava[F]it les Py[C]rén[Bb7]ées ![A7] (Bis) [D] [G7] [C]
 
 
-c1: Em                         B7                    Em                           B7  
-l1: Aux quatre coins du monde encore, Qui se lève et crie : « Pas d'accord ! »
+[Em]Aux quatre coins du monde e[B7]ncore, Qui se lève et [Em]crie : « Pas d'accord ! » [B7]
 
-c1:     Em                                        Am7     B7            Em  
-l1: En un tournemain se fait cou-Per le sifflet, tordre le cou.
+En u[Em]n tournemain se fait cou-Per le sifflet, t[Am7]ordre le[B7] cou. [Em]
 
-c1: Dm                           A7                 Dm                         A7  
-l1: Dans mon village, on peut à l'heure, Qu'il est, sans risque de malheur,
+[Dm]Dans mon village, on peut à l[A7]'heure, Qu'il est, [Dm]sans risque de malheur, [A7]
 
-c1: Am                                                B7                                         E7  
-l1: Brandir son drapeau quel qu'il soit, Mais jusques à quand ? Chi lo sà ?
+[Am]Brandir son drapeau quel qu'il soit, Mais jusques [B7]à quand ? Chi lo sà ? [E7]
 
 
-c1: G7     C                       G7                     C  
-l1: J'ai conspué Franco la guitare en bataille,
+[G7]J'ai co[C]nspué Franco la guitare [G7]en bataille, [C]
 
-c1:                    A7                    Dm  A7  Dm  
-l1: Durant pas mal d'années (Bis)
+Durant pas mal d'an[A7]nées (Bis) [Dm] [A7] [Dm]
 
-c1:          E7                                          Am  E7  Am  
-l1: Faut dire qu'entre nous deux, simple petit détail,
+Faut dire[E7] qu'entre nous deux, simple petit détail, [Am] [E7] [Am]
 
-c1:      F        C  Bb7  A7      D  G7   C  
-l1: Y'avait les Pyrénées ! (Bis)
+Y'ava[F]it les Py[C]rén[Bb7]ées ![A7] (Bis) [D] [G7] [C]
 
 
-c1: A7   D                                 A7                  D  
-l1: S'engager par le mot, trois couplets un refrain,
+[A7]S'eng[D]ager par le mot, trois couplets un[A7] refrain, [D]
 
-c1:                    B7                    Em  B7  Em  
-l1: Par le biais du micro, (Bis)
+Par le biais du mic[B7]ro, (Bis) [Em] [B7] [Em]
 
-c1:        F#7                                     Bm  F#7  Bm  
-l1: Ça s'fait sur une jambe et ça n'engage à rien,
+Ça s'fa[F#7]it sur une jambe et ça n'engage à rien, [Bm] [F#7] [Bm]
 
-c1:                  D  C7  B7          E7  A7  D  A7  D  
-l1: Et peut rapporter gros. (Bis)
+Et peut rapporter[D] gr[C7]os. [B7](Bis) [E7] [A7] [D] [A7] [D]
 
 
 

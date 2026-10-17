@@ -1,50 +1,44 @@
 ## QUAND LES CONS SONT BRAVES
 
 
-c1: G                                            D7  G   C                                                 Am  
-l1: Sans être tout à fait un imbécile fini, Je n'ai rien du penseur, du phénix, du génie.
+[G]Sans être tout à fait un imbécile fini, Je n'[D7]ai r[G]ien [C]du penseur, du phénix, du génie. [Am]
 
-c1: B7                                                                    Em   A7           D7             G       A7  
-l1: Mais je n'suis pas le mauvais bougre et j'ai bon cœur, Et ça compense à la rigueur.
+[B7]Mais je n'suis pas le mauvais bougre et j'ai bon cœur, Et ça compense [Em]à la [A7]rigueur. [D7] [G] [A7]
 
 
-l1: Refrain:
+Refrain:
 
-c1:                                 D                                                                                                                     F#7  
-l1: Quand les cons sont braves, Comme moi, Comme toi, Comme nous, Comme vous, Ce n'est pas très grave.
+Quand les cons sont braves, Comm[D]e moi, Comme toi, Comme nous, Comme vous, Ce n'est pas très grave. [F#7]
 
-c1:                                                                                                              Bm                   E7              A7  
-l1: Qu'ils commettent, Se permettent, Des bêtises, Des sottises, Qu'ils déraisonnent, Ils n'emmerdent personne.
+Qu'ils commettent, Se permettent, Des bêtises, Des sottises, Qu'ils déraisonnent, Ils n'emmerdent personne. [Bm] [E7] [A7]
 
-c1:                          D                                                                                                                         F#7  
-l1: Par malheur sur terre, Les trois quarts, Des tocards, Sont des gens, Très méchants, Des crétins sectaires.
+Par malheur sur terre, Le[D]s trois quarts, Des tocards, Sont des gens, Très méchants, Des crétins sectaires. [F#7]
 
-c1:                                                                                                        Bm                E7                A7  D  D7  
-l1: Ils s'agitent, Ils s'excitent, Ils s'emploient, Ils déploient, Leur zèle à la ronde, Ils emmerdent tout l' monde.
+Ils s'agitent, Ils s'excitent, Ils s'emploient, Ils déploient, Leur zèle à la ronde, Ils emmerdent tout[Bm] l' monde. [E7] [A7] [D] [D7]
 
 
-l1: Si le sieur X était un lampiste ordinaire, Il vivrait sans histoires avec ses congénères.
+Si le sieur X était un lampiste ordinaire, Il vivrait sans histoires avec ses congénères.
 
-l1: Mais hélas ! il est chef de parti, l'animal : Quand il débloque, ça fait mal !
-
-
-l1: Refrain
+Mais hélas ! il est chef de parti, l'animal : Quand il débloque, ça fait mal !
 
 
-l1: Si le sieur Z était un jobastre sans grade, Il laisserait en paix ses pauvres camarades.
-
-l1: Mais il est général, va-t-en-guerre, matamore. Dès qu'il s'en mêle, on compte les morts.
+Refrain
 
 
-l1: Refrain
+Si le sieur Z était un jobastre sans grade, Il laisserait en paix ses pauvres camarades.
+
+Mais il est général, va-t-en-guerre, matamore. Dès qu'il s'en mêle, on compte les morts.
 
 
-l1: Mon Dieu, pardonnez-moi si mon propos vous fâche, En mettant les connards dedans des peaux de vaches,
-
-l1: En mélangeant les genres, vous avez fait d'la terre, Ce qu'elle est : une pétaudière !
+Refrain
 
 
-l1: Refrain
+Mon Dieu, pardonnez-moi si mon propos vous fâche, En mettant les connards dedans des peaux de vaches,
+
+En mélangeant les genres, vous avez fait d'la terre, Ce qu'elle est : une pétaudière !
+
+
+Refrain
 
 
 
