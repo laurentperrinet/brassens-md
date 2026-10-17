@@ -4,7 +4,7 @@ Accepted input, which is all the song sources use:
 
     # 1) ALBUM TITLE                    -> <h1>
     ## SONG TITLE                       -> <h2>, listed under its album title
-    [Am]Au villa[E]ge, [Am]sans ...     -> one lyric line; each [Chord] is a bold monospace <b>
+    [Am]Au villa[E]ge, [Am]sans ...     -> one lyric line; each [Chord] is shown above the lyrics (<ruby>)
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
     *Refrain :*                         -> <em>
@@ -27,7 +27,7 @@ import re
 import sys
 import unicodedata
 
-ACCORD = re.compile(r'\[([^\]]+)\]')
+ACCORD = re.compile(r'\[([^\]]+)\]([^\s\[<*]*)')  # a chord and the word fragment it sits above
 EMPHASE = re.compile(r'\*([^*]+)\*')
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
@@ -42,7 +42,9 @@ CSS = """\
 body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
-.line { margin: 0; }
+.line { margin: 0; line-height: 2.1; }
+ruby { ruby-align: start; ruby-position: over; }
+rt { font-size: 0.8em; line-height: 1; }
 .notes { margin: 1em 0 2em; }
 .notes summary { cursor: pointer; font-weight: bold; }
 .notes p, .notes ul { margin: 0.4em 0; }
@@ -51,7 +53,7 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
           color: light-dark(#5a3a00, #ffd966); background: light-dark(#fff1b8, #4a3a10);
-          padding: 0.05em 0.3em; margin: 0 0.1em; border-radius: 0.25em; }
+          padding: 0 0.3em; border-radius: 0.25em; }
 html { scroll-behavior: smooth; }
 h1, h2 { scroll-margin-top: 3.5em; }
 h2 { display: flex; align-items: baseline; gap: 0.4em; }
@@ -429,10 +431,14 @@ def en_ligne(texte):
         texte: raw line, possibly with `[Chord]` markers, `*emphasis*` and URLs (str).
 
     Returns:
-        HTML fragment where text is escaped and chords are wrapped in `<b class="chord">` (str).
+        HTML fragment where text is escaped and each chord is a `<b class="chord">` shown
+        above the word fragment that follows it, in a `<ruby>` (str).
     """
     texte = html.escape(texte, quote=False)
-    texte = ACCORD.sub(r'<b class="chord">\1</b>', texte)
+    # The chord goes above the fragment that follows it (<ruby>), so it never shifts the lyrics.
+    # A zero-width base keeps the chord alone when no text follows it (end of line, before a space).
+    texte = ACCORD.sub(lambda m: f'<ruby>{m.group(2) or "&#8203;"}<rt><b class="chord">{m.group(1)}</b></rt></ruby>',
+                       texte)
     texte = EMPHASE.sub(r'<em>\1</em>', texte)
     return URL.sub(r'<a href="\1">\1</a>', texte)
 

@@ -22,7 +22,7 @@ Structure du premier site, pour qui voudrait comparer ou importer :
 | `chansons/{nn}_{album slug}/_album.md` | album header (`# 1) TITLE`) — **source** |
 | `chansons/{nn}_{album slug}/{nn}_{song slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `assembler.py` | assembles the sources into `construction/` (git-ignored) and, with `--rendre`, renders the HTML pages in `docs/` |
-| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown in bold monospace, the lyrics in the normal font |
+| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in a pale yellow badge (bold monospace) |
 | `docs/` | generated HTML pages and `index.html` (git-ignored, **never edit by hand**) |
 | `.github/workflows/pages.yml` | GitHub Actions workflow: builds `docs/` on the server and deploys it with GitHub Pages |
 
