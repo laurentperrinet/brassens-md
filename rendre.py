@@ -8,6 +8,10 @@ Accepted input, which is all the song sources use:
     ---\nyouTubeId: xxxx\n---           -> embedded tutorial video (any other `---` is a <hr>)
      * valse                            -> bullet list
     *Refrain :*                         -> <em>
+    ### Notes                           -> collapsed <details> up to the next `#` / `##` title
+
+The `### Notes` section closes a song: free comments and links (no chords, no stanzas),
+hidden until the reader clicks on "Notes".
 
 A single blank line between two lines is only a separator; two or more blank lines
 mark a break between stanzas.
@@ -20,6 +24,7 @@ ACCORD = re.compile(r'\[([^\]]+)\]')
 EMPHASE = re.compile(r'\*([^*]+)\*')
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
+NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
@@ -29,10 +34,98 @@ body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .stanza { margin-bottom: 1.2em; break-inside: avoid; }
 .line { margin: 0; }
+.notes { margin: 1em 0 2em; }
+.notes summary { cursor: pointer; font-weight: bold; }
+.notes p, .notes ul { margin: 0.4em 0; }
 .video iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: bold; }
+.transpose { position: sticky; top: 0; z-index: 1; padding: 0.4em 0; background: Canvas; }
 """
+
+# Transposition runs in the browser: the site is static, so no server can recompute chords.
+# Every chord keeps its original spelling in `data-original`, hence going back to "Original"
+# (or chaining several transpositions) never accumulates rounding of sharps and flats.
+# Notes are spelled C C# D Eb E F F# G Ab A Bb B, as guitarists write them, except that minor
+# and diminished chords use the sharp spelling (C#m, D#m, G#m, A#m), as in the song sources.
+SCRIPT = """\
+(function () {
+  var select = document.getElementById('transpose-select');
+  if (!select) return;
+  var SEMITONES = {C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11};
+  var MAJOR = ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B'];
+  var MINOR = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+  var NOTE = /^([A-G])([#b]?)/;
+
+  function pitch(name) {
+    var m = NOTE.exec(name);
+    var accidental = m[2] === '#' ? 1 : m[2] === 'b' ? -1 : 0;
+    return (SEMITONES[m[1]] + accidental + 12) % 12;
+  }
+
+  function spell(pc, sharp) {
+    return (sharp ? MINOR : MAJOR)[(pc % 12 + 12) % 12];
+  }
+
+  // `Bb7sus4`, `F#m7`, `Ab6/9`, `G#dim/F`: a root, a quality, then an optional bass note
+  function transposeChord(chord, shift) {
+    var m = NOTE.exec(chord);
+    if (!m) return chord;
+    var root = m[0], rest = chord.slice(root.length);
+    var sharp = /^(m(?!aj)|dim)/.test(rest);
+    var bass = /\\/([A-G][#b]?)$/.exec(rest);
+    var out = spell(pitch(root) + shift, sharp) + rest.replace(/\\/([A-G][#b]?)$/, '');
+    if (bass) out += '/' + spell(pitch(bass[1]) + shift, sharp);
+    return out;
+  }
+
+  var chords = Array.prototype.slice.call(document.querySelectorAll('b.chord'));
+  chords.forEach(function (el) { el.setAttribute('data-original', el.textContent); });
+
+  select.addEventListener('change', function () {
+    var shift = parseInt(select.value, 10);
+    chords.forEach(function (el) {
+      el.textContent = transposeChord(el.getAttribute('data-original'), shift);
+    });
+  });
+  document.getElementById('transpose').hidden = false;  // without JavaScript, stays hidden
+})();
+"""
+
+# Menu labels: the shift in semitones, written in tones (one tone = two semitones).
+TRANSPOSITIONS = range(-6, 7)
+
+
+def etiquette_transposition(demi_tons):
+    """Return the menu label of a transposition.
+
+    Args:
+        demi_tons: shift (semitones, signed int); 0 is the original key.
+
+    Returns:
+        Label such as `-2 tons`, `-1 ton ½`, `Original` or `+½ ton` (str).
+    """
+    if demi_tons == 0:
+        return 'Original'
+    tons, reste = divmod(abs(demi_tons), 2)
+    signe = '−' if demi_tons < 0 else '+'
+    if not tons:
+        return f'{signe}½ ton'
+    return f'{signe}{tons} ton{"s" if tons >= 2 else ""}' + (' ½' if reste else '')
+
+
+def selecteur_transposition():
+    """Return the HTML of the transposition menu (hidden until the script runs).
+
+    Returns:
+        HTML fragment (str).
+    """
+    options = '\n'.join(
+        f'<option value="{n}"{" selected" if n == 0 else ""}>{etiquette_transposition(n)}</option>'
+        for n in TRANSPOSITIONS)
+    return ('<p class="transpose" id="transpose" hidden>'
+            '<label for="transpose-select">Transposer : </label>'
+            f'<select id="transpose-select">\n{options}\n</select></p>')
 
 
 def en_ligne(texte):
@@ -46,6 +139,22 @@ def en_ligne(texte):
     """
     texte = html.escape(texte, quote=False)
     texte = ACCORD.sub(r'<b class="chord">\1</b>', texte)
+    texte = EMPHASE.sub(r'<em>\1</em>', texte)
+    return URL.sub(r'<a href="\1">\1</a>', texte)
+
+
+def en_note(texte):
+    """Convert one line of a notes section to HTML.
+
+    Unlike `en_ligne`, square brackets stay literal: notes hold prose, not chords.
+
+    Args:
+        texte: raw line, possibly with `*emphasis*` and URLs (str).
+
+    Returns:
+        HTML fragment (str).
+    """
+    texte = html.escape(texte, quote=False)
     texte = EMPHASE.sub(r'<em>\1</em>', texte)
     return URL.sub(r'<a href="\1">\1</a>', texte)
 
@@ -87,6 +196,13 @@ def rendre_corps(lignes):
     strophe = []   # lines of the stanza being collected (HTML strings)
     vides = 0      # consecutive blank lines seen
     sauter = 0     # number of lines already consumed as part of a header block
+    notes = False  # inside a `### Notes` section
+
+    def fermer_notes():
+        nonlocal notes
+        if notes:
+            sortie.append('</details>')
+            notes = False
 
     def fermer_strophe():
         if strophe:
@@ -104,6 +220,16 @@ def rendre_corps(lignes):
             if cle == 'youTubeId':
                 sortie.append(video(valeur.strip()))
             sauter = 2
+        elif ligne == NOTES:
+            fermer_strophe()
+            fermer_notes()
+            sortie.append('<details class="notes">\n<summary>Notes</summary>')
+            notes = True
+        elif notes and not ligne.startswith(('# ', '## ')):
+            if ligne.lstrip().startswith(('* ', '- ')):
+                sortie.append(f'<ul><li>{en_note(ligne.lstrip()[2:])}</li></ul>')
+            elif ligne:
+                sortie.append(f'<p>{en_note(ligne)}</p>')
         elif ligne == '---':
             fermer_strophe()
             sortie.append('<hr>')
@@ -116,6 +242,8 @@ def rendre_corps(lignes):
             if vides >= 2:
                 fermer_strophe()
             vides = 0
+            if ligne.startswith(('# ', '## ')):
+                fermer_notes()
             if ligne.startswith('## '):
                 fermer_strophe()
                 ancre = f's{len(table) + 1}'
@@ -130,23 +258,26 @@ def rendre_corps(lignes):
             else:
                 strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
     fermer_strophe()
+    fermer_notes()
     return '\n'.join(sortie), table
 
 
-def page(titre, contenu):
+def page(titre, contenu, script=''):
     """Wrap an HTML body in a self-contained page (with its CSS).
 
     Args:
         titre: text of the HTML `<title>` (str).
         contenu: HTML to put inside `<body>` (str).
+        script: JavaScript to run once the body is loaded, or '' for none (str).
 
     Returns:
         The complete HTML document (str).
     """
+    balise = f'<script>\n{script}</script>\n' if script else ''
     return ('<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
-            f'{contenu}\n</body>\n</html>\n')
+            f'{contenu}\n{balise}</body>\n</html>\n')
 
 
 def rendre_fichier(source, destination, titre, accueil=None):
@@ -161,8 +292,10 @@ def rendre_fichier(source, destination, titre, accueil=None):
     corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
     nav = ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>' for a, t in table)
     retour = f'<p><a href="{accueil}">&larr; Index</a></p>\n' if accueil else ''
-    destination.write_text(page(titre, f'{retour}<nav><ul>{nav}</ul></nav>\n{corps}'),
-                           encoding='utf-8')
+    destination.write_text(
+        page(titre, f'{retour}{selecteur_transposition()}\n<nav><ul>{nav}</ul></nav>\n{corps}',
+             script=SCRIPT),
+        encoding='utf-8')
 
 
 def rendre_index(entrees, destination, titre):
