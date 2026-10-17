@@ -1,4 +1,4 @@
-## Boulevard du temps qui passe
+## Le boulevard du temps qui passe
 
 
 [Dm]A peine sortis du[G7] berceau, Nous [C7]sommes allés faire un saut[F7], Au boulevard du[Bb] temps qui passe, [A7]

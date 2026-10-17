@@ -1,4 +1,4 @@
-## Trompe la mort
+## Trompe-la-mort
 
 
 [Bm]Avec cette neige à fois[D]on, Q[E]ui co[G]iffe, coiffe ma toison, On peut m[F#7]e cro[Bm]ire à vue de nez, Blanchi sous le harnais [A7] [D] [F#7]

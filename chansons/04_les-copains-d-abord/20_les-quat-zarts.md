@@ -1,4 +1,4 @@
-## Les quat'zarts
+## Les quat'z'arts
 
 
 [Dm]Les copains affligés, les copines en pleurs, La boite à Domi[G7]nos, enfouie sous les fl[C]eurs [A7] [Dm]

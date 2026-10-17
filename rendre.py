@@ -79,6 +79,23 @@ h2 { display: flex; align-items: baseline; gap: 0.4em; }
 .az-group h3 { margin: 0.3em 0 0; }
 .az-group ul { columns: 1; margin: 0; padding-left: 1.2em; list-style: none; }
 .az-panel[data-js] .az-group[hidden] { display: none; }
+/* home page: three levels (albums, songs per album, alphabetical index) */
+.niveaux { position: sticky; top: 0; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.3em 1.2em; padding: 0.4em 0;
+           background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent); }
+.niveaux a, .haut a { text-decoration: none; }
+.haut { margin: 0.5em 0 1.5em; font-size: 0.9em; text-align: right; }
+table.albums, table.chansons { border-collapse: collapse; width: 100%; margin: 0.5em 0; }
+table.albums th, table.albums td, table.chansons th, table.chansons td { padding: 0.2em 0.6em; text-align: left;
+           border-bottom: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
+table.albums td:nth-child(1), table.albums td:nth-child(3), table.albums td:nth-child(4),
+table.chansons td:nth-child(1) { width: 1%; white-space: nowrap; text-align: right; }
+table.albums th:nth-child(1), table.albums th:nth-child(3), table.albums th:nth-child(4),
+table.chansons th:nth-child(1) { text-align: right; }
+.page { font-size: 0.8em; margin-left: 0.5em; }
+h2[id], h3[id] { scroll-margin-top: 3em; }
+.lettres a { display: inline-block; min-width: 1.6em; text-align: center; }
+.az-index { columns: 2 18em; list-style: none; padding: 0; }
+.az-index li { break-inside: avoid; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must not inflate text on rotation */
 /* Touch devices (phone, tablet): fill the screen instead of keeping a desktop-width column. The
    text size follows the viewport width, and in landscape the stanzas flow into as many columns
@@ -674,29 +691,31 @@ def index_alphabetique(table):
             '</details>')
 
 
-def fil_ariane(table, accueil, anthologie, libelle='Anthologie'):
+def fil_ariane(table, accueil, album, libelle='Anthologie complète'):
     """Return the sticky bar: breadcrumb, "up" button, alphabetical index and transposition menu.
 
+    The first crumb, "Brassens", is the index page, which lists the albums and their songs.
     The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
 
     Args:
         table: (anchor id, title, level) entries of the page (list of tuples).
         accueil: relative link to the index page (str).
-        anthologie: relative link to the anthology page, or None on the anthology itself (str).
-        libelle: text of the second crumb, the page that holds the albums (str).
+        album: True on the page of a single album, False on a page that holds several albums
+            (the complete anthology) or none (the favourites) (bool).
+        libelle: text of the crumb naming the current page, shown when `album` is False (str).
 
     Returns:
         HTML fragment (str).
     """
     albums = [a for a, _, niveau in table if niveau == 1]
-    if anthologie:
-        haut = f'{anthologie}#{albums[0]}' if albums else anthologie
-        attribut_anthologie, lien = '', haut
+    if album:
+        # from an album, going up lands on its own table in the index
+        haut, attribut_anthologie, page_courante = (f'{accueil}#t{albums[0]}' if albums else accueil), '', ''
     else:
-        haut, attribut_anthologie, lien = accueil, ' data-anthologie="1"', '#'
+        haut, attribut_anthologie = accueil, ' data-anthologie="1"'
+        page_courante = f'<span class="sep">&rsaquo;</span><a href="#">{html.escape(libelle)}</a>'
     return (f'<header class="bar" id="bar" data-haut="{html.escape(haut)}"{attribut_anthologie}>\n'
-            f'<span class="crumbs"><a href="{html.escape(accueil)}">Index</a>'
-            f'<span class="sep">&rsaquo;</span><a href="{html.escape(lien)}">{html.escape(libelle)}</a>'
+            f'<span class="crumbs"><a href="{html.escape(accueil)}">Brassens</a>{page_courante}'
             '<span id="crumb-album"></span><span id="crumb-song"></span></span>\n'
             '<button class="up" id="up" type="button" hidden '
             'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
@@ -705,7 +724,7 @@ def fil_ariane(table, accueil, anthologie, libelle='Anthologie'):
             f'{selecteur_transposition()}\n</header>')
 
 
-def rendre_fichier(source, destination, titre, accueil, anthologie=None):
+def rendre_fichier(source, destination, titre, accueil, album=False):
     """Render a Markdown file to a self-contained HTML page.
 
     Args:
@@ -713,8 +732,7 @@ def rendre_fichier(source, destination, titre, accueil, anthologie=None):
         destination: HTML file to write (Path).
         titre: text of the HTML `<title>` (str).
         accueil: relative link to the index page (str).
-        anthologie: relative link to the anthology page, or None when rendering the anthology
-            itself (str).
+        album: True when the file holds a single album, False for the complete anthology (bool).
     """
     corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
     # the songs of an album are listed right below its title; the top of the page only lists
@@ -724,25 +742,93 @@ def rendre_fichier(source, destination, titre, accueil, anthologie=None):
             titre_html = f'<h1 id="{ancre}">{en_ligne(titre_album)}</h1>'
             corps = corps.replace(titre_html, f'{titre_html}\n{liste_chansons(table, ancre)}', 1)
     destination.write_text(
-        page(titre, f'{fil_ariane(table, accueil, anthologie)}\n'
+        page(titre, f'{fil_ariane(table, accueil, album)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
              script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
-def rendre_index(entrees, destination, titre):
-    """Write the home page: a list of links to the other pages.
+ALBUM = re.compile(r'^(\d+)\) (.*?)(?: \((\d{4})\))?$')  # `3) Le pornographe (1958)`
+
+
+def decouper_album(titre):
+    """Split an album heading into its number, name and year.
 
     Args:
-        entrees: (link text, relative URL) of each page to list (list of (str, str)).
+        titre: heading text such as `3) Le pornographe (1958)` (str).
+
+    Returns:
+        (number, name, year), where the number and the year are '' when the heading has none
+        (tuple of str).
+    """
+    m = ALBUM.match(titre)
+    return m.groups('') if m else ('', titre, '')
+
+
+def rendre_index(albums, destination, titre):
+    """Write the home page, laid out as the three levels of the anthology.
+
+    Navigation links come first, then level 1 (a table of the albums), level 2 (one table of
+    songs per album) and level 3 (an alphabetical index of every song). A song links to its
+    anchor in the page of its album.
+
+    Args:
+        albums: (URL of the album page relative to `destination`, table of the album as returned
+            by `rendre_corps`) for each album (list of (str, list of tuples)).
         destination: HTML file to write (Path).
         titre: page title, also used as heading (str).
     """
-    elements = '\n'.join(f'<li><a href="{html.escape(url)}">{html.escape(texte)}</a></li>'
-                         for texte, url in entrees)
-    destination.write_text(
-        page(titre, f'<h1>{html.escape(titre)}</h1>\n<ul>\n{elements}\n</ul>'),
-        encoding='utf-8')
+    fiches = []  # (anchor, number, name, year, page URL, [(song anchor, song title)])
+    for url, table in albums:
+        entete = next(t for t in table if t[2] == 1)
+        numero, nom, annee = decouper_album(entete[1])
+        chansons = [(a, t) for a, t, niveau in table if niveau == 2]
+        fiches.append((entete[0], numero, nom, annee, url, chansons))
+
+    def lien(url, ancre, texte):
+        return f'<a href="{html.escape(url)}#{ancre}">{en_ligne(texte)}</a>'
+
+    haut = '<p class="haut"><a href="#">&uarr; Haut</a></p>'
+    navigation = ('<nav class="niveaux" aria-label="Niveaux">'
+                  '<a href="#albums">1. Albums</a>'
+                  '<a href="#chansons">2. Chansons par album</a>'
+                  '<a href="#alphabet">3. Index alphabétique</a>'
+                  '<a href="brassens.html">Anthologie complète</a>'
+                  '<a href="favoris.html">Favoris</a></nav>')
+
+    niveau1 = ('<h2 id="albums">1. Albums</h2>\n<table class="albums">\n'
+               '<thead><tr><th>N°</th><th>Album</th><th>Année</th><th>Chansons</th></tr></thead>\n<tbody>\n'
+               + '\n'.join(
+                   f'<tr><td>{numero}</td><td><a href="#t{ancre}">{en_ligne(nom)}</a>'
+                   f' <a class="page" href="{html.escape(url)}" title="Page de l\'album">page &rarr;</a></td>'
+                   f'<td>{annee}</td><td>{len(chansons)}</td></tr>'
+                   for ancre, numero, nom, annee, url, chansons in fiches)
+               + '\n</tbody></table>')
+
+    niveau2 = '<h2 id="chansons">2. Chansons par album</h2>\n' + '\n'.join(
+        f'<h3 id="t{ancre}">{numero}) {en_ligne(nom)}' + (f' <small>({annee})</small>' if annee else '') + '</h3>\n'
+        '<table class="chansons"><thead><tr><th>N°</th><th>Titre</th></tr></thead>\n<tbody>\n'
+        + '\n'.join(f'<tr><td>{k}</td><td>{lien(url, a, t)}</td></tr>'
+                    for k, (a, t) in enumerate(chansons, 1))
+        + f'\n</tbody></table>\n{haut}'
+        for ancre, numero, nom, annee, url, chansons in fiches)
+
+    par_lettre = {}
+    for ancre, numero, nom, annee, url, chansons in fiches:
+        for a, t in chansons:
+            par_lettre.setdefault(lettre_tri(t), []).append((cle_tri(t), t, url, a, numero))
+    lettres = sorted(par_lettre)
+    niveau3 = ('<h2 id="alphabet">3. Index alphabétique</h2>\n<p class="lettres">'
+               + ' '.join(f'<a href="#l{l if l != "#" else "autres"}">{l}</a>' for l in lettres)
+               + '</p>\n' + '\n'.join(
+                   f'<h3 id="l{l if l != "#" else "autres"}">{l}</h3>\n<ul class="az-index">\n'
+                   + '\n'.join(f'<li>{lien(url, a, t)} <small>(album {numero})</small></li>'
+                               for _, t, url, a, numero in sorted(par_lettre[l]))
+                   + '\n</ul>' for l in lettres)
+               + f'\n{haut}')
+
+    corps = '\n'.join([f'<h1>{html.escape(titre)}</h1>', navigation, niveau1, haut, niveau2, niveau3])
+    destination.write_text(page(titre, corps), encoding='utf-8')
 
 
 def rendre_favoris(destination, titre, accueil, anthologie):
@@ -757,7 +843,7 @@ def rendre_favoris(destination, titre, accueil, anthologie):
         accueil: relative link to the index page (str).
         anthologie: URL of the anthology page, relative to `destination` (str).
     """
-    contenu = (f'{fil_ariane([], accueil, None, libelle=titre)}\n'
+    contenu = (f'{fil_ariane([], accueil, False, libelle=titre)}\n'
                f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
                '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
                '(ou touche f) pour l\'ajouter ici.</p>\n</main>')

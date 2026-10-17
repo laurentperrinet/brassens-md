@@ -3,7 +3,7 @@
 Pipeline:
     chansons/{nn}_{album}/_album.md + chansons/{nn}_{album}/*.md  ->  construction/albums/brassens_{n}.md
     construction/albums/*.md                ->  construction/brassens.md  (anthology)
-    construction/**/*.md  --rendre.py-->  docs/**/*.html  (chords in bold monospace)
+    construction/**/*.md  --rendre.py-->  docs/**/*.html  (chords above the lyrics)
     docs/index.html                         (list of the pages, written here)
 
 `docs/` is not versioned: the GitHub Actions workflow `.github/workflows/pages.yml`
@@ -51,34 +51,26 @@ def assembler_album(dossier_album):
 
 
 def assembler():
-    """Write `construction/albums/*.md` and `construction/brassens.md`.
-
-    Returns:
-        (link text, URL relative to `docs/`) of every page of the site, for the index
-        (list of (str, str)).
-    """
+    """Write `construction/albums/*.md` and `construction/brassens.md`."""
     shutil.rmtree(CONSTRUCTION, ignore_errors=True)
     (CONSTRUCTION / 'albums').mkdir(parents=True)
 
     anthologie = ''
-    entrees = [('Anthologie en un fichier', 'brassens.html'), ('Favoris', 'favoris.html')]
     for dossier_album in dossiers_albums():
         n, titre, texte = assembler_album(dossier_album)
         (CONSTRUCTION / 'albums' / f'brassens_{n}.md').write_text(texte, encoding='utf-8')
         anthologie += texte
-        entrees.append((titre, f'albums/brassens_{n}.html'))
     (CONSTRUCTION / 'brassens.md').write_text(anthologie, encoding='utf-8')
-    return entrees
 
 
-def rendre_site(entrees):
-    """Render the index and each assembled Markdown file to HTML in `docs/`.
-
-    Args:
-        entrees: pages to list in the index, as returned by `assembler()` (list of (str, str)).
-    """
+def rendre_site():
+    """Render the index and each assembled Markdown file to HTML in `docs/`."""
     (DOCS / 'albums').mkdir(parents=True, exist_ok=True)
-    rendre.rendre_index(entrees, DOCS / 'index.html', titre='Anthologie Georges Brassens')
+    albums = []  # (URL relative to docs/, table of the album) for the index
+    for md in sorted((CONSTRUCTION / 'albums').glob('*.md')):
+        albums.append((f'albums/{md.with_suffix(".html").name}',
+                       rendre.rendre_corps(md.read_text(encoding='utf-8').split('\n'))[1]))
+    rendre.rendre_index(albums, DOCS / 'index.html', titre='Anthologie Georges Brassens')
     rendre.rendre_fichier(CONSTRUCTION / 'brassens.md', DOCS / 'brassens.html',
                           titre='Anthologie Georges Brassens', accueil='index.html')
     rendre.rendre_favoris(DOCS / 'favoris.html', titre='Favoris', accueil='index.html',
@@ -86,8 +78,7 @@ def rendre_site(entrees):
     for md in sorted((CONSTRUCTION / 'albums').glob('*.md')):
         titre = re.search(r'^# (.+)$', md.read_text(encoding='utf-8'), re.M).group(1)
         rendre.rendre_fichier(md, DOCS / 'albums' / md.with_suffix('.html').name,
-                              titre=titre, accueil='../index.html',
-                              anthologie='../brassens.html')
+                              titre=titre, accueil='../index.html', album=True)
 
 
 if __name__ == '__main__':
@@ -95,6 +86,6 @@ if __name__ == '__main__':
     analyseur.add_argument('--rendre', action='store_true',
                            help='also render the HTML pages in docs/')
     arguments = analyseur.parse_args()
-    pages = assembler()
+    assembler()
     if arguments.rendre:
-        rendre_site(pages)
+        rendre_site()

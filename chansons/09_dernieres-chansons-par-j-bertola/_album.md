@@ -1,3 +1,3 @@
-# 9) Dernières chansons par J. Bertola
+# 9) Dernières chansons par J. Bertola (1982)
 
 
