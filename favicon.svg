@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- guitar, tilted so that the neck leaves behind the cat's head towards the top right -->
+  <g transform="translate(10 0) rotate(20 32 40)" stroke="#4a2c12" stroke-width="2" stroke-linejoin="round">
+    <rect x="28.5" y="2" width="7" height="9" rx="1.5" fill="#4a2c12"/>
+    <rect x="29.5" y="9" width="5" height="28" fill="#6b4423"/>
+    <path d="M32 28c-7 0-11 4-11 9 0 3 1.500 5 3 6.500C22 45.500 20 49 20 53c0 6 5.500 9 12 9s12-3 12-9c0-4-2-7.500-4-9.500 1.500-1.500 3-3.500 3-6.500 0-5-4-9-11-9z" fill="#e0a458"/>
+    <circle cx="32" cy="46" r="4.500" fill="#2a1608" stroke="none"/>
+  </g>
+  <!-- body and curled tail, behind the head -->
+  <ellipse cx="22" cy="56" rx="14" ry="7.500" fill="#3b3b47" stroke="#14141a" stroke-width="1.200"/>
+  <path d="M10 58C1 60 0 49 5 46" fill="none" stroke="#14141a" stroke-width="5.500" stroke-linecap="round"/>
+  <path d="M10 58C1 60 0 49 5 46" fill="none" stroke="#3b3b47" stroke-width="3.500" stroke-linecap="round"/>
+  <!-- head, smaller so that the guitar body stays visible at 16 px -->
+  <g transform="translate(1 2) scale(.8)">
+    <g stroke="#14141a" stroke-width="1.500" stroke-linejoin="round">
+      <path d="M10 40 11 17 27 28 37 28 53 17 54 40c0 10-9 17-22 17S10 50 10 40z" fill="#3b3b47"/>
+      <path d="M14 24 14.500 31 20 27zM50 24 49.500 31 44 27z" fill="#e8a0a8" stroke="none"/>
+    </g>
+    <!-- mischievous eyes: half-closed lids, one eyebrow raised -->
+    <ellipse cx="23" cy="41" rx="4" ry="4.500" fill="#f5d547"/>
+    <ellipse cx="41" cy="41" rx="4" ry="4.500" fill="#f5d547"/>
+    <ellipse cx="23.500" cy="41.500" rx="1.400" ry="3" fill="#14141a"/>
+    <ellipse cx="41.500" cy="41.500" rx="1.400" ry="3" fill="#14141a"/>
+    <path d="M18.500 35.500H27.500V40.500H18.500zM36.500 35.500H45.500V40.500H36.500z" fill="#3b3b47"/>
+    <path d="M18.500 40.500H27.500M36.500 40.500H45.500" stroke="#14141a" stroke-width="1.300" fill="none"/>
+    <path d="M36 35 45 31.500" stroke="#14141a" stroke-width="1.500" stroke-linecap="round" fill="none"/>
+    <path d="M29.500 47h5l-2.500 3z" fill="#e8a0a8"/>
+    <!-- lopsided smirk -->
+    <path d="M32 50v2M32 52c-1.500 1-3 1-4.500-.5M32 52c2 1.500 4.500 1 6.500-2" fill="none" stroke="#e8e8ee" stroke-width="1.200" stroke-linecap="round"/>
+    <path d="M19 48 7 46M19 51 8 54M45 48 57 46M45 51 56 54" stroke="#e8e8ee" stroke-width="1" stroke-linecap="round" fill="none"/>
+  </g>
+  <!-- paw strumming the strings, in front of the guitar -->
+  <path d="M27 57 40 51" stroke="#14141a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M27 57 40 51" stroke="#3b3b47" stroke-width="5" stroke-linecap="round"/>
+  <path d="M40.500 49.500v3M43 50.500v3" stroke="#14141a" stroke-width=".8" stroke-linecap="round"/>
+</svg>

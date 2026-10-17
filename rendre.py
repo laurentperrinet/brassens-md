@@ -27,6 +27,8 @@ import html
 import re
 import sys
 import unicodedata
+from pathlib import Path
+from urllib.parse import quote
 
 ACCORD = re.compile(r'\[([^\]]+)\]([^\s\[<*]*)')  # a chord and the word fragment it sits above
 EMPHASE = re.compile(r'\*([^*]+)\*')
@@ -40,6 +42,22 @@ EDITION = 'https://github.com/laurentperrinet/brassens-md/edit/master/{}'  # Git
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
+
+FAVICON_SVG = Path(__file__).parent / 'favicon.svg'  # a cat in front of a guitar
+
+
+def favicon():
+    """Return the `<link>` tag that gives every page its icon.
+
+    The SVG is inlined as a data URI, so that the pages stay self-contained and
+    the icon is found whatever the depth of the page in `docs/`.
+
+    Returns:
+        The `<link rel="icon">` tag (str).
+    """
+    svg = re.sub(r'<!--.*?-->|\s*\n\s*', '', FAVICON_SVG.read_text(encoding='utf-8'), flags=re.DOTALL)
+    return f'<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,{quote(svg, safe="/:=")}">\n'
+
 
 CSS = """\
 body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
@@ -628,7 +646,7 @@ def page(titre, contenu, script=''):
     balise = f'<script>\n{script}</script>\n' if script else ''
     return ('<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-            f'<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
+            f'{favicon()}<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
             f'{contenu}\n{balise}</body>\n</html>\n')
 
 
