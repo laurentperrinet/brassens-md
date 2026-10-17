@@ -19,12 +19,14 @@ mark a break between stanzas.
 import html
 import re
 import sys
+import unicodedata
 
 ACCORD = re.compile(r'\[([^\]]+)\]')
 EMPHASE = re.compile(r'\*([^*]+)\*')
 URL = re.compile(r'(https?://\S+)')
 ENTETE = re.compile(r'^\w+: \S')  # `key: value` line between two `---` lines
 NOTES = '### Notes'  # opens the collapsed notes section at the end of a song
+ARTICLE = re.compile(r"^(?:l['’]|d['’]|(?:le|la|les|un|une|des|du)\s)", re.IGNORECASE)  # ignored when filing a title
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
@@ -50,6 +52,16 @@ h1, h2 { scroll-margin-top: 3.5em; }
 .crumbs .sep { opacity: 0.5; padding: 0 0.3em; }
 .up { font-size: 1.2em; line-height: 1; padding: 0.2em 0.5em; cursor: pointer; }
 .transpose { margin: 0; white-space: nowrap; }
+.az summary { cursor: pointer; font-weight: bold; white-space: nowrap; }
+.az-panel { position: absolute; top: 100%; right: 0; width: min(100%, 32em); max-height: 70vh; overflow-y: auto;
+            box-sizing: border-box; padding: 0.5em 0.8em; background: Canvas;
+            border: 1px solid color-mix(in srgb, CanvasText 20%, transparent); box-shadow: 0 0.4em 1em rgb(0 0 0 / 0.2); }
+.az-letters { margin: 0 0 0.4em; line-height: 1.9; }
+.az-letters button { font: inherit; min-width: 1.8em; margin: 0 0.1em 0.1em 0; cursor: pointer; }
+.az-letters button[aria-pressed="true"] { font-weight: bold; background: Highlight; color: HighlightText; }
+.az-group h3 { margin: 0.3em 0 0; }
+.az-group ul { columns: 1; margin: 0; padding-left: 1.2em; list-style: none; }
+.az-panel[data-js] .az-group[hidden] { display: none; }
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -167,11 +179,32 @@ SCRIPT_NAVIGATION = """\
     if (e.key === 'u' && !e.ctrlKey && !e.metaKey && !e.altKey && tag !== 'SELECT' && tag !== 'INPUT') goUp();
   });
 
-  var x0 = 0, y0 = 0;
+  // Alphabetical index: one letter at a time, so that a long list stays short on a phone
+  var az = document.getElementById('az');
+  if (az) {
+    var panel = document.getElementById('az-panel');
+    var buttons = Array.prototype.slice.call(panel.querySelectorAll('button[data-lettre]'));
+    var groups = Array.prototype.slice.call(panel.querySelectorAll('.az-group'));
+    var show = function (letter) {
+      groups.forEach(function (g) { g.hidden = g.getAttribute('data-lettre') !== letter; });
+      buttons.forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-lettre') === letter); });
+    };
+    buttons.forEach(function (b) { b.addEventListener('click', function () { show(b.getAttribute('data-lettre')); }); });
+    panel.setAttribute('data-js', '1');
+    if (buttons.length) show(buttons[0].getAttribute('data-lettre'));
+    panel.addEventListener('click', function (e) { if (e.target.tagName === 'A') az.open = false; });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') az.open = false; });
+    document.addEventListener('click', function (e) { if (az.open && !az.contains(e.target)) az.open = false; });
+    panel.querySelector('.az-letters').hidden = false;  // without JavaScript, every group is listed
+  }
+
+  var x0 = 0, y0 = 0, inPanel = false;
   bar.addEventListener('touchstart', function (e) {
     x0 = e.touches[0].clientX; y0 = e.touches[0].clientY;
+    inPanel = !!(az && az.contains(e.target));  // scrolling the index must not count as a swipe up
   }, {passive: true});
   bar.addEventListener('touchend', function (e) {
+    if (inPanel) return;
     var dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
     if (dy < -30 && Math.abs(dy) > Math.abs(dx)) goUp();
   }, {passive: true});
@@ -414,8 +447,64 @@ def liste_albums(table):
             + '</ul></nav>\n')
 
 
+def cle_tri(titre):
+    """Return the sort key of a song title: lowercase, without accents, articles or punctuation.
+
+    La Marine is filed as `marine`, so it sits under M between Marinette's neighbours.
+
+    Args:
+        titre: song title as written in the Markdown (str).
+
+    Returns:
+        Sort key (str); empty when the title holds no letter.
+    """
+    texte = unicodedata.normalize('NFKD', titre.replace('*', '')).encode('ascii', 'ignore').decode()
+    texte = re.sub(r'^[^A-Za-z]+', '', texte)
+    texte = ARTICLE.sub('', texte)
+    return re.sub(r'^[^A-Za-z]+', '', texte).lower()
+
+
+def lettre_tri(titre):
+    """Return the letter under which a song title is filed in the alphabetical index.
+
+    Args:
+        titre: song title as written in the Markdown (str).
+
+    Returns:
+        An uppercase letter A-Z, or '#' when the title holds none (str).
+    """
+    return cle_tri(titre)[:1].upper() or '#'
+
+
+def index_alphabetique(table):
+    """Return the alphabetical index of the songs of a page, for the sticky bar.
+
+    Args:
+        table: (anchor id, title, level) entries, as returned by `rendre_corps` (list of tuples).
+
+    Returns:
+        HTML fragment, a `<details>` menu (str); '' when the page holds no song.
+    """
+    par_lettre = {}
+    for ancre, titre, niveau in table:
+        if niveau == 2:
+            par_lettre.setdefault(lettre_tri(titre), []).append((titre, ancre))
+    if not par_lettre:
+        return ''
+    lettres = sorted(par_lettre)
+    boutons = ''.join(f'<button type="button" data-lettre="{l}">{l}</button>' for l in lettres)
+    groupes = '\n'.join(
+        f'<section class="az-group" data-lettre="{l}"><h3>{l}</h3><ul>'
+        + ''.join(f'<li><a href="#{a}">{en_ligne(t)}</a></li>'
+                  for t, a in sorted(par_lettre[l], key=lambda e: cle_tri(e[0])))
+        + '</ul></section>' for l in lettres)
+    return ('<details class="az" id="az"><summary title="Index alphabétique des chansons">A–Z</summary>\n'
+            f'<div class="az-panel" id="az-panel"><p class="az-letters" hidden>{boutons}</p>\n{groupes}</div>'
+            '</details>')
+
+
 def fil_ariane(table, accueil, anthologie):
-    """Return the sticky bar: breadcrumb, "up" button and transposition menu.
+    """Return the sticky bar: breadcrumb, "up" button, alphabetical index and transposition menu.
 
     The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
 
@@ -440,6 +529,7 @@ def fil_ariane(table, accueil, anthologie):
             '<button class="up" id="up" type="button" hidden '
             'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
             'aria-label="Monter d\'un niveau">&uarr;</button>\n'
+            f'{index_alphabetique(table)}\n'
             f'{selecteur_transposition()}\n</header>')
 
 
