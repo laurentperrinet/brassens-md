@@ -1,44 +1,51 @@
 ## Au bois de mon cœur
 
 
-[Am]Au [Am/C]bois d'[D]Cla[D#dim]mart [E7]y'a des [D]petites fleurs, [C]Y'a des [E7]petites fleurs,
-
-[Am]Y'a [Am/C]des [D]co[D#dim]pains, [E7]au [D]bois d'mon cœur, [C]Au [E7]bois d'mon [Am]cœur.
-
-[Dm]Au fond d'ma cour j'suis renommé, Au fond d'ma [G7]cour j'suis renom[C]mé,
-
-J'suis renom[A7]mé, Pour avoir le cœur mal fa[Dm]mé, Le [Am]cœur mal [F7]fa[E7]mé.
-
-
-[Am]Au [Am/C]bois d'[D]Vin[D#dim]cennes [E7]y'a des [D]petites fleurs, [C]Y'a des [E7]petites fleurs,
-
-[Am]Y'a [Am/C]des [D]co[D#dim]pains, [E7]au [D]bois d'mon cœur, [C]Au [E7]bois d'mon [Am]cœur.
-
-[Dm]Quand y'a plus d'vin dans mon tonneau, Quand y'a plus d'[G7]vin dans mon ton[C]neau,
-
-Dans mon ton[A7]neau, Ils n'ont pas peur de boire mon [Dm]eau, De [Am]boire [F7]mon [E7]eau.
+[Am]Au [Am/C]bois d'[D]Cla[D#dim]mart [E7]y'a des [D]petites fleurs,
+[C]Y'a des [E7]petites fleurs,
+[Am]Y'a [Am/C]des [D]co[D#dim]pains, [E7]au [D]bois d'mon cœur,
+[C]Au [E7]bois d'mon [Am]cœur.
+[Dm]Au fond d'ma cour j'suis renommé,
+Au fond d'ma [G7]cour j'suis renom[C]mé,
+J'suis renom[A7]mé,
+Pour avoir le cœur mal fa[Dm]mé,
+Le [Am]cœur mal [F7]fa[E7]mé.
 
 
-[Am]Au [Am/C]bois d'[D]Meu[D#dim]don [E7]y'a des [D]petites fleurs, [C]Y'a des [E7]petites fleurs,
+[Am]Au [Am/C]bois d'[D]Vin[D#dim]cennes [E7]y'a des [D]petites fleurs,
+[C]Y'a des [E7]petites fleurs,
+[Am]Y'a [Am/C]des [D]co[D#dim]pains, [E7]au [D]bois d'mon cœur,
+[C]Au [E7]bois d'mon [Am]cœur.
+[Dm]Quand y'a plus d'vin dans mon tonneau,
+Quand y'a plus d'[G7]vin dans mon ton[C]neau,
+Dans mon ton[A7]neau,
+Ils n'ont pas peur de boire mon [Dm]eau,
+De [Am]boire [F7]mon [E7]eau.
 
-[Am]Y'a [Am/C]des [D]co[D#dim]pains, [E7]au [D]bois d'mon cœur, [C]Au [E7]bois d'mon [Am]cœur.
 
-[Dm]Ils m'accompagnent à la mairie, Ils m'accom[G7]pagnent à la mai[C]rie,
+[Am]Au [Am/C]bois d'[D]Meu[D#dim]don [E7]y'a des [D]petites fleurs,
+[C]Y'a des [E7]petites fleurs,
+[Am]Y'a [Am/C]des [D]co[D#dim]pains, [E7]au [D]bois d'mon cœur,
+[C]Au [E7]bois d'mon [Am]cœur.
+[Dm]Ils m'accompagnent à la mairie,
+Ils m'accom[G7]pagnent à la mai[C]rie,
+À la mai[A7]rie,
+Chaque fois que je me ma[Dm]rie,
+Que [Am]je me [F7]ma[E7]rie.
 
-À la mai[A7]rie, Chaque fois que je me ma[Dm]rie, Que [Am]je me [F7]ma[E7]rie.
 
-
-[Am]Au [Am/C]bois d'[D]Saint-[D#dim]Cloud [E7]y'a des [D]petites fleurs, [C]Y'a des [E7]petites fleurs,
-
-[Am]Y'a [Am/C]des [D]co[D#dim]pains [E7]au [D]bois d'mon cœur, [C]Au [E7]bois d'mon [Am]cœur.
-
-[Dm]Chaque fois qu'je meurs fidèlement, Chaque fois qu'je [G7]meurs fidèle[C]ment,
-
-Fidèle[A7]ment, Ils suivent mon enterre[Dm]ment, Mon [Am]enter[F7]re[E7]ment.
+[Am]Au [Am/C]bois d'[D]Saint-[D#dim]Cloud [E7]y'a des [D]petites fleurs,
+[C]Y'a des [E7]petites fleurs,
+[Am]Y'a [Am/C]des [D]co[D#dim]pains [E7]au [D]bois d'mon cœur,
+[C]Au [E7]bois d'mon [Am]cœur.
+[Dm]Chaque fois qu'je meurs fidèlement,
+Chaque fois qu'je [G7]meurs fidèle[C]ment,
+Fidèle[A7]ment,
+Ils suivent mon enterre[Dm]ment,
+Mon [Am]enter[F7]re[E7]ment.
 
 
 ...des [D]petites fleurs...
-
 [E7]Au [D]bois d'mon cœur...
 
 ### Notes

@@ -8,13 +8,11 @@ e|------|---------|---0-----|---------|---------|---------|---------|---------|-
 B|---0--|1--------|------3--|0--------|(0)1--0--|---------|---------|---------|---:|
 G|2-----|---------|2--------|---------|---------|2-----0--|------0--|2--------|(2):|
 D|------|---------|---------|---------|---------|---------|3--------|---------|---:|
-
                              F                   G                   C
 e|------|0--------|------0--|1--------|(1)---0--|1-----1--|3-----1--|0--------|(0)------|
 B|1--3--|---------|1--3-----|---------|---3-----|---------|---------|---------|---1--3--|
 G|------|---------|---------|---------|---------|---------|---------|---------|---------|
 D|------|---------|---------|---------|---------|---------|---------|---------|---------|
-
   Am                  G                   F                   E
 e|0--------|---1--0--|---------|---------|---------|---------|---1--0--|---------||
 B|---------|1--------|3--------|(3)------|1--1--1--|1--3--1--|0--------|3--1--0--||
@@ -22,49 +20,54 @@ G|---------|---------|---------|---------|---------|---------|---------|--------
 D|---------|---------|---------|---------|---------|---------|---------|---------||
 ```
 
-[Dm]On les r'trouve en raccour[C]ci, Dans nos [Bb]p'tites a[A]mours d'un [Dm]jour
-
-Toutes les joies, tous les sou[C]cis, Des a[Bb]mours qui [A]durent tou[Dm]jours
-
-C'est là l'[D7]sort de la ma[Gm]rine, Et de [C7]toutes nos p'tites ché[F]ries
-
-On ac[Dm]coste, Vite un [Gm]bec, [Bb]Pour nos baisers, l'corps a[A]vec
-
-
-Et les [Dm]joies et les boude[C]ries, Les fâche[Bb]ries, [A]les bons re[Dm]tours
-
-Il y a tout, en raccour[C]ci, Des grandes [Bb]amours [A]dans nos [Dm]p'tits
-
-On a [D7]ri, on s'est bai[Gm]sés, Sur les [C7]neunoeils, les né[F]nés
-
-Dans les [Dm]ch'veux à plein bé[Gm]cots, [Bb]Pondus comme des oeufs tout [A]chauds
+[Dm]On les r'trouve en raccour[C]ci,
+Dans nos [Bb]p'tites a[A]mours d'un [Dm]jour
+Toutes les joies, tous les sou[C]cis,
+Des a[Bb]mours qui [A]durent tou[Dm]jours
+C'est là l'[D7]sort de la ma[Gm]rine,
+Et de [C7]toutes nos p'tites ché[F]ries
+On ac[Dm]coste, Vite un [Gm]bec,
+[Bb]Pour nos baisers, l'corps a[A]vec
 
 
-Tout c'qu'on [Dm]fait dans un seul [C]jour ! Et comme [Bb]on al[A]longe le [Dm]temps !
-
-Plus d'trois fois, dans un seul [C]jour, Con[Bb]tent, pas con[A]tent, con[Dm]tent
-
-Y a dans [D7]la chambre une o[Gm]deur, D'amour [C7]tendre et de gou[F]dron
-
-Ça vous [Dm]met la joie au [Gm]cœur, [Bb]La peine aussi, et c'est [A]bon
-
-
-On n'est [Dm]pas là pour cau[C]ser, Mais on [Bb]pense, [A]même dans l'a[Dm]mour
-
-On pense que d'main il fera [C]jour, Et qu'c'est [Bb]une [A]calami[Dm]té
-
-C'est là l'[D7]sort de la ma[Gm]rine, Et de [C7]toutes nos p'tites ché[F]ries
-
-On s'ac[Dm]coste. Mais on de[Gm]vine, [Bb]Qu'ça n'sera pas le para[A]dis
+Et les [Dm]joies et les boude[C]ries,
+Les fâche[Bb]ries, [A]les bons re[Dm]tours
+Il y a tout, en raccour[C]ci,
+Des grandes [Bb]amours [A]dans nos [Dm]p'tits
+On a [D7]ri, on s'est bai[Gm]sés,
+Sur les [C7]neunoeils, les né[F]nés
+Dans les [Dm]ch'veux à plein bé[Gm]cots,
+[Bb]Pondus comme des oeufs tout [A]chauds
 
 
-On au[Dm]ra beau s'dépê[C]cher, Faire, bon [Bb]Dieu ! [A]la pige au [Dm]temps
+Tout c'qu'on [Dm]fait dans un seul [C]jour !
+Et comme [Bb]on al[A]longe le [Dm]temps !
+Plus d'trois fois, dans un seul [C]jour,
+Con[Bb]tent, pas con[A]tent, con[Dm]tent
+Y a dans [D7]la chambre une o[Gm]deur,
+D'amour [C7]tendre et de gou[F]dron
+Ça vous [Dm]met la joie au [Gm]cœur,
+[Bb]La peine aussi, et c'est [A]bon
 
-Et l'bourrer de tous nos pé[C]chés, Ça n'sera [Bb]pas [A]ça ; et pour[Dm]tant
 
-Toutes les [D7]joies, tous les sou[Gm]cis, Des a[C7]mours qui durent tou[F]jours !
+On n'est [Dm]pas là pour cau[C]ser,
+Mais on [Bb]pense, [A]même dans l'a[Dm]mour
+On pense que d'main il fera [C]jour,
+Et qu'c'est [Bb]une [A]calami[Dm]té
+C'est là l'[D7]sort de la ma[Gm]rine,
+Et de [C7]toutes nos p'tites ché[F]ries
+On s'ac[Dm]coste. Mais on de[Gm]vine,
+[Bb]Qu'ça n'sera pas le para[A]dis
 
-On les [Dm]r'trouve en raccour[Gm]ci, [Bb]Dans nos p'tits [A]amours d'un [Dm]jour... [A] [Dm]
+
+On au[Dm]ra beau s'dépê[C]cher,
+Faire, bon [Bb]Dieu ! [A]la pige au [Dm]temps
+Et l'bourrer de tous nos pé[C]chés,
+Ça n'sera [Bb]pas [A]ça ; et pour[Dm]tant
+Toutes les [D7]joies, tous les sou[Gm]cis,
+Des a[C7]mours qui durent tou[F]jours !
+On les [Dm]r'trouve en raccour[Gm]ci,
+[Bb]Dans nos p'tits [A]amours d'un [Dm]jour... [A] [Dm]
 
 ### Notes
 
