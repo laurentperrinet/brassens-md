@@ -54,6 +54,14 @@ Ses [G7]jupes,
 Conduit son trou[Am6]peau,
 De [G7]dupes[C] !
 
+
+[B]Pam pam [G#m7]pam pam [E]pam
+pam pam [F#7]pam pam [B]pam[G#m7]
+pam [C#7]pam [F#7]pam
+[B]Pam pam [G#m7]pam pam [E]pam
+pam pam [F#7]pam pam [B]pam[G#m7]
+pam [C#7]pam [F#7] [B]pam
+
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Colombine.php?titre=Colombine

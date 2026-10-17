@@ -67,6 +67,23 @@ Ils payaient un [F]verre
 [A7]Les gens avaient à [Dm]cœur [Gm7]d'mourir plus haut qu'leur [C7]cul
 [A7]Les gens avaient à [Dm]cœur [Gm7]de [F]mourir plus [G]haut qu'leur [F]cul[G7]
 
+
+[C]Mais où sont les funérailles d'an[Dm7]tan[G7] ?
+[C]Les petits corbillards, corbillards, corbillards, corbillards
+De nos grands-[E7]pères
+[Am]Qui suivaient la route en caho[E7]tant
+[Am]Les petits macchabées, macchabées, macchabées, macchabées
+Ronds et pros[D7]pè[G7]res
+[C]Quand les héritiers étaient con[Dm7]tents[G7]
+[C]Au fossoyeur, au croque-mort, au curé, aux chevaux même
+Ils payaient un [F]verre
+[B7]Elles sont révo[Em]lues
+[A7]Elles ont fait leur [Dm]temps
+[G7]Les belles pom, pom, [C]pom, [Am]pom, pom, [Dm]pom[G7]pes fu[C]nèbres
+[F#dim]On ne les [B7]r'verra [Em]plus
+[Gm]Et c'est bien [A7]attris[Dm]tant
+[G7]Les belles pompes [C]fu[Am]nèbres [Dm]de [G7]nos vingt [C]ans[G7][C]
+
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Funerailles.D.Antan.php?titre=%28Les%29+fun%C3%A9railles+d%27antan
