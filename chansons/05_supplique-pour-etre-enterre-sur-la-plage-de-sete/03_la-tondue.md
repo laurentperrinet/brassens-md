@@ -1,5 +1,8 @@
 ## La tondue
 
+---
+youTubeId: mMh4Wi4VziI
+---
 
 [G7]La be[C]lle qui couchait avec le roi de Prusse[G7], Avec[C] le roi de Prusse [G7] [C] [G7]
 
