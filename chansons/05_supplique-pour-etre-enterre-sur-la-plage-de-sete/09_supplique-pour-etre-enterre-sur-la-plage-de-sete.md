@@ -106,4 +106,5 @@ Qui passe [A]sa mort en va[D]cances.[B7]
 
 ### Notes
 
+ * Leçon vidéo « Supplique pour être enterré à la plage de Sète : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=uQHICUKmvmo
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Supplique.Pour.Etre.Enterre.php?titre=Supplique+pour+%C3%AAtre+enterr%C3%A9+%C3%A0+la+plage+de+S%C3%A8te

@@ -74,4 +74,5 @@ Et Vénus [D7]aussi, néanmoins[G]
 
 ### Notes
 
+ * Leçon vidéo « Histoire de faussaire : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=gBZPa89b0A4
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Histoire.De.Faussaire.php?titre=Histoire+de+faussaire

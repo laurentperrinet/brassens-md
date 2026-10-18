@@ -73,4 +73,5 @@ D'une petite [F]fleur qui [G]lui res[F]sem[Am]ble[Am]
 
 ### Notes
 
+ * Leçon vidéo « L'orage : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=_2Tk_rmI9hU
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Orage.php?titre=%28L%27%29+orage

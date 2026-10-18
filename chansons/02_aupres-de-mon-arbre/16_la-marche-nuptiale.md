@@ -44,4 +44,5 @@ La noce conti[Bm]nue et [C#7]Vive la mari[D]ée[F#] !
 
 ### Notes
 
+ * Leçon vidéo « La marche nuptiale : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=LsipYIGh5D0
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Marche.Nuptiale.php?titre=%28La%29+marche+nuptiale

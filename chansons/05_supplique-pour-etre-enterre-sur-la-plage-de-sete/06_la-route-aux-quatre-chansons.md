@@ -74,4 +74,5 @@ Me sont restées les [D]quatre [E7]chan[A]sons.
 
 ### Notes
 
+ * Leçon vidéo « La route aux quatre chansons : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=MCfwRifj89A
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Route.Aux.Quatre.Chansons.php?titre=%28La%29+route+aux+quatre+chansons

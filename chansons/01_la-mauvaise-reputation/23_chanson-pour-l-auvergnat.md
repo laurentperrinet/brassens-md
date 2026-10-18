@@ -3,7 +3,7 @@
  * valse
 
 ---
-youTubeId: rrZPVQN8QDY
+youTubeId: 7zB0ZK8Q5VE
 ---
 
 [Bm]Elle est à toi cet[F#7]te chanson,
@@ -85,5 +85,5 @@ Au [F#7]père éter[Bm]nel
 
 ### Notes
 
- * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=rrZPVQN8QDY
+ * Leçon vidéo « Chanson pour l'Auvergnat : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=7zB0ZK8Q5VE
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Chanson.Pour.L.Auvergnat.php?titre=Chanson+pour+l%27auvergnat

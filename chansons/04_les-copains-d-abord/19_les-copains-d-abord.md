@@ -76,4 +76,5 @@ Les co[A7]pains d'a[D]bord
 
 ### Notes
 
+ * Leçon vidéo « Les copains d'abord : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=l6AOswCGgZI
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Copains.D.Abord.php?titre=%28Les%29+copains+d%27abord

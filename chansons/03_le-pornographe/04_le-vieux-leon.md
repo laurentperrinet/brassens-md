@@ -104,4 +104,5 @@ Et si l'bon [Bm]Dieu,
 
 ### Notes
 
+ * Leçon vidéo « Le vieux Léon : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=xKvZ2uLKw54
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Vieux.Leon.php?titre=%28Le%29+vieux+L%C3%A9on

@@ -53,4 +53,5 @@ Refrain avec La Mi7 La à la fin
 
 ### Notes
 
+ * Leçon vidéo « Le temps ne fait rien à l'affaire : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=L81lQEB2-oE
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Temps.Ne.Fait.Rien.A.L.Affaire.php?titre=%28Le%29+temps+ne+fait+rien+%C3%A0+l%27affaire

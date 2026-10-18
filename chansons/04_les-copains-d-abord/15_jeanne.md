@@ -50,4 +50,5 @@ Quand [Bm]tous les en[A]fants de la terre,
 
 ### Notes
 
+ * Leçon vidéo « Jeanne : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=klT5QPjuPBM
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Jeanne.php?titre=Jeanne

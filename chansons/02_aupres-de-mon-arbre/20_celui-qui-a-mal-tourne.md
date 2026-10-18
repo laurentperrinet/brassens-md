@@ -1,7 +1,7 @@
 ## Celui qui a mal tourné
 
 ---
-youTubeId: FPsvf_8B2Cg
+youTubeId: vx3SNjYcxoo
 ---
 [Am]Il y avait des [G]temps et des [C]temps,[E]
 [Am]Qu'je n'm'é[F7]tais pas ser[B7]vi d'mes dents[E7]
@@ -54,5 +54,6 @@ Toutes [Am]les larmes [F7]de [E7]mon [Am]corps
 
 ### Notes
 
- * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=FPsvf_8B2Cg
+ * Leçon vidéo « Celui qui a mal tourné : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=vx3SNjYcxoo
+ * Autre interprétation (chaîne Chansons, Folklore et Variété) : https://www.youtube.com/watch?v=FPsvf_8B2Cg
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Celui.Qui.A.Mal.Tourne.php?titre=Celui+qui+a+mal+tourn%C3%A9

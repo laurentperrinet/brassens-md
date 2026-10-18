@@ -82,4 +82,5 @@ Si le dia[F#m]ble s'en mêle [Bm]pas.
 
 ### Notes
 
+ * Leçon vidéo « Bécassine : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=cXKgaS2D-OM
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Becassine.php?titre=B%C3%A9cassine

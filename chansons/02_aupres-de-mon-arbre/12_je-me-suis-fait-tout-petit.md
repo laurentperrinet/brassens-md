@@ -58,4 +58,5 @@ Qui fait Ma[Am]man quand [C]on la [F]t[E7]ou[Am]che[Am]
 
 ### Notes
 
+ * Leçon vidéo « Je me suis fait tout petit : le tuto guitare (with english subtitles) », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=Oo-quBjRz6Y
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Je.Me.Suis.Fait.Tout.Petit.php?titre=Je+me+suis+fait+tout+petit

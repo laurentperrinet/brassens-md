@@ -61,4 +61,5 @@ Sur un d'ces fameux bancs
 
 ### Notes
 
+ * Leçon vidéo « Les amoureux des bancs publics : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=-yZpmfIhX20
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Amoureux.Des.Bancs.Publics.php?titre=%28Les%29+amoureux+des+bancs+publics

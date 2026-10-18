@@ -74,4 +74,5 @@
 
 ### Notes
 
+ * Leçon vidéo « La fessée : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=sgxX66ZrGRY
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Fessee.php?titre=%28La%29+fess%C3%A9e

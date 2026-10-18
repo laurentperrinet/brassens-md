@@ -46,4 +46,5 @@ Mais où [E7]sont les neiges d'an[A6]tan ?
 
 ### Notes
 
+ * Leçon vidéo « Ballade des dames du temps jadis : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=g5L-ZzEnXsc
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Ballade.Des.Dames.Du.Temps.Jadis.php?titre=Ballade+des+dames+du+temps+jadis

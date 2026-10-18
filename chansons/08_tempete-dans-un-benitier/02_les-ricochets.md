@@ -130,4 +130,5 @@ un [Am]coup de cha[DO]peau
 
 ### Notes
 
+ * Leçon vidéo « Les ricochets : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=Bu2WmBXGEyM
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Ricochets.php?titre=%28Les%29+ricochets

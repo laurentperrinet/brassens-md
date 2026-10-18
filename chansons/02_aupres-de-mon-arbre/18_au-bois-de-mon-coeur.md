@@ -50,4 +50,5 @@ Mon [Am]enter[F7]re[E7]ment.
 
 ### Notes
 
+ * Leçon vidéo « Au bois de mon coeur : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=g6ZwQSq6YJU
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Au.Bois.D.Mon.Coeur.php?titre=Au+bois+de+mon+c%C5%93ur

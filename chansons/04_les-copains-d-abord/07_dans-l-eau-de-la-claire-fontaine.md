@@ -123,4 +123,5 @@ En [Am]priant Dieu [E7]qu'il fit du [Am]vent
 
 ### Notes
 
+ * Leçon vidéo « Dans l'eau de la claire fontaine : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=GHVAJ3TE5co
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Dans.L.Eau.De.La.Claire.Fontaine.php?titre=Dans+l%27eau+de+la+claire+fontaine

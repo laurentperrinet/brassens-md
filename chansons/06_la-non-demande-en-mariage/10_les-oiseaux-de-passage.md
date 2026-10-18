@@ -62,4 +62,5 @@ Les bourgeois sont trou[Bb]blés, De [A]voir passer les [Dm]gueux (couplet bis)
 
 ### Notes
 
+ * Leçon vidéo « Les oiseaux de passage : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=syKXY5sNKzI
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Oiseaux.De.Passage.php?titre=%28Les%29+oiseaux+de+passage

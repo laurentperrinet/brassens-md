@@ -54,4 +54,5 @@ Laisse-[F7]moi tenir ton ju[Bb]pon[Bb]
 
 ### Notes
 
+ * Leçon vidéo « Il suffit de passer le pont : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=3mjPGFhmdcE
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Il.Suffit.De.Passer.Le.Pont.php?titre=Il+suffit+de+passer+le+pont

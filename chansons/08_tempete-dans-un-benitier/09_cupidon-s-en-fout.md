@@ -53,4 +53,5 @@ Il est [Bb]des jours où [E7]Cupidon s'en [Am]fout
 
 ### Notes
 
+ * Leçon vidéo « Cupidon s'en fout : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=zFnWNFNxfQs
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Cupidon.S.En.Fout.php?titre=Cupidon+s%27en+fout

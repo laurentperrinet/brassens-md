@@ -1,7 +1,7 @@
 ## La princesse et le croque-notes
 
 ---
-youTubeId: YOEE6HRjyeo
+youTubeId: xxLf7Gz7DRo
 ---
 [Dm]Jadis, au [A7]lieu du jar[Dm]din que voi[A7]ci,
 [Dm]C'était la [A7]zone et tout [Dm]ce qui s'en [A7]suit,
@@ -60,6 +60,7 @@ youTubeId: YOEE6HRjyeo
 
 ### Notes
 
- * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=YOEE6HRjyeo
+ * Leçon vidéo « La princesse et le croque-notes : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=xxLf7Gz7DRo
+ * Autre interprétation (archive INA, chaîne INA Chansons) : https://www.youtube.com/watch?v=YOEE6HRjyeo
  * Accords sur la syllabe chantée (Beausoleil, ChordPro), en Dm, la tonalité de cette page : http://beausoleil.free.fr/GB.La.Princesse.Et.Le.Croque.php?titre=%28La%29+princesse+et+le+croque-notes&defaut=7
  * Les syllabes étirées sont écrites comme chantées (par exemple « li--[A]i-i-i-[Dm]te »), pour que chaque accord tombe sur la syllabe où il change.
