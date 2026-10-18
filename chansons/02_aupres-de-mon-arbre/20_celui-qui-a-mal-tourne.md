@@ -1,8 +1,5 @@
 ## Celui qui a mal tourné
 
----
-youTubeId: vx3SNjYcxoo
----
 [Am]Il y avait des [G]temps et des [C]temps,[E]
 [Am]Qu'je n'm'é[F7]tais pas ser[B7]vi d'mes dents[E7]
 [Am]Qu'je n'mettais plus d'vin [G]dans mon [C]eau,

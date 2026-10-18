@@ -1,8 +1,5 @@
 ## Le mécréant
 
----
-youTubeId: LWSEdlL8qIM
----
 [D]Est-il en notre temps, [E]rien de plus odi[A7]eux,
 [D]De plus dé[F#7]sespé[Bm]rant que [G]de n'pas [A7]croire en [D]Dieu
 [D]J'voudrais avoir la foi, [E]la foi d'mon charbon[A7]nier,
@@ -68,5 +65,5 @@ youTubeId: LWSEdlL8qIM
 
 ### Notes
 
- * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=LWSEdlL8qIM
+ * Vidéo : https://www.youtube.com/watch?v=LWSEdlL8qIM
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Mecreant.php?titre=%28Le%29+m%C3%A9cr%C3%A9ant

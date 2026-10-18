@@ -2,10 +2,6 @@
 
  * valse
 
----
-youTubeId: 7zB0ZK8Q5VE
----
-
 [Bm]Elle est à toi cet[F#7]te chanson,
 Toi l'Auvergnat qui [Bm]sans façon
 

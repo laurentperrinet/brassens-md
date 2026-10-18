@@ -1,8 +1,5 @@
 ## La princesse et le croque-notes
 
----
-youTubeId: xxLf7Gz7DRo
----
 [Dm]Jadis, au [A7]lieu du jar[Dm]din que voi[A7]ci,
 [Dm]C'était la [A7]zone et tout [Dm]ce qui s'en [A7]suit,
 [Dm]Des masur[C]es, des tau[F]dis inso[C]lites,

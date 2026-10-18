@@ -1,8 +1,5 @@
 ## La tondue
 
----
-youTubeId: mMh4Wi4VziI
----
 [G7]La [C]belle qui couchait a[G7]vec le roi de [C]Prusse,
 Avec le [G7]roi [C]de Prusse
 À [C]qui l'on a tondu le [A7]crâne rasi[Dm]bus,
@@ -64,5 +61,5 @@ C'est un ac[D9]cro[G7]che-[C]cœur.
 
 ### Notes
 
- * Vidéo (intégrée ci-dessus) : https://www.youtube.com/watch?v=mMh4Wi4VziI
+ * Vidéo : https://www.youtube.com/watch?v=mMh4Wi4VziI
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Tondue.php?titre=%28La%29+tondue
