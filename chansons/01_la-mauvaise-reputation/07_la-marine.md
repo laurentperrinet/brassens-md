@@ -4,7 +4,8 @@
 
 Accords :
 
- * Bb7 : xx3334
+ * Dm : x57765
+ * Bb7: xx3334
  * A7 : xx2223
 
 Grille:
