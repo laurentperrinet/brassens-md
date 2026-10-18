@@ -46,6 +46,7 @@ CLOTURE = '```'  # opens and closes a monospace block (a tablature), in the lyri
 ARTICLE = re.compile(r"^(?:l['’]|d['’]|(?:le|la|les|un|une|des|du)\s)", re.IGNORECASE)  # ignored when filing a title
 SOURCE = re.compile(r'^<!-- source: (.+) -->$')  # path of the song file, written by `assembler.py`
 EDITION = 'https://github.com/laurentperrinet/brassens-md/edit/master/{}'  # GitHub editor of a source file
+DEPOT = 'https://github.com/laurentperrinet/brassens-md'  # GitHub repository holding the source code
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
@@ -890,11 +891,14 @@ def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None
     """
     corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
     # the songs of an album are listed right below its title; the top of the page only lists
-    # the albums (anthology)
+    # the albums (anthology); the source code mention appears once, under the first title
+    premier = True
     for ancre, titre_album, niveau in table:
         if niveau == 1:
             titre_html = f'<h1 id="{ancre}">{en_ligne(titre_album)}</h1>'
-            corps = corps.replace(titre_html, f'{titre_html}\n{liste_chansons(table, ancre)}', 1)
+            mention = f'\n{mention_source()}' if premier else ''
+            premier = False
+            corps = corps.replace(titre_html, f'{titre_html}{mention}\n{liste_chansons(table, ancre)}', 1)
     destination.write_text(
         page(titre, f'{fil_ariane(table, accueil, album, toutes=toutes, anthologie=anthologie)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
@@ -917,6 +921,15 @@ def decouper_album(titre):
     """
     m = ALBUM.match(titre)
     return m.groups('') if m else ('', titre, '')
+
+
+def mention_source():
+    """Return the line linking to the source code repository, shown under the title of a page.
+
+    Returns:
+        HTML fragment (str).
+    """
+    return f'<p class="source">Code source : <a href="{DEPOT}">{DEPOT.removeprefix("https://")}</a></p>'
 
 
 def rendre_index(albums, destination, titre):
@@ -981,7 +994,7 @@ def rendre_index(albums, destination, titre):
                    + '\n</ul>' for l in lettres)
                + f'\n{haut}')
 
-    corps = '\n'.join([f'<h1>{html.escape(titre)}</h1>', navigation, niveau1, haut, niveau2, niveau3])
+    corps = '\n'.join([f'<h1>{html.escape(titre)}</h1>', mention_source(), navigation, niveau1, haut, niveau2, niveau3])
     destination.write_text(page(titre, corps), encoding='utf-8')
 
 
