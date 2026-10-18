@@ -1,5 +1,13 @@
 ## Comme une sœur
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * F#7 : 242320
+ * G : 320003
 
 [Bm]Comme une [Em]sœur, tê[A7]te cou[D]pée, tê[F#7]te cou[Bm]pée,
 Elle ressem[Em]blait à [A7]sa pou[D]pée, à [F#7]sa pou[Bm]pée,

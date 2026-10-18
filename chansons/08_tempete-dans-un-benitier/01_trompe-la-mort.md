@@ -1,5 +1,15 @@
 ## Trompe-la-mort
 
+Accords :
+
+ * Bm : x24432
+ * D : xx0232
+ * E : 022100
+ * G : 320003
+ * F#7 : 242320
+ * A7 : x02223
+ * B7 : x21202
+ * Em : 022000
 
 [Bm]Avec cette neige [D]à foi[E]son,
 [G]Qui coiffe, coiffe ma toi[F#7]son,

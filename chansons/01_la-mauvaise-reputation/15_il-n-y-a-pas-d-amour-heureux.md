@@ -1,5 +1,14 @@
 ## Il n'y a pas d'amour heureux
 
+Accords :
+
+ * Am : x02210
+ * Dm : xx0231
+ * E7 : 020100
+ * D : xx0232
+ * D#dim : xx1212
+ * G7 : 320001
+ * C : x32010
 
 [Am]Rien n'est jamais acquis à l'homme. Ni sa [Dm]force,
 Ni sa fai[E7]blesse ni son cœur. Et quand il [Am]croit

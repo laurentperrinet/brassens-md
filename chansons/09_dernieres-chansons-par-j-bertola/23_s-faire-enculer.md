@@ -1,5 +1,12 @@
 ## S'faire enculer
 
+Accords :
+
+ * D : xx0232
+ * F#7 : 242320
+ * Bm : x24432
+ * E7 : 020100
+ * A7 : x02223
 
 La [D]lune s'attris[F#7]tait. On comprend sa tris[Bm]tesse
 On [D]tapait plus de[F#7]dans. Elle s'demandait quand [Bm]est-ce

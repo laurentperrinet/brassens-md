@@ -1,5 +1,11 @@
 ## Le gorille
 
+Accords :
+
+ * D : xx0232
+ * A7 : x02223
+ * A : x02220
+
 [D]C'est à travers de larges grilles,
 que les femelles du can[A7]ton,
 Contemplaient un puissant gorille,

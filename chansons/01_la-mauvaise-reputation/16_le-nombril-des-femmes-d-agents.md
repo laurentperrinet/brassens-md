@@ -1,5 +1,14 @@
 ## Le nombril des femmes d'agents
 
+Accords :
+
+ * D : xx0232
+ * Bm7 : x24232
+ * Bb7 : x13131
+ * A7 : x02223
+ * E7 : 020100
+ * B7 : x21202
+ * Em : 022000
 
 [D]Voir le nombril d'la femme d'un flic,
 N'est certaine[Bm7]ment pas un spec[Bb7]ta[A7]cle

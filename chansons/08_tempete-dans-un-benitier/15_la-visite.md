@@ -1,5 +1,15 @@
 ## La visite
 
+Accords :
+
+ * Am : x02210
+ * D7 : xx0212
+ * G : 320003
+ * E7 : 020100
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
+ * A7 : x02223
 
 On n'é[Am]tait pas des Barbe-Bleue,
 Ni des [D7]pelés, ni des ga[G]leux,

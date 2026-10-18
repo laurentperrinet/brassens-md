@@ -1,5 +1,15 @@
 ## Oncle Archibald
 
+Accords :
+
+ * G : 320003
+ * C : x32010
+ * F : 133211
+ * C7 : x32310
+ * E7 : 020100
+ * Am : x02210
+ * Dm : xx0231
+ * G7 : 320001
 
 [G]O vous, les [C]arracheurs de dents,
 Tous les cafards, les charlatans,

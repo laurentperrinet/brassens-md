@@ -1,5 +1,17 @@
 ## Comme hier
 
+Accords :
+
+ * G : 320003
+ * G7 : 320001
+ * C : x32010
+ * Bb : x13331
+ * A : x02220
+ * D9 : x50552
+ * F : 133211
+ * D7 : xx0212
+ * A7 : x02223
+ * Dm : xx0231
 
 [G]Hé ! donne moi ta [G7]bouche, hé ! ma jolie [C]fraise !
 L'aube a mis des [G7]fraises plein notre hori[C]zon

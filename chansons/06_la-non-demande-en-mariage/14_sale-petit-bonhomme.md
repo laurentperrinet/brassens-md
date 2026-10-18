@@ -1,5 +1,12 @@
 ## Sale petit bonhomme
 
+Accords :
+
+ * Bm : x24432
+ * A : x02220
+ * F#7 : 242320
+ * G : 320003
+ * Em : 022000
 
 [Bm]Sale petit bonhomme, il ne portait plus d'ailes,
 Plus [A]de bandeau sur l'œil et d'un huissier modè[F#7]le,[Bm]

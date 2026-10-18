@@ -1,5 +1,16 @@
 ## Brave Margot
 
+Accords :
+
+ * C : x32010
+ * G7 : 320001
+ * Am : x02210
+ * D7 : xx0212
+ * Dm : xx0231
+ * Em : 022000
+ * Cdim : x31212
+ * A7 : x02223
+ * G#7 : 431112
 
 Margo[C]ton la jeune ber[G7]gère
 trouvant dans l'herbe un petit [C]chat,

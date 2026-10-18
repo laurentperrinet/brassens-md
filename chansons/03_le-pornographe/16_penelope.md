@@ -1,5 +1,18 @@
 ## Pénélope
 
+Accords :
+
+ * C : x32010
+ * Am : x02210
+ * F : 133211
+ * G7 : 320001
+ * Gm : 310033
+ * A7 : x02223
+ * Dm : xx0231
+ * E7 : 020100
+ * G : 320003
+ * D7 : xx0212
+
 Intro : [C] [Am] [F] [G7] [C] [Am] [F] [G7]
 
 
@@ -67,7 +80,7 @@ Qui bat la [F]campagne et ga[E7]lope
 [F]C'est la faute com[G7]mune [C]et le péché vé[Am]niel,[E7]
 C'est la face cachée de [Am]la lune de miel
 Et [F]la rançon [G]de Péné[Gm]lope...[A7]
-Et [D]la rançon [G7]de Péné[C]lope.
+Et [D7]la rançon [G7]de Péné[C]lope.
 
 ### Notes
 

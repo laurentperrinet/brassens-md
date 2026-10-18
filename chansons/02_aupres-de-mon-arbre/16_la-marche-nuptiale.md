@@ -1,5 +1,17 @@
 ## La marche nuptiale
 
+Accords :
+
+ * F#m : 244222
+ * E : 022100
+ * A : x02220
+ * D : xx0232
+ * E7 : 020100
+ * C#7 : x43104
+ * D7 : xx0212
+ * Bm : x24432
+ * G#7 : 431112
+ * F# : 244322
 
 Ma[F#m]ri[E]age d'a[A]mour, [F#m]mari[D]a[E7]ge d'ar[A]gent,
 J'ai [F#m]vu se mari[D]er tou[E7]tes sortes de [A]gens

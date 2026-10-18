@@ -1,5 +1,13 @@
 ## Le pornographe
 
+Accords :
+
+ * Am : x02210
+ * B7 : x21202
+ * E7 : 020100
+ * C : x32010
+ * Dm : xx0231
+ * G7 : 320001
 
 [Am]Autrefois, quand j'étais marmot,
 [B7]J'avais la phobie [E7]des gros mots

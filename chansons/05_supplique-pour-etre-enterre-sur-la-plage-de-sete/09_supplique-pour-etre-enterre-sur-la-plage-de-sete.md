@@ -1,5 +1,15 @@
 ## Supplique pour être enterré à la plage de Sète
 
+Accords :
+
+ * Bm : x24432
+ * F#7 : 242320
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * B7 : x21202
+ * G : 320003
+ * A : x02220
 
 [Bm]La Camarde qui ne m'a jamais pardonné,[F#7]
 D'avoir semé des fleurs dans les trous de son nez[Em]

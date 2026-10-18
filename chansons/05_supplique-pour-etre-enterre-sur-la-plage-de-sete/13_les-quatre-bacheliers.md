@@ -1,5 +1,19 @@
 ## Les quatre bacheliers
 
+Accords :
+
+ * A : x02220
+ * F#m : 244222
+ * Bm : x24432
+ * D : xx0232
+ * Bm7 : x24232
+ * E7 : 020100
+ * G7 : 320001
+ * C : x32010
+ * Am : x02210
+ * Dm : xx0231
+ * F : 133211
+ * Dm7 : xx0211
 
 [A]Nous étions qua[F#m]tre bache[Bm]liers,
 [D]S[F#m]ans ver[Bm7]go[E7]gne,

@@ -1,5 +1,13 @@
 ## Le boulevard du temps qui passe
 
+Accords :
+
+ * Dm : xx0231
+ * G7 : 320001
+ * C7 : x32310
+ * F7 : 131211
+ * Bb : x13331
+ * A7 : x02223
 
 [Dm]À peine sortis [G7]du berceau,
 [C7]Nous sommes allés [F7]faire un saut,

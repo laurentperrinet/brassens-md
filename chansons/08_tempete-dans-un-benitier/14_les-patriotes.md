@@ -1,5 +1,11 @@
 ## Les patriotes
 
+Accords :
+
+ * C : x32010
+ * E7 : 020100
+ * Am : x02210
+ * G7 : 320001
 
 Intro : [C] [E7] [Am] [G7]
 
@@ -55,3 +61,4 @@ Au [Am]monument au morts, chacun rê[E7]ve d'avoir son [Am]nom.[Am]
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Patriotes.php?titre=%28Les%29+patriotes
+ * Milhau (PDF 2017-11-29) : intro plus longue, `G7 C E7 Am G7 C E7 Am G7`.

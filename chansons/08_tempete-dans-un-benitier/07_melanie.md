@@ -1,5 +1,13 @@
 ## Mélanie
 
+Accords :
+
+ * C : x32010
+ * Am : x02210
+ * G7 : 320001
+ * A7 : x02223
+ * Dm : xx0231
+ * D7 : xx0212
 
 [C]Les chan[Am]sons de [G7]salle de [C]garde,
 Ont tou[Am]jours é[G7]té de mon [C]goût,

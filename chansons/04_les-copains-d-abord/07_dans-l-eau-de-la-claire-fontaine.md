@@ -1,5 +1,14 @@
 ## Dans l'eau de la claire fontaine
 
+Accords :
+
+ * C : x32010
+ * E7 : 020100
+ * Am : x02210
+ * C7 : x32310
+ * F : 133211
+ * G7 : 320001
+
 ```
 Arrangement de Maxime Le Forestier (tablature de Beausoleil, dans la tonalité du site) :
 E||-----------------------|------------------------||------------------------|

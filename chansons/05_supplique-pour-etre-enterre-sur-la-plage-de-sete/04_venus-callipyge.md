@@ -1,5 +1,22 @@
 ## Vénus callipyge
 
+Accords :
+
+ * F : 133211
+ * F7 : 131211
+ * Bb : x13331
+ * Gm7 : 313331
+ * C7 : x32310
+ * Dm : xx0231
+ * Gm : 310033
+ * C : x32010
+ * G7 : 320001
+ * A : x02220
+ * Am : x02210
+ * D : xx0232
+ * A7 : x02223
+ * G : 320003
+ * E : 022100
 
 [F]Que jamais l'art abstrait, [F7]qui sévit mainte[Bb]nant,
 [Gm7]N'enlève à [C7]vos a[F]ttraits [Dm]ce vo[Gm]lume [C7]éton[F]nant

@@ -1,5 +1,13 @@
 ## Le bulletin de santé
 
+Accords :
+
+ * A : x02220
+ * C# : x43121
+ * D : xx0232
+ * F#m : 244222
+ * B7 : x21202
+ * E7 : 020100
 
 [A]J'ai perdu mes bajoues, j'ai perdu ma bedai[C#]ne,
 Et, [D]ce, d'une façon si nette, si sou[C#]daine,

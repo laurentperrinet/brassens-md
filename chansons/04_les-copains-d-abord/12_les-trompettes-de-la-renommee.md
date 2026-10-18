@@ -1,5 +1,17 @@
 ## Les trompettes de la renommée
 
+Accords :
+
+ * Am : x02210
+ * B7 : x21202
+ * Em : 022000
+ * A7 : x02223
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
+ * F : 133211
+ * Bb : x13331
+ * E7 : 020100
 
 Je [Am]vivais à l'écart de [B7]la place pu[Em]blique,
 Se[A7]rein, contempla[Dm]tif, té[G7]nébreux, buco[C]lique

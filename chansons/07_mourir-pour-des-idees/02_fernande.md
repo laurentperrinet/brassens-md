@@ -1,5 +1,23 @@
 ## Fernande
 
+Accords :
+
+ * C : x32010
+ * C5+ : x32110
+ * F : 133211
+ * E7 : 020100
+ * Gm : 310033
+ * A7 : x02223
+ * Dm : xx0231
+ * D7 : xx0212
+ * G7 : 320001
+ * G : 320003
+ * Am : x02210
+ * D5+ : xx0332
+ * D : xx0232
+ * B7 : x21202
+ * Em7 : 020000
+ * Am7 : x02010
 
 U[C]ne manie de [C5+]vieux garçon,
 Moi [F]j'ai pris l'habi[E7]tude

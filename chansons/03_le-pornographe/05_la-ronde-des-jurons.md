@@ -1,5 +1,18 @@
 ## La ronde des jurons
 
+Accords :
+
+ * Bm : x24432
+ * F#7 : 242320
+ * A7 : x02223
+ * D : xx0232
+ * G : 320003
+ * B7 : x21202
+ * E : 022100
+ * C6 : x32210
+ * C#7 : x43104
+ * Em : 022000
+ * C : x32010
 
 Voi[Bm]ci la ron[F#7]de [Bm]des jurons,[F#7]
 Qui [Bm]chantaient clair, qui dansaient rond[A7]

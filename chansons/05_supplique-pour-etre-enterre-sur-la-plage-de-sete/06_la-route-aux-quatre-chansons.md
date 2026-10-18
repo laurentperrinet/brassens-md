@@ -1,5 +1,13 @@
 ## La route aux quatre chansons
 
+Accords :
+
+ * A : x02220
+ * E7 : 020100
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
+ * D : xx0232
 
 [A]J'ai pris la route [E7]de Dijon,
 Pour [A]voir un peu la [E7]Marjolaine,

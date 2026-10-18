@@ -1,5 +1,15 @@
 ## La fille à cent sous
 
+Accords :
+
+ * D : xx0232
+ * Em : 022000
+ * E7 : 020100
+ * A7 : x02223
+ * C7 : x32310
+ * F : 133211
+ * Gm : 310033
+ * G7 : 320001
 
 Du [D]temps que je vivais dans [Em]le troisième dessous,
 I[D]vrogne, immonde, in[E7]fâ[A7]me

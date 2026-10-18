@@ -1,5 +1,13 @@
 ## La tondue
 
+Accords :
+
+ * G7 : 320001
+ * C : x32010
+ * A7 : x02223
+ * Dm : xx0231
+ * D9 : x50552
+
 [G7]La [C]belle qui couchait a[G7]vec le roi de [C]Prusse,
 Avec le [G7]roi [C]de Prusse
 À [C]qui l'on a tondu le [A7]crâne rasi[Dm]bus,

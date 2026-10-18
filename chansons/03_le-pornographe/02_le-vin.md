@@ -1,5 +1,11 @@
 ## Le vin
 
+Accords :
+
+ * Bm : x24432
+ * C : x32010
+ * F#7 : 242320
+
 Intro : [Bm] [C] [F#7] [Bm]
 
 

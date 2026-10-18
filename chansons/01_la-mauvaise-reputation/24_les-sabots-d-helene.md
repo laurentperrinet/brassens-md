@@ -1,5 +1,14 @@
 ## Les sabots d'Hélène
 
+Accords :
+
+ * C : x32010
+ * F : 133211
+ * G7 : 320001
+ * Am : x02210
+ * Dm : xx0231
+ * E7 : 020100
+ * D7 : xx0212
 
 [C]Les sabots d'Hé[F]lène,
 [G7]étaient tout crot[C]tés,

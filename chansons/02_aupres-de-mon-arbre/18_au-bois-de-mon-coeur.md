@@ -1,5 +1,17 @@
 ## Au bois de mon cœur
 
+Accords :
+
+ * Am : x02210
+ * Am/C : x32210
+ * D : xx0232
+ * D#dim : xx1212
+ * E7 : 020100
+ * C : x32010
+ * Dm : xx0231
+ * G7 : 320001
+ * A7 : x02223
+ * F7 : 131211
 
 [Am]Au [Am/C]bois d'[D]Cla[D#dim]mart [E7]y'a des [D]petites fleurs,
 [C]Y'a des [E7]petites fleurs,

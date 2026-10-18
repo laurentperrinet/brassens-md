@@ -1,5 +1,18 @@
 ## Le vieux Léon
 
+Accords :
+
+ * Bm : x24432
+ * G : 320003
+ * A7 : x02223
+ * D : xx0232
+ * Am : x02210
+ * B7 : x21202
+ * Em : 022000
+ * C#7 : x43104
+ * F# : 244322
+ * F#7 : 242320
+ * C : x32010
 
 Y'a tout à [Bm]l'heure,
 Quinze ans d'mal[G]heur,

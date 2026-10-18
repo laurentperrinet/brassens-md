@@ -1,5 +1,13 @@
 ## Concurrence déloyale
 
+Accords :
+
+ * Am : x02210
+ * Dm : xx0231
+ * C : x32010
+ * D : xx0232
+ * E7 : 020100
+ * F : 133211
 
 Il y [Am]a péril en la demeure,
 De[Dm]puis que les femmes de bonnes mœurs,

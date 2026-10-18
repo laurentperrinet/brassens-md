@@ -1,5 +1,12 @@
 ## Le sceptique
 
+Accords :
+
+ * F#m : 244222
+ * Bm : x24432
+ * C#7 : x43104
+ * D : xx0232
+ * E : 022100
 
 I[F#m]mitant Courteline, un [Bm]sceptique notoire,
 Manifestant ainsi que [F#m]l'on me désabuse,

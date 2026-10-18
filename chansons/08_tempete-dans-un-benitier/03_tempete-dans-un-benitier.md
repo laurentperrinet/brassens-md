@@ -1,5 +1,23 @@
 ## Tempête dans un bénitier
 
+ * Capo 1 (ton original)
+
+Accords :
+
+ * D : xx0232
+ * G : 320003
+ * Bm : x24432
+ * F#7 : 242320
+ * E7 : 020100
+ * Am : x02210
+ * B7 : x21202
+ * A7 : x02223
+ * E : 022100
+ * A : x02220
+ * E5+ : 032110
+ * Adim : x01212
+ * F#m : 244222
+ * C#m : x42120
 
 [D]Tempête dans un bénitier,
 Le sou[G]verain [Bm]pontife ave[F#7]cque,[E7]

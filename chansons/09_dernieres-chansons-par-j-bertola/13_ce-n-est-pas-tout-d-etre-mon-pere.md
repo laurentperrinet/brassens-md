@@ -1,5 +1,13 @@
 ## Ce n'est pas tout d'être mon père
 
+Accords :
+
+ * D : xx0232
+ * A7 : x02223
+ * G : 320003
+ * Em : 022000
+ * E#dim : 123131
+ * B7 : x21202
 
 [D]Du fait qu'un couple de fief[A7]fés,
 [D]Minables a pris le ca[A7]fé

@@ -1,5 +1,16 @@
 ## Gastibelza "L'homme à la carabine"
 
+Accords :
+
+ * A : x02220
+ * D : xx0232
+ * E7 : 020100
+ * F#7 : 242320
+ * Bm : x24432
+ * C#7 : x43104
+ * F#m : 244222
+ * A+ : x03221
+ * A5+ : x03221
 
 [A]Gastibelza, l'homme à la cara[D]bine,
 [E7]Chantait ain[A]si:

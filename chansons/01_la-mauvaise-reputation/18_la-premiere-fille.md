@@ -1,9 +1,23 @@
 ## La première fille
 
+Accords :
+
+ * D : xx0232
+ * F#7 : 242320
+ * Bm : x24432
+ * G : 320003
+ * A : x02220
+ * E : 022100
+ * A7 : x02223
+ * Adim : x01212
+ * F#m : 244222
+ * C#m : x42120
+ * C#7 : x43104
+ * E7 : 020100
 
 [D]J'ai tout oublié des campagnes,
-[F#]d'Austerlitz et de Water[Bm]loo
-[G]D'Italie [A]de Prusse [F#]et d'Es[Bm]pagne,[E]
+[F#7]d'Austerlitz et de Water[Bm]loo
+[G]D'Italie [A]de Prusse [F#7]et d'Es[Bm]pagne,[E]
 de Pontoise [A7]et de Lander[D]neau[E]
 
 
@@ -26,8 +40,8 @@ Qu'on a pris [E7]dans ses [A]bras.
 
 
 [D]Ils sont partis à tire-d'aile,
-[F#]Mes souvenirs de la Su[Bm]zon,
-[G]Et ma mé[A]moire est [F#]infi[Bm]dèle,[E]
+[F#7]Mes souvenirs de la Su[Bm]zon,
+[G]Et ma mé[A]moire est [F#7]infi[Bm]dèle,[E]
 À Julie, [A7]Rosette ou Li[D]son[E] !
 
 
@@ -50,8 +64,8 @@ Qu'on a pris [E7]dans ses [A]bras.
 
 
 [D]Toi, qui m'as donné le baptême,
-[F#]D'amour et de septième [Bm]ciel,
-[G]Moi je te [A]garde et [F#]moi je [Bm]t'aime,[E]
+[F#7]D'amour et de septième [Bm]ciel,
+[G]Moi je te [A]garde et [F#7]moi je [Bm]t'aime,[E]
 Dernier ca[A7]deau du père [D]noël[E]
 
 

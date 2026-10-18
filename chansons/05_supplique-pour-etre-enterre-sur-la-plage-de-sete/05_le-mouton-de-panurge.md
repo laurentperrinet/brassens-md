@@ -1,5 +1,16 @@
 ## Le mouton de Panurge
 
+Accords :
+
+ * Bm : x24432
+ * E : 022100
+ * F#7 : 242320
+ * A7 : x02223
+ * D : xx0232
+ * D7 : xx0212
+ * G : 320003
+ * B7 : x21202
+ * Em : 022000
 
 Elle n'a [Bm]pas encor de [E]plumes,[F#7]
 La flèche qui [Bm]doit per[F#7]cer son [Bm]flanc[A7]

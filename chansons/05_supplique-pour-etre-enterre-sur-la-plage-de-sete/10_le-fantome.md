@@ -1,5 +1,15 @@
 ## Le fantôme
 
+Accords :
+
+ * G : 320003
+ * E7 : 020100
+ * Am : x02210
+ * D7 : xx0212
+ * G7 : 320001
+ * C : x32010
+ * B7 : x21202
+ * Em : 022000
 
 C'é[G]tait tremblant, c'était troublant,
 [E7]C'était vêtu d'un drap tout blanc,

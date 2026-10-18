@@ -5,7 +5,7 @@
 Accords :
 
  * Dm : x57765
- * Bb7: xx3334
+ * Bb7 : xx3334
  * A7 : xx2223
 
 Grille:
@@ -103,9 +103,9 @@ Coda :
 ### Notes
 
  * Leçon vidéo « La marine : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=7m2njJXYabA
- * Tablature de l'intro, d'après les captures de la partition (mélodie et rythme) : 3/4, 3 caractères par temps, numéros de case comme à capo 5, « (n) » note liée depuis la mesure précédente, « 5(65) » mordant sur le mi (mi fa mi) ; le fa♯ des deux premières mesures est bien noté sur la partition. Les accords sont sur les mêmes mesures qu'avant ; le A de « Bb A » est posé sur le 3ᵉ temps de la mesure du Bb (à ajuster)
  * Brassens jouant la chanson avec Pierre Nicolas et Joël Favreau (Antenne 2, 2 min 35, publié le 11 juillet 1978 d'après l'INA) : https://mediaclip.ina.fr/en/i07113479-georges-brassens-the-navy.html
- * Accords sur la syllabe chantée (Le Pornographe, Beausoleil, ChordPro), référence pour la position de chaque accord ci-dessus, par exemple raccour[C]ci, a[A]mours, ché[F]ries. Troisième ligne D7 Gm C7 F, C7 et un simple A, puis A Dm après le dernier Dm : http://beausoleil.free.fr/GB.La.Marine.php?titre=%28La%29+marine
+ * Tablature de l'intro, d'après les captures de la partition (mélodie et rythme) : 3/4, 3 caractères par temps, numéros de case comme à capo 5, « (n) » note liée depuis la mesure précédente, « 5(65) » mordant sur le mi (mi fa mi) ; le fa♯ des deux premières mesures est bien noté sur la partition. Les accords sont sur les mêmes mesures qu'avant ; le A de « Bb A » est posé sur le 3ᵉ temps de la mesure du Bb (à ajuster)
+ * Accords sur la syllabe chantée par exemple raccour[C]ci, a[A]mours, ché[F]ries. Troisième ligne D7 Gm C7 F, C7 et un simple A, puis A Dm après le dernier Dm : http://beausoleil.free.fr/GB.La.Marine.php?titre=%28La%29+marine
  * Grille d'accords en 3/4 (Partoch, swing71), une ou deux mesures par accord : D7 Gm C7 F sur la troisième ligne, A7 avant le Dm des deux premières lignes et à la fin du couplet. Reprise ici : le C7, ainsi que les Bb7 et A7 des 2ᵉ et 4ᵉ rangées de la grille en tête (le Bb7 et le A7 se retrouvent chez guitar-jam) : https://www.partoch.com/tablature/georges-brassens/la-marine-grille--3050343
  * Tablature et accords (Partoch, vince.r, niveau « Expert ») : motif de la main droite en 3/4, une basse sur le premier temps, puis l'accord sur les trois cordes aiguës aux deux temps suivants : https://www.partoch.com/tablature/georges-brassens/la-marine-3088036
  * Couplet 1 seul, transposé une tierce mineure plus haut (Fm au lieu de Dm), avec des accords de septième : C7 sur « chéries », Bb7 avant « Pour nos baisers » et A7 pour conclure ; utile pour comparer les voicings : https://guitar-jam.ca/partition/georges-brassens/la-marine

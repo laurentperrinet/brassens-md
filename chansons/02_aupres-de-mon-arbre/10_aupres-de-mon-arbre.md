@@ -1,5 +1,15 @@
 ## Auprès de mon arbre
 
+Accords :
+
+ * F : 133211
+ * D7 : xx0212
+ * G7 : 320001
+ * C7 : x32310
+ * Gm : 310033
+ * Dm : xx0231
+ * A7 : x02223
+ * C : x32010
 
 [F]J'ai plaqué mon [D7]chêne,
 [G7]Comme un sali[C7]gaud

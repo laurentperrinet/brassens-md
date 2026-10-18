@@ -1,5 +1,13 @@
 ## J'ai rendez-vous avec vous
 
+Accords :
+
+ * A : x02220
+ * E7 : 020100
+ * A5+ : x03221
+ * D : xx0232
+ * Bm : x24432
+ * F#7 : 242320
 
 [A]Monseigneur [E7]l'astre so[A]lai[E7]re,
 [A]Comme je n'l'ad[E7]mire pas beau[A]coup[A5+]

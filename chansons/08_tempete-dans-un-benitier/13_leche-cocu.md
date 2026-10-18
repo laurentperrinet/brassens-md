@@ -1,5 +1,15 @@
 ## Lèche-cocu
 
+Accords :
+
+ * C : x32010
+ * F : 133211
+ * G7 : 320001
+ * D7 : xx0212
+ * G : 320003
+ * A7 : x02223
+ * Fm : 133111
+ * Am6 : x02212
 
 [C]Comme [F]il chouchou[G7]tait les ma[C]ris,
 Qu'il [G7]les couvrait de flatte[C]ries,

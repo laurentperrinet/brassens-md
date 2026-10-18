@@ -1,5 +1,18 @@
 ## Quand les cons sont braves
 
+Accords :
+
+ * G : 320003
+ * D7 : xx0212
+ * C : x32010
+ * Am : x02210
+ * B7 : x21202
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * F#7 : 242320
+ * Bm : x24432
+ * E7 : 020100
 
 [G]Sans être tout à fait un imbé[D7]cile fi[G]ni,
 [C]Je n'ai rien du penseur, du phénix, [Am]du génie.

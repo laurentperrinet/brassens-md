@@ -1,11 +1,18 @@
 ## Pauvre Martin
 
+Accords :
+
+ * Am : x02210
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
+ * E7 : 020100
 
 [Am]Avec une bêche à l'épaule,
 Avec, à la lèvre, un doux chant,
 Avec, à la lèvre, un doux chant,
 Avec, à l'[Dm]âme, un [G7]grand cou[C]rage,
-Il s'en al[Dm]lait trimer aux [E7]champs !
+Il s'en al[Dm]lait trimer aux [E7]champs ! [e] [f#] [g#]
 [Am]Pauvre Mar[Dm]tin, [E7]pauvre mi[Am]sère,
 Creuse la [Dm]terre, [E7]creuse le [Am]temps !
 
@@ -48,3 +55,4 @@ Dors sous la [Dm]terre, [E7]dors sous le [Am]temps !
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Pauvre.Martin.php?titre=Pauvre+Martin
+ * Milhau (PDF 2017-11-29, en si mineur, un ton plus haut) : `Em7 F#7 f# g# a# Bm` sur « trimer aux champs » ; transposé ici `Dm E7 e f# g# Am` : une montée de trois notes avant le refrain.

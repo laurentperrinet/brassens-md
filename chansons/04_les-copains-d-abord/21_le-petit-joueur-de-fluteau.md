@@ -1,5 +1,17 @@
 ## Le petit joueur de flûteau
 
+Accords :
+
+ * D : xx0232
+ * Bm : x24432
+ * A7 : x02223
+ * Em : 022000
+ * Bm7 : x24232
+ * F#7 : 242320
+ * G : 320003
+ * Am6 : x02212
+ * B7 : x21202
+ * E7 : 020100
 
 [D]Le pe[Bm]tit jou[A7]eur de flû[D]teau,
 Me[Bm]nait la mu[A7]sique au châ[D]teau,

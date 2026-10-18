@@ -1,5 +1,16 @@
 ## Montélimar
 
+Accords :
+
+ * Bm : x24432
+ * F#7 : 242320
+ * G : 320003
+ * A7 : x02223
+ * D : xx0232
+ * B7 : x21202
+ * Em : 022000
+ * E : 022100
+ * A : x02220
 
 A[Bm]vec leurs [F#7]gniards,
 Mi[Bm]gnons mi[F#7]gnards,

@@ -1,5 +1,14 @@
 ## Entre l'Espagne et l'Italie
 
+Accords :
+
+ * A : x02220
+ * E7 : 020100
+ * A7 : x02223
+ * D : xx0232
+ * Bb : x13331
+ * Dm : xx0231
+ * Bm : x24432
 
 [A]Le géographe était [E7]pris de folie,
 Quand [A]il imagina de [E7]tendre,

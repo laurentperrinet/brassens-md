@@ -1,5 +1,26 @@
 ## Le temps ne fait rien à l'affaire
 
+Accords :
+
+ * Am : x02210
+ * G : 320003
+ * F : 133211
+ * E : 022100
+ * G7 : 320001
+ * C : x32010
+ * Em : 022000
+ * A7 : x02223
+ * Dm : xx0231
+ * A : x02220
+ * F#7 : 242320
+ * Bm : x24432
+ * E5+ : 032110
+ * A5+ : x03221
+ * D : xx0232
+ * Dm6 : xx0201
+ * E7 : 020100
+ * C# : x43121
+
 Intro : [Am] [G] [F] [E] (4 fois)
 
 
@@ -55,3 +76,4 @@ Refrain avec La Mi7 La à la fin
 
  * Leçon vidéo « Le temps ne fait rien à l'affaire : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=L81lQEB2-oE
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Temps.Ne.Fait.Rien.A.L.Affaire.php?titre=%28Le%29+temps+ne+fait+rien+%C3%A0+l%27affaire
+ * Milhau (PDF 2017-11-29) : fins de refrain en notes de basse, `E E5+ A g# f# e` après « Quand on est con, on est con », puis `Bm E Am g f e a g f e` la première fois et `Bm E A E A` la seconde sur « Vieux cons des neiges d'antan ».

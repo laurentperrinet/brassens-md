@@ -1,5 +1,14 @@
 ## La femme d'Hector
 
+Accords :
+
+ * D : xx0232
+ * A7 : x02223
+ * F#7 : 242320
+ * Bm : x24432
+ * G : 320003
+ * Em : 022000
+ * B7 : x21202
 
 Intro : [D] [A7] [D] [A7]
 

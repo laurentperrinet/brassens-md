@@ -1,5 +1,15 @@
 ## Le grand chêne
 
+Accords :
+
+ * D : xx0232
+ * Bm : x24432
+ * Em : 022000
+ * A7 : x02223
+ * D7 : xx0212
+ * G : 320003
+ * F#7 : 242320
+ * F# : 244322
 
 Il vi[D]vait en de[Bm]hors des che[Em]mins fores[A7]tiers,
 Ce [D]n'était nulle[Bm]ment un arbre [Em]de mé-[A7]tier,

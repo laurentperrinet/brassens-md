@@ -1,5 +1,14 @@
 ## Ballade des dames du temps de jadis
 
+Accords :
+
+ * A : x02220
+ * E7 : 020100
+ * D : xx0232
+ * C#m : x42120
+ * F#7 : 242320
+ * Bm : x24432
+ * A6 : x02222
 
 [A]Dictes-moy où, n'en quel pays,
 Est Flo[E7]ra, le belle rom[A]maine;

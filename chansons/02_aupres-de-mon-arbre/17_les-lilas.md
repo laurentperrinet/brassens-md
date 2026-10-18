@@ -1,5 +1,13 @@
 ## Les lilas
 
+Accords :
+
+ * D : xx0232
+ * Bm7 : x24232
+ * E7 : 020100
+ * A7 : x02223
+ * B7 : x21202
+ * G : 320003
 
 Quand je [D]vais chez la fleuriste,
 Je [Bm7]n'achète [E7]que des li[A7]las

@@ -1,5 +1,13 @@
 ## Retouches à un roman d'amour de quatre sous
 
+Accords :
+
+ * C#m : x42120
+ * G#m : 421104
+ * B7 : x21202
+ * E : 022100
+ * B : x24442
+ * G#7 : 431112
 
 [C#m]Madame, même à quatre [G#m]sous,
 Notre vieux [C#m]roman [G#m]d'amour [C#m]sou-[B7]

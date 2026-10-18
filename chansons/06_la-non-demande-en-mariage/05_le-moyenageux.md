@@ -1,5 +1,14 @@
 ## Le moyenâgeux
 
+Accords :
+
+ * F#m : 244222
+ * B7 : x21202
+ * E : 022100
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * C#7 : x43104
 
 Le seul [F#m]re[B7]proche, au [E]demeurant,
 Qu'aient pu [F#m]mé[B7]riter [E]mes parents,

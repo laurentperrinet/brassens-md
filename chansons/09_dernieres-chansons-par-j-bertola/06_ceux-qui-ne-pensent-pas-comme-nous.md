@@ -1,5 +1,14 @@
 ## Ceux qui ne pensent pas comme nous
 
+Accords :
+
+ * C : x32010
+ * A7 : x02223
+ * Dm : xx0231
+ * D7 : xx0212
+ * F : 133211
+ * G7 : 320001
+ * D : xx0232
 
 [C]Quand on [A7]n'est pas d'ac[Dm]cord avec [A7]le fort en [Dm]thème,
 Qui, chez [A7]les sorbon[Dm]nards, fit ses [A7]humani[Dm]tés,

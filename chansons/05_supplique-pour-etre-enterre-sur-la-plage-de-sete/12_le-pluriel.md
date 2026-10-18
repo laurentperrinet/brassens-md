@@ -1,5 +1,15 @@
 ## Le pluriel
 
+Accords :
+
+ * Em : 022000
+ * B7 : x21202
+ * A7 : x02223
+ * Dm : xx0231
+ * D7 : xx0212
+ * G7 : 320001
+ * C : x32010
+ * F : 133211
 
 « [Em]Cher monsieur, [B7]m'ont-ils dit, [Em]vous en ê[B7]tes un autre »,
 Lors[Em]que je refu[B7]sai de [Em]monter dans leur [A7]train.

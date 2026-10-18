@@ -1,5 +1,17 @@
 ## Je rejoindrai ma belle
 
+Accords :
+
+ * Am : x02210
+ * B7 : x21202
+ * E7 : 020100
+ * A7 : x02223
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
+ * D7 : xx0212
+ * C7 : x32310
+ * F : 133211
 
 À [Am]l'heure du ber[B7]ger,[E7]
 Au [A7]mépris du dan[Dm]ger,

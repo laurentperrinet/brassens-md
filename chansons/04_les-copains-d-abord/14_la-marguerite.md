@@ -1,5 +1,13 @@
 ## La marguerite
 
+Accords :
+
+ * A : x02220
+ * E7 : 020100
+ * A7 : x02223
+ * D : xx0232
+ * Bm : x24432
+ * F#7 : 242320
 
 [A]La petite,
 Marguerite,
@@ -18,7 +26,7 @@ De scandale,
 [A]Sur l'autel,
 [Bm]Indiscrète,
 [E7]Pâquerette,
-[A]D'où vient-elle ?
+[A]D'où vient-elle ? [e] [f#] [g#]
 
 
 [A]Dans l'enceinte,
@@ -103,3 +111,4 @@ Ne soupçonne,
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Marguerite.php?titre=%28La%29+marguerite
+ * Milhau (PDF 2017-11-29) : le dernier « D'où vient-elle ? » se termine par une montée de basse `A (e f# g#)`.

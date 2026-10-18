@@ -1,5 +1,17 @@
 ## L'Antéchrist
 
+Accords :
+
+ * C : x32010
+ * G7 : 320001
+ * Am : x02210
+ * E7 : 020100
+ * F : 133211
+ * B7 : x21202
+ * E : 022100
+ * A : x02220
+ * A7 : x02223
+ * F#dim : 201212
 
 Je [C]ne suis pas du tout, l'anté[G7]christ de ser[C]vice,
 J'ai [Am]même pour Jésus et pour [E7]son sacri[Am]fice

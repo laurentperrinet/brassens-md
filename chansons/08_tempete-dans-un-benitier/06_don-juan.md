@@ -1,5 +1,12 @@
 ## Don Juan
 
+Accords :
+
+ * Bm : x24432
+ * F#7 : 242320
+ * G : 320003
+ * D : xx0232
+ * E : 022100
 
 [Bm]Gloire à qui freine à [F#7]mort, [Bm]de peur d'écrabouil[F#7]ler,[Bm]
 Le hérisson per[F#7]du, [Bm]le crapaud fourvo[F#7]yé,[G]

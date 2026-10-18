@@ -1,5 +1,17 @@
 ## Le vingt-deux septembre
 
+Accords :
+
+ * D : xx0232
+ * F#7 : 242320
+ * Bm : x24432
+ * E7 : 020100
+ * A : x02220
+ * A7 : x02223
+ * Am7 : x02010
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
 
 [D]Un vingt-e-deux septembre au diable vous par[F#7]tîtes,[Bm]
 Et, depuis, chaque année, à la date sus[F#7]dite,

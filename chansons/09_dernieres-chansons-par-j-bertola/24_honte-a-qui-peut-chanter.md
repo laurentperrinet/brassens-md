@@ -1,5 +1,18 @@
 ## Honte à qui peut chanter
 
+Accords :
+
+ * Em : 022000
+ * F#7 : 242320
+ * B7 : x21202
+ * D7 : xx0212
+ * G : 320003
+ * D : xx0232
+ * C : x32010
+ * Dm : xx0231
+ * E7 : 020100
+ * Am : x02210
+ * G7 : 320001
 
 Intro : [Em] [F#7] [B7] [Em] [F#7] [B7]
 
@@ -12,7 +25,7 @@ Honte [Em]à qui malgré tout fre[F#7]donne des chan[B7]sons,
 
 [C]En mil neuf cent trente-sept que faisiez-[D7]vous mon [G]cher.
 [C]J'avais la fleur de l'âge et la tê[D7]te lé[G]gère,
-Et [Dm]l'Espagne flambait dans un grand [E]feu gré[Am]geois.
+Et [Dm]l'Espagne flambait dans un grand [E7]feu gré[Am]geois.
 Je chan[Em]tais, et j'étais pas [F#7]le seul « Y a d'la [B7]joie ».
 
 
@@ -21,7 +34,7 @@ Je chan[Em]tais, et j'étais pas [F#7]le seul « Y a d'la [B7]joie ».
 
 [C]Et dans l'année quarante mon cher que [D7]faisiez-[G]vous ?
 [C]Les teutons forçaient la frontière, et [D7]comme un [G]fou,
-Et [Dm]comme tout un chacun, vers le sud, [E]je fon[Am]çais,
+Et [Dm]comme tout un chacun, vers le sud, [E7]je fon[Am]çais,
 en chan[Em]tant « Tout ça, ça fait [F#7]d'excellents fran[B7]çais ».
 
 
@@ -30,7 +43,7 @@ en chan[Em]tant « Tout ça, ça fait [F#7]d'excellents fran[B7]çais ».
 
 [C]A l'heure de Pétain, à l'heure [D7]de La[G]val,
 [C]que faisiez-vous mon cher en plein dans [D7]la ra[G]fale ?
-Je [Dm]chantais, et les autres ne s'en [E]privaient [Am]pas,
+Je [Dm]chantais, et les autres ne s'en [E7]privaient [Am]pas,
 « Bel a[Em]mi », « Seul ce soir », « J'ai [F#7]pleuré sur tes [B7]pas ».
 
 
@@ -39,7 +52,7 @@ Je [Dm]chantais, et les autres ne s'en [E]privaient [Am]pas,
 
 [C]Mon cher, un peu plus tard, que faisait [D7]votre [G]glotte,
 [C]quand en Asie ça tombait comme à [D7]Grave[G]lotte ?
-Je [Dm]chantais, il me semble, ainsi que [E]tout un [Am]tas,
+Je [Dm]chantais, il me semble, ainsi que [E7]tout un [Am]tas,
 de gens, « [Em]Le déserteur », « Les [F#7]croix », « Quand un sol[B7]dat ».
 
 
@@ -48,7 +61,7 @@ de gens, « [Em]Le déserteur », « Les [F#7]croix », « Quand un sol[B7]dat �
 
 [C]Que faisiez-vous mon cher au temps de [D7]l'Algé[G]rie,
 [C]quand Brel était vivant qu'il habi[D7]tait pa[G]ris ?
-Je [Dm]chantais, quoique désolé par [E]ces com[Am]bats,
+Je [Dm]chantais, quoique désolé par [E7]ces com[Am]bats,
 « La valse [Em]à mille temps » et « [F#7]Ne me quitte [B7]pas ».
 
 
@@ -57,7 +70,7 @@ Je [Dm]chantais, quoique désolé par [E]ces com[Am]bats,
 
 [C]Le feu de la ville éternelle est [D7]éter[G]nel.
 [C]Si Dieu veut l'incendie, il veut les [D7]ritour[G7]nelles.
-À [Dm]qui fera-t-on croire que le bon [E]popu[Am]lo,
+À [Dm]qui fera-t-on croire que le bon [E7]popu[Am]lo,
 quand il [Em]chante quand même, est [F#7]un parfait sa[B7]laud ?
 
 

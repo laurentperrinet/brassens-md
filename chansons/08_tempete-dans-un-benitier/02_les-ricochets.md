@@ -1,5 +1,13 @@
 ## Les ricochets
 
+Accords :
+
+ * Am : x02210
+ * E7 : 020100
+ * A7 : x02223
+ * Dm : xx0231
+ * C : x32010
+ * F : 133211
 
 Lam / Mi7en alternance … Lam La7 / Rém en alternance … Sol Do Mi7 Lam Fa Mi7 Lam
 

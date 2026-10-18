@@ -1,4 +1,20 @@
 ## Je suis un voyou
+
+Accords :
+
+ * A : x02220
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * E7 : 020100
+ * F#7 : 242320
+ * Bm : x24432
+ * F#m : 244222
+ * G# : 431114
+ * C#m : x42120
+ * B7 : x21202
+ * E : 022100
+
 [A]Ci-gît [Em]au fond [A7]de mon [D]cœur une his[E7]toire an[A]cienne,
 Un fan[Em]tôme, un [A7]souve[D]nir d'une [E7]que j'ai[A]mais...
 

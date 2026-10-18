@@ -1,5 +1,15 @@
 ## Carcassonne
 
+Accords :
+
+ * D : xx0232
+ * Bm7 : x24232
+ * Bb7 : x13131
+ * A7 : x02223
+ * E7 : 020100
+ * B7 : x21202
+ * Em : 022000
+ * A5+ : x03221
 
 « [D]Je me fais vieux, j'ai soixante ans,
 J'ai travail[Bm7]lé toute ma [Bb7]vi[A7]e

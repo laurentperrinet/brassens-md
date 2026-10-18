@@ -1,5 +1,19 @@
 ## Les passantes
 
+Accords :
+
+ * Am : x02210
+ * G : 320003
+ * F : 133211
+ * E7 : 020100
+ * A7 : x02223
+ * D7/F# : 200212
+ * G7 : 320001
+ * C : x32010
+ * E : 022100
+ * A : x02220
+
+Intro : [Am] [G] [Am]
 
 [Am]Je [F]veux dédier ce po[E7]ème,
 À [A7]toutes les femmes qu'on [D7/F#]aime,
@@ -60,3 +74,4 @@ Que [Am]l'on n'a pas [G]su rete[E]nir[A]
 
  * Leçon vidéo « Les passantes : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=pEUSV71-zOY
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Passantes.php?titre=%28Les%29+passantes
+ * Milhau (PDF 2017-11-29) : la dernière ligne, « Que l'on n'a pas su retenir », est harmonisée `Am G F G A` (ici `Am G E A`).

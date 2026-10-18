@@ -1,5 +1,14 @@
 ## Le parapluie
 
+Accords :
+
+ * G : 320003
+ * E7 : 020100
+ * Am : x02210
+ * D : xx0232
+ * D/Bb : x10332
+ * D7 : xx0212
+ * Gdim : 312020
 
 Il pleuvait [G]fort sur la grand-route,
 Elle chemi[E7]nait sans para[Am]pluie

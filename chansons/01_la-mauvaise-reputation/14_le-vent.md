@@ -1,5 +1,12 @@
 ## Le vent
 
+Accords :
+
+ * Am : x02210
+ * F : 133211
+ * E7 : 020100
+ * Dm : xx0231
+ * B7 : x21202
 
 Si, par ha[Am]sard,
 Sur l'Pont des [F]Arts,

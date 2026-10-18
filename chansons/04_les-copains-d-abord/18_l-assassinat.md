@@ -1,5 +1,14 @@
 ## L'assassinat
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * F#7 : 242320
+ * A7 : x02223
+ * D : xx0232
+ * C : x32010
+ * F#m : 244222
 
 [Bm]C'est pas seu[Em]lement [F#7]à Pa[Bm]ris,
 Que le cri[A7]me fleu[D]rit

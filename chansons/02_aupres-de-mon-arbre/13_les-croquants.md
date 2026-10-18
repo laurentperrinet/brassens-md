@@ -1,5 +1,21 @@
 ## Les croquants
 
+Accords :
+
+ * Em : 022000
+ * D : xx0232
+ * Dm : xx0231
+ * C : x32010
+ * Cm : x31043
+ * B7 : x21202
+ * D7 : xx0212
+ * G : 320003
+ * F#7 : 242320
+ * E : 022100
+ * G#7 : 431112
+ * C#m : x42120
+ * A : x02220
+ * C#7 : x43104
 
 Les cro[Em]quants vont en ville, à che[D]val sur leurs sous,
 Ache[Dm]ter des pucelles aux sain[C]tes bonnes gens

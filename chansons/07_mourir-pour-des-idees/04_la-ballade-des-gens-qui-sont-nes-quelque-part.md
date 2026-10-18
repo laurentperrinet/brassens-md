@@ -1,5 +1,18 @@
 ## La ballade des gens qui sont nés quelque part
 
+Accords :
+
+ * D : xx0232
+ * A : x02220
+ * Bm : x24432
+ * G : 320003
+ * F#7 : 242320
+ * F# : 244322
+ * C7 : x32310
+ * F : 133211
+ * Bb : x13331
+ * A7 : x02223
+ * C : x32010
 
 [D]C'est vrai qu'ils sont plaisants tous [A]ces petits vil[D]lages,
 Tous [Bm]ces bourgs, ces hameaux, ces [G]lieux-dits, ces ci[A]tés

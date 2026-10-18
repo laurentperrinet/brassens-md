@@ -1,5 +1,15 @@
 ## Mourir pour des idées
 
+Accords :
+
+ * Am : x02210
+ * C : x32010
+ * D : xx0232
+ * E7 : 020100
+ * Dm : xx0231
+ * G7 : 320001
+ * F : 133211
+ * A : x02220
 
 [Am]Mourir pour [C]des i[D]dées, [Am]l'idée est [C]excel[D]lente,[Am]
 Moi j'ai fail[C]li mou[D]rir de [E7]ne l'avoir pas [Am]eue

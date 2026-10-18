@@ -1,5 +1,18 @@
 ## Le grand Pan
 
+Accords :
+
+ * Bm : x24432
+ * C : x32010
+ * F#7 : 242320
+ * C#7 : x43104
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * B7 : x21202
+ * A : x02220
+ * G : 320003
+ * Am : x02210
 
 [Bm]Du temps que régnait le Grand Pan,
 [C]Les dieux protégeaient les ivrognes

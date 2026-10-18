@@ -1,5 +1,15 @@
 ## Rien à jeter
 
+Accords :
+
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * E7 : 020100
+ * F#7 : 242320
+ * G : 320003
+ * Bm : x24432
+ * B7 : x21202
 
 [Em]Sans ces cheveux qui [A7]volent,
 J'au[D]rais, doréna[E7]vant,[A7]

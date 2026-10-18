@@ -1,5 +1,16 @@
 ## L'amandier
 
+Accords :
+
+ * Bm : x24432
+ * A7 : x02223
+ * D : xx0232
+ * G : 320003
+ * C : x32010
+ * F7 : 131211
+ * Bm7 : x24232
+ * Em : 022000
+ * F#7 : 242320
 
 J'avais [Bm]l'plus bel [A7]aman[D]dier,
 [G]Du quar[D]tier,
@@ -8,7 +19,7 @@ J'avais [Bm]l'plus bel [A7]aman[D]dier,
 Et, pour [Bm]la bou[A7]che gour[D]mande,
 Des fil[G]les du monde en[C]tier,
 J'faisais [F7]pousser des a[Bm7]mandes :
-Le beau, [Em]le jo[F#7]li mé[Bm]tier !
+Le beau, [Em]le jo[F#7]li mé[Bm]tier ! [a] [g] [f#] [b] [a] [g] [f#]
 
 
 Un é[Bm]cureuil [A7]en ju[D]pon,
@@ -68,3 +79,4 @@ Et mon [Em]amour [F#7]en même [Bm]temps[Bm] !
 
  * Leçon vidéo « L'amandier : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=qNHfs7bkvfQ
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Amandier.php?titre=%28L%27%29+amandier
+ * Fin du premier couplet, d'après le PDF d'Hervé Milhau (2017-11-29) : `Bm a g f# b a g f#`, une descente de notes de basse après le `Bm` (position des notes à régler à l'oreille).

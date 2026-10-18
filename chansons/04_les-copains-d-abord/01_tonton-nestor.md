@@ -1,5 +1,22 @@
 ## Tonton Nestor
 
+Accords :
+
+ * F : 133211
+ * C# : x43121
+ * Dm : xx0231
+ * A7 : x02223
+ * Bb : x13331
+ * G7 : 320001
+ * C7 : x32310
+ * C#5+ : x43221
+ * Ab : 431114
+ * E : 022100
+ * Fm : 133111
+ * Bb7 : x13131
+ * Eb7 : xx1023
+ * E5+ : 032110
+ * G# : 431114
 
 [F]Tonton Nestor,
 Vous eûtes tort,

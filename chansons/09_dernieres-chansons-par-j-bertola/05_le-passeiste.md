@@ -1,5 +1,19 @@
 ## Le passéiste
 
+Accords :
+
+ * D : xx0232
+ * Em : 022000
+ * Bm : x24432
+ * A7 : x02223
+ * D7 : xx0212
+ * G : 320003
+ * C#7 : x43104
+ * F#7 : 242320
+ * B7 : x21202
+ * E7 : 020100
+ * F#m : 244222
+ * E : 022100
 
 Tant [D]pis si j'ai l'air [Em]infantile,
 [Bm]Mais, par ma [A7]foi !

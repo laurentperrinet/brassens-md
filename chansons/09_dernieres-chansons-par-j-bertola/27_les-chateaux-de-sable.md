@@ -1,5 +1,14 @@
 ## Les châteaux de sable
 
+Accords :
+
+ * D : xx0232
+ * F#m : 244222
+ * Bm : x24432
+ * B7 : x21202
+ * Em : 022000
+ * Em5+ : 032010
+ * A : x02220
 
 Je chan[D]te la petite guerre,
 des bra[F#m]ves en[Bm]fants de na[F#m]guère,[Bm]

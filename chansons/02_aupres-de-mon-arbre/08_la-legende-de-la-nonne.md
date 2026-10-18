@@ -1,12 +1,20 @@
 ## La légende de la nonne
 
+Accords :
+
+ * G : 320003
+ * C : x32010
+ * D : xx0232
+ * D7 : xx0212
+ * E7 : 020100
+ * Am : x02210
 
 [G]Venez, vous dont l'œil étin[C]cel[G]le,
 Pour entendre [D]une his[D7]toire en[G]cor
 [G]Approchez : je vous dirai [C]cell[G]e,
 De Doña Padilla del [C]Flor
 Elle é[D]tait d'Alanje, où s'en[G]tassent,
-Les col[D]lines et les hal[E]liers
+Les col[D]lines et les hal[E7]liers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -16,7 +24,7 @@ Il en est [D]à Sé[D7]ville aus[G]si
 [G]Qui, pour la moindre séré[C]na[G]de,
 À l'amour demandent mer[C]ci
 Il en [D]est que parfois em[G]brassent,
-Le [D]soir, de hardis cava[E]liers
+Le [D]soir, de hardis cava[E7]liers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -26,7 +34,7 @@ Qu'il faut par[D]ler de [D7]Padil[G]la
 [G]Car jamais prunelle espa[C]gno[G]le,
 D'un feu plus chaste ne bril[C]la
 Elle fu[D]yait ceux qui pour[G]chassent,
-Les [D]filles sous les peu[E]pliers
+Les [D]filles sous les peu[E7]pliers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -36,7 +44,7 @@ Au grand sou[D]pir des [D7]gens du [G]lieu
 [G]Comme si, quand on n'est pas [C]lai[G]de,
 On avait droit d'épouser [C]Dieu
 Peu s'en fal[D]lut que ne pleu[G]rassent,
-Les sou[D]dards et les éco[E]liers
+Les sou[D]dards et les éco[E7]liers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -46,7 +54,7 @@ Amour en [D]son cœur [D7]s'instal[G]la
 [G]Un fier brigand de la con[C]tré[G]e,
 Vint alors et dit : « Me voi[C]là ! »
 Quelque[D]fois les brigands sur[G]passent,
-En au[D]dace les cheva[E]liers
+En au[D]dace les cheva[E7]liers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -56,7 +64,7 @@ La main plus [D]rude [D7]que le [G]gant
 [G]Mais l'amour a bien des mys[C]tè[G]res,
 Et la nonne aima le bri[C]gand
 On voit des [D]biches qui rem[G]placent,
-Leurs beaux [D]cerfs par des sangli[E]ers
+Leurs beaux [D]cerfs par des sangli[E7]ers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -66,7 +74,7 @@ Au brigand [D]par l'en[D7]fer con[G]duit
 [G]Aux pieds de Sainte Véro[C]ni[G]que,
 Donner un rendez-vous la [C]nuit
 À l'heure où [D]les corbeaux cro[G]assent,
-Volant [D]dans l'ombre par mil[E]liers
+Volant [D]dans l'ombre par mil[E7]liers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -76,7 +84,7 @@ La nonne ap[D]pela [D7]le ban[G]dit
 [G]Au lieu de la voix atten[C]du[G]e,
 C'est la foudre qui répon[C]dit
 Dieu vou[D]lu que ses coups frap[G]passent,
-Les a[D]mants par Satan li[E]és
+Les a[D]mants par Satan li[E7]és
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 
@@ -86,7 +94,7 @@ Saint Ilde[D]fonse, ab[D7]bé, vou[G]lut
 [G]Qu'afin de préserver du [C]vi[G]ce,
 Les vierges qui font leur sa[C]lut
 Les pri[D]eurs la racon[G]tassent,
-Dans tous [D]les couvents régu[E]liers
+Dans tous [D]les couvents régu[E7]liers
 En[Am]fants, voici [D]des bœufs qui [G]passent,
 Cachez vos [D]rouges tabli[G]ers
 

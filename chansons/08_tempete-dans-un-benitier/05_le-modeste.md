@@ -1,5 +1,13 @@
 ## Le modeste
 
+Accords :
+
+ * C : x32010
+ * Em/C : x32000
+ * C7 : x32310
+ * F : 133211
+ * Dm7 : xx0211
+ * G7 : 320001
 
 Les [C]pays, c'est pas ça qui [Em/C]manque,
 On [C7]vient au monde à Sala[F]manque,

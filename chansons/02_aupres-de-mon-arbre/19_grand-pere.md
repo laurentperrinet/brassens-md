@@ -1,5 +1,14 @@
 ## Grand-père
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * F#7 : 242320
+ * B7 : x21202
+ * E7 : 020100
 
 [Bm]Grand-Père suivait [Em]en chantant,
 [A7]La route qui mène [D]à cent ans

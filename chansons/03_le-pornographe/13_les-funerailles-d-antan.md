@@ -1,5 +1,25 @@
 ## Les funérailles d'antan
 
+Accords :
+
+ * F : 133211
+ * C7 : x32310
+ * F7 : 131211
+ * Bb : x13331
+ * G7 : 320001
+ * A7 : x02223
+ * Dm : xx0231
+ * Gm7 : 313331
+ * G : 320003
+ * C : x32010
+ * Dm7 : xx0211
+ * E7 : 020100
+ * Am : x02210
+ * D7 : xx0212
+ * B7 : x21202
+ * Em : 022000
+ * F#dim : 201212
+ * Gm : 310033
 
 [F]Jadis, les parents des morts vous mettaient dans le [C7]bain
 [F]De bonne grâce ils en f'saient profiter les co[C7]pains

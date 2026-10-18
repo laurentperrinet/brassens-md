@@ -1,5 +1,17 @@
 ## Celui qui a mal tourné
 
+Accords :
+
+ * Am : x02210
+ * G : 320003
+ * C : x32010
+ * E : 022100
+ * F7 : 131211
+ * B7 : x21202
+ * E7 : 020100
+ * G7 : 320001
+ * D7 : xx0212
+
 [Am]Il y avait des [G]temps et des [C]temps,[E]
 [Am]Qu'je n'm'é[F7]tais pas ser[B7]vi d'mes dents[E7]
 [Am]Qu'je n'mettais plus d'vin [G]dans mon [C]eau,

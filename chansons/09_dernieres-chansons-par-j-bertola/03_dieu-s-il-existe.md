@@ -1,5 +1,10 @@
 ## Dieu s'il existe
 
+Accords :
+
+ * B : x24442
+ * F#7 : 242320
+ * C#m : x42120
 
 Au [B]ciel de [F#7]qui se [B]moque-[C#m]t-on ?
 É[B]tait-ce u[C#m]tile [B]qu'un o[F#7]rage

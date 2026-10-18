@@ -1,5 +1,13 @@
 ## Bonhomme
 
+Accords :
+
+ * C : x32010
+ * F : 133211
+ * G7 : 320001
+ * D7 : xx0212
+ * Am : x02210
+ * C7 : x32310
 
 [C]Malgré la bi[F]se qui [C]mord,
 La pau[F]vre vieil[C]le de [G7]somme[C]

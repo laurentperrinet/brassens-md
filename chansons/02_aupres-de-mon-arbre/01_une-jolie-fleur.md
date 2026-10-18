@@ -1,5 +1,20 @@
 ## Une jolie fleur
 
+Accords :
+
+ * G : 320003
+ * A : x02220
+ * B : x24442
+ * B7 : x21202
+ * E : 022100
+ * A7 : x02223
+ * D : xx0232
+ * D7 : xx0212
+ * Gm : 310033
+ * E7 : 020100
+
+Intro : [G] [A] [B] [B7] [E] [A7] [D]
+
 [D]Jamais sur terre il n'y [A7]eut d'amoureux,
 Plus aveugles que moi dans tous les [D]âges
 [D7]Mais faut dire qu'je m'étais [G]crevé les yeux,

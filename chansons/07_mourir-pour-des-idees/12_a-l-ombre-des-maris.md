@@ -1,5 +1,11 @@
 ## À l'ombre des maris
 
+Accords :
+
+ * C : x32010
+ * G7 : 320001
+ * E7 : 020100
+ * Am : x02210
 
 [C]Les dragons de ver[G7]tu n'en [C]prennent pas om[G7]brage,
 [C]Si j'avais eu l'honneur de commander à [E7]bord

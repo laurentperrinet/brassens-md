@@ -1,5 +1,19 @@
 ## Maman, papa
 
+Accords :
+
+ * Eb : xx1043
+ * Ebdim : xx1212
+ * Bb7 : x13131
+ * Cm : x31043
+ * G : 320003
+ * Ab : 431114
+ * G7 : 320001
+ * Bdim : x20131
+ * C# : x43121
+ * C7 : x32310
+ * Fm7 : 131111
+ * B7 : x21202
 
 [Eb]Maman, [Ebdim]maman, [Eb]en faisant cet[Bb7]te chanson, [Cm]Maman,
 [G]maman, [Cm]je r'deviens pe[Ab]tit gar[G]çon

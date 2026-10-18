@@ -1,5 +1,18 @@
 ## La ballade des cimetières
 
+Accords :
+
+ * Am : x02210
+ * F : 133211
+ * E : 022100
+ * G7 : 320001
+ * C : x32010
+ * E7 : 020100
+ * A : x02220
+ * F#7 : 242320
+ * Bm : x24432
+ * A5+ : x03221
+ * D : xx0232
 
 La5 : 003220
 
@@ -7,11 +20,11 @@ La5 : 003220
 [Am]J'ai des tombeaux [F]en abon[E]dance,
 [Am]Des sépultures à [G7]discré[C]tion,[E7]
 [Am]Dans tout cim'tière [F]d'quelque impor[E]tance,
-[Am]J'ai ma petite concession.
+[Am]J'ai ma petite concession. [e] [f#] [g#]
 [Am]De l'humble tertre [F]au mauso[E]lée,
 [Am]Avec toujours quel[G7]qu'un de[C]dans,[E7]
 [Am]J'ai des p'tites bosses [F]plein les al[E]lées,
-[Am]Et je suis triste, cependant...
+[Am]Et je suis triste, cependant... [e] [f#] [g#]
 [A]Car je n'en ai [F#7]pas, [Bm]et ça m'a[E7]gace,
 [A]Et ça dé[F#7]frise [Bm]mon bla[E7]son,
 [A]Au cime[F#7]tière [Bm]du Montpar[E7]nasse,
@@ -81,3 +94,4 @@ De [Am]l'autre côté [E7]de sa mai[Am]son.
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Ballade.Des.Cimetieres.php?titre=%28La%29+ballade+des+cimeti%C3%A8res
+ * Milhau (PDF 2017-11-29) : une montée de basse `e f# g#` après les deux premiers vers de chaque couplet (`Am (e f# g#)`).

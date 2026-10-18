@@ -1,5 +1,11 @@
 ## Si seulement elle était jolie
 
+Accords :
+
+ * F : 133211
+ * A7 : x02223
+ * Dm : xx0231
+ * C7 : x32310
 
 Si seule[F]ment elle était jolie,
 Je dirais : « Tout n'est pas perdu.

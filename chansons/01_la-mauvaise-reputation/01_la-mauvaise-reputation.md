@@ -1,5 +1,13 @@
 ## La mauvaise réputation
 
+Accords :
+
+ * Am : x02210
+ * B7 : x21202
+ * E : 022100
+ * F : 133211
+ * E7 : 020100
+
 [Am]Au village, sans prétention,
 J'ai mauvai[B7]se ré[E]puta[Am]tion.
 [Am]Qu'je m'démène ou qu'je reste coi,

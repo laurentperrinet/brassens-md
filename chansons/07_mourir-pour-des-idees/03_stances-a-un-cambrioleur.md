@@ -1,5 +1,14 @@
 ## Stances à un cambrioleur
 
+Accords :
+
+ * Am : x02210
+ * Dm : xx0231
+ * Fdim : 123131
+ * G#dim : 420104
+ * Bdim : x20131
+ * E7 : 020100
+
 Intro : [Am]
 
 

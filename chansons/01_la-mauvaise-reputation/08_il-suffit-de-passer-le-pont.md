@@ -1,5 +1,22 @@
 ## Il suffit de passer le pont
 
+Accords :
+
+ * G : 320003
+ * C#dim : x42323
+ * Em : 022000
+ * Am : x02210
+ * D7 : xx0212
+ * D7/Bb : 634335
+ * G7 : 320001
+ * C : x32010
+ * Bb7 : x13131
+ * Eb : xx1043
+ * F7 : 131211
+ * Bb : x13331
+ * Edim : 012020
+ * Gm : 310033
+ * Cm : x31043
 
 Il suf[G]fit de [C#dim]passer le [G]pont,[Em]
 C'est [Am]tout de sui[D7]te l'aven[G]ture !

@@ -1,5 +1,16 @@
 ## Hécatombe
 
+Accords :
+
+ * C : x32010
+ * C7 : x32310
+ * F : 133211
+ * G7 : 320001
+ * Am : x02210
+ * D : xx0232
+ * G : 320003
+ * Dm : xx0231
+ * E : 022100
 
 [C]Au marché de Brive-la-Gaillarde,
 À pro[C7]pos de bottes d'oignons

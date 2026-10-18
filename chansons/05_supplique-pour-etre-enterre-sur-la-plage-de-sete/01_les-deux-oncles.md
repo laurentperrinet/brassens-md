@@ -1,5 +1,13 @@
 ## Les deux oncles
 
+Accords :
+
+ * D : xx0232
+ * C : x32010
+ * Em : 022000
+ * A7 : x02223
+
+Intro : [D] [C] [D] [C] [C]
 
 [Em]C'était l'on[D]cle Martin, c'é[Em]tait l'oncle Gas[D]ton,[Em]
 L'un aimait [D]les Tommies, l'autre [A7]aimait les Teu[D]tons

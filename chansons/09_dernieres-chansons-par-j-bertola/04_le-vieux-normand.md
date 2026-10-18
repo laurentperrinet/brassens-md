@@ -1,5 +1,16 @@
 ## Le vieux normand
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * E7 : 020100
+ * A : x02220
+ * A7 : x02223
+ * D : xx0232
+ * Am : x02210
+ * F#7 : 242320
+ * B7 : x21202
 
 [Bm]Depuis que je commence à faire [Em]de [E7]vieux [A]os,[A7]
 [D]Avide de conseils, sou[Em]vent un jouven[A]ceau

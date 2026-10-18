@@ -1,5 +1,16 @@
 ## Méchante avec de jolis seins
 
+Accords :
+
+ * Gm : 310033
+ * Dm : xx0231
+ * C7 : x32310
+ * F : 133211
+ * F7 : 131211
+ * Bb : x13331
+ * Cm : x31043
+ * Eb : xx1043
+ * Ebm : xx1342
 
 Hé[Gm]las, si j'avais [Dm]pu deviner [Gm]que vos avan[Dm]tages,
 Ca[Gm]chaient [C7]sournoise[F]ment, ma[Dm]dame, u[Gm]ne [C7]foison d'our[F7]sins,

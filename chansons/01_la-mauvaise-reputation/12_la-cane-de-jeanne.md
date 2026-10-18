@@ -1,5 +1,14 @@
 ## La cane de Jeanne
 
+Accords :
+
+ * E7 : 020100
+ * A : x02220
+ * F#m : 244222
+ * Bm : x24432
+ * G#7 : 431112
+ * C#m : x42120
+ * C#7 : x43104
 
 [E7]La [A]cane,[F#m]
 De [Bm]Jeanne,[E7]

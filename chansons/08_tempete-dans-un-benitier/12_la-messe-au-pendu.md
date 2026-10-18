@@ -1,5 +1,16 @@
 ## La messe au pendu
 
+Accords :
+
+ * C : x32010
+ * Dm : xx0231
+ * Am : x02210
+ * E7 : 020100
+ * G7 : 320001
+ * Gm6 : 310030
+ * A7 : x02223
+ * Em : 022000
+
 [C]Anticlérical [Dm]fanatique,
 [Am]Gros mangeur d'ecclé[E7]siastiques,[Am]
 Cet aveu me [G7]coûte beaucoup,[C]

@@ -1,5 +1,18 @@
 ## Clairette et la fourmi
 
+Accords :
+
+ * D : xx0232
+ * B7 : x21202
+ * Em : 022000
+ * Bm : x24432
+ * F#7 : 242320
+ * A : x02220
+ * A7 : x02223
+ * D7 : xx0212
+ * G : 320003
+ * E7 : 020100
+ * C : x32010
 
 [D]J'étais pas l'amant de Clai[B7]rette,
 Mais [Em]son [Bm]a[F#7]mi.

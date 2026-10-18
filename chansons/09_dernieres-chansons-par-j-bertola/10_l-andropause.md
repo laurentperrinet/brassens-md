@@ -1,5 +1,14 @@
 ## L'andropause
 
+Accords :
+
+ * G : 320003
+ * C : x32010
+ * A7 : x02223
+ * D : xx0232
+ * B7 : x21202
+ * Em : 022000
+ * D7 : xx0212
 
 [G]Aux quatre coins de France, émanant je suppose,
 [C]De maris rancuniers par [G]la haine con[A7]duits,[D]

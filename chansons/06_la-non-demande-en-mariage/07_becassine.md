@@ -1,5 +1,17 @@
 ## Bécassine
 
+Accords :
+
+ * Bm : x24432
+ * F#m : 244222
+ * A7 : x02223
+ * D : xx0232
+ * F#7 : 242320
+ * B7 : x21202
+ * Em : 022000
+ * G : 320003
+ * E : 022100
+ * F# : 244322
 
 [Bm]Un champ de blé pre[F#m]nait ra[Bm]cine,
 Sous la coif[A7]fe de Bécas[D]sine,[Bm]

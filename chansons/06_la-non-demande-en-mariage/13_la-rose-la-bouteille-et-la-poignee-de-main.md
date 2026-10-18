@@ -1,5 +1,20 @@
 ## La rose, la bouteille et la poignée de main
 
+Accords :
+
+ * Am : x02210
+ * F : 133211
+ * E7 : 020100
+ * A7 : x02223
+ * D7 : xx0212
+ * G7 : 320001
+ * C : x32010
+ * G : 320003
+ * Dm : xx0231
+ * B7 : x21202
+ * D : xx0232
+ * A : x02220
+
 Intro : [Am]
 
 

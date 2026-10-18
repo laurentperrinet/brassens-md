@@ -1,5 +1,15 @@
 ## Le pêcheur
 
+Accords :
+
+ * Bm : x24432
+ * G : 320003
+ * F#7 : 242320
+ * B7 : x21202
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * Em6 : 042000
 
 On di[Bm]rait un fanatique,
 De la cause halieutique,

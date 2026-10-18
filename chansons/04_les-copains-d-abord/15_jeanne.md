@@ -1,5 +1,14 @@
 ## Jeanne
 
+Accords :
+
+ * Em : 022000
+ * F#7 : 242320
+ * F# : 244322
+ * Bm : x24432
+ * A : x02220
+ * G : 320003
+ * C#7 : x43104
 
 Chez [Em]Jeanne, la [F#7]Jean[Em]ne,
 Son auberge est ou[F#]verte aux gens [Em]sans feu ni [F#]lieu

@@ -1,5 +1,19 @@
 ## Les copains d'abord
 
+Accords :
+
+ * F : 133211
+ * G7 : 320001
+ * Bb : x13331
+ * A7 : x02223
+ * Dm : xx0231
+ * C7 : x32310
+ * D : xx0232
+ * E7 : 020100
+ * G : 320003
+ * F#7 : 242320
+ * Bm : x24432
+
 Intro : [F] [G7] [Bb] [A7] [Dm] [G7] [C7] [F] [A7]
 
 Non ce n'é[D]tait pas le radeau,

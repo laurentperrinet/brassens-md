@@ -1,5 +1,13 @@
 ## Le roi
 
+Accords :
+
+ * Bm : x24432
+ * F#m : 244222
+ * Em : 022000
+ * A7 : x02223
+ * D : xx0232
+ * F#7 : 242320
 
 [Bm]Non certes, elle [F#m]n'est pas bâtie,
 [Bm]Non certes, elle [F#m]n'est pas bâ[Bm]tie

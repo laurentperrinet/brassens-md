@@ -1,5 +1,18 @@
 ## Les amoureux des bancs publics
 
+Accords :
+
+ * Bm : x24432
+ * F#7 : 242320
+ * Am : x02210
+ * E7 : 020100
+ * A7 : x02223
+ * D : xx0232
+ * Em : 022000
+ * A#dim : x12020
+ * C : x32010
+ * G : 320003
+ * D7 : xx0212
 
 [Bm]Les gens qui voient de travers,
 Pensent que les bancs [F#7]verts,

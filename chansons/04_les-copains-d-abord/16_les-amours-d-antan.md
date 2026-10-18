@@ -1,5 +1,16 @@
 ## Les amours d'antan
 
+Accords :
+
+ * D : xx0232
+ * C#m : x42120
+ * Em : 022000
+ * F#7 : 242320
+ * Bm : x24432
+ * E7 : 020100
+ * E/C : x32100
+ * A : x02220
+ * A7 : x02223
 
 [D]Moi, mes amours d'antan c'était de la gri[C#m]sette,
 Margot, la blanche [Em]caille, et Fanchon, la cou[F#7]sette,

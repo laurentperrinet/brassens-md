@@ -1,5 +1,16 @@
 ## Philistins
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * C#7 : x43104
+ * F#7 : 242320
+ * F# : 244322
+ * G : 320003
+ * A : x02220
+ * A7 : x02223
+ * D : xx0232
 
 Philis[Bm]tins, épi[Em]ciers,
 Tandis [Bm]que vous cares[C#7]siez,[F#7]

@@ -1,5 +1,12 @@
 ## Jehan l'Advenu
 
+Accords :
+
+ * C#m : x42120
+ * B : x24442
+ * A : x02220
+ * G# : 431114
+ * E : 022100
 
 [C#m]Puis il revint comme il était parti[B] :
 Bon pied, bon oeil, personne d'averti.[A]

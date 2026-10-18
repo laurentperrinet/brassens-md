@@ -1,5 +1,15 @@
 ## La non-demande en mariage
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * F#m : 244222
+ * A7 : x02223
+ * D : xx0232
+ * F#7 : 242320
+
+Intro : [Bm]
 
 [Em]Ma mie, de grâce, ne mettons,[Bm]
 Pas sous la gorge à Cupidon,[F#m]

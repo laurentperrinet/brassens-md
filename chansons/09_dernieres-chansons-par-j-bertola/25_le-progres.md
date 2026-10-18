@@ -1,5 +1,19 @@
 ## Le progrès
 
+Accords :
+
+ * C : x32010
+ * Em : 022000
+ * Am : x02210
+ * D7 : xx0212
+ * G : 320003
+ * E7 : 020100
+ * E : 022100
+ * B7 : x21202
+ * G7 : 320001
+ * C7 : x32310
+ * F : 133211
+ * Fm : 133111
 
 [C]Que le pro[Em]grès soit salu[Am]taire,[C]
 C'est enten[D7]du, c'est enten[G]du.[E7]

@@ -1,20 +1,31 @@
 ## Heureux qui comme Ulysse
 
+Accords :
+
+ * Bm : x24432
+ * E : 022100
+ * G : 320003
+ * A : x02220
+ * D : xx0232
+ * F#7 : 242320
+ * F#m : 244222
+ * C#7 : x43104
+ * A7 : x02223
 
 [Bm]Heureux qui comme U[E]lysse,
 A [G]fait un [A]beau vo[Bm]yage
 Heureux qui comme U[E]lysse,
 A [G]vu [A]cent pay[D]sages
-Et [F#]puis a retrou[Bm]vé,
-Après [F#]maintes traver[Bm]sées,
-Le pa[G]ys des [D]vertes an[F#]nées
+Et [F#7]puis a retrou[Bm]vé,
+Après [F#7]maintes traver[Bm]sées,
+Le pa[G]ys des [D]vertes an[F#7]nées
 Par un petit ma[Bm]tin d'été,
-Quand [F#]le soleil vous [Bm]chante au cœur
+Quand [F#7]le soleil vous [Bm]chante au cœur
 Qu'elle [E]est belle la [A]liberté,
 [F#m]La liber[C#7]té
 
 
-Quand [F#]on est mieux i[E]ci qu'ailleurs,
+Quand [F#7]on est mieux i[E]ci qu'ailleurs,
 Quand [D]un ami fait [A]le bonheur
 [D]Qu'elle est [Bm]belle [E]la liber[A]té,
 [E]La [C#7]liber[F#m]té
@@ -24,23 +35,23 @@ A[Bm]vec le soleil [E]et le vent,
 A[G]vec la [A]pluie et [Bm]le beau temps,
 On vivait bien con[E]tents,
 Mon che[G]val, [A]ma Pro[D]vence et moi,
-[Bm]Mon che[E]val, ma Pro[F#]vence et [Bm]moi
+[Bm]Mon che[E]val, ma Pro[F#7]vence et [Bm]moi
 
 
 Heu[Bm]reux qui comme U[E]lysse,
 A [G]fait un [A]beau vo[Bm]yage
 Heureux qui comme U[E]lysse,
 A [G]vu [A]cent pay[D]sages
-Et [F#]puis a retrou[Bm]vé,
-Après [F#]Maintes traver[Bm]sées,
-Le [G]pays des [D]vertes an[F#]nées
+Et [F#7]puis a retrou[Bm]vé,
+Après [F#7]Maintes traver[Bm]sées,
+Le [G]pays des [D]vertes an[F#7]nées
 Par un joli ma[Bm]tin d'été,
-Quand [F#]le soleil vous [Bm]chante au cœur
+Quand [F#7]le soleil vous [Bm]chante au cœur
 Qu'elle [E]est belle la [A7]liberté,
 [F#m]La liber[C#7]té
 
 
-Quand [F#]c'en est fini [E]des malheurs,
+Quand [F#7]c'en est fini [E]des malheurs,
 Quand [D]un ami sè[A]che vos pleurs
 [D]Qu'elle est [Bm]belle [E]la liber[A]té,
 [E]La [C#7]liber[F#m]té
@@ -50,7 +61,7 @@ Bat[Bm]tus de soleil [E]et de vent,
 Per[G]dus au [A]milieu [Bm]des étangs,
 On vivra bien con[E]tents,
 Mon che[G]val, [A]ma Ca[D]margue et moi,
-[Bm]Mon che[E]val, ma Ca[F#]margue et [Bm]moi
+[Bm]Mon che[E]val, ma Ca[F#7]margue et [Bm]moi
 
 ### Notes
 

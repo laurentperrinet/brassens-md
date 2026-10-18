@@ -1,5 +1,21 @@
 ## Corne d'aurochs
 
+Accords :
+
+ * A : x02220
+ * D : xx0232
+ * F#m : 244222
+ * Bm : x24432
+ * E : 022100
+ * A#7dim : x12020
+ * E7 : 020100
+ * G : 320003
+ * C : x32010
+ * F : 133211
+ * Am : x02210
+ * Dm : xx0231
+ * G7 : 320001
+ * C#7dim : x42323
 
 [A]Il avait nom corne d'Aurochs, au [D]gué, au [A]gué,
 Tout l'monde peut pas s'app'ler Durand, [F#m]au [Bm]gué, [E]au [A]gué

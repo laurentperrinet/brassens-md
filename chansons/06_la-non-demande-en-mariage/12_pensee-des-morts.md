@@ -1,5 +1,17 @@
 ## Pensée des morts
 
+Accords :
+
+ * A : x02220
+ * F#m : 244222
+ * E7 : 020100
+ * F#m7 : 242220
+ * C#m : x42120
+ * D : xx0232
+ * Em : 022000
+ * F#7 : 242320
+ * Bm : x24432
+ * E5+ : 032110
 
 [A]Voilà [F#m]les feuil[E7]les sans [A]sève,
 Qui [F#m7]tombent [E7]sur le ga[A]zon,

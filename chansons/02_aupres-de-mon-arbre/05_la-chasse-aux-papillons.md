@@ -1,5 +1,26 @@
 ## La chasse aux papillons
 
+Accords :
+
+ * A : x02220
+ * A5+ : x03221
+ * D : xx0232
+ * E7 : 020100
+ * F#7 : 242320
+ * Bm : x24432
+ * A7 : x02223
+ * F#m : 244222
+ * G#7 : 431112
+ * C# : x43121
+ * F : 133211
+ * Bb : x13331
+ * Bb5+ : x10332
+ * Eb : xx1043
+ * F7 : 131211
+ * Gm : 310033
+ * Cm : x31043
+ * G7 : 320001
+ * D7 : xx0212
 
 [A]Un bon petit diable à la [A5+]fleur de l'[D]âge,
 [E7]La jambe lé[A]gère et l'œil [D]po[A]lis[E7]son
@@ -29,7 +50,7 @@
 [F7]Qu'on ait vu d'mé[Bb]moire [Gm]de [Cm]pa[F7]pil[Bb]lon
 Un volcan dans [Eb]l'âme, ils r'vinrent [Bb]au vil[Eb]lage,
 [Bb]En se promet[Eb]tant d'aller [Bb]des mil[Eb]lions
-[G]Des milliards de [Cm]fois, et même [G]davan[Cm]tage,
+[G7]Des milliards de [Cm]fois, et même [G7]davan[Cm]tage,
 [Gm]Ensemble à la [A]chasse aux papil[D7]lons[F7]
 [Bb]Mais tant qu'ils s'aimeront, tant que [Bb5+]les nu[Eb]ages,
 [F7]Porteurs de cha[Bb]grins, les é[Gm]par[Cm]gne[F7]ront

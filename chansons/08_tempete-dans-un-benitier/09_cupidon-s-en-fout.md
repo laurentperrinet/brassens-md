@@ -1,5 +1,16 @@
 ## Cupidon s'en fout
 
+Accords :
+
+ * Am : x02210
+ * F : 133211
+ * G7 : 320001
+ * C : x32010
+ * D : xx0232
+ * E7 : 020100
+ * D7 : xx0212
+ * Bb : x13331
+
 Intro : [Am] [F] [G7] [C] [D] [E7] [Am] (2 fois)
 
 

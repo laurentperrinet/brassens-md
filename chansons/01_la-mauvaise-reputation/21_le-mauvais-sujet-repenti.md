@@ -1,5 +1,13 @@
 ## Le mauvais sujet repenti
 
+Accords :
+
+ * A : x02220
+ * C#m : x42120
+ * G# : 431114
+ * B7 : x21202
+ * D : xx0232
+ * E7 : 020100
 
 Elle avait [A]la taille faite au tour,
 Les hanches pleines,

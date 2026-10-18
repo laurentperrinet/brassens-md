@@ -1,5 +1,19 @@
 ## Ballade à la lune
 
+Accords :
+
+ * G7 : 320001
+ * C : x32010
+ * Am7 : x02010
+ * D : xx0232
+ * Am : x02210
+ * D7 : xx0212
+ * C7 : x32310
+ * F : 133211
+ * Dm7 : xx0211
+ * Dm : xx0231
+ * A7 : x02223
+ * E7 : 020100
 
 [G7]C'é[C]tait, dans [Am7]la nuit [D]bru[G7]ne,
 Sur [C]un clo[Am7]cher jau[D]ni,

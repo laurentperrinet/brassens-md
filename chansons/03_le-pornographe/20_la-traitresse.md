@@ -1,5 +1,17 @@
 ## La traîtresse
 
+Accords :
+
+ * Bm : x24432
+ * C#7 : x43104
+ * F#7 : 242320
+ * B7 : x21202
+ * Em : 022000
+ * D : xx0232
+ * G7 : 320001
+ * C : x32010
+ * E : 022100
+ * G#7 : 431112
 
 [Bm]J'en appelle à la [C#7]mort, je l'at[F#7]tends sans fra[Bm]yeur,
 Je n'tiens plus à la [C#7]vie, je cherche [F#7]un fosso[B7]yeur

@@ -1,5 +1,15 @@
 ## L'épave
 
+Accords :
+
+ * A : x02220
+ * A7 : x02223
+ * D : xx0232
+ * G#7 : 431112
+ * C#m : x42120
+ * F#7 : 242320
+ * B7 : x21202
+ * E7 : 020100
 
 J'en [A]appelle à Bacchus ! À Bacchus j'en appelle !
 Le tavernier du coin vient d'me la bailler belle.

@@ -1,5 +1,15 @@
 ## Marinette
 
+Accords :
+
+ * D : xx0232
+ * D#dim : xx1212
+ * Em7 : 020000
+ * A7 : x02223
+ * D7 : xx0212
+ * G : 320003
+ * B7 : x21202
+ * Em : 022000
 
 Intro : [D] [D#dim] [Em7] [A7] (2 fois) [D] [D#dim] [Em7]
 

@@ -1,5 +1,22 @@
 ## Le revenant
 
+Accords :
+
+ * A : x02220
+ * E7 : 020100
+ * C#7 : x43104
+ * F#m : 244222
+ * C#m : x42120
+ * D : xx0232
+ * B7 : x21202
+ * C : x32010
+ * Am : x02210
+ * Em : 022000
+ * F : 133211
+ * Fm : 133111
+ * G7 : 320001
+
+Intro : [A] [E7] [A] [E7]
 
 [E7]Calme, [A]confortable, offi[C#7]ciel,
 En un [F#m]mot résiden[C#m]tiel,

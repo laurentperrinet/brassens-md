@@ -1,5 +1,23 @@
 ## La complainte des filles de joie
 
+Accords :
+
+ * Am : x02210
+ * G : 320003
+ * F : 133211
+ * E7 : 020100
+ * Bm : x24432
+ * F# : 244322
+ * D : xx0232
+ * D#dim : xx1212
+ * Em : 022000
+ * A : x02220
+ * G7 : 320001
+ * F#7 : 242320
+ * C : x32010
+ * C#dim : x42323
+ * Dm7 : xx0211
+
 Intro : [Am] [G] [F] [E7] [Am] [G] [F] [E7]
 
 

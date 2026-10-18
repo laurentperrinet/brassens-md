@@ -1,5 +1,12 @@
 ## À l'ombre du cœur de ma mie
 
+Accords :
+
+ * Bm : x24432
+ * Em : 022000
+ * F#7 : 242320
+ * A : x02220
+ * D : xx0232
 
 [Bm]À l'ombre du cœur de ma [Em]mie,
 À l'ombre [Bm]du cœur [F#7]de ma [Bm]mie,

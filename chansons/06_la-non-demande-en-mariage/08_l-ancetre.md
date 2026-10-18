@@ -1,5 +1,22 @@
 ## L'ancêtre
 
+Accords :
+
+ * C : x32010
+ * G7 : 320001
+ * C7 : x32310
+ * F : 133211
+ * Fm : 133111
+ * Am : x02210
+ * D7 : xx0212
+ * A7 : x02223
+ * Gm : 310033
+ * F7 : 131211
+ * Bb : x13331
+ * Bbm : x13321
+ * Dm : xx0231
+ * Em : 022000
+ * E7 : 020100
 
 [C]Notre voisin l'an[G7]cêtre était [C7]un fier ga[F]lant,
 [Fm]Qui n'emmerdait per[Am]sonne avec [D7]sa barbe [G7]blanche,

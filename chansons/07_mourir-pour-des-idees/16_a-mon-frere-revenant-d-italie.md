@@ -1,5 +1,16 @@
 ## À mon frère revenant d'Italie
 
+Accords :
+
+ * C : x32010
+ * C7 : x32310
+ * F : 133211
+ * Fm : 133111
+ * E : 022100
+ * E7 : 020100
+ * Am : x02210
+ * D7 : xx0212
+ * G7 : 320001
 
 [C]Ainsi, mon cher, tu t'en re[C7]viens,[F]
 Du pays dont je me sou[Fm]viens,

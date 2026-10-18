@@ -1,5 +1,19 @@
 ## Embrasse les tous
 
+Accords :
+
+ * Dm : xx0231
+ * Bb : x13331
+ * A7 : x02223
+ * C7 : x32310
+ * F : 133211
+ * Am : x02210
+ * Gm : 310033
+ * E7 : 020100
+ * Bb7 : x13131
+ * D7 : xx0212
+ * G7 : 320001
+ * Gm7 : 313331
 
 [Dm]Tu n'es pas de celles qui meurent où elles s'attachent,
 [Bb]Tu frottes ta joue à toutes les moustaches,

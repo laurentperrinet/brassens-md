@@ -1,5 +1,11 @@
 ## La religieuse
 
+Accords :
+
+ * Am : x02210
+ * Dm : xx0231
+ * E7 : 020100
+ * D : xx0232
 
 [Am]Tous les [Dm]cœurs se rallient à [Am]sa blanche cornette,
 Si le [Dm]chrétien succombe à [Am]son charme insidieux,

@@ -1,16 +1,33 @@
 ## La mauvaise herbe
 
+Accords :
+
+ * D : xx0232
+ * Bm : x24432
+ * Em : 022000
+ * A7 : x02223
+ * D7 : xx0212
+ * G : 320003
+ * F#7 : 242320
+ * E7 : 020100
+ * C : x32010
+ * Bb7 : x13131
+ * Dm : xx0231
+ * Gm : 310033
+ * C7 : x32310
+ * F : 133211
+ * Gm6 : 310030
 
 Intro : [D] [Bm] [Em] [A7] [D] [Bm] [Em] [A7]
 
 
 Quand [D]jour de [Em]gloire est [A7]arrivé,[D]
 Comme [Bm]tous les au[Em]tres é[A7]taient crevés,[D]
-[D7]Moi seul con[G]nu le [F#]déshonneur,[Bm]
+[D7]Moi seul con[G]nu le [F#7]déshonneur,[Bm]
 De n'pas être [E7]mort [A7]au champ d'hon[D]neur.[C]
 
 
-[Bb][C][D][C][Bb][C]Je [Dm]suis d'la mauvaise herbe,
+[Bb7][C][D][C][Bb7][C]Je [Dm]suis d'la mauvaise herbe,
 braves gens, braves [A7]gens.
 C'est pas moi qu'on rumine
 et c'est pas moi qu'on met en [Dm]gerbe.
@@ -32,11 +49,11 @@ Et je m'demande pourquoi mon [Gm]Dieu,
 
 [Em][Bm]La [D]fille à [Em]tout l'monde [A7]a bon cœur,[D]
 Elle [Bm]me donne [Em]au pe[A7]tit bonheur,[D]
-Les [D7]p'tits bouts [G]d'sa peau [F#]bien ca[Bm]chés,
+Les [D7]p'tits bouts [G]d'sa peau [F#7]bien ca[Bm]chés,
 Que les au[E7]tres [A7]n'ont pas tou[D]ché.
 
 
-[Bb][C][D][C][Bb][C]Je [Dm]suis d'la mauvaise herbe,
+[Bb7][C][D][C][Bb7][C]Je [Dm]suis d'la mauvaise herbe,
 braves gens, braves [A7]gens.
 C'est pas moi qu'on rumine
 et c'est pas moi qu'on met en [Dm]gerbe,
@@ -58,11 +75,11 @@ Et je m'demande pourquoi mon [Gm]Dieu,
 
 [Em][Bm]Les [D]hommes [Em]sont faits [A7]nous dit-[D]on,
 Pour [Bm]vivre en ban[Em]de, [A7]comme les moutons.[D]
-[D7]Moi j'vis seul [G]et c'est [F#]pas demain,[Bm]
+[D7]Moi j'vis seul [G]et c'est [F#7]pas demain,[Bm]
 Que je suiv[E7]rai [A7]leur droit che[D]min.[C]
 
 
-[Bb][C][D][C][Bb][C]Je [Dm]suis d'la mauvaise herbe,
+[Bb7][C][D][C][Bb7][C]Je [Dm]suis d'la mauvaise herbe,
 braves gens, braves [A7]gens.
 C'est pas moi qu'on rumine
 et c'est pas moi qu'on met en [Dm]gerbe,

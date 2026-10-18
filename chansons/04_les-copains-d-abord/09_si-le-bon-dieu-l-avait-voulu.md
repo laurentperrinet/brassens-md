@@ -1,5 +1,16 @@
 ## Si le bon Dieu l'avait voulu
 
+Accords :
+
+ * Am : x02210
+ * G7 : 320001
+ * C : x32010
+ * F : 133211
+ * E7 : 020100
+ * A7 : x02223
+ * D : xx0232
+ * F7 : 131211
+ * Bb : x13331
 
 [Am]Si le Bon Dieu [G7]l'avait vou[C]lu
 - Lantur[Am]lurette, [G7]Lantur[C]lu,

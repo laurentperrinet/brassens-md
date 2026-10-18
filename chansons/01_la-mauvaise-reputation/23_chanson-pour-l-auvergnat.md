@@ -2,6 +2,19 @@
 
  * valse
 
+Accords :
+
+ * Bm : x24432
+ * F#7 : 242320
+ * A7 : x02223
+ * D : xx0232
+ * D7 : xx0212
+ * G : 320003
+ * Em : 022000
+ * C#7 : x43104
+ * E7 : 020100
+ * A : x02220
+
 [Bm]Elle est à toi cet[F#7]te chanson,
 Toi l'Auvergnat qui [Bm]sans façon
 

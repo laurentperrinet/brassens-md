@@ -1,5 +1,19 @@
 ## Entre la rue Didot et la rue de Vanves
 
+Accords :
+
+ * C : x32010
+ * A5+ : x03221
+ * Dm : xx0231
+ * G7 : 320001
+ * F : 133211
+ * D#dim : xx1212
+ * Em : 022000
+ * A7 : x02223
+ * Am : x02210
+ * D7 : xx0212
+
+Intro : [C] [A5+] [Dm] [G7]
 
 [C]Voici ce qu'il ad[Dm]vint, ja[G7]dis grosso mo[C]do,
 entre la rue Didot et la [G7]rue de [C]Vanves

@@ -1,5 +1,16 @@
 ## Le blason
 
+Accords :
+
+ * A : x02220
+ * F#m : 244222
+ * C#7 : x43104
+ * D : xx0232
+ * Em : 022000
+ * F#7 : 242320
+ * Bm : x24432
+ * E7 : 020100
+ * E5+ : 032110
 
 Ayant [A]avecques [F#m]lui tou[C#7]jours fait bon mé[D]nage,
 J'eusse [Em]aimé [F#7]célé[Bm]brer sans [F#m]être in[E7]conve[A]nant[E5+]

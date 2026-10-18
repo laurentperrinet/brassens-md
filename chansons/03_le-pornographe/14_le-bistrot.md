@@ -1,5 +1,11 @@
 ## Le bistrot
 
+Accords :
+
+ * Dm : xx0231
+ * C : x32010
+ * Bb : x13331
+ * A7 : x02223
 
 [Dm]Dans un coin pourri,
 [C]Du pauvre Paris,

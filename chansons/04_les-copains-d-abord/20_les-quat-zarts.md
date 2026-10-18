@@ -1,5 +1,17 @@
 ## Les quat'z'arts
 
+Accords :
+
+ * Dm : xx0231
+ * G7 : 320001
+ * C : x32010
+ * A7 : x02223
+ * Am : x02210
+ * D7 : xx0212
+ * C7 : x32310
+ * F : 133211
+ * B7 : x21202
+ * Em : 022000
 
 [Dm]Les copains affligés, les copines en pleurs,
 [G7]La boîte à Domi[C]nos, en[A7]fouie sous les [Dm]fleurs

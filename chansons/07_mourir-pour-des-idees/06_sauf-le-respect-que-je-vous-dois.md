@@ -1,5 +1,17 @@
 ## Sauf le respect que je vous dois
 
+Accords :
+
+ * D : xx0232
+ * A7 : x02223
+ * G : 320003
+ * F#m : 244222
+ * Em : 022000
+ * B7 : x21202
+ * Bm : x24432
+ * Bm7 : x24232
+ * Am : x02210
+ * E7 : 020100
 
 [D]Si vous y tenez tant parlez-moi des [A7]affaires pu[D]bliques,
 Encor que ce sujet me rende un [A7]peu mélanco[D]lique,

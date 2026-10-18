@@ -1,5 +1,13 @@
 ## La nymphomane
 
+Accords :
+
+ * D : xx0232
+ * A7 : x02223
+ * B : x24442
+ * F#7 : 242320
+ * C : x32010
+ * G7 : 320001
 
 [D]Mânes de mes aïeux, protégez-moi, bons mânes !
 [A7]Les joies charnelles me [D]perdent,

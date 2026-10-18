@@ -1,5 +1,17 @@
 ## Les casseuses
 
+Accords :
+
+ * Bb : x13331
+ * F7 : 131211
+ * C : x32010
+ * F : 133211
+ * A : x02220
+ * A7 : x02223
+ * G7 : 320001
+ * C7 : x32310
+ * Cm : x31043
+ * D7 : xx0212
 
 [Bb]Tant qu'elle a besoin [F7]du matou,
 Ma chatte est tendre comme [Bb]tout,
@@ -55,3 +67,4 @@ Y a guère que là qu'on est tran[Bb]quille.
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Casseuses.php?titre=%28Les%29+casseuses
+ * Milhau (PDF 2017-11-29) : capo I ; il écrit les formes sans le capo (`A E7 B7 …`), les accords ci-dessus sont les accords sonnants (un demi-ton plus haut).

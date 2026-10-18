@@ -1,5 +1,11 @@
 ## Le verger du roi Louis
 
+Accords :
+
+ * Em : 022000
+ * D : xx0232
+ * C : x32010
+ * Bm : x24432
 
 Sur [Em]ses larges [D]bras éten[Em]dus,
 La forêt où [D]s'éveille [Em]Flore,

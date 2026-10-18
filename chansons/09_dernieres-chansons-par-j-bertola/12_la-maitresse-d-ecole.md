@@ -1,5 +1,14 @@
 ## La maîtresse d'école
 
+Accords :
+
+ * Em : 022000
+ * Bm : x24432
+ * A7 : x02223
+ * D7 : xx0212
+ * G : 320003
+ * Am : x02210
+ * B7 : x21202
 
 (Le rythme est un peu inhabituel, mais il vaut la peine de s'y attarder)
 

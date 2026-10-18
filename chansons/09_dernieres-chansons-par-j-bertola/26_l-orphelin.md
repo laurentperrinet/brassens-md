@@ -1,5 +1,17 @@
 ## L'orphelin
 
+Accords :
+
+ * F#7 : 242320
+ * Bm : x24432
+ * A7 : x02223
+ * D : xx0232
+ * G : 320003
+ * C#7 : x43104
+ * F# : 244322
+ * F#m/Eb : xx1222
+ * F#m/B : x24222
+ * Em : 022000
 
 [F#7]Sauf dans le [Bm]cas fré[F#7]quent hé[Bm]las,
 [A7]Où ce sont [D]de vrais [A7]dégueu[D]lasses
@@ -72,3 +84,4 @@ Elles ne [Bm]se re[F#7]ferment [Bm]plus
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Orphelin.php?titre=%28L%27%29+orphelin
+ * Milhau (PDF 2017-11-29) : « ton Maxime Le Forestier – ton Bertola : capo II » ; il écrit les formes sans le capo (en la mineur), les accords ci-dessus sont les accords sonnants (un ton plus haut). Il note aussi la ligne de basse en notes isolées (`e f# g#`, `c`, `d#`, `b`…) et en accords sur basse (`E7/b`, `Am/c`, `G7/d`, `C/e`…) : voir le PDF.
