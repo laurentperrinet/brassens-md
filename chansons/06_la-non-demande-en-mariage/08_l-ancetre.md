@@ -20,7 +20,7 @@ Pour offrir [D7]à l'ancêtre, en signe d'affection,
 Hé[F]las ! les cara[C7]bins ne les [F7]ont pas re[Bb]çus,
 [Bbm]Les guitares sont res[Dm]tées à la [G7]porte co[C7]chère,
 Et [F]le dernier con[C7]cert de l'an[F7]cêtre dé[Bb]çu,
-[Bbm]Ce fut un pot-pour[F]ri de cantiques, peu[G7]chè[F]re[G7] !
+[Bbm]Ce fut un pot-pour[F]ri de cantiques, peu[G7]chè[C7]è[F]re[G7] !
 [C]Quand nous serons ancêtres,
 [C7]Du côté de Bicêtre,
 Pas de musique d'orgue, oh ! [F]non,
@@ -42,7 +42,7 @@ Pour offrir [D7]à l'ancêtre, en signe d'affection,
 Hé[F]las ! les cara[C7]bins ne les [F7]ont pas re[Bb]çus,
 [Bbm]Les litres sont res[Dm]tés à la [G7]porte co[C7]chère,
 Et [F]l' coup de l'étri[C]er de l'an[F7]cêtre dé[Bb]çu,
-[Bbm]Ce fut un grand ver[F]re d'eau bénite, peu[G7]chè[F]re[G7] !
+[Bbm]Ce fut un grand ver[F]re d'eau bénite, peu[G7]chè[C7]è[F]re[G7] !
 [C]Quand nous serons ancêtres,
 [C7]Du côté de Bicêtre,
 Ne nous faites pas boire, oh ! [F]non,
@@ -62,7 +62,7 @@ Pour offrir [D7]à l'ancêtre, en signe d'affection,
 Hé[F]las ! les cara[C7]bins ne les [F7]ont pas re[Bb]çues,
 [Bbm]Les belles sont res[Dm]tées à la [G7]porte co[C7]chère,
 Et [F]le dernier frou[C7]frou de l'an[F7]cêtre dé[Bb]çu,
-[Bbm]Ce fut celui d'un[F]e robe de sœur, peu[G7]chè[F]re[G7] !
+[Bbm]Ce fut celui d'un[F]e robe de sœur, peu[G7]chè[C7]è[F]re[G7] !
 [C]Quand nous serons ancêtres,
 [C7]Du côte de Bicêtre,
 Pas d'enfants de Marie, oh ! [F]non,
