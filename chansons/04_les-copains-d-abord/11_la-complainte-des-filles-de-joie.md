@@ -70,3 +70,4 @@ Cet[C]te putain [C#dim]dont tu ri[Dm7]goles
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Complainte.Des.Filles.De.Joie.php?titre=%28La%29+complainte+des+filles+de+joie
+ * L'intro et les derniers vers (Am, C, C#dim, Dm7) viennent de la transcription en la mineur de Beausoleil ; le reste suit sa transcription en si mineur. Beausoleil détaille aussi les tenues finales (G7, F#7, Bm).

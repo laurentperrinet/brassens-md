@@ -58,3 +58,4 @@ Et peut rap[D]por[C7]ter [B7]gros. (Bis)
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Tant.Qu.Il.Y.A.Des.Pyrenees.php?titre=Tant+qu%27il+y+a+des+Pyr%C3%A9n%C3%A9es
+ * Les reprises (Bis) sont abrégées ici ; Beausoleil les écrit en entier avec leurs accords (Dm A7 Dm, D G7 C). Son vers est « la fleur à la guitare », ici « la guitare en bataille ».

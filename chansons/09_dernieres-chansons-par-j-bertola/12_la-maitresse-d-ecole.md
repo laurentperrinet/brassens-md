@@ -63,3 +63,4 @@ La [Em]maîtresse avait [Bm]des méthodes [A7]avan[D7]cées.
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Maitresse.D.Ecole.php?titre=%28La%29+ma%C3%AEtresse+d%27%C3%A9cole
+ * Les reprises (bis) du refrain sont abrégées ici ; Beausoleil les écrit en entier avec leurs accords (A7 D7 G sur « Régna sur notre classe »).

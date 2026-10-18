@@ -65,3 +65,4 @@ pam [C#7]pam [F#7] [B]pam
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Colombine.php?titre=Colombine
+ * Couplets en la mineur (Am, Am+, Am6, G7), arrangement conservé ; Beausoleil reste en si majeur (B, G#m7, E, F#7, C#7) de l'intro à l'outro, avec les tenues finales détaillées.

@@ -44,3 +44,4 @@ fin comme intro.
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Marquise.php?titre=Marquise
+ * Les reprises (bis) et « fin comme intro » sont abrégées ici ; Beausoleil les écrit en entier avec leurs accords.

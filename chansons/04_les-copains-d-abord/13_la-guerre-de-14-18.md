@@ -75,3 +75,4 @@ C'est la [Em]guerre de qua[A7]torze-dix-[D]huit
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Guerre.De.14.18.php?titre=%28La%29+guerre+de+14-18
+ * Plusieurs lignes n'ont pas encore leurs accords. Dans le refrain, Beausoleil met D7 sur « Moi », puis G, A7, Bm7 sur « fère » et D sur « C'est la » (ici D tombe sur « fère ») ; il ajoute aussi un G avant le C#7 (« Je dé[G]clarerais [C#7]tout de [F#m]suite »).

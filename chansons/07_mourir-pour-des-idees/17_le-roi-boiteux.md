@@ -33,3 +33,4 @@ C'est que je boite des deux pieds. »
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Roi.Boiteux.php?titre=%28Le%29+roi+boiteux
+ * Arrangement en si majeur (B, E, F#7, C#m, G#7) différent de celui de Beausoleil, en do mineur (Cm, Bb, G#, G) ; les strophes à partir de « On vit bientôt le bénéfice » n'ont pas encore leurs accords.

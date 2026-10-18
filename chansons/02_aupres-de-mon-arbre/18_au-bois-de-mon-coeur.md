@@ -52,3 +52,4 @@ Mon [Am]enter[F7]re[E7]ment.
 
  * Leçon vidéo « Au bois de mon coeur : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=g6ZwQSq6YJU
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Au.Bois.D.Mon.Coeur.php?titre=Au+bois+de+mon+c%C5%93ur
+ * La coda (« La la la la, y'a des petites fleurs, y'a des copains au bois d'mon cœur ») est abrégée ici ; Beausoleil détaille ses accords (Am, Am/C, D, D#dim, E7, D, C, F, G, A).

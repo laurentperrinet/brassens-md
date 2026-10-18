@@ -73,3 +73,4 @@ Remplacez-nous les [Em]nonnes,
 ### Notes
 
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Ancetre.php?titre=%28L%27%29+anc%C3%AAtre
+ * Les reprises (bis) sont écrites en toutes lettres chez Beausoleil, avec leurs accords ; ici elles sont abrégées.
