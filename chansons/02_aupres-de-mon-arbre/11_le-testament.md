@@ -66,5 +66,5 @@ La fosse [Bb7]commune du [Eb]temps.[Bb7] (bis)
 
 ### Notes
 
- * Leçon vidéo « Le testament : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=nTM7IXp0Wvc
+ * Leçon vidéo « Le testament : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=nTM7IXp0Wvc
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Testament.php?titre=%28Le%29+testament

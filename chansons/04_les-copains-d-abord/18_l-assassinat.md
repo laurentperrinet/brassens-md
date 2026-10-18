@@ -90,5 +90,5 @@ De beaux as[Bm]sas[F#m]si[Bm]nats
 
 ### Notes
 
- * Leçon vidéo « L'assassinat : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=NCgmKkornLI
+ * Leçon vidéo « L'assassinat : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=NCgmKkornLI
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Assassinat.php?titre=%28L%27%29+assassinat

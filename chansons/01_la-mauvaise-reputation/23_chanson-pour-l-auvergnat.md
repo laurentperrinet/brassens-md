@@ -81,5 +81,5 @@ Au [F#7]père éter[Bm]nel
 
 ### Notes
 
- * Leçon vidéo « Chanson pour l'Auvergnat : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=7zB0ZK8Q5VE
+ * Leçon vidéo « Chanson pour l'Auvergnat : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=7zB0ZK8Q5VE
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Chanson.Pour.L.Auvergnat.php?titre=Chanson+pour+l%27auvergnat

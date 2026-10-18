@@ -43,5 +43,5 @@ Et c'est triste de n'être plus triste [E7]sans [A]vous
 
 ### Notes
 
- * Leçon vidéo « Le vingt-deux septembre : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=Ccs4ErN47I8
+ * Leçon vidéo « Le vingt-deux septembre : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=Ccs4ErN47I8
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Vingt.Deux.Septembre.php?titre=%28Le%29+vingt-deux+septembre

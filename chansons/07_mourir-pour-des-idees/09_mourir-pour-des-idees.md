@@ -68,5 +68,5 @@ D'accord, [F]mais de mort [E7]len[Am]te[A]
 
 ### Notes
 
- * Leçon vidéo « Mourir pour des idées : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=RnhRM3t8_Dc
+ * Leçon vidéo « Mourir pour des idées : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=RnhRM3t8_Dc
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Mourir.Pour.Des.Idees.php?titre=Mourir+pour+des+id%C3%A9es

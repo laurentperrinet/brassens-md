@@ -39,5 +39,5 @@ Un volcan dans [Eb]l'âme, ils r'vinrent [Bb]au vil[Eb]lage,
 
 ### Notes
 
- * Leçon vidéo « La chasse aux papillons : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=Iy3BxXyGyFg
+ * Leçon vidéo « La chasse aux papillons : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=Iy3BxXyGyFg
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Chasse.Aux.Papillons.php?titre=%28La%29+chasse+aux+papillons

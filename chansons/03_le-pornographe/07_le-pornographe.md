@@ -120,5 +120,5 @@ De la chan[Am]son
 
 ### Notes
 
- * Leçon vidéo « Le pornographe : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=QvHeJ-PgfYc
+ * Leçon vidéo « Le pornographe : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=QvHeJ-PgfYc
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Pornographe.php?titre=%28Le%29+pornographe

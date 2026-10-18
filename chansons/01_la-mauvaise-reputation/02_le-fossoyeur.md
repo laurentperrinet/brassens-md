@@ -36,5 +36,5 @@ J'suis un [F#m]pau[E]vre [D]fos[E]so[A]yeur
 
 ### Notes
 
- * Leçon vidéo « Le fossoyeur : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=NPGjDFyxl20
+ * Leçon vidéo « Le fossoyeur : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=NPGjDFyxl20
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Le.Fossoyeur.php?titre=%28Le%29+fossoyeur

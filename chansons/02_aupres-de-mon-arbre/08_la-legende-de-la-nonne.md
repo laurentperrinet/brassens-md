@@ -92,5 +92,5 @@ Cachez vos [D]rouges tabli[G]ers
 
 ### Notes
 
- * Leçon vidéo « La Légende de la Nonne : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=wgtLGdB6vv0
+ * Leçon vidéo « La Légende de la Nonne : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=wgtLGdB6vv0
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.La.Legende.De.La.Nonne.php?titre=%28La%29+l%C3%A9gende+de+la+nonne

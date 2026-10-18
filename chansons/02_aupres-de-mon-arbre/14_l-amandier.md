@@ -66,5 +66,5 @@ Et mon [Em]amour [F#7]en même [Bm]temps[Bm] !
 
 ### Notes
 
- * Leçon vidéo « L'amandier : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=qNHfs7bkvfQ
+ * Leçon vidéo « L'amandier : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=qNHfs7bkvfQ
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Amandier.php?titre=%28L%27%29+amandier

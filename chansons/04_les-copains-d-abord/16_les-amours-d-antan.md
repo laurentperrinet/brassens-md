@@ -40,5 +40,5 @@ Margot la blanche [Em]caille, et Fanchon, la cou[F#7]sette,
 
 ### Notes
 
- * Leçon vidéo « Les amours d'antan : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=G5bgxkb8NGQ
+ * Leçon vidéo « Les amours d'antan : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=G5bgxkb8NGQ
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Amours.D.Antan.php?titre=%28Les%29+amours+d%27antan

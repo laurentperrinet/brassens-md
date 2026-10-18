@@ -102,7 +102,7 @@ Coda :
 
 ### Notes
 
- * Leçon vidéo « La marine : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=7m2njJXYabA
+ * Leçon vidéo « La marine : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=7m2njJXYabA
  * Tablature de l'intro, d'après les captures de la partition (mélodie et rythme) : 3/4, 3 caractères par temps, numéros de case comme à capo 5, « (n) » note liée depuis la mesure précédente, « 5(65) » mordant sur le mi (mi fa mi) ; le fa♯ des deux premières mesures est bien noté sur la partition. Les accords sont sur les mêmes mesures qu'avant ; le A de « Bb A » est posé sur le 3ᵉ temps de la mesure du Bb (à ajuster)
  * Brassens jouant la chanson avec Pierre Nicolas et Joël Favreau (Antenne 2, 2 min 35, publié le 11 juillet 1978 d'après l'INA) : https://mediaclip.ina.fr/en/i07113479-georges-brassens-the-navy.html
  * Accords sur la syllabe chantée (Le Pornographe, Beausoleil, ChordPro), référence pour la position de chaque accord ci-dessus, par exemple raccour[C]ci, a[A]mours, ché[F]ries. Troisième ligne D7 Gm C7 F, C7 et un simple A, puis A Dm après le dernier Dm : http://beausoleil.free.fr/GB.La.Marine.php?titre=%28La%29+marine
@@ -110,7 +110,7 @@ Coda :
  * Tablature et accords (Partoch, vince.r, niveau « Expert ») : motif de la main droite en 3/4, une basse sur le premier temps, puis l'accord sur les trois cordes aiguës aux deux temps suivants : https://www.partoch.com/tablature/georges-brassens/la-marine-3088036
  * Couplet 1 seul, transposé une tierce mineure plus haut (Fm au lieu de Dm), avec des accords de septième : C7 sur « chéries », Bb7 avant « Pour nos baisers » et A7 pour conclure ; utile pour comparer les voicings : https://guitar-jam.ca/partition/georges-brassens/la-marine
  * Solo simplifié (Partoch, michael-2792, niveau « Difficile ») : sans compte, le site n'en montre qu'un extrait, qui n'est donc pas reproduit ici : https://www.partoch.com/tablature/georges-brassens/la-marine-solo-simplifie--3080717
- * Accompagnement de Brassens, la « pompe » (pouce sur la basse, puis les doigts sur l'accord), enseigné sur une autre chanson (page non lue en détail) : https://www.hguitare.com/communaute/blog/actualites/nouveau-morceau-les-copains-dabord-accompagnement-georges-brassens
+ * Accompagnement de Brassens, la « pompe » (pouce sur la basse, puis les doigts sur l'accord), enseigné sur une autre chanson : https://www.hguitare.com/communaute/blog/actualites/nouveau-morceau-les-copains-dabord-accompagnement-georges-brassens
  * Conseils de guitaristes pour débutants (fil de forum, pas une méthode) : https://www.guitareclassiquedelcamp.com/viewtopic.php?t=23868
  * Partition de la mélodie d'introduction, avec sa tablature, en 3/4 : https://www.traditionalmusic.co.uk/folk-music-guitar-tab/png/la_marine_(g_brassens).png mais fausses notes et transposée
  * Fiche d'accords et tablature (intro et cinq couplets, en Dm) : https://tabs.ultimate-guitar.com/tab/georges-brassens/la-marine-chords-2504772 (copie : https://accordsetparoles.fr/georges-brassens/la-marine-accords/). Sa troisième ligne a un Bb en plus (D7 Gm Bb C F) que les quatre autres fiches n'ont pas : il n'est donc pas repris dans les couplets.

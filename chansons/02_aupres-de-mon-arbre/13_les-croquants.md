@@ -50,5 +50,5 @@ Les cro[F#7]quants, ça [B7]tombe des [E]nues
 
 ### Notes
 
- * Leçon vidéo « Les croquants : le tuto guitare », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=6IBx-YLwqoE
+ * Leçon vidéo « Les croquants : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=6IBx-YLwqoE
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Croquants.php?titre=%28Les%29+croquants

@@ -58,5 +58,5 @@ Que [Am]l'on n'a pas [G]su rete[E]nir[A]
 
 ### Notes
 
- * Leçon vidéo « Les passantes : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=pEUSV71-zOY
+ * Leçon vidéo « Les passantes : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=pEUSV71-zOY
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Passantes.php?titre=%28Les%29+passantes

@@ -114,5 +114,5 @@ bien [Em]mal embou[Am]chées
 
 ### Notes
 
- * Leçon vidéo « Les trompettes de la renommée : le tuto », de la chaîne Brassens à la guitare (titre et chaîne vérifiés, contenu non visionné) : https://www.youtube.com/watch?v=IJt6s0Qo3pM
+ * Leçon vidéo « Les trompettes de la renommée : le tuto », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=IJt6s0Qo3pM
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.Les.Trompettes.De.La.Renommee.php?titre=%28Les%29+trompettes+de+la+renomm%C3%A9e
