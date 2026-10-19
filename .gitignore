@@ -2,3 +2,6 @@ construction/
 .DS_Store
 __pycache__/
 docs/
+brassens-e4-best-off.pdf
+Brassens, une page, une chanson.pdf
+.gitignore
