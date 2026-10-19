@@ -30,6 +30,7 @@ import html
 import re
 import sys
 import unicodedata
+from pathlib import Path
 from urllib.parse import quote
 
 from diagrammes_accords import ACCORDS, FICHE, nom_fichier
@@ -52,6 +53,9 @@ DEPOT = 'https://github.com/laurentperrinet/brassens-md'  # GitHub repository ho
 YOUTUBE = 'https://www.youtube.com/watch?v={}'
 YOUTUBE_INTEGRE = 'https://www.youtube-nocookie.com/embed/{}'
 YOUTUBE_IDENTIFIANT = re.compile(r'^[\w-]{11}$')  # a valid video identifier is 11 characters long
+
+FAVICON_SVG = Path(__file__).parent / 'favicon.svg'  # a cat in front of a guitar
+
 
 def en_rang(texte):
     """Return the HTML of one grid row: one box per bar, chords sharing the beats.
@@ -102,25 +106,41 @@ def en_accords_grille(mot):
         f'<b class="chord">{html.escape(accord)}</b>' for accord in mot.split('~'))
 
 
+def favicon_uri():
+    """Renvoie l'icône du site sous forme d'URI `data:`, pour que chaque page reste autonome.
+
+    Returns:
+        L'URI `data:image/svg+xml,` suivie du contenu de `favicon.svg`, encodé en pourcentage (str).
+    """
+    return 'data:image/svg+xml,' + quote(FAVICON_SVG.read_text(encoding='utf8'))
+
+
+def favicon():
+    """Return the `<link>` tag that gives every page its icon.
+
+    Returns:
+        The `<link rel="icon">` tag (str).
+    """
+    return f'<link rel="icon" type="image/svg+xml" href="{favicon_uri()}">\n'
+
+
 CSS = """\
-body { font-family: Georgia, serif; line-height: 1.5; max-width: 50em; margin: 0 auto; padding: 0 1em; }
+/* Theme: follows the system unless the settings menu forces one (`data-theme`, set before painting
+   by `AMORCE_THEME`). `color-scheme` drives both `light-dark()` and the Canvas/CanvasText colours. */
+:root { color-scheme: light dark; }
+:root[data-theme="light"] { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+body { font-family: Georgia, serif; line-height: 1.4; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
-.stanza { margin-bottom: 1.2em; break-inside: avoid; }
-.line { margin: 0; line-height: 2.1; }
+.stanza { margin-bottom: 0.7em; break-inside: avoid; }
+/* tight leading: just enough room above each line for the chords set in the <rt> annotations */
+.line { margin: 0; line-height: 1.75; }
 .section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
            text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
            color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
-.accords { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.6em 1.1em; margin: 1.4em 0 1em; }
-.accords .section { align-self: center; }
-figure.accord { margin: 0; text-align: center; line-height: 1.25; }
-figure.accord img { display: block; height: 5em; width: auto; margin: 0 auto 0.2em; }
-figure.accord .nom { display: block; font-weight: 700; }
-.frettes { display: block; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.7em;
-           letter-spacing: 0.08em; opacity: 0.7; }
-body.transpose .accords { display: none; }  /* a fingering is only valid in the original key */
 .section.grille { color: light-dark(#1d6b3c, #8fd6a6); background: light-dark(#dcf3e3, #1d3b2a); }
 .grille-accords { margin: 0.2em 0 0.8em; }
 .rang { display: flex; align-items: stretch; margin-top: -1px; }
@@ -145,6 +165,14 @@ pre.tab { margin: 0.8em 0; overflow-x: auto; font-family: ui-monospace, Menlo, C
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
           color: light-dark(#5a3a00, #ffd966); background: light-dark(#fff1b8, #4a3a10);
           padding: 0 0.3em; border-radius: 0.25em; }
+.accords { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.6em 1.1em; margin: 1.4em 0 1em; }
+.accords .section { align-self: center; }
+figure.accord { margin: 0; text-align: center; line-height: 1.25; }
+figure.accord img { display: block; height: 5em; width: auto; margin: 0 auto 0.2em; }
+figure.accord .nom { display: block; font-weight: 700; }
+.frettes { display: block; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.7em;
+           letter-spacing: 0.08em; opacity: 0.7; }
+body.transpose .accords { display: none; }  /* a fingering is only valid in the original key */
 html { scroll-behavior: smooth; }
 h1, h2 { scroll-margin-top: 3.5em; }
 h2 { display: flex; align-items: baseline; gap: 0.4em; }
@@ -164,7 +192,16 @@ h2 { display: flex; align-items: baseline; gap: 0.4em; }
        cursor: pointer; opacity: 0.55; }
 .fav:hover, .fav[aria-pressed="true"] { opacity: 1; }
 .fav[aria-pressed="true"] { color: goldenrod; }
-.az summary { cursor: pointer; font-weight: bold; white-space: nowrap; }
+.az summary, .reglages summary { cursor: pointer; font-weight: bold; white-space: nowrap; }
+.reglages summary { font-size: 1.2em; line-height: 1; }
+.reglages-panel { position: absolute; top: 100%; right: 0; display: grid; grid-template-columns: auto auto;
+                  align-items: center; gap: 0.5em 1em; padding: 0.6em 0.9em; background: Canvas; white-space: nowrap;
+                  border: 1px solid color-mix(in srgb, CanvasText 20%, transparent); box-shadow: 0 0.4em 1em rgb(0 0 0 / 0.2); }
+.reglage-valeur { display: flex; align-items: center; gap: 0.3em; justify-self: end; }
+.reglages-panel button { font: inherit; min-width: 2em; cursor: pointer; }
+.reglages-panel button[aria-pressed="true"]:not(.plein-ecran) { font-weight: bold; background: Highlight; color: HighlightText; }
+.reglages-panel output { min-width: 3.5em; text-align: center; }
+main { font-size: calc(1em * var(--echelle, 1)); }  /* text size chosen in the bar; the bar itself keeps its size */
 .az-panel { position: absolute; top: 100%; right: 0; width: min(100%, 32em); max-height: 70vh; overflow-y: auto;
             box-sizing: border-box; padding: 0.5em 0.8em; background: Canvas;
             border: 1px solid color-mix(in srgb, CanvasText 20%, transparent); box-shadow: 0 0.4em 1em rgb(0 0 0 / 0.2); }
@@ -175,6 +212,9 @@ h2 { display: flex; align-items: baseline; gap: 0.4em; }
 .az-group ul { columns: 1; margin: 0; padding-left: 1.2em; list-style: none; }
 .az-panel[data-js] .az-group[hidden] { display: none; }
 /* home page: three levels (albums, songs per album, alphabetical index) */
+.entete { display: flex; align-items: center; justify-content: space-between; gap: 1em; }
+.pastille { flex: none; width: 3.6em; height: 3.6em; padding: 0.8em; border-radius: 50%;  /* padding >= 0.2 x width keeps the corners of the drawing inside the disc */
+            background: color-mix(in srgb, CanvasText 8%, transparent); }
 .niveaux { position: sticky; top: 0; z-index: 1; display: flex; flex-wrap: wrap; gap: 0.3em 1.2em; padding: 0.4em 0;
            background: Canvas; border-bottom: 1px solid color-mix(in srgb, CanvasText 20%, transparent); }
 .niveaux a, .haut a { text-decoration: none; }
@@ -192,19 +232,43 @@ h2[id], h3[id] { scroll-margin-top: 3em; }
 .az-index { columns: 2 18em; list-style: none; padding: 0; }
 .az-index li { break-inside: avoid; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must not inflate text on rotation */
-/* Touch devices (phone, tablet): fill the screen instead of keeping a desktop-width column. The
-   text size follows the viewport width, and in landscape the stanzas flow into as many columns
-   as fit. Headings, video, notes and lists span all the columns, so reading order stays
-   top to bottom within each section. */
+/* Touch devices (phone, tablet) and full-screen mode (`html.ample`, set by the settings menu's button): fill
+   the screen instead of keeping a desktop-width column, with the narrowest side margins so that a
+   whole song has the best chance to fit on one page. The text size follows the viewport width.
+   The stanzas of a song (`.strophes`) form a grid read row by row (A B C D / E F G), hence a grid
+   and not CSS columns (those would read A C E G / B D F). The number of columns is the widest the
+   screen allows (`--c2`, `--c3`, `--c4`, the balanced counts computed by `regrouper_strophes`). */
 @media (pointer: coarse) {
   body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
-         padding-left: max(1em, env(safe-area-inset-left));
-         padding-right: max(1em, env(safe-area-inset-right)); }
+         padding-left: max(0.4em, env(safe-area-inset-left));
+         padding-right: max(0.4em, env(safe-area-inset-right)); }
 }
-@media (pointer: coarse) and (orientation: landscape) {
-  main { column-width: 20em; column-gap: 2.5em; column-rule: 1px solid color-mix(in srgb, CanvasText 15%, transparent); }
-  main > h1, main > h2, main > hr, main > ul, main > nav, main > .video, main > .notes, main > pre.tab { column-span: all; }
+html.ample body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
+                  padding-left: max(0.4em, env(safe-area-inset-left));
+                  padding-right: max(0.4em, env(safe-area-inset-right)); }
+@media (pointer: coarse) and (min-width: 640px) {
+  .strophes { display: grid; grid-template-columns: repeat(var(--c2), minmax(0, 1fr)); column-gap: 1.5em; }
 }
+@media (pointer: coarse) and (min-width: 960px) {
+  .strophes { grid-template-columns: repeat(var(--c3), minmax(0, 1fr)); }
+}
+@media (pointer: coarse) and (min-width: 1280px) {
+  .strophes { grid-template-columns: repeat(var(--c4), minmax(0, 1fr)); }
+}
+@media (min-width: 640px) {
+  html.ample .strophes { display: grid; grid-template-columns: repeat(var(--c2), minmax(0, 1fr)); column-gap: 1.5em; }
+}
+@media (min-width: 960px) {
+  html.ample .strophes { grid-template-columns: repeat(var(--c3), minmax(0, 1fr)); }
+}
+@media (min-width: 1280px) {
+  html.ample .strophes { grid-template-columns: repeat(var(--c4), minmax(0, 1fr)); }
+}
+.plein-ecran { padding: 0.2em 0.4em; line-height: 1; cursor: pointer; color: inherit; background: none; border: 0; }
+.plein-ecran svg { width: 1.2em; height: 1.2em; display: block; fill: none; stroke: currentColor; stroke-width: 2;
+                   stroke-linecap: round; stroke-linejoin: round; }
+.plein-ecran .reduire, .plein-ecran[aria-pressed="true"] .agrandir { display: none; }
+.plein-ecran[aria-pressed="true"] .reduire { display: block; }
 """
 
 # Transposition runs in the browser: the site is static, so no server can recompute chords.
@@ -219,27 +283,38 @@ SCRIPT = """\
   var SEMITONES = {C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11};
   var MAJOR = ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B'];
   var MINOR = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
-  var NOTE = /^([A-G])([#b]?)/;
+  var NOTE = /^([A-Ga-g])([#b]?)/;
 
   function pitch(name) {
     var m = NOTE.exec(name);
     var accidental = m[2] === '#' ? 1 : m[2] === 'b' ? -1 : 0;
-    return (SEMITONES[m[1]] + accidental + 12) % 12;
+    return (SEMITONES[m[1].toUpperCase()] + accidental + 12) % 12;
   }
 
-  function spell(pc, sharp) {
-    return (sharp ? MINOR : MAJOR)[(pc % 12 + 12) % 12];
+  // a note written in lowercase (`a`, `f#`, `eb`, or the bass of `Am/c`) stays lowercase
+  function spell(pc, sharp, lower) {
+    var name = (sharp ? MINOR : MAJOR)[(pc % 12 + 12) % 12];
+    return lower ? name.toLowerCase() : name;
   }
 
-  // `Bb7sus4`, `F#m7`, `Ab6/9`, `G#dim/F`: a root, a quality, then an optional bass note
+  function isLower(note) {
+    return note.charAt(0) === note.charAt(0).toLowerCase();
+  }
+
+  // `Bb7sus4`, `F#m7`, `Ab6/9`, `G#dim/F`, `D#°`, `Am/c`, a lone note `f#` or a bare bass `/b`
   function transposeChord(chord, shift) {
-    var m = NOTE.exec(chord);
-    if (!m) return chord;
-    var root = m[0], rest = chord.slice(root.length);
-    var sharp = /^(m(?!aj)|dim)/.test(rest);
-    var bass = /\\/([A-G][#b]?)$/.exec(rest);
-    var out = spell(pitch(root) + shift, sharp) + rest.replace(/\\/([A-G][#b]?)$/, '');
-    if (bass) out += '/' + spell(pitch(bass[1]) + shift, sharp);
+    var bass = /\\/([A-Ga-g][#b]?)$/.exec(chord);
+    var body = bass ? chord.slice(0, bass.index) : chord;
+    var m = NOTE.exec(body);
+    var sharp = false, out = '';
+    if (m) {
+      var rest = body.slice(m[0].length);
+      sharp = /^(m(?!aj)|dim|°)/.test(rest);
+      out = spell(pitch(m[0]) + shift, sharp, isLower(m[0])) + rest;
+    } else if (body) {
+      return chord;
+    }
+    if (bass) out += '/' + spell(pitch(bass[1]) + shift, sharp, isLower(bass[1]));
     return out;
   }
 
@@ -250,9 +325,10 @@ SCRIPT = """\
       if (!el.hasAttribute('data-original')) el.setAttribute('data-original', el.textContent);
       el.textContent = transposeChord(el.getAttribute('data-original'), shift);
     });
-    document.body.classList.toggle('transpose', shift !== 0);  // hides the diagrams
+    document.body.classList.toggle('transpose', shift !== 0);  // hides the fingerings
   });
   document.getElementById('transpose').hidden = false;  // without JavaScript, stays hidden
+  document.getElementById('transpose-etiquette').hidden = false;
 })();
 """
 
@@ -391,6 +467,107 @@ SCRIPT_FAVORIS = """\
 })();
 """
 
+# Text size: the settings menu (⚙) of the bar scales the songs (`main`) through the `--echelle` custom
+# property, so chords (in `em`) follow the lyrics and a long song can be made to fit one page.
+# The choice lives in `localStorage` and is shared by every page of the site.
+SCRIPT_TAILLE = """\
+(function () {
+  var menu = document.getElementById('taille');
+  if (!menu) return;
+  var KEY = 'brassens-taille', MIN = 40, MAX = 200, STEP = 10;
+  var output = document.getElementById('taille-valeur');
+  var percent = 100;
+  try { percent = parseInt(localStorage.getItem(KEY), 10) || 100; } catch (e) {}
+
+  function apply(value) {
+    percent = Math.min(MAX, Math.max(MIN, value));
+    document.documentElement.style.setProperty('--echelle', percent / 100);
+    output.textContent = percent + ' %';
+    document.getElementById('taille-moins').disabled = percent <= MIN;
+    document.getElementById('taille-plus').disabled = percent >= MAX;
+    try { localStorage.setItem(KEY, percent); } catch (e) {}
+    window.dispatchEvent(new Event('scroll'));  // the breadcrumb depends on the layout
+  }
+
+  document.getElementById('taille-moins').addEventListener('click', function () { apply(percent - STEP); });
+  document.getElementById('taille-plus').addEventListener('click', function () { apply(percent + STEP); });
+  document.getElementById('taille-raz').addEventListener('click', function () { apply(100); });
+  apply(percent);
+  menu.hidden = false;  // without JavaScript, stays hidden
+  document.getElementById('taille-etiquette').hidden = false;
+})();
+"""
+
+# Full screen: the settings menu's button hides the browser chrome (Fullscreen API) and sets `html.ample`,
+# which gives the text the whole width, like on a touch device. Where the API is missing (iPhone
+# Safari) the button still widens the text. `fullscreenchange` keeps the state in step when the
+# user leaves with Esc.
+SCRIPT_PLEIN_ECRAN = """\
+(function () {
+  var button = document.getElementById('plein-ecran');
+  if (!button) return;
+  var root = document.documentElement;
+  var request = root.requestFullscreen || root.webkitRequestFullscreen;
+  var exit = document.exitFullscreen || document.webkitExitFullscreen;
+
+  function active() { return !!(document.fullscreenElement || document.webkitFullscreenElement); }
+
+  function show(on) {
+    root.classList.toggle('ample', on);
+    button.setAttribute('aria-pressed', on);
+    button.title = on ? 'Quitter le plein écran' : 'Plein écran';
+    window.dispatchEvent(new Event('scroll'));  // the breadcrumb depends on the layout
+  }
+
+  button.addEventListener('click', function () {
+    var on = !root.classList.contains('ample');
+    show(on);
+    try {
+      var done = on ? request && request.call(root) : active() && exit.call(document);
+      if (done && done.catch) done.catch(function () {});  // refused: the wide layout stays
+    } catch (e) {}
+  });
+  ['fullscreenchange', 'webkitfullscreenchange'].forEach(function (name) {
+    document.addEventListener(name, function () { show(active()); });
+  });
+  button.hidden = false;  // without JavaScript, stays hidden
+  document.getElementById('plein-ecran-etiquette').hidden = false;
+})();
+"""
+
+# Theme: "auto" follows the system, "light"/"dark" force a scheme through `html[data-theme]`.
+# `AMORCE_THEME` runs in the <head> so that the page is never painted in the wrong scheme;
+# `SCRIPT_THEME` wires the buttons of the settings menu. The choice is shared by every page.
+AMORCE_THEME = """\
+try { var t = localStorage.getItem('brassens-theme');
+      if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+"""
+
+SCRIPT_THEME = """\
+(function () {
+  var menu = document.getElementById('reglages');
+  var group = document.getElementById('theme');
+  if (!menu || !group) return;
+  var buttons = Array.prototype.slice.call(group.querySelectorAll('button'));
+  var current = document.documentElement.getAttribute('data-theme') || 'auto';
+
+  function apply(choice) {
+    if (choice === 'auto') document.documentElement.removeAttribute('data-theme');
+    else document.documentElement.setAttribute('data-theme', choice);
+    buttons.forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-theme-choix') === choice); });
+    try { if (choice === 'auto') localStorage.removeItem('brassens-theme'); else localStorage.setItem('brassens-theme', choice); } catch (e) {}
+  }
+
+  buttons.forEach(function (b) { b.addEventListener('click', function () { apply(b.getAttribute('data-theme-choix')); }); });
+  apply(current);
+  group.hidden = false;  // without JavaScript, stays hidden
+  document.getElementById('theme-etiquette').hidden = false;
+  menu.hidden = false;
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') menu.open = false; });
+  document.addEventListener('click', function (e) { if (menu.open && !menu.contains(e.target)) menu.open = false; });
+})();
+"""
+
 # Hierarchy navigation: Index > Anthology > Album > Song. The anthology holds every album, so
 # going up from a song means scrolling to its album heading, and going up from an album means
 # scrolling to the top (anthology) or leaving for the anthology (album page). The current album
@@ -523,9 +700,72 @@ def selecteur_transposition():
     options = '\n'.join(
         f'<option value="{n}"{" selected" if n == 0 else ""}>{etiquette_transposition(n)}</option>'
         for n in TRANSPOSITIONS)
-    return ('<span class="transpose" id="transpose" hidden>'
-            '<label for="transpose-select">Transposer : </label>'
+    return ('<label class="reglage" id="transpose-etiquette" for="transpose-select" hidden>Transposer</label>'
+            '<span class="reglage-valeur" id="transpose" hidden>'
             f'<select id="transpose-select">\n{options}\n</select></span>')
+
+
+def selecteur_taille():
+    """Return the HTML of the text size row of the settings menu (hidden until the script runs).
+
+    Returns:
+        HTML fragment (str): a label and its controls, two cells of the panel grid.
+    """
+    return ('<span class="reglage" id="taille-etiquette" hidden>Taille du texte</span>'
+            '<span class="reglage-valeur" id="taille" hidden>'
+            '<button type="button" id="taille-moins" title="Réduire le texte" aria-label="Réduire le texte">−</button>'
+            '<output id="taille-valeur" aria-live="polite">100 %</output>'
+            '<button type="button" id="taille-plus" title="Agrandir le texte" aria-label="Agrandir le texte">+</button>'
+            '<button type="button" id="taille-raz" title="Taille normale">100 %</button>'
+            '</span>')
+
+
+def selecteur_theme():
+    """Return the HTML of the theme row of the settings menu (hidden until the script runs).
+
+    Returns:
+        HTML fragment (str): a label and three buttons (system, light, dark), two cells of the panel grid.
+    """
+    boutons = ''.join(
+        f'<button type="button" data-theme-choix="{valeur}" aria-pressed="false">{texte}</button>'
+        for valeur, texte in (('auto', 'Auto'), ('light', 'Clair'), ('dark', 'Sombre')))
+    return ('<span class="reglage" id="theme-etiquette" hidden>Thème</span>'
+            f'<span class="reglage-valeur" id="theme" hidden>{boutons}</span>')
+
+
+def menu_reglages():
+    """Return the HTML of the single settings menu of the bar (hidden until a script runs).
+
+    It gathers full screen, theme, text size and transposition, and shares the `name` of the
+    alphabetical index, so that opening one closes the other.
+
+    Returns:
+        HTML fragment (str).
+    """
+    return ('<details class="reglages" id="reglages" name="menu-barre" hidden>'
+            '<summary title="Réglages : plein écran, thème, taille du texte, transposition" '
+            'aria-label="Réglages">⚙</summary>\n'
+            '<div class="reglages-panel">\n'
+            '<span class="reglage" id="plein-ecran-etiquette" hidden>Plein écran</span>\n'
+            f'<span class="reglage-valeur">{bouton_plein_ecran()}</span>\n'
+            f'{selecteur_theme()}\n'
+            f'{selecteur_taille()}\n'
+            f'{selecteur_transposition()}\n'
+            '</div></details>')
+
+
+def bouton_plein_ecran():
+    """Return the HTML of the full-screen button (hidden until the script runs).
+
+    Returns:
+        HTML fragment (str).
+    """
+    trace = 'viewBox="0 0 24 24" aria-hidden="true"'
+    return ('<button class="plein-ecran" id="plein-ecran" type="button" hidden aria-pressed="false" '
+            'title="Plein écran" aria-label="Plein écran">'
+            f'<svg class="agrandir" {trace}><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>'
+            f'<svg class="reduire" {trace}><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>'
+            '</button>')
 
 
 def en_ligne(texte):
@@ -604,6 +844,37 @@ def fiche_accord(nom, doigte, prefixe=''):
                  f'alt="Doigté de {html.escape(nom)}" loading="lazy">')
     return (f'<figure class="accord">{image}<figcaption><span class="nom">{html.escape(nom)}</span>'
             f'<span class="frettes">{html.escape(doigte)}</span></figcaption></figure>')
+
+
+def regrouper_strophes(sortie):
+    """Wrap each run of consecutive stanzas in a `.strophes` container.
+
+    The container lays its stanzas on a grid whose column count is balanced: for n stanzas and at
+    most m columns, the rows are ceil(n/m) and the columns ceil(n/rows), so that 7 stanzas on up to
+    4 columns give A B C D / E F G, and 5 give A B C / D E, never a lone stanza on the last row.
+
+    Args:
+        sortie: HTML fragments of a body, one per block (list of str).
+
+    Returns:
+        The same fragments, runs of stanzas wrapped (list of str).
+    """
+    def envelopper(courses):
+        n = len(courses)
+        variables = ''.join(f'--c{m}:{-(-n // -(-n // m))};' for m in (2, 3, 4))
+        return f'<div class="strophes" style="{variables}">\n' + '\n'.join(courses) + '\n</div>'
+
+    resultat, course = [], []
+    for bloc in sortie + [None]:
+        if bloc is not None and bloc.startswith('<div class="stanza">'):
+            course.append(bloc)
+            continue
+        if course:
+            resultat.append(envelopper(course))
+            course = []
+        if bloc is not None:
+            resultat.append(bloc)
+    return resultat
 
 
 def rendre_corps(lignes, prefixe=''):
@@ -767,7 +1038,7 @@ def rendre_corps(lignes, prefixe=''):
     fermer_strophe()
     vider_fiches()
     fermer_notes()
-    return '\n'.join(sortie), table
+    return '\n'.join(regrouper_strophes(sortie)), table
 
 
 def page(titre, contenu, script=''):
@@ -784,7 +1055,7 @@ def page(titre, contenu, script=''):
     balise = f'<script>\n{script}</script>\n' if script else ''
     return ('<!doctype html>\n<html lang="fr">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-            f'<title>{html.escape(titre)}</title>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
+            f'{favicon()}<title>{html.escape(titre)}</title>\n<script>\n{AMORCE_THEME}</script>\n<style>\n{CSS}</style>\n</head>\n<body>\n'
             f'{contenu}\n{balise}</body>\n</html>\n')
 
 
@@ -887,13 +1158,13 @@ def index_alphabetique(table, toutes=None, anthologie=''):
         + ''.join(f'<li><a href="{html.escape(a)}">{en_ligne(t)}</a></li>'
                   for t, a in sorted(par_lettre[l], key=lambda e: cle_tri(e[0])))
         + '</ul></section>' for l in lettres)
-    return ('<details class="az" id="az"><summary title="Index alphabétique des chansons">A–Z</summary>\n'
+    return ('<details class="az" id="az" name="menu-barre"><summary title="Index alphabétique des chansons">A–Z</summary>\n'
             f'<div class="az-panel" id="az-panel"><p class="az-letters" hidden>{boutons}</p>\n{groupes}</div>'
             '</details>')
 
 
 def fil_ariane(table, accueil, album, libelle='Anthologie complète', toutes=None, anthologie=''):
-    """Return the sticky bar: breadcrumb, "up" button, alphabetical index and transposition menu.
+    """Return the sticky bar: breadcrumb, "up" button, alphabetical index, one settings menu (full screen, theme, text size, transposition).
 
     The first crumb, "Brassens", is the index page, which lists the albums and their songs.
     The album and song crumbs are filled in by `SCRIPT_NAVIGATION` while scrolling.
@@ -925,7 +1196,7 @@ def fil_ariane(table, accueil, album, libelle='Anthologie complète', toutes=Non
             'title="Monter d\'un niveau (touche u, ou balayer vers le haut)" '
             'aria-label="Monter d\'un niveau">&uarr;</button>\n'
             f'{index_alphabetique(table, toutes, anthologie)}\n'
-            f'{selecteur_transposition()}\n</header>')
+            f'{menu_reglages()}\n</header>')
 
 
 def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None, anthologie=''):
@@ -954,7 +1225,7 @@ def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None
     destination.write_text(
         page(titre, f'{fil_ariane(table, accueil, album, toutes=toutes, anthologie=anthologie)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
-             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
+             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_THEME + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
@@ -1046,7 +1317,9 @@ def rendre_index(albums, destination, titre):
                    + '\n</ul>' for l in lettres)
                + f'\n{haut}')
 
-    corps = '\n'.join([f'<h1>{html.escape(titre)}</h1>', mention_source(), navigation, niveau1, haut, niveau2, niveau3])
+    entete = (f'<div class="entete"><h1>{html.escape(titre)}</h1>'
+              f'<img class="pastille" src="{favicon_uri()}" alt="" width="64" height="64"></div>')
+    corps = '\n'.join([entete, mention_source(), navigation, niveau1, haut, niveau2, niveau3])
     destination.write_text(page(titre, corps), encoding='utf-8')
 
 
@@ -1066,5 +1339,5 @@ def rendre_favoris(destination, titre, accueil, anthologie):
                f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
                '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
                '(ou touche f) pour l\'ajouter ici.</p>\n</main>')
-    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_NAVIGATION),
+    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_THEME + SCRIPT_NAVIGATION),
                            encoding='utf-8')
