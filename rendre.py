@@ -232,12 +232,14 @@ h2[id], h3[id] { scroll-margin-top: 3em; }
 .az-index { columns: 2 18em; list-style: none; padding: 0; }
 .az-index li { break-inside: avoid; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must not inflate text on rotation */
-/* Touch devices (phone, tablet) and full-screen mode (`html.ample`, set by the settings menu's button): fill
-   the screen instead of keeping a desktop-width column, with the narrowest side margins so that a
-   whole song has the best chance to fit on one page. The text size follows the viewport width.
-   The stanzas of a song (`.strophes`) form a grid read row by row (A B C D / E F G), hence a grid
-   and not CSS columns (those would read A C E G / B D F). The number of columns is the widest the
-   screen allows (`--c2`, `--c3`, `--c4`, the balanced counts computed by `regrouper_strophes`). */
+/* Wide screens (tablet, desktop; also full-screen mode, `html.ample`, set by the bar's button, which
+   widens the text even on a narrow window): the song pages fill the screen instead of keeping a
+   reading-width column, with the narrowest side margins so that a whole song has the best chance
+   to fit on one page. The text size follows the viewport width. The stanzas of a song
+   (`.strophes`) form a grid read row by row (A B C D / E F G), hence a grid and not CSS columns
+   (those would read A C E G / B D F). The number of columns is the widest the screen allows
+   (`--c2`, `--c3`, `--c4`, the balanced counts computed by `regrouper_strophes`). Pages without
+   stanzas (home, index) keep their width. */
 @media (pointer: coarse) {
   body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
          padding-left: max(0.4em, env(safe-area-inset-left));
@@ -246,23 +248,17 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must no
 html.ample body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
                   padding-left: max(0.4em, env(safe-area-inset-left));
                   padding-right: max(0.4em, env(safe-area-inset-right)); }
-@media (pointer: coarse) and (min-width: 640px) {
+@media (min-width: 640px) {
+  body:has(.strophes) { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
+                        padding-left: max(0.4em, env(safe-area-inset-left));
+                        padding-right: max(0.4em, env(safe-area-inset-right)); }
   .strophes { display: grid; grid-template-columns: repeat(var(--c2), minmax(0, 1fr)); column-gap: 1.5em; }
 }
-@media (pointer: coarse) and (min-width: 960px) {
+@media (min-width: 960px) {
   .strophes { grid-template-columns: repeat(var(--c3), minmax(0, 1fr)); }
 }
-@media (pointer: coarse) and (min-width: 1280px) {
-  .strophes { grid-template-columns: repeat(var(--c4), minmax(0, 1fr)); }
-}
-@media (min-width: 640px) {
-  html.ample .strophes { display: grid; grid-template-columns: repeat(var(--c2), minmax(0, 1fr)); column-gap: 1.5em; }
-}
-@media (min-width: 960px) {
-  html.ample .strophes { grid-template-columns: repeat(var(--c3), minmax(0, 1fr)); }
-}
 @media (min-width: 1280px) {
-  html.ample .strophes { grid-template-columns: repeat(var(--c4), minmax(0, 1fr)); }
+  .strophes { grid-template-columns: repeat(var(--c4), minmax(0, 1fr)); }
 }
 .plein-ecran { padding: 0.2em 0.4em; line-height: 1; cursor: pointer; color: inherit; background: none; border: 0; }
 .plein-ecran svg { width: 1.2em; height: 1.2em; display: block; fill: none; stroke: currentColor; stroke-width: 2;
