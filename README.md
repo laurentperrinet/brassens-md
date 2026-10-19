@@ -3,6 +3,13 @@
 # brassens-md: Toutes les partitions de Brassens en fichiers markdowns
 
 
+## TODO 
+
+- [ ] ajouter des accords alternatifs (refrain du gorille par exemple)
+- [ ] détecter les refrains et leur donner une figure de fond jaune clair
+- [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
+
+
 ## Sources
 
 Trois références pour comparer les accords et les paroles :
