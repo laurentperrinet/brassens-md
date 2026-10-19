@@ -32,10 +32,12 @@ import sys
 import unicodedata
 from urllib.parse import quote
 
+from diagrammes_accords import ACCORDS, FICHE, nom_fichier
+
 ACCORD = re.compile(r'\[([^\]]+)\]([^\s\[<*]*)')  # a chord and the word fragment it sits above
 EMPHASE = re.compile(r'\*([^*]+)\*')
 # A structure keyword opening a line ("Refrain :", "Intro : [Am] ...", "*Refrain :*"), set apart from the lyrics.
-MOT_CLE = re.compile(r'^\*?(Refrain|Intro|Interlude|Pont|Outro|Coda|Solo|Final|Grille)(?:\s*:\*?|\*?\s*$)(.*)$')
+MOT_CLE = re.compile(r'^\*?(Refrain|Intro|Interlude|Pont|Outro|Coda|Solo|Final|Grille|Accords)(?:\s*:\*?|\*?\s*$)(.*)$')
 # A chord grid written without keyword: it starts with a bar line and has no inline [Chord].
 GRILLE = re.compile(r'^\|[^\[\]]*$')
 BARRE = re.compile(r':\||\|[:.|]?')  # `|`, `|:`, `:|`, `||`, `|.`
@@ -111,6 +113,14 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
+.accords { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.6em 1.1em; margin: 1.4em 0 1em; }
+.accords .section { align-self: center; }
+figure.accord { margin: 0; text-align: center; line-height: 1.25; }
+figure.accord img { display: block; height: 5em; width: auto; margin: 0 auto 0.2em; }
+figure.accord .nom { display: block; font-weight: 700; }
+.frettes { display: block; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.7em;
+           letter-spacing: 0.08em; opacity: 0.7; }
+body.transpose .accords { display: none; }  /* a fingering is only valid in the original key */
 .section.grille { color: light-dark(#1d6b3c, #8fd6a6); background: light-dark(#dcf3e3, #1d3b2a); }
 .grille-accords { margin: 0.2em 0 0.8em; }
 .rang { display: flex; align-items: stretch; margin-top: -1px; }
@@ -240,6 +250,7 @@ SCRIPT = """\
       if (!el.hasAttribute('data-original')) el.setAttribute('data-original', el.textContent);
       el.textContent = transposeChord(el.getAttribute('data-original'), shift);
     });
+    document.body.classList.toggle('transpose', shift !== 0);  // hides the diagrams
   });
   document.getElementById('transpose').hidden = false;  // without JavaScript, stays hidden
 })();
@@ -576,11 +587,34 @@ def video(identifiant):
             f'{lien}\n</div>')
 
 
-def rendre_corps(lignes):
+def fiche_accord(nom, doigte, prefixe=''):
+    """Return the figure of one chord: its diagram, its name and its fingering.
+
+    Args:
+        nom: chord name (str).
+        doigte: fingering as written in the score, from the 6th to the 1st string (str).
+        prefixe: path from the page to `docs/` (str).
+
+    Returns:
+        HTML fragment (str). Without a drawn diagram (unusual fingering), only the caption.
+    """
+    image = ''
+    if (ACCORDS / nom_fichier(nom, doigte)).exists():
+        image = (f'<img src="{prefixe}accords/{html.escape(nom_fichier(nom, doigte))}" '
+                 f'alt="Doigté de {html.escape(nom)}" loading="lazy">')
+    return (f'<figure class="accord">{image}<figcaption><span class="nom">{html.escape(nom)}</span>'
+            f'<span class="frettes">{html.escape(doigte)}</span></figcaption></figure>')
+
+
+def rendre_corps(lignes, prefixe=''):
     """Convert the lines of a Markdown document to HTML.
+
+    The `Accords :` block of a song (` * Dm : xx0231` lines, written under its title) is not
+    shown there: the chords are drawn as a row of diagrams after the lyrics, before the notes.
 
     Args:
         lignes: lines of the document, without line terminators (list of str).
+        prefixe: path from the page to `docs/`, to reach `accords/` (`''` or `'../'`) (str).
 
     Returns:
         (HTML body, list of (anchor id, title, level) for the table of contents; the level
@@ -596,6 +630,7 @@ def rendre_corps(lignes):
     notes = False  # inside a `### Notes` section
     bloc = None    # lines (HTML-escaped) of the monospace block being collected
     fichier = None  # path of the source file of the next song, from its `<!-- source: -->` marker
+    fiches = []    # (chord name, fingering) of the song being read, drawn once its lyrics are over
 
     def fermer_bloc():
         nonlocal bloc
@@ -609,6 +644,13 @@ def rendre_corps(lignes):
         if notes:
             sortie.append('</details>')
             notes = False
+
+    def vider_fiches():
+        # one diagram per fingering written in the score: the variants of a chord stay distinct
+        if fiches:
+            sortie.append('<div class="accords"><span class="section">Accords</span>'
+                          + ''.join(fiche_accord(nom, doigte, prefixe) for nom, doigte in fiches) + '</div>')
+            fiches.clear()
 
     def vider_grille():
         # consecutive grid rows form one block, closed by the first line that is not a grid row
@@ -644,6 +686,7 @@ def rendre_corps(lignes):
             sauter = 2
         elif ligne == NOTES:
             fermer_strophe()
+            vider_fiches()
             fermer_notes()
             sortie.append('<details class="notes">\n<summary>Notes</summary>')
             notes = True
@@ -672,6 +715,8 @@ def rendre_corps(lignes):
                 fermer_strophe()
             vides = 0
             if ligne.startswith(('# ', '## ')):
+                fermer_strophe()
+                vider_fiches()
                 fermer_notes()
             if ligne.startswith('## '):
                 fermer_strophe()
@@ -689,11 +734,16 @@ def rendre_corps(lignes):
                 ancre = f'a{album}'
                 table.append((ancre, ligne[2:], 1))
                 sortie.append(f'<h1 id="{ancre}">{en_ligne(ligne[2:])}</h1>')
+            elif FICHE.match(ligne):
+                fermer_strophe()
+                fiches.append(FICHE.match(ligne).groups())
             elif ligne.startswith(' * '):
                 fermer_strophe()
                 sortie.append(f'<ul><li>{en_ligne(ligne[3:])}</li></ul>')
             else:
                 mot = MOT_CLE.match(ligne)
+                if mot and mot.group(1) == 'Accords':
+                    continue  # the title of the block: the row of diagrams carries its own
                 grille = GRILLE.match(ligne) or (mot and mot.group(1) == 'Grille')
                 if not grille:
                     vider_grille()
@@ -715,6 +765,7 @@ def rendre_corps(lignes):
                 else:
                     strophe.append(f'<p class="line">{en_ligne(ligne)}</p>')
     fermer_strophe()
+    vider_fiches()
     fermer_notes()
     return '\n'.join(sortie), table
 
@@ -889,7 +940,8 @@ def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None
         toutes: entries of the whole anthology for the alphabetical index (see `fil_ariane`).
         anthologie: relative link to the anthology page (str).
     """
-    corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'))
+    prefixe = accueil.removesuffix('index.html')  # the index sits in docs/, next to accords/
+    corps, table = rendre_corps(source.read_text(encoding='utf-8').split('\n'), prefixe)
     # the songs of an album are listed right below its title; the top of the page only lists
     # the albums (anthology); the source code mention appears once, under the first title
     premier = True

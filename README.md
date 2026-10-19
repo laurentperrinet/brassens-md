@@ -24,7 +24,9 @@ Structure du premier site, pour qui voudrait comparer ou importer :
 | `chansons/{nn}_{album slug}/_album.md` | album header (`# 1) TITLE`) — **source** |
 | `chansons/{nn}_{album slug}/{nn}_{song slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `assembler.py` | assembles the sources into `construction/` (git-ignored) and, with `--rendre`, renders the HTML pages in `docs/` |
-| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in a pale yellow badge (bold monospace) |
+| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in a pale yellow badge (bold monospace); the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
+| `diagrammes_accords.py` | draws one SVG chord diagram per (chord, fingering) written in the `Accords :` blocks, into `accords/` (`make diagrammes`) |
+| `accords/{chord}_{fingering}.svg` | chord diagrams (`Dm_xx0231.svg`, `Dm_x57765.svg`: one file per variant, `#` is spelled `dies`, `/` is `_sur_`) — generated, but **versioned**: the site copies them to `docs/accords/` |
 | `favicon.svg` | site icon (a cat in front of a guitar), inlined by `rendre.py` as a data URI in every page — **source** |
 | `docs/` | generated HTML pages and `index.html` (git-ignored, **never edit by hand**) |
 | `.github/workflows/pages.yml` | GitHub Actions workflow: builds `docs/` on the server and deploys it with GitHub Pages |

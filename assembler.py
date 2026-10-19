@@ -24,6 +24,7 @@ RACINE = Path(__file__).resolve().parent
 CHANSONS = RACINE / 'chansons'
 CONSTRUCTION = RACINE / 'construction'
 DOCS = RACINE / 'docs'
+ACCORDS = RACINE / 'accords'
 
 
 def dossiers_albums():
@@ -69,6 +70,8 @@ def assembler():
 def rendre_site():
     """Render the index and each assembled Markdown file to HTML in `docs/`."""
     (DOCS / 'albums').mkdir(parents=True, exist_ok=True)
+    # chord diagrams are static files of the repository, referenced by the pages
+    shutil.copytree(ACCORDS, DOCS / 'accords', dirs_exist_ok=True)
     albums = []  # (URL relative to docs/, table of the album) for the index
     for md in sorted((CONSTRUCTION / 'albums').glob('*.md')):
         albums.append((f'albums/{md.with_suffix(".html").name}',
