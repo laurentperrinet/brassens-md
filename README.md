@@ -12,6 +12,7 @@
 - [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
 - [ ] utiliser explicitement https://github.com/ChordPro/chordpro
 - [ ] ajouter un bouton pour cacher tous les accords / les redondants / n’en cacher aucun
+- [ ] GitHub actions
 
 
 ## Sources
