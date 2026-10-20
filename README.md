@@ -10,6 +10,7 @@
 - [ ] indiquer un lien vers la source dans l’aide
 - [ ] délimiter les trophées et indiquer le sens de lecture des strophes 
 - [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
+- [ ] utiliser explicitement https://github.com/ChordPro/chordpro
 - [ ] ajouter un bouton pour cacher tous les accords / les redondants / n’en cacher aucun
 
 
