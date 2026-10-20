@@ -7,6 +7,8 @@
 
 - [ ] ajouter des accords alternatifs (refrain du gorille par exemple)
 - [ ] détecter les refrains et leur donner une figure de fond jaune clair
+- [ ] indiquer un lien vers la source dans l’aide
+- [ ] délimiter les trophées et indiquer le sens de lecture des strophes 
 - [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
 
 
