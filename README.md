@@ -13,6 +13,8 @@
 - [ ] utiliser explicitement https://github.com/ChordPro/chordpro
 - [ ] ajouter un bouton pour cacher tous les accords / les redondants / n’en cacher aucun
 - [ ] GitHub actions
+- [ ] mettre une ligne continue entre deux séries de strophes pour bien montrer qu’on lit de la gauche vers la droite, puis du haut vers le bas
+
 
 
 ## Sources
