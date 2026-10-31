@@ -7,7 +7,14 @@
 
 - [ ] ajouter des accords alternatifs (refrain du gorille par exemple)
 - [ ] détecter les refrains et leur donner une figure de fond jaune clair
+- [ ] indiquer un lien vers la source dans l’aide
+- [ ] délimiter les trophées et indiquer le sens de lecture des strophes 
 - [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
+- [ ] utiliser explicitement https://github.com/ChordPro/chordpro
+- [ ] ajouter un bouton pour cacher tous les accords / les redondants / n’en cacher aucun
+- [ ] GitHub actions
+- [ ] mettre une ligne continue entre deux séries de strophes pour bien montrer qu’on lit de la gauche vers la droite, puis du haut vers le bas
+
 
 
 ## Sources
