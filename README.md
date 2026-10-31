@@ -8,12 +8,12 @@
 - [ ] ajouter des accords alternatifs (refrain du gorille par exemple)
 - [ ] détecter les refrains et leur donner une figure de fond jaune clair
 - [ ] indiquer un lien vers la source dans l’aide
-- [ ] délimiter les trophées et indiquer le sens de lecture des strophes 
+- [x] délimiter les strophes (cadre bleu) et indiquer le sens de lecture (numéros dans un cercle)
 - [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
 - [ ] utiliser explicitement https://github.com/ChordPro/chordpro
 - [ ] ajouter un bouton pour cacher tous les accords / les redondants / n’en cacher aucun
 - [ ] GitHub actions
-- [ ] mettre une ligne continue entre deux séries de strophes pour bien montrer qu’on lit de la gauche vers la droite, puis du haut vers le bas
+- [x] mettre une ligne continue autour de chaque strophe, fond bleu transparent, numérotation de lecture
 
 
 
@@ -42,7 +42,7 @@ Structure du site clarckgaybeul, pour qui voudrait malgré tout comparer ou impo
 | `chansons/{nn}_{album slug}/_album.md` | album header (`# 1) TITLE`) — **source** |
 | `chansons/{nn}_{album slug}/{nn}_{song slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `assembler.py` | assembles the sources into `construction/` (git-ignored) and, with `--rendre`, renders the HTML pages in `docs/` |
-| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in a pale yellow badge (bold monospace); each stanza is a card (hairline border, barely tinted background, rounded corners) numbered in a disc at its top-left corner, the count restarting at every song; the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
+| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in an amber badge with a thin outline (bold monospace; one palette for the light mode, one for the dark mode, both readable on the blue stanza cards); each stanza is a card (continuous blue outline, translucent blue background, rounded corners) numbered in a disc at its top-left corner (italic Palatino), the count restarting at every song, which shows the reading order (left to right, then top to bottom); a chord grid is a card of its own, unnumbered, in first position of its place in the flow; the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
 | `chansons/10_chansons-inedites/` | album « Chansons inédites » : chansons de Brassens absentes des albums officiels (chansons pour les autres, poèmes mis en musique) |
 | `accords_doigtes.py` | écrit en tête de chaque chanson le bloc `Accords :` (doigtés calculés, `python3 accords_doigtes.py`) ; ne touche pas aux blocs déjà présents |
 | `diagrammes_accords.py` | draws one SVG chord diagram per (chord, fingering) written in the `Accords :` blocks, into `accords/` (`make diagrammes`) |
@@ -116,7 +116,7 @@ Grille :
 | `%` | repeat the previous bar |
 | `~` | two chords on the same beat (`C~G`) |
 
-A grid is recognised in the lyrics when a line starts with `Grille :` (like `Refrain :`) or with a bar line `|` and holds no `[Chord]`. Consecutive rows form one block: the rendered page shows a green "Grille" badge, then one box per bar, so the bars line up from row to row. A chord followed by `.` lasts one more beat (`Dm . .` is one chord of three beats), several chords in a bar share its beats, and the repeat, double and final bar lines are drawn as such. The chords are clickable like those of the lyrics: they follow the transposition menu. Text after the last bar of a row is shown as a margin note. A tablature stays in a fenced block, where its own `|` are left alone.
+A grid is recognised in the lyrics when a line starts with `Grille :` (like `Refrain :`) or with a bar line `|` and holds no `[Chord]`. Consecutive rows form one block: the rendered page shows a card of its own, the same size as a stanza and unnumbered, with a green "Grille" badge, then one box per bar, so the bars line up from row to row. A chord followed by `.` lasts one more beat (`Dm . .` is one chord of three beats), several chords in a bar share its beats, and the repeat, double and final bar lines are drawn as such. The chords are clickable like those of the lyrics: they follow the transposition menu. Text after the last bar of a row is shown as a margin note. A tablature stays in a fenced block, where its own `|` are left alone.
 
 Conversion to a strict `.pro` file only needs these headings to be turned into directives (a grid goes between `{start_of_grid}` and `{end_of_grid}`). Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
 

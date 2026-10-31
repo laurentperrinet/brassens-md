@@ -132,18 +132,21 @@ CSS = """\
 :root[data-theme="dark"] { color-scheme: dark; }
 body { font-family: Georgia, serif; line-height: 1.4; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
-/* One card per stanza: hairline border, barely tinted background and rounded corners, so a stanza
-   reads as one block, also where the songs are laid out on several columns. `data-strophe` (the rank
-   in the song, set by `regrouper_strophes`) is shown in a disc riding the top-left corner. */
+/* One card per stanza: continuous blue outline, translucent blue background and rounded corners, so a
+   stanza reads as one block, also where the songs are laid out on several columns. `data-strophe` (the
+   rank in the song, set by `regrouper_strophes`) is shown in a disc riding the top-left corner: it tells
+   that the stanzas are read left to right, then top to bottom. */
+:root { --bleu: 59 130 246; }  /* RGB of the stanza blue, used with a different opacity for line, fill and disc */
 .stanza { position: relative; margin: 0 0 0.9em; padding: 0.6em 0.8em 0.65em; break-inside: avoid;
-          border: 1px solid color-mix(in srgb, CanvasText 25%, transparent); border-radius: 0.7em;
-          background: color-mix(in srgb, CanvasText 5%, Canvas); }  /* tinted with the text colour: grey in light, raised in dark */
+          border: 1.5px solid rgb(var(--bleu) / 0.55); border-radius: 0.7em;
+          background: rgb(var(--bleu) / 0.09); }
 /* fixed size and a smaller digit keep the disc round up to the two digits of the longest song */
-.stanza[data-strophe]::before { content: attr(data-strophe); position: absolute; top: -0.75em; left: 0.5em;
-          display: grid; place-items: center; box-sizing: border-box; width: 1.5em; height: 1.5em;
-          border-radius: 50%; font: 700 0.68em/1 ui-sans-serif, system-ui, sans-serif; text-align: center;
-          color: CanvasText; background: color-mix(in srgb, CanvasText 12%, Canvas);
-          border: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }
+.stanza[data-strophe]::before { content: attr(data-strophe); position: absolute; top: -0.8em; left: 0.5em;
+          display: grid; place-items: center; box-sizing: border-box; width: 1.6em; height: 1.6em;
+          border-radius: 50%; font: italic 700 0.8em/1 "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+          text-align: center; font-variant-numeric: lining-nums;
+          color: light-dark(#1f4e79, #cfe4fb); background: light-dark(#e8f1fd, #1c3550);
+          border: 1.5px solid rgb(var(--bleu) / 0.8); }
 /* tight leading: just enough room above each line for the chords set in the <rt> annotations */
 .line { margin: 0; line-height: 1.75; }
 .section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
@@ -174,7 +177,10 @@ pre.tab { margin: 0.8em 0; overflow-x: auto; font-family: ui-monospace, Menlo, C
 .video iframe { width: min(100%, calc(70vh * 16 / 9)); aspect-ratio: 16 / 9; border: 0; }
 .video p { margin: 0.2em 0 1em; font-size: 0.9em; }
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
-          color: light-dark(#5a3a00, #ffd966); background: light-dark(#fff1b8, #4a3a10);
+          /* amber badge, readable on the blue stanza card: darker amber in light mode (a pale yellow
+             looked white on the blue), deep brown in dark mode, each with a thin outline */
+          color: light-dark(#4a2f00, #ffe08a); background: light-dark(#fcd96b, #5a4410);
+          border: 1px solid light-dark(#d9a91f, #a07d20);
           padding: 0 0.3em; border-radius: 0.25em; }
 i.annotation { font-size: 0.9em; color: light-dark(#555, #bbb); padding: 0 0.2em; }
 .accords { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.6em 1.1em; margin: 1.4em 0 1em; }
@@ -865,7 +871,7 @@ def regrouper_strophes(sortie):
     most m columns, the rows are ceil(n/m) and the columns ceil(n/rows), so that 7 stanzas on up to
     4 columns give A B C D / E F G, and 5 give A B C / D E, never a lone stanza on the last row.
 
-    Every stanza box also carries its rank in the song (`data-strophe`), which the stylesheet shows
+    A chord grid is a stanza box of its own, unnumbered. Every other stanza box also carries its rank in the song (`data-strophe`), which the stylesheet shows
     in a disc at the top-left corner. The count restarts at each song title, so a song keeps its own
     1, 2, 3... even on the anthology page, which holds them all, and across the runs a tablature or
     a `---` splits.
@@ -886,6 +892,9 @@ def regrouper_strophes(sortie):
         if bloc is not None and bloc.startswith('<div class="stanza">'):
             rang += 1
             course.append(bloc.replace('<div class="stanza">', f'<div class="stanza" data-strophe="{rang}">', 1))
+            continue
+        if bloc is not None and bloc.startswith('<div class="stanza stanza-grille">'):
+            course.append(bloc)  # a chord grid fills a cell like a stanza, without taking a number
             continue
         if bloc is not None and bloc.startswith(('<h1 ', '<h2 ')):
             rang = 0  # a new song (or album) restarts the numbering
@@ -945,9 +954,12 @@ def rendre_corps(lignes, prefixe=''):
 
     def vider_grille():
         # consecutive grid rows form one block, closed by the first line that is not a grid row
+        # the grid is a stanza box of its own, unnumbered, so it takes the first cell of the flow
         if rangs:
             strophe.append('<div class="grille-accords">' + ''.join(rangs) + '</div>')
             rangs.clear()
+            sortie.append('<div class="stanza stanza-grille">\n' + '\n'.join(strophe) + '\n</div>')
+            strophe.clear()
 
     def fermer_strophe():
         vider_grille()
@@ -1040,13 +1052,14 @@ def rendre_corps(lignes, prefixe=''):
                     vider_grille()
                 if GRILLE.match(ligne):
                     if not rangs and not (strophe and strophe[-1].endswith('>Grille</span></p>')):
+                        fermer_strophe()
                         strophe.append('<p class="line"><span class="section grille">Grille</span></p>')
                     rangs.append(en_rang(ligne))
                 elif mot:
                     # The keyword gets its own class so it cannot be mistaken for a sung line.
                     reste = mot.group(2).strip()
                     if grille:
-                        vider_grille()
+                        fermer_strophe()
                         strophe.append('<p class="line"><span class="section grille">Grille</span></p>')
                         if reste:
                             rangs.append(en_rang(reste))
