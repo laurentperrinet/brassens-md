@@ -7,6 +7,10 @@ assemble:
 diagrammes:
 	python3 diagrammes_accords.py
 
+# checks the songs against the ChordPro notation; `make valide PRO=dossier` also writes strict .pro files
+valide:
+	python3 chordpro_valider.py $(if $(PRO),--pro $(PRO),)
+
 compile:
 	python3 assembler.py --rendre
 

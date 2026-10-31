@@ -152,8 +152,16 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
            text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
            color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
-/* compact mode: no chord above the lyrics of the stanzas (the grids keep theirs), and tighter lines */
-html.compact .stanza:not(.stanza-grille) rt { display: none; }
+/* compact mode: no chord name above the lyrics of the stanzas (the grids keep theirs), only a thin tick
+   where it is played, and tighter lines */
+html.compact .stanza:not(.stanza-grille) rt b.chord { font-size: 0; padding: 0; border: 0; background: none; }
+html.compact .stanza:not(.stanza-grille) rt b.chord::after { content: ""; display: inline-block; width: 1.5px;
+          height: 0.7rem; background: CanvasText; opacity: 0.55; vertical-align: bottom; }
+html.compact .stanza:not(.stanza-grille) rt i.annotation { display: none; }
+dialog#aide { border: 1px solid CanvasText; border-radius: 0.6em; padding: 0.8em 1.2em; }
+dialog#aide h2 { margin: 0 0 0.5em; font-size: 1.1em; }
+dialog#aide th { text-align: right; padding-right: 0.8em; font-weight: normal; }
+dialog#aide kbd { font-family: ui-monospace, Menlo, monospace; border: 1px solid currentColor; border-radius: 0.3em; padding: 0 0.4em; }
 html.compact .stanza:not(.stanza-grille) .line { line-height: 1.4; }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
@@ -511,6 +519,52 @@ SCRIPT_COMPACT = """\
 })();
 """
 
+# Keyboard shortcuts: they click the controls of the settings menu (no logic of their own), except `f`
+# (favourite) and `u` (up), which belong to their own scripts. They are ignored with Ctrl/Cmd/Alt and in
+# a field. `?` opens the help (`aide_raccourcis`).
+SCRIPT_RACCOURCIS = """\
+(function () {
+  function click(id) { var el = document.getElementById(id); if (el && !el.disabled) el.click(); }
+
+  function transposer(pas) {
+    var select = document.getElementById('transpose-select');
+    if (!select) return;
+    var valeur = pas === 0 ? 0 : Math.max(-6, Math.min(6, (parseInt(select.value, 10) || 0) + pas));
+    select.value = String(valeur);
+    select.dispatchEvent(new Event('change'));
+  }
+
+  function theme() {
+    var boutons = Array.prototype.slice.call(document.querySelectorAll('[data-theme-choix]'));
+    var actuel = boutons.findIndex(function (b) { return b.getAttribute('aria-pressed') === 'true'; });
+    if (boutons.length) boutons[(actuel + 1) % boutons.length].click();
+  }
+
+  function aide() {
+    var dialogue = document.getElementById('aide');
+    if (!dialogue) return;
+    if (dialogue.open) dialogue.close(); else dialogue.showModal();
+  }
+
+  var touches = {
+    '+': function () { click('taille-plus'); }, '=': function () { click('taille-plus'); },
+    '-': function () { click('taille-moins'); }, '0': function () { click('taille-raz'); },
+    'p': function () { click('compact-bouton'); }, 't': theme,
+    'j': function () { transposer(-1); }, 'k': function () { transposer(1); }, 'o': function () { transposer(0); },
+    'z': function () { click('plein-ecran'); }, '?': aide
+  };
+
+  document.addEventListener('keydown', function (e) {
+    var tag = e.target.tagName;
+    if (e.ctrlKey || e.metaKey || e.altKey || tag === 'SELECT' || tag === 'INPUT' || tag === 'TEXTAREA') return;
+    var action = touches[e.key];
+    if (action) { e.preventDefault(); action(); }
+  });
+  var bouton = document.getElementById('aide-bouton');
+  if (bouton) bouton.addEventListener('click', aide);
+})();
+"""
+
 # Number of columns: for each song, the stanzas (`.strophes`) get the largest number of columns (up to
 # `MAX`) in which no sung line wraps, with the balanced count of `regrouper_strophes` (7 stanzas on 4
 # columns: A B C D / E F G, never a lone stanza on the last row). It is measured in the browser, since
@@ -844,6 +898,28 @@ def selecteur_compact():
             '</span>')
 
 
+RACCOURCIS = (('+', 'Agrandir le texte'), ('-', 'Réduire le texte'), ('0', 'Taille normale'),
+              ('p', 'Basculer paroles seules / accords'), ('t', 'Thème suivant (auto, clair, sombre)'),
+              ('j', 'Transposer d\'un demi-ton vers le bas'), ('k', 'Transposer d\'un demi-ton vers le haut'),
+              ('o', 'Revenir à la tonalité d\'origine'), ('z', 'Plein écran'),
+              ('f', 'Ajouter ou retirer des favoris la chanson sous la barre'), ('u', 'Remonter'),
+              ('?', 'Afficher ou masquer cette aide'), ('Échap', 'Fermer le menu ou l\'aide'))
+
+
+def aide_raccourcis():
+    """Return the HTML of the keyboard help (a dialog opened by `?` or by the ⚙ menu).
+
+    Returns:
+        HTML fragment (str): a button for the menu panel (two cells) and the `<dialog>`.
+    """
+    lignes = ''.join(f'<tr><th scope="row"><kbd>{touche}</kbd></th><td>{texte}</td></tr>'
+                     for touche, texte in RACCOURCIS)
+    return ('<span class="reglage" id="aide-etiquette">Raccourcis clavier</span>'
+            '<span class="reglage-valeur"><button type="button" id="aide-bouton" title="Raccourcis clavier (?)">?</button></span>\n'
+            f'<dialog id="aide"><h2>Raccourcis clavier</h2><table>{lignes}</table>'
+            '<form method="dialog"><button>Fermer</button></form></dialog>')
+
+
 def menu_reglages():
     """Return the HTML of the single settings menu of the bar (hidden until a script runs).
 
@@ -863,6 +939,7 @@ def menu_reglages():
             f'{selecteur_taille()}\n'
             f'{selecteur_compact()}\n'
             f'{selecteur_transposition()}\n'
+            f'{aide_raccourcis()}\n'
             '</div></details>')
 
 
@@ -1356,7 +1433,7 @@ def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None
     destination.write_text(
         page(titre, f'{fil_ariane(table, accueil, album, toutes=toutes, anthologie=anthologie)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
-             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_COMPACT + SCRIPT_COLONNES + SCRIPT_THEME + SCRIPT_NAVIGATION),
+             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_COMPACT + SCRIPT_RACCOURCIS + SCRIPT_COLONNES + SCRIPT_THEME + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
@@ -1470,5 +1547,5 @@ def rendre_favoris(destination, titre, accueil, anthologie):
                f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
                '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
                '(ou touche f) pour l\'ajouter ici.</p>\n</main>')
-    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_COMPACT + SCRIPT_COLONNES + SCRIPT_THEME + SCRIPT_NAVIGATION),
+    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_COMPACT + SCRIPT_RACCOURCIS + SCRIPT_COLONNES + SCRIPT_THEME + SCRIPT_NAVIGATION),
                            encoding='utf-8')

@@ -22,7 +22,7 @@ dans [E7]la capi[Am]ta[A7]le
 d' « À [Am]nous deux Pa[Dm]ris »
 en [Am]Ile-de-[Dm]France
 [Dm]Que ton [Am]Rasti[Dm]gnac
-n'ait [Am]cure, Bal[DO]zac !
+n'ait [Am]cure, Bal[C]zac !
 De ma concur[C]ren[Am]ce (bis)
 
 
@@ -36,7 +36,7 @@ du [E7]p'tit montpar[Am]nas[A7]se
 si [Am]mes premiers [Dm]pas
 tout [Am]droit me me[Dm]nèrent
 [Dm]Au pont [Am]Mira[Dm]beau
-pour [Am]un coup de cha[DO]peau
+pour [Am]un coup de cha[C]peau
 à l'Apoli[C]nai[Am]re (bis)
 
 
@@ -50,7 +50,7 @@ ce [E7]p&egrace;leri[Am]na[A7]ge ?
 mon [Am]cœur ingé[Dm]nu
 al[Am]lait faire des [Dm]siennes
 [Dm]Tomber [Am]amou[Dm]reux
-de [Am]sa toute [DO]pre-mière Pari[C]sien[Am]ne.(bi[F]s)
+de [Am]sa toute [C]pre-mière Pari[C]sien[Am]ne.(bi[F]s)
 
 
 [Am]N'anti[E7]cipons [Am]pas,
@@ -63,7 +63,7 @@ d'une [E7]main malha[Am]bi[A7]le
 je [Am]n'dis pas ce[Dm]la
 en [Am]bombant le [Dm]torse,
 [Dm]L'air a[Am]vanta[Dm]geux
-j'é[Am]tais à ce [DO]jeu
+j'é[Am]tais à ce [C]jeu
 de première [C]f[E7]or[Am]ce. (bis)
 
 
@@ -77,7 +77,7 @@ tou[E7]tes les fi[Am]cel[A7]les.
 en [Am]une heure elle [Dm]eut,
 l'a[Am]dresse re[Dm]quise.
 [Dm]En é[Am]change, [Dm]moi
-j'cueil[Am]lis plein d'é[DO]moi
+j'cueil[Am]lis plein d'é[C]moi
 ses lèvres ex[C]qui[Am]ses. (b[E7]i[Am]s)
 
 
@@ -91,7 +91,7 @@ un[E7]e pierre [Am]pla[A7]te.
 du [Am]pont d'Ie[Dm]na
 au [Am]pont Ale[Dm]xandre
 [Dm]Jusqu'à [Am]Saint-Mi[Dm]chel,
-mais [Am]à notre é[DO]chelle,
+mais [Am]à notre é[C]chelle,
 la carte du [C]t[E7]en[Am]dre. (bis)
 
 
@@ -105,7 +105,7 @@ et [E7]gagnait le [Am]lar[A7]ge.
 pour [Am]un vieux bar[Dm]bon,
 la [Am]petite in[Dm]grate,
 [Dm]Un Cré[Am]sus vi[Dm]vant
-dé[Am]tail aggra[DO]vant
+dé[Am]tail aggra[C]vant
 sur la rive [C]droi[Am]te. (bis)
 
 
@@ -119,7 +119,7 @@ gros[E7]sissait la [Am]Sei[A7]ne.
 j'ai [Am]pas noyé [Dm]ma
 dé[Am]tresse inef[Dm]fable,
 [Dm]C'est qu' l'eau [Am]coulant [Dm]sous
-les [Am]pieds du zou[DO]zou
+les [Am]pieds du zou[C]zou
 était imbu[C]va[Am]ble. (bis)
 
 
@@ -133,7 +133,7 @@ qu'on [E7]arrive au [Am]ha[A7]vre.
 al[Am]lons de ce [Dm]pas
 don[Am]ner, débon[Dm]naires,
 [Dm]Au pont [Am]Mira[Dm]beau
-un [Am]coup de cha[DO]peau
+un [Am]coup de cha[C]peau
 à l'Apolli[C]nai[Am]re. (bis)
 
 ### Notes

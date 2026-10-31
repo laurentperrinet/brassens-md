@@ -25,6 +25,8 @@ D'a[Gm]grémen[A7]ter ma [Dm]soli[E7]tude,
 Aux [D7]accents de [G7]cette chan[C]son
 
 
+Refrain :
+
 [D7]Quand [G]je pense [E7]à Fer[Am]nande,[D7]
 Je bande, [D5+]je [G]bande
 Quand [G7]j'pense à Féli[C]cie,

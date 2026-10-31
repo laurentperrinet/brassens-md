@@ -10,7 +10,7 @@
 - [ ] indiquer un lien vers la source dans l’aide
 - [x] délimiter les strophes (cadre bleu) et indiquer le sens de lecture (numéros dans un cercle)
 - [ ] rendre les grilles d'accord et les notes des tablatures (utiliser lylipond?)
-- [ ] utiliser explicitement https://github.com/ChordPro/chordpro
+- [x] utiliser explicitement https://github.com/ChordPro/chordpro (`chordpro_valider.py` : validation de la notation selon la spécification, export `.pro` strict)
 - [ ] ajouter un bouton pour cacher tous les accords / les redondants / n’en cacher aucun
 - [ ] GitHub actions
 - [x] mettre une ligne continue autour de chaque strophe, fond bleu transparent, numérotation de lecture
@@ -42,12 +42,13 @@ Structure du site clarckgaybeul, pour qui voudrait malgré tout comparer ou impo
 | `chansons/{nn}_{album slug}/_album.md` | album header (`# 1) TITLE`) — **source** |
 | `chansons/{nn}_{album slug}/{nn}_{song slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `assembler.py` | assembles the sources into `construction/` (git-ignored) and, with `--rendre`, renders the HTML pages in `docs/` |
-| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in an amber badge with a thin outline (bold monospace; one palette for the light mode, one for the dark mode, both readable on the blue stanza cards); each stanza is a card (continuous blue outline, translucent blue background, rounded corners) numbered in a disc at its top-left corner (italic Palatino); the number of columns is computed in the browser (largest count, up to 6, in which no sung line wraps, balanced so that no stanza is alone on the last row; recomputed when the window, text size or full screen change), the count restarting at every song, which shows the reading order (left to right, then top to bottom); a chord grid is a card of its own, unnumbered, in first position of its place in the flow; the settings menu (⚙) holds full screen, theme, text size, **compact mode** ("Paroles seules": hides the chords above the lyrics of the stanzas and tightens the lines; the grids keep theirs; remembered in the browser) and transposition; the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
+| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in an amber badge with a thin outline (bold monospace; one palette for the light mode, one for the dark mode, both readable on the blue stanza cards); each stanza is a card (continuous blue outline, translucent blue background, rounded corners) numbered in a disc at its top-left corner (italic Palatino); the number of columns is computed in the browser (largest count, up to 6, in which no sung line wraps, balanced so that no stanza is alone on the last row; recomputed when the window, text size or full screen change), the count restarting at every song, which shows the reading order (left to right, then top to bottom); a chord grid is a card of its own, unnumbered, in first position of its place in the flow; the settings menu (⚙) holds full screen, theme, text size, **compact mode** ("Paroles seules": replaces the chord names above the lyrics of the stanzas by a thin tick where each chord is played, and tightens the lines; the grids keep theirs; remembered in the browser) and transposition, and the keyboard help (`?`); the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
 | `chansons/10_chansons-inedites/` | album « Chansons inédites » : chansons de Brassens absentes des albums officiels (chansons pour les autres, poèmes mis en musique) |
 | `accords_doigtes.py` | écrit en tête de chaque chanson le bloc `Accords :` (doigtés calculés, `python3 accords_doigtes.py`) ; ne touche pas aux blocs déjà présents |
 | `diagrammes_accords.py` | draws one SVG chord diagram per (chord, fingering) written in the `Accords :` blocks, into `accords/` (`make diagrammes`) |
 | `accords/{chord}_{fingering}.svg` | chord diagrams (`Dm_xx0231.svg`, `Dm_x57765.svg`: one file per variant, `#` is spelled `dies`, `/` is `_sur_`) — generated, but **versioned**: the site copies them to `docs/accords/` |
 | `comparer_milhau.py` | compare les accords du PDF de Milhau aux chansons (nécessite `gs`), écrit `comparaison-milhau-2017.md` |
+| `chordpro_valider.py` | checks every song against the ChordPro 6 notation (chord names, balanced brackets, grids, `Accords :` fingerings with six strings and matching the chords played, fences and `Refrain` defined before use) and writes `validation-chordpro.md` (git-ignored); `--pro DIR` also exports one strict `.pro` file per song (`make valide`, `make valide PRO=dossier`). It needs no ChordPro install |
 | `favicon.svg` | site icon (a cat in front of a guitar), inlined by `rendre.py` as a data URI in every page — **source** |
 | `docs/` | generated HTML pages and `index.html` (git-ignored, **never edit by hand**) |
 | `.github/workflows/pages.yml` | GitHub Actions workflow: builds `docs/` on the server and deploys it with GitHub Pages |
@@ -120,6 +121,23 @@ A grid is recognised in the lyrics when a line starts with `Grille :` (like `Ref
 
 Conversion to a strict `.pro` file only needs these headings to be turned into directives (a grid goes between `{start_of_grid}` and `{end_of_grid}`). Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
 
+### Keyboard shortcuts
+
+They act on the controls of the settings menu (⚙) and are ignored with Ctrl/Cmd/Alt or inside a field. `?` shows the same list in the page.
+
+| Key | Action |
+|-----|--------|
+| `+` (or `=`) / `-` / `0` | enlarge / reduce / reset the text size |
+| `p` | switch between lyrics only (compact mode) and chords |
+| `t` | next theme (auto, light, dark) |
+| `j` / `k` | transpose one semitone down / up (−6 to +6) |
+| `o` | back to the original key |
+| `z` | full screen |
+| `f` | add the song under the bar to the favourites (or remove it) |
+| `u` | go up (breadcrumb) |
+| `?` | show or hide the help |
+| `Esc` | close the menu or the help |
+
 ## ChordPro reference
 
 Summary of the [ChordPro](https://www.chordpro.org/chordpro/) notation (version 6), as a reminder for writing or converting songs. The last column tells what this repository does with each element. Full specification: <https://www.chordpro.org/chordpro/chordpro-directives/>.
@@ -188,6 +206,7 @@ It needs Settings > Pages > Source set to "GitHub Actions".
 
 ```
 make assemble   # sources -> construction/*.md
+make valide     # checks the songs against the ChordPro notation (report: validation-chordpro.md)
 make compile    # also renders docs/*.html, to preview the site locally (Python 3 only, no other dependency)
 make publie     # commits the songs, the build scripts and the workflow, and pushes; the server then rebuilds the site
 ```
