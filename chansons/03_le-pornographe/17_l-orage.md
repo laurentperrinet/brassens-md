@@ -11,13 +11,13 @@ Accords :
  * F : 133211
  * G : 320003
 
-... ...
+
 Parlez-[Dm]moi de la pluie et non pas du beau temps,
 Le beau [G7]temps me dégoûte, me fait grincer les dents
 [C]Le bel azur me met en rage,
 Car le [E7]plus bel amour qui m'fut donné sur terre
 Je l'dois [Am]au mauvais temps, je l'[B7]dois à Jupi[E7]ter,[Am]
-Il me tom[F]ba d'un [G]ciel d'o[F]ra[Am]ge
+Il me tom[F]ba d'un [E7]ciel d'o[F]r[E7]a[Am]ge
 
 
 
@@ -84,5 +84,6 @@ D'une petite [F]fleur qui [G]lui res[F]sem[Am]ble[Am]
 
 ### Notes
 
+ * à commencer en Em
  * Leçon vidéo « L'orage : le tuto guitare », de la chaîne Brassens à la guitare : https://www.youtube.com/watch?v=_2Tk_rmI9hU
  * Accords sur la syllabe chantée (Beausoleil, ChordPro) : http://beausoleil.free.fr/GB.L.Orage.php?titre=%28L%27%29+orage
