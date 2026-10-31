@@ -132,7 +132,18 @@ CSS = """\
 :root[data-theme="dark"] { color-scheme: dark; }
 body { font-family: Georgia, serif; line-height: 1.4; max-width: 50em; margin: 0 auto; padding: 0 1em; }
 nav ul { columns: 2 20em; list-style: none; padding: 0; }
-.stanza { margin-bottom: 0.7em; break-inside: avoid; }
+/* One card per stanza: hairline border, barely tinted background and rounded corners, so a stanza
+   reads as one block, also where the songs are laid out on several columns. `data-strophe` (the rank
+   in the song, set by `regrouper_strophes`) is shown in a disc riding the top-left corner. */
+.stanza { position: relative; margin: 0 0 0.9em; padding: 0.6em 0.8em 0.65em; break-inside: avoid;
+          border: 1px solid color-mix(in srgb, CanvasText 25%, transparent); border-radius: 0.7em;
+          background: color-mix(in srgb, CanvasText 5%, Canvas); }  /* tinted with the text colour: grey in light, raised in dark */
+/* fixed size and a smaller digit keep the disc round up to the two digits of the longest song */
+.stanza[data-strophe]::before { content: attr(data-strophe); position: absolute; top: -0.75em; left: 0.5em;
+          display: grid; place-items: center; box-sizing: border-box; width: 1.5em; height: 1.5em;
+          border-radius: 50%; font: 700 0.68em/1 ui-sans-serif, system-ui, sans-serif; text-align: center;
+          color: CanvasText; background: color-mix(in srgb, CanvasText 12%, Canvas);
+          border: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }
 /* tight leading: just enough room above each line for the chords set in the <rt> annotations */
 .line { margin: 0; line-height: 1.75; }
 .section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
@@ -165,6 +176,7 @@ pre.tab { margin: 0.8em 0; overflow-x: auto; font-family: ui-monospace, Menlo, C
 b.chord { font-family: ui-monospace, Menlo, Consolas, monospace; font-weight: 700;
           color: light-dark(#5a3a00, #ffd966); background: light-dark(#fff1b8, #4a3a10);
           padding: 0 0.3em; border-radius: 0.25em; }
+i.annotation { font-size: 0.9em; color: light-dark(#555, #bbb); padding: 0 0.2em; }
 .accords { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.6em 1.1em; margin: 1.4em 0 1em; }
 .accords .section { align-self: center; }
 figure.accord { margin: 0; text-align: center; line-height: 1.25; }
@@ -252,7 +264,7 @@ html.ample body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4re
   body:has(.strophes) { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
                         padding-left: max(0.4em, env(safe-area-inset-left));
                         padding-right: max(0.4em, env(safe-area-inset-right)); }
-  .strophes { display: grid; grid-template-columns: repeat(var(--c2), minmax(0, 1fr)); column-gap: 1.5em; }
+  .strophes { display: grid; grid-template-columns: repeat(var(--c2), minmax(0, 1fr)); column-gap: 1.5em; row-gap: 0.5em; }
 }
 @media (min-width: 960px) {
   .strophes { grid-template-columns: repeat(var(--c3), minmax(0, 1fr)); }
@@ -768,7 +780,7 @@ def en_ligne(texte):
     """Convert one line of text to HTML.
 
     Args:
-        texte: raw line, possibly with `[Chord]` markers, `*emphasis*` and URLs (str).
+        texte: raw line, possibly with `[Chord]` markers, `[*annotation]` remarks, `*emphasis*` and URLs (str).
 
     Returns:
         HTML fragment where text is escaped and each chord is a `<b class="chord">` shown
@@ -777,8 +789,12 @@ def en_ligne(texte):
     texte = html.escape(texte, quote=False)
     # The chord goes above the fragment that follows it (<ruby>), so it never shifts the lyrics.
     # A zero-width base keeps the chord alone when no text follows it (end of line, before a space).
-    texte = ACCORD.sub(lambda m: f'<ruby>{m.group(2) or "&#8203;"}<rt><b class="chord">{m.group(1)}</b></rt></ruby>',
-                       texte)
+    # A ChordPro annotation `[*text]` is a remark above the lyrics, not a chord: it never transposes.
+    def marque(m):
+        nom = m.group(1)
+        balise = f'<i class="annotation">{nom[1:].strip()}</i>' if nom.startswith('*') else f'<b class="chord">{nom}</b>'
+        return f'<ruby>{m.group(2) or "&#8203;"}<rt>{balise}</rt></ruby>'
+    texte = ACCORD.sub(marque, texte)
     texte = EMPHASE.sub(r'<em>\1</em>', texte)
     return URL.sub(r'<a href="\1">\1</a>', texte)
 
@@ -849,22 +865,30 @@ def regrouper_strophes(sortie):
     most m columns, the rows are ceil(n/m) and the columns ceil(n/rows), so that 7 stanzas on up to
     4 columns give A B C D / E F G, and 5 give A B C / D E, never a lone stanza on the last row.
 
+    Every stanza box also carries its rank in the song (`data-strophe`), which the stylesheet shows
+    in a disc at the top-left corner. The count restarts at each song title, so a song keeps its own
+    1, 2, 3... even on the anthology page, which holds them all, and across the runs a tablature or
+    a `---` splits.
+
     Args:
         sortie: HTML fragments of a body, one per block (list of str).
 
     Returns:
-        The same fragments, runs of stanzas wrapped (list of str).
+        The same fragments, runs of stanzas wrapped and boxes numbered (list of str).
     """
     def envelopper(courses):
         n = len(courses)
         variables = ''.join(f'--c{m}:{-(-n // -(-n // m))};' for m in (2, 3, 4))
         return f'<div class="strophes" style="{variables}">\n' + '\n'.join(courses) + '\n</div>'
 
-    resultat, course = [], []
+    resultat, course, rang = [], [], 0
     for bloc in sortie + [None]:
         if bloc is not None and bloc.startswith('<div class="stanza">'):
-            course.append(bloc)
+            rang += 1
+            course.append(bloc.replace('<div class="stanza">', f'<div class="stanza" data-strophe="{rang}">', 1))
             continue
+        if bloc is not None and bloc.startswith(('<h1 ', '<h2 ')):
+            rang = 0  # a new song (or album) restarts the numbering
         if course:
             resultat.append(envelopper(course))
             course = []

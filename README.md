@@ -35,7 +35,7 @@ Structure du site clarckgaybeul, pour qui voudrait malgré tout comparer ou impo
 | `chansons/{nn}_{album slug}/_album.md` | album header (`# 1) TITLE`) — **source** |
 | `chansons/{nn}_{album slug}/{nn}_{song slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `assembler.py` | assembles the sources into `construction/` (git-ignored) and, with `--rendre`, renders the HTML pages in `docs/` |
-| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in a pale yellow badge (bold monospace); the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
+| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in a pale yellow badge (bold monospace); each stanza is a card (hairline border, barely tinted background, rounded corners) numbered in a disc at its top-left corner, the count restarting at every song; the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
 | `chansons/10_chansons-inedites/` | album « Chansons inédites » : chansons de Brassens absentes des albums officiels (chansons pour les autres, poèmes mis en musique) |
 | `accords_doigtes.py` | écrit en tête de chaque chanson le bloc `Accords :` (doigtés calculés, `python3 accords_doigtes.py`) ; ne touche pas aux blocs déjà présents |
 | `diagrammes_accords.py` | draws one SVG chord diagram per (chord, fingering) written in the `Accords :` blocks, into `accords/` (`make diagrammes`) |
@@ -85,6 +85,7 @@ The files are however **not strict `.pro` files**: they are Markdown with ChordP
 
  * `Accords :` followed by ` * Dm : xx0231` lines gives the fingerings (6th to 1st string, `x` = muted). The chord names are shown as chords and follow the transposition menu; the fingerings are hidden when transposed, since they only suit the original key.
  * ` * Capo 1` under the title gives the capo of the original key.
+ * A ChordPro annotation `[*2 mesures]` is shown above the lyrics as a grey remark, without being a chord (it does not follow the transposition menu).
  * A single bass or melody note is written in lowercase, `[a] [g] [f#]` or `[eb]`; a slash chord may carry a lowercase bass (`Am/c`) or no root at all (`/b`). Transposition keeps them lowercase. Other symbols handled by the transposition: `A5+`, `D#°` or `D#dim`, `C7M`, `E95+`, `A7/5+`.
 
 ### Chord grids and bar lines
