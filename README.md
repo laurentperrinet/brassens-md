@@ -26,6 +26,23 @@ Trois références pour comparer les accords et les paroles :
 
  * « Brassens, une page, une chanson… » (Hervé Milhau, 2017-11-29), fichier local `Brassens, une page, une chanson.pdf` : recueil de 310 pages, environ 180 chansons (paroles et accords), non versionné dans ce dépôt. **Source d'origine introuvable** : seule une copie scrapée (`Brassens, une page, une chanson.doc`) circule sur [pdfcoffee.com](https://pdfcoffee.com/brassens-une-page-une-chansondoc-pdf-free.html), qui n'indique ni site d'origine ni licence. Les accords sont sur une ligne distincte, alignée aux espaces sur les paroles (positions approximatives). Il a servi à comparer les accords (`comparer_milhau.py` → `comparaison-milhau-2017.md`), à ajouter l'album « Chansons inédites » (huit chansons absentes de Beausoleil ou du dépôt), des intros, des capos et des lignes de basse. Analyse : [`analyse-milhau-2017.md`](analyse-milhau-2017.md).
 
+Référence pour les albums : [Discographie de Georges Brassens](https://fr.wikipedia.org/wiki/Discographie_de_Georges_Brassens) (Wikipédia, consultée le 2026-10-31). Les années entre parenthèses dans les titres d'albums (`chansons/*/_album.md`) y ont été vérifiées ; seule celle de l'album 6 était fausse (1966 au lieu de 1969), elle est corrigée. Wikipédia ne donne que l'année de sortie, sans le mois. Elle présente les 33 tours sous d'autres titres, et ce dépôt regroupe les chansons en neuf albums, plus les inédites. La correspondance ci-dessous reprend le titre qu'y porte le disque de l'année concernée ; elle n'a pas été vérifiée piste par piste.
+
+| Album du dépôt | Année | Titre Wikipédia du disque de la même année |
+|----------------|-------|--------------------------------------------|
+| 1) La mauvaise réputation | 1952 | *La Mauvaise Réputation* |
+| 2) Auprès de mon arbre | 1956 | *Je me suis fait tout petit* |
+| 3) Le pornographe | 1958 | *Le Pornographe* |
+| 4) Les copains d'abord | 1964 | *Les Copains d'abord* |
+| 5) Supplique pour être enterré à la plage de Sète | 1966 | *Supplique pour être enterré à la plage de Sète* |
+| 6) La non-demande en mariage | 1969 | *Misogynie à part* (l'album contient la chanson « Misogynie à part ») |
+| 7) Mourir pour des idées | 1972 | *Fernande* |
+| 8) Tempête dans un bénitier | 1976 | *Trompe la mort* |
+| 9) Dernières chansons par J. Bertola | 1982 | *Dernières chansons inédites* (posthume, Jean Bertola) |
+| 10) Chansons inédites | — | — |
+
+Wikipédia liste aussi des disques de 1953 (*Le Vent*), 1954 (*Les Sabots d'Hélène*), 1957 (*Oncle Archibald*), 1960 (*Les Funérailles d'antan*), 1961, 1962 (*Les Trompettes de la renommée*), dont les chansons sont ici dans les albums voisins.
+
 La comparaison des accords avec beausoleil se fait à la demande, par Claude, sans script : les fichiers `.pro` ne sont pas recopiés dans ce dépôt. Beausoleil sert de référence pour la position des accords sur les syllabes, et chaque chanson concernée la cite dans ses `### Notes`.
 
 Structure du site clarckgaybeul, pour qui voudrait malgré tout comparer ou importer :
