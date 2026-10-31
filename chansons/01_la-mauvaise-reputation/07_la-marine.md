@@ -13,7 +13,7 @@ Grille:
 | Dm . | C . | Bb A | Dm . |
 | Dm . | C . | Bb7 A7 | Dm . |
 | D7 . | Gm . | C7 . | F . |
-| Dm . | Gm . | Bb7 A7 | Dm . |
+| Dm . | Gm . | Bb7 . | A7 . |
 
 
 
