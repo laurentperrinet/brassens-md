@@ -42,7 +42,7 @@ Structure du site clarckgaybeul, pour qui voudrait malgré tout comparer ou impo
 | `chansons/{nn}_{album slug}/_album.md` | album header (`# 1) TITLE`) — **source** |
 | `chansons/{nn}_{album slug}/{nn}_{song slug}.md` | one song (`## TITLE`, then lyric lines with inline `[Chord]` markers, ChordPro-like) — **source** |
 | `assembler.py` | assembles the sources into `construction/` (git-ignored) and, with `--rendre`, renders the HTML pages in `docs/` |
-| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in an amber badge with a thin outline (bold monospace; one palette for the light mode, one for the dark mode, both readable on the blue stanza cards); each stanza is a card (continuous blue outline, translucent blue background, rounded corners) numbered in a disc at its top-left corner (italic Palatino), the count restarting at every song, which shows the reading order (left to right, then top to bottom); a chord grid is a card of its own, unnumbered, in first position of its place in the flow; the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
+| `rendre.py` | Markdown to HTML renderer used by `assembler.py`: each `[Chord]` is shown above the lyrics, in an amber badge with a thin outline (bold monospace; one palette for the light mode, one for the dark mode, both readable on the blue stanza cards); each stanza is a card (continuous blue outline, translucent blue background, rounded corners) numbered in a disc at its top-left corner (italic Palatino); the number of columns is computed in the browser (largest count, up to 6, in which no sung line wraps, balanced so that no stanza is alone on the last row; recomputed when the window, text size or full screen change), the count restarting at every song, which shows the reading order (left to right, then top to bottom); a chord grid is a card of its own, unnumbered, in first position of its place in the flow; the settings menu (⚙) holds full screen, theme, text size, **compact mode** ("Paroles seules": hides the chords above the lyrics of the stanzas and tightens the lines; the grids keep theirs; remembered in the browser) and transposition; the `Accords :` block of a song is drawn as a row of diagrams after the lyrics |
 | `chansons/10_chansons-inedites/` | album « Chansons inédites » : chansons de Brassens absentes des albums officiels (chansons pour les autres, poèmes mis en musique) |
 | `accords_doigtes.py` | écrit en tête de chaque chanson le bloc `Accords :` (doigtés calculés, `python3 accords_doigtes.py`) ; ne touche pas aux blocs déjà présents |
 | `diagrammes_accords.py` | draws one SVG chord diagram per (chord, fingering) written in the `Accords :` blocks, into `accords/` (`make diagrammes`) |
@@ -119,6 +119,69 @@ Grille :
 A grid is recognised in the lyrics when a line starts with `Grille :` (like `Refrain :`) or with a bar line `|` and holds no `[Chord]`. Consecutive rows form one block: the rendered page shows a card of its own, the same size as a stanza and unnumbered, with a green "Grille" badge, then one box per bar, so the bars line up from row to row. A chord followed by `.` lasts one more beat (`Dm . .` is one chord of three beats), several chords in a bar share its beats, and the repeat, double and final bar lines are drawn as such. The chords are clickable like those of the lyrics: they follow the transposition menu. Text after the last bar of a row is shown as a margin note. A tablature stays in a fenced block, where its own `|` are left alone.
 
 Conversion to a strict `.pro` file only needs these headings to be turned into directives (a grid goes between `{start_of_grid}` and `{end_of_grid}`). Beausoleil's `.pro` files (see Sources) use the same inline notation, so lines can be compared or pasted both ways.
+
+## ChordPro reference
+
+Summary of the [ChordPro](https://www.chordpro.org/chordpro/) notation (version 6), as a reminder for writing or converting songs. The last column tells what this repository does with each element. Full specification: <https://www.chordpro.org/chordpro/chordpro-directives/>.
+
+### Lyrics and chords
+
+| Notation | Meaning | Here |
+|----------|---------|------|
+| `La femme qui pos[G]sède` | chord `G` played on the syllable that follows | same |
+| `[Am]` alone at the end of a line | chord with no lyric under it (instrumental) | same |
+| `[Am/G]`, `[C7M]`, `[D#dim]`, `[A7/5+]` | slash chord, extension, alteration | same; transposed |
+| `[*texte]` | annotation: a remark above the lyrics, not a chord | shown in grey, not transposed |
+| `[a]`, `[eb]` | single note (bass or melody), lowercase | same; transposed, kept lowercase |
+| `# comment` | comment line, ignored | not used (use `### Notes`) |
+| blank line | separates two blocks (verses) | same: a stanza is a card, the numbering follows the blocks |
+
+### Directives
+
+A directive is a line `{name}` or `{name: value}`. Most have a short form.
+
+| Directive (short) | Meaning | Here |
+|-------------------|---------|------|
+| `{title: T}` (`{t:}`) | title | `## T` |
+| `{subtitle: S}` (`{st:}`) | subtitle, e.g. the author | not used |
+| `{artist: A}`, `{composer: C}`, `{lyricist: L}`, `{album: A}`, `{year: Y}` | metadata | album = folder; the rest is not used |
+| `{key: Am}` | key of the song | not used (the transposition menu changes the key) |
+| `{capo: 2}` | capo position | ` * Capo 2` under the title |
+| `{tempo: 120}`, `{time: 4/4}`, `{duration: 3:20}` | tempo, time signature, duration | not used |
+| `{comment: text}` (`{c:}`), `{comment_italic:}` (`{ci:}`), `{comment_box:}` (`{cb:}`) | text shown to the singer | `### Notes` section |
+| `{define: Am base-fret 1 frets x 0 2 2 1 0}` | chord fingering | ` * Am : x02210` under `Accords :` |
+| `{chord: Am}` | chord shown in the text | not used |
+| `{transpose: 2}` | transposes all the chords of the song | menu "Transposer" in the page |
+| `{new_song}` (`{ns}`) | starts a new song in the same file | one file per song |
+| `{new_page}`, `{column_break}` (`{colb}`), `{columns: 2}` (`{col:}`) | page layout | columns are computed by the browser |
+| `{meta: name value}`, `{youtube: id}` | free metadata | front matter `youTubeId` between `---` |
+
+### Sections
+
+A section is a block between a start and an end directive; a section can be given a label with `: label`.
+
+| Section | Short | Here |
+|---------|-------|------|
+| `{start_of_verse}` … `{end_of_verse}` | `{sov}` `{eov}` | a block of lyric lines, i.e. a stanza |
+| `{start_of_chorus}` … `{end_of_chorus}` | `{soc}` `{eoc}` | `Refrain :`, repeated by a bare `Refrain` |
+| `{chorus}` | plays the chorus again | bare `Refrain` |
+| `{start_of_bridge}` … `{end_of_bridge}` | `{sob}` `{eob}` | `Pont :` |
+| `{start_of_tab}` … `{end_of_tab}` | `{sot}` `{eot}` | fenced block between two ```` ``` ```` lines |
+| `{start_of_grid}` … `{end_of_grid}` | `{sog}` `{eog}` | `Grille :` then rows starting with `\|` |
+| `{start_of_abc}`, `{start_of_ly}`, `{start_of_svg}`, `{start_of_textblock}` | embedded ABC, Lilypond, SVG, text | not used |
+| `{start_of_X: label}` | any other name `X` is a custom section | `Intro :`, `Interlude :`, `Solo :`, `Coda :`, `Final :` |
+
+### Grids (ChordPro 6)
+
+Inside a grid section, each row is made of bars separated by `|`. `|:` and `:|` open and close a repeat, `||` is a double bar, `|.` the final bar. A `.` extends the previous chord by one beat, `%` repeats the previous bar, `~` puts two chords on one beat (`C~G`). The first and last cells may hold text: a margin note before and after the bars. See "Chord grids and bar lines" above for the rendering.
+
+### Formatting directives (not used here)
+
+`{textfont: ...}`, `{textsize: ...}`, `{textcolour: ...}` and the same with `chord`, `chorus`, `tab`, `title`, `footer`, `toc`, `grid`, `diagram` … set fonts, sizes and colours; `{image: src=... width=...}` inserts a picture; `{diagrams: off}` hides the chord diagrams; `{pagetype: a4}`, `{titles: left}`, `{footer: ...}`, `{header: ...}` and `{pagecontrol: ...}` set the page. The site chooses its own fonts and colours (light and dark themes), so these are ignored.
+
+### Conditionals and chord names (not used here)
+
+A directive can be restricted by a selector suffix, `{define-guitar: ...}` or `{comment-ukulele: ...}`, or by `{name-instrument}`; `{define: ... diagram off}` hides a diagram. Chord names are written in letters (`C D E F G A B`, `#` or `b`, then `m`, `7`, `maj7`, `sus4`, `dim`, `aug` …); solfège (`Do Ré Mi`) or Roman/Nashville notations need `{chord-notation: ...}` in a strict ChordPro file, which is why the sources here use letters only.
 
 The site is built and published by the workflow at every push on `master` (or manually from the Actions tab): <https://laurentperrinet.github.io/brassens-md/>.
 It needs Settings > Pages > Source set to "GitHub Actions".

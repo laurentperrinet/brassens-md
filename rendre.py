@@ -152,6 +152,9 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
            text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
            color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
+/* compact mode: no chord above the lyrics of the stanzas (the grids keep theirs), and tighter lines */
+html.compact .stanza:not(.stanza-grille) rt { display: none; }
+html.compact .stanza:not(.stanza-grille) .line { line-height: 1.4; }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
@@ -255,8 +258,9 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }  /* iOS must no
    reading-width column, with the narrowest side margins so that a whole song has the best chance
    to fit on one page. The text size follows the viewport width. The stanzas of a song
    (`.strophes`) form a grid read row by row (A B C D / E F G), hence a grid and not CSS columns
-   (those would read A C E G / B D F). The number of columns is the widest the screen allows
-   (`--c2`, `--c3`, `--c4`, the balanced counts computed by `regrouper_strophes`). Pages without
+   (those would read A C E G / B D F). The number of columns is the widest in which no line wraps
+   (`SCRIPT_COLONNES`); without JavaScript, `--c2`, `--c3`, `--c4` (the balanced counts computed by
+   `regrouper_strophes`) apply at the width breakpoints below. Pages without
    stanzas (home, index) keep their width. */
 @media (pointer: coarse) {
   body { max-width: none; font-size: clamp(1rem, 0.85rem + 0.9vw, 1.4rem);
@@ -481,6 +485,84 @@ SCRIPT_FAVORIS = """\
 })();
 """
 
+# Compact mode: a toggle of the settings menu hides the chords above the lyrics of the stanzas
+# (`html.compact`) and tightens the lines, to read or sing the words alone; the chord grids stay.
+# The choice lives in `localStorage` and is shared by every page of the site.
+SCRIPT_COMPACT = """\
+(function () {
+  var group = document.getElementById('compact');
+  var button = document.getElementById('compact-bouton');
+  if (!group || !button) return;
+  var KEY = 'brassens-compact', root = document.documentElement;
+
+  function apply(on) {
+    root.classList.toggle('compact', on);
+    button.setAttribute('aria-pressed', on);
+    try { if (on) localStorage.setItem(KEY, '1'); else localStorage.removeItem(KEY); } catch (e) {}
+    window.dispatchEvent(new Event('colonnes'));  // the lines get shorter or taller
+  }
+
+  var saved = false;
+  try { saved = localStorage.getItem(KEY) === '1'; } catch (e) {}
+  button.addEventListener('click', function () { apply(!root.classList.contains('compact')); });
+  apply(saved);
+  group.hidden = false;  // without JavaScript, stays hidden
+  document.getElementById('compact-etiquette').hidden = false;
+})();
+"""
+
+# Number of columns: for each song, the stanzas (`.strophes`) get the largest number of columns (up to
+# `MAX`) in which no sung line wraps, with the balanced count of `regrouper_strophes` (7 stanzas on 4
+# columns: A B C D / E F G, never a lone stanza on the last row). It is measured in the browser, since
+# only the browser knows the width of the text: it runs again when the window, the text size or the full
+# screen change. A line only wraps when even one column is too narrow. Without JavaScript, the
+# stylesheet falls back on the width breakpoints.
+SCRIPT_COLONNES = """\
+(function () {
+  var MAX = 6, timer = null;
+
+  function balanced(n, m) {
+    var rows = Math.ceil(n / m);
+    return Math.ceil(n / rows);
+  }
+
+  function wraps(block) {
+    var lines = block.querySelectorAll('.line');
+    var min = Infinity, i;
+    for (i = 0; i < lines.length; i++) min = Math.min(min, lines[i].offsetHeight);
+    for (i = 0; i < lines.length; i++) if (lines[i].offsetHeight > min * 1.4) return true;
+    return false;
+  }
+
+  function fit(block) {
+    var n = block.children.length, m, cols = 1;
+    block.style.display = 'grid';
+    block.style.columnGap = '1.5em';
+    for (m = Math.min(MAX, n); m >= 1; m--) {
+      cols = balanced(n, m);
+      block.style.gridTemplateColumns = 'repeat(' + cols + ', minmax(0, 1fr))';
+      if (m === 1 || !wraps(block)) break;
+    }
+    block.style.rowGap = cols > 1 ? '0.5em' : '0';
+    block.setAttribute('data-colonnes', cols);
+  }
+
+  function run() {
+    var blocks = Array.prototype.slice.call(document.querySelectorAll('.strophes'));
+    (function next() {  // in slices, so the anthology page (every song) stays responsive
+      blocks.splice(0, 6).forEach(fit);
+      if (blocks.length) setTimeout(next, 0);
+    })();
+  }
+
+  function later() { clearTimeout(timer); timer = setTimeout(run, 80); }
+  window.addEventListener('resize', later);
+  window.addEventListener('colonnes', later);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(later);
+  run();
+})();
+"""
+
 # Text size: the settings menu (⚙) of the bar scales the songs (`main`) through the `--echelle` custom
 # property, so chords (in `em`) follow the lyrics and a long song can be made to fit one page.
 # The choice lives in `localStorage` and is shared by every page of the site.
@@ -501,6 +583,7 @@ SCRIPT_TAILLE = """\
     document.getElementById('taille-plus').disabled = percent >= MAX;
     try { localStorage.setItem(KEY, percent); } catch (e) {}
     window.dispatchEvent(new Event('scroll'));  // the breadcrumb depends on the layout
+    window.dispatchEvent(new Event('colonnes'));  // so does the number of columns
   }
 
   document.getElementById('taille-moins').addEventListener('click', function () { apply(percent - STEP); });
@@ -531,6 +614,7 @@ SCRIPT_PLEIN_ECRAN = """\
     button.setAttribute('aria-pressed', on);
     button.title = on ? 'Quitter le plein écran' : 'Plein écran';
     window.dispatchEvent(new Event('scroll'));  // the breadcrumb depends on the layout
+    window.dispatchEvent(new Event('colonnes'));  // so does the number of columns
   }
 
   button.addEventListener('click', function () {
@@ -747,23 +831,37 @@ def selecteur_theme():
             f'<span class="reglage-valeur" id="theme" hidden>{boutons}</span>')
 
 
+def selecteur_compact():
+    """Return the HTML of the compact-mode row of the settings menu (hidden until the script runs).
+
+    Returns:
+        HTML fragment (str): a label and one toggle button, two cells of the panel grid.
+    """
+    return ('<span class="reglage" id="compact-etiquette" hidden>Mode compact</span>'
+            '<span class="reglage-valeur" id="compact" hidden>'
+            '<button type="button" id="compact-bouton" aria-pressed="false" '
+            'title="Masquer les accords au-dessus des paroles (la grille reste affichée)">Paroles seules</button>'
+            '</span>')
+
+
 def menu_reglages():
     """Return the HTML of the single settings menu of the bar (hidden until a script runs).
 
-    It gathers full screen, theme, text size and transposition, and shares the `name` of the
+    It gathers full screen, theme, text size, compact mode and transposition, and shares the `name` of the
     alphabetical index, so that opening one closes the other.
 
     Returns:
         HTML fragment (str).
     """
     return ('<details class="reglages" id="reglages" name="menu-barre" hidden>'
-            '<summary title="Réglages : plein écran, thème, taille du texte, transposition" '
+            '<summary title="Réglages : plein écran, thème, taille du texte, mode compact, transposition" '
             'aria-label="Réglages">⚙</summary>\n'
             '<div class="reglages-panel">\n'
             '<span class="reglage" id="plein-ecran-etiquette" hidden>Plein écran</span>\n'
             f'<span class="reglage-valeur">{bouton_plein_ecran()}</span>\n'
             f'{selecteur_theme()}\n'
             f'{selecteur_taille()}\n'
+            f'{selecteur_compact()}\n'
             f'{selecteur_transposition()}\n'
             '</div></details>')
 
@@ -1258,7 +1356,7 @@ def rendre_fichier(source, destination, titre, accueil, album=False, toutes=None
     destination.write_text(
         page(titre, f'{fil_ariane(table, accueil, album, toutes=toutes, anthologie=anthologie)}\n'
                     f'<main>\n{liste_albums(table)}{corps}\n</main>',
-             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_THEME + SCRIPT_NAVIGATION),
+             script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_COMPACT + SCRIPT_COLONNES + SCRIPT_THEME + SCRIPT_NAVIGATION),
         encoding='utf-8')
 
 
@@ -1372,5 +1470,5 @@ def rendre_favoris(destination, titre, accueil, anthologie):
                f'<main data-source="{html.escape(anthologie)}">\n<h1>{html.escape(titre)}</h1>\n'
                '<p id="vide">Aucun favori : cliquez sur l\'étoile à côté du titre d\'une chanson '
                '(ou touche f) pour l\'ajouter ici.</p>\n</main>')
-    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_THEME + SCRIPT_NAVIGATION),
+    destination.write_text(page(titre, contenu, script=SCRIPT + SCRIPT_FAVORIS + SCRIPT_TAILLE + SCRIPT_PLEIN_ECRAN + SCRIPT_COMPACT + SCRIPT_COLONNES + SCRIPT_THEME + SCRIPT_NAVIGATION),
                            encoding='utf-8')
