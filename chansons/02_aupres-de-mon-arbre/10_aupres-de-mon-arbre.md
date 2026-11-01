@@ -28,6 +28,7 @@ Accords :
 [Dm]Mon seul arbre [A7]de Noël,
 [C7]Mon mât de co[F]cagne[G7]
 
+
 [C]Auprès de mon arbre,
 Je vivais heureux,
 [F]J'aurais jamais [C]dû,
@@ -36,6 +37,7 @@ M'éloi[A7]gner d'mon [Dm]ar[G7]bre
 Je vivais heureux,
 [F]J'aurais jamais [C]dû,
 [A7]Le quit[Dm]ter [G7]des [C]yeux[C7]
+
 
 [F]Je suis un pauvr' [D7]type,
 [G7]J'aurai plus de [C7]joie
@@ -54,6 +56,7 @@ Je vivais heureux,
 [Dm]Le goût d'ma vieille [A7]pipe en bois,
 [C7]Sacré nom d'une [F]pipe[G7]
 
+
 [C]Auprès de mon arbre,
 Je vivais heureux,
 [F]J'aurais jamais [C]dû,
@@ -62,6 +65,7 @@ M'éloi[A7]gner d' mon [Dm]ar[G7]bre
 Je vivais heureux,
 [F]J'aurais jamais [C]dû,
 [A7]Le quit[Dm]ter [G7]des [C]yeux[C7]
+
 
 [F]Le surnom d'in[D7]fâme,
 [G7]Me va comme un [C7]gant
@@ -80,6 +84,7 @@ Je vivais heureux,
 [Dm]Mais se pendait [A7]à mon cou,
 [C7]Quand j'perdais mes [F]billes[G7]
 
+
 [C]Auprès de mon arbre,
 Je vivais heureux,
 [F]J'aurais jamais [C]dû,
@@ -88,6 +93,7 @@ M'éloi[A7]gner d' mon [Dm]ar[G7]bre
 Je vivais heureux,
 [F]J'aurais jamais [C]dû,
 [A7]Le quit[Dm]ter [G7]des [C]yeux[C7]
+
 
 [F]J'avais une man[D7]sarde,
 [G7]Pour tout loge[C7]ment
@@ -105,6 +111,7 @@ Je vivais heureux,
 [Dm]Moins que moi j'y [A7]paie des prunes
 [Dm]Y a cent sept ans [A7]qui dit mieux,
 [C7]Qu'j'ai pas vu la [F]lune[G7]
+
 
 [C]Auprès de mon arbre,
 Je vivais heureux,
