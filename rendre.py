@@ -152,17 +152,19 @@ nav ul { columns: 2 20em; list-style: none; padding: 0; }
 .section { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.8em; font-weight: 700;
            text-transform: uppercase; letter-spacing: 0.08em; padding: 0.1em 0.6em; border-radius: 1em;
            color: light-dark(#1f4e79, #9cc7ee); background: light-dark(#dcebf8, #1c3550); }
-/* compact mode: no chord name above the lyrics of the stanzas (the grids keep theirs), only a thin tick
-   where it is played, and tighter lines */
-html.compact .stanza:not(.stanza-grille) rt b.chord { font-size: 0; padding: 0; border: 0; background: none; }
-html.compact .stanza:not(.stanza-grille) rt b.chord::after { content: ""; display: inline-block; width: 1.5px;
-          height: 0.7rem; background: CanvasText; opacity: 0.55; vertical-align: bottom; }
+/* compact mode: no chord name and no room reserved above the lyrics of the stanzas (the grids keep
+   theirs); a thin tick, hanging from the top of the line, only marks where each chord is played */
+html.compact .stanza:not(.stanza-grille) rt { line-height: 0; }
+html.compact .stanza:not(.stanza-grille) rt b.chord { position: relative; display: inline-block; width: 0; height: 0;
+          font-size: 0; padding: 0; border: 0; background: none; }
+html.compact .stanza:not(.stanza-grille) rt b.chord::after { content: ""; position: absolute; left: 0; bottom: 0;
+          width: 1.5px; height: 0.55rem; background: CanvasText; opacity: 0.45; }
 html.compact .stanza:not(.stanza-grille) rt i.annotation { display: none; }
 dialog#aide { border: 1px solid CanvasText; border-radius: 0.6em; padding: 0.8em 1.2em; }
 dialog#aide h2 { margin: 0 0 0.5em; font-size: 1.1em; }
 dialog#aide th { text-align: right; padding-right: 0.8em; font-weight: normal; }
 dialog#aide kbd { font-family: ui-monospace, Menlo, monospace; border: 1px solid currentColor; border-radius: 0.3em; padding: 0 0.4em; }
-html.compact .stanza:not(.stanza-grille) .line { line-height: 1.4; }
+html.compact .stanza:not(.stanza-grille) .line { line-height: 1.35; }
 ruby { ruby-align: start; ruby-position: over;
        border-left: 1px solid color-mix(in srgb, CanvasText 25%, transparent); }  /* tick down to the character */
 rt { font-size: 0.8em; line-height: 1; }
